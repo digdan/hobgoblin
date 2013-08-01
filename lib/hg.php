@@ -29,14 +29,12 @@ class HG {
 		include_once("request.php");
 		include_once("cache.php"); //Cache Subsystem
 		include_once("session.php"); //Session Handler
-		$router = new router();
 
 		R::setup($config["db"]["dsn"], $config["db"]["user"],$config["db"]["password"]);
 
 		//Build the faces
-		self::$faces["router"] = $router;
-		self::$faces["cache"] = Cache::getInstance();
-		self::$faces["poly"] = []; //Wildcard face to add methods
+		self::face("router", new router() );
+		self::face("cache", Cache::getInstance() );		
 
 		self::initContainers(
 			array('javascript','css','script','footer')
@@ -47,8 +45,15 @@ class HG {
 		self::controllers_load(); //Bootstrap controllers
 	}
 
-	static function face($functionName,$function) { //Push a function to the HG Poly Face
-		self::$faces["poly"][$functionName] = $function;
+	static function face($name,$face=NULL) { //Push a function to the HG Poly Face
+		if (is_object($face)) {
+			if ($face instanceof Closure) {
+				if ( ! isset(self::$faces["poly"]) ) self::$faces["poly"] = array();
+				self::$faces["poly"][$functionName] = $function;				
+			} else {
+				self::$faces[$name] = $face;				
+			}			
+		}		
 	}
 
 	//*****************************[ Scope/Template System
