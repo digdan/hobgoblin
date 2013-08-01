@@ -1,6 +1,10 @@
 <?php
 	$config = array(
-		'templates'=>'templates',
+		'templates'=>array(
+			'directory'=>'templates',
+			'default_header'=>'header.php',
+			'default_footer'=>'footer.php'
+		),
 		'db'=>array(
 			'dsn'=>'mysql:dbname=db;host=127.0.0.1',
 			'user'=>'user',
