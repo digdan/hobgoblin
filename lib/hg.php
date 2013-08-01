@@ -252,12 +252,14 @@ class HG {
 			}
 		}
 
-		if (isset(self::$faces["poly"][$func])) {
-			$g = self::$faces["poly"][$func];
-			HG::callHook($func,HG::HOOK_BEFORE,$params);
-			$payload = call_user_func_array($g,$params);
-			HG::callHook($func,HG::HOOK_AFTER,$params);
-			return $payload;
+		if (isset(self::$faces["poly"])) {
+			if (isset(self::$faces["poly"][$func])) {
+				$g = self::$faces["poly"][$func];
+				HG::callHook($func,HG::HOOK_BEFORE,$params);
+				$payload = call_user_func_array($g,$params);
+				HG::callHook($func,HG::HOOK_AFTER,$params);
+				return $payload;
+			}
 		}
 
 		echo "Undefined method : {$func}\n";
