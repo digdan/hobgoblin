@@ -120,11 +120,11 @@ class HG {
 		self::buildScope();
 		extract(self::$scope);
 		if ($headerfooter === true) {
-			include_once($config["templates"]."/header.php");
+			include_once($config["templates"]["directory"]."/".$config["templates"]["default_header"]);
 			include_once($config["templates"]."/".$template);
-			include_once($config["templates"]."/footer.php");
+			include_once($config["templates"]["directory"]."/".$config["templates"]["default_footer"]);			
 		} else {
-			include_once($config["templates"]."/".$template);
+			include_once($config["templates"]["directory"]."/".$template);
 		}
 		HG::callHook(__FUNCTION__,HG::HOOK_AFTER,func_get_args());
 	}
