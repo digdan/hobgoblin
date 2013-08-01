@@ -2,9 +2,9 @@
 	$config = array(
 		'templates'=>'templates',
 		'db'=>array(
-			'dsn'=>'mysql:dbname=ebi;host=127.0.0.1',
-			'user'=>'ebi',
-			'password'=>'aGzvLWwt4yVKApYE',
+			'dsn'=>'mysql:dbname=db;host=127.0.0.1',
+			'user'=>'user',
+			'password'=>'pass',
 		),
 		'encryption'=>array(
 			'salt'=>'se',
@@ -22,7 +22,7 @@
 		'content'=>array(
 			'db'=>'../content.sqlite',
 			'users'=>array(
-				'dan'=>'r0tation',
+				'admin'=>'pass',
 			),
 			'post'=>'/content/post',
 			'realm'=>'Content Editor',
