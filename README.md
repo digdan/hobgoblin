@@ -1,18 +1,37 @@
-hobgoblin
+Hobgoblin
 =========
 
-Hobgoblin is a PHP framework I built to help me quickly develop applications. At its basic function it is a collection of well defined signleton classes.
+Hobgoblin is a PHP framework.
+The foundation of the framework is a facade/hooking/scope engine to incorporate singleton classes and dynamic controllers.
 
 Highlights
 -----------
-* Online CRM HTML Editor
-* Metatag editor
+* Able to facade any singleton, or function
+* Dynamic autoloading/routing/hooking modular controllers
 * Closure ready Routing engine
-* Master facade works with hooks and chains
+* Hooking engine
 
 Classes
 -----------
-* HG - [HogGoblin Facade Base]
-* R - [RedBeans]
+* HG - [HogGoblin Hook/Facade Base]
+* Rb - [RedBeans ORM]
 * Session - Custom Session Management
-* AltoRouter ( facaded by HG )
+* Cache - Custom Caching engine
+* AltoRouter - Routing Engine
+* Uses PHP scoping as templating engine
+
+
+Flavors included
+-----------
+* Bootstrap
+* ReadBeans ORM
+* FontAwesome
+* jQuery.WYSIWYG
+
+Example of Use in controller : 
+
+> HG::map( 'GET /my-account/[i:id]', function($params) {
+>   HG::active('my-account')->
+>   v('account',R::load('accounts',$params['id']))->
+>   display('my-account.php');
+> }
