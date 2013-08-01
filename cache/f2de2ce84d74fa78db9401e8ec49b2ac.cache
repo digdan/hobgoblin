@@ -1,0 +1,626 @@
+a:2:{i:0;i:1377935108;i:1;a:625:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:70:"<title>Turn In Your Badge - Television Tropes &amp; Idioms  </title>
+";i:5;s:136:"<meta name="Description" content="The Turn In Your Badge trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:2:"
+";i:25;s:10:"</style>
+";i:26;s:2:"
+";i:27;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:28;s:33:"<script type="text/javascript">
+";i:29;s:26:"  var _gaq = _gaq || [];
+";i:30;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:31;s:34:"  _gaq.push(['_trackPageview']);
+";i:32;s:2:"
+";i:33;s:17:"  (function() {
+";i:34;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:35;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:36;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:37;s:9:"  })();
+";i:38;s:2:"
+";i:39;s:32:"	function subpage(sel, title){
+";i:40;s:4:"		
+";i:41;s:40:"		var namespce = ""+getselection(sel);
+";i:42;s:34:"		if(namespce.trim()=="")return;
+";i:43;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:44;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:45;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:46;s:29:"		window.location.href=url;
+";i:47;s:4:"	}
+";i:48;s:32:"	function p5(groupname,title){
+";i:49;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:50;s:4:"	}
+";i:51;s:27:"	function togglenote(id){
+";i:52;s:23:"		var ele=object(id);
+";i:53;s:34:"		var state = ele.style.display;
+";i:54;s:49:"		if(state=='none') ele.style.display='inline';
+";i:55;s:48:"		if(state=='inline')ele.style.display='none';
+";i:56;s:4:"	}
+";i:57;s:35:"	var googletag = googletag || {};
+";i:58;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:59;s:16:"	(function() {
+";i:60;s:47:"	var gads = document.createElement('script');
+";i:61;s:21:"	gads.async = true;
+";i:62;s:33:"	gads.type = 'text/javascript';
+";i:63;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:64;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:65;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:66;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:67;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:68;s:8:"	})();
+";i:69;s:2:"
+";i:70;s:34:"	googletag.cmd.push(function() {
+";i:71;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:73;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:74;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:75;s:45:"		googletag.pubads().enableSingleRequest();
+";i:76;s:31:"		googletag.enableServices();
+";i:77;s:6:"	});
+";i:78;s:2:"
+";i:79;s:11:"</script>
+";i:80;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:81;s:2:"
+";i:82;s:9:"</head>
+";i:83;s:8:"<body>
+";i:84;s:40:"<div class="container" id="container">
+";i:85;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:86;s:6:"<tr>
+";i:87;s:46:"<td style="width:166px;vertical-align:top;">
+";i:88;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:89;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:90;s:38:"<g:plusone size="small"></g:plusone>
+";i:91;s:2:"
+";i:92;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:93;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:94;s:6:"<ul>
+";i:95;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:96;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:97;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:98;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:99;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:100;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:101;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:102;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:103;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:104;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:105;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:106;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:107;s:7:"</ul>
+";i:108;s:8:"</div>
+";i:109;s:2:"
+";i:110;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:111;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:112;s:2:"
+";i:113;s:186:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','TurnInYourBadge');">send request</button><hr/></div>
+";i:114;s:2:"
+";i:115;s:327:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="TurnInYourBadge" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:116;s:2:"
+";i:117;s:51:"<div style="font-size:small;text-align:center;" >
+";i:118;s:30:"Find recent edits by troper:
+";i:119;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:120;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:121;s:8:"</div>
+";i:122;s:7:"<hr/>
+";i:123;s:7:"<ul>	
+";i:124;s:4:"		
+";i:125;s:7:"<hr/>
+";i:126;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:127;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:128;s:64:"		<input type="hidden" name="title" value="TurnInYourBadge" />
+";i:129;s:54:"		This article needs some moderator assistance with:
+";i:130;s:9:"		<br/>
+";i:131;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:132;s:9:"		<br/>
+";i:133;s:4:"		
+";i:134;s:34:"		<p style="text-align:center;">
+";i:135;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:136;s:8:"		</p>
+";i:137;s:34:"		<p style="text-align:center;">
+";i:138;s:48:"			<input type="submit" value="send report" />
+";i:139;s:8:"		</p>
+";i:140;s:11:"		</form>
+";i:141;s:7:"<hr/>
+";i:142;s:6:"<ul>
+";i:143;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:144;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:145;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:146;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:147;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:148;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:149;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:150;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:151;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:152;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:153;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:154;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:155;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:156;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:157;s:144:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.TurnInYourBadge'>Referral Count for This Page</a></li>
+";i:158;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:159;s:119:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=TurnInYourBadge'>Article Relationships</a></li> -->
+";i:160;s:105:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.TurnInYourBadge'>Folderize</a></li>
+";i:161;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:162;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:163;s:7:"</ul>
+";i:164;s:8:"	<hr/>
+";i:165;s:6:"<ul>
+";i:166;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:167;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:168;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:169;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:170;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:171;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:172;s:7:"</ul>
+";i:173;s:7:"<hr/>
+";i:174;s:2:"
+";i:175;s:8:"</div>
+";i:176;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:177;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:178;s:8:"		<ul>
+";i:179;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:180;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:181;s:9:"		</ul>
+";i:182;s:8:"</div>
+";i:183;s:10:"<center>
+";i:184;s:34:"		<div style="margin-top:4px;">	
+";i:185;s:5:"			
+";i:186;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:187;s:33:"<script type='text/javascript'>
+";i:188;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:189;s:100:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/TurnInYourBadge");
+";i:190;s:11:"</script>
+";i:191;s:8:"</div>
+";i:192;s:2:"
+";i:193;s:11:"		</div>	
+";i:194;s:10:"		<div>	
+";i:195;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:196;s:6:"		 	
+";i:197;s:4:"		
+";i:198;s:4:"		
+";i:199;s:10:"		</div>
+";i:200;s:109:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TurnInYourBadge">Main</a><br/>
+";i:201;s:9:"		<div>
+";i:202;s:10:"		</div>
+";i:203;s:36:"		<div style="font-size:x-small;">
+";i:204;s:11:"				<hr/>
+";i:205;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:206;s:14:"				<p> </p>
+";i:207;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:208;s:13:"				<p></p>
+";i:209;s:11:"				<ul >
+";i:210;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:211;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:212;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:213;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:214;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:215;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:216;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:217;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:219;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:220;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:221;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:222;s:11:"				</li>
+";i:223;s:11:"				</ul>
+";i:224;s:13:"				<p></p>
+";i:225;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:226;s:13:"				<p></p>
+";i:227;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:228;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:229;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:230;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:231;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:232;s:6:"				
+";i:233;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:234;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:235;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:236;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:237;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:238;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:239;s:6:"				
+";i:240;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:241;s:16:"				</li></ul>
+";i:242;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:243;s:13:"				<p></p>
+";i:244;s:11:"				<ul >
+";i:245;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:246;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:247;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:248;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:249;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:250;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:251;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:252;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:253;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:254;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:255;s:6:"				
+";i:256;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:257;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:258;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:259;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:260;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:261;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:262;s:6:"				
+";i:263;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:264;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:265;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:266;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:268;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:269;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:270;s:11:"				</li>
+";i:271;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:272;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:273;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:274;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:275;s:6:"				
+";i:276;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:278;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:279;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:280;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:281;s:16:"				</li></ul>
+";i:282;s:6:"				
+";i:283;s:13:"				<p></p>
+";i:284;s:39:"				<strong>Other Categories</strong>
+";i:285;s:13:"				<p></p>
+";i:286;s:10:"				<ul>
+";i:287;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:288;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:289;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:290;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:291;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:292;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:293;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:294;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:295;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:296;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:297;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:298;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:299;s:11:"				</ul>
+";i:300;s:11:"		</div>	
+";i:301;s:11:"</center>
+";i:302;s:2:"
+";i:303;s:30:"</div> <!-- wikileftpage -->
+";i:304;s:7:"</td>
+";i:305;s:20:"<td id='wikibody'>
+";i:306;s:2:"
+";i:307;s:21:"<!--PageTitleFmt-->
+";i:308;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:309;s:12:"    		<tr>
+";i:310;s:38:"    		<td id="wikicmds" align="top">
+";i:311;s:8:"    		
+";i:312;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:313;s:45:"    				<tr style="vertical-align:middle;">
+";i:314;s:31:"    					<td align="center" >
+";i:315;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:316;s:16:"    					</td>
+";i:317;s:15:"    				<td >
+";i:318;s:37:"    					<div style="width:400px;">
+";i:319;s:28:"                  <center>
+";i:320;s:27:"                  <table>
+";i:321;s:24:"                  <tr>
+";i:322;s:24:"                  <td>
+";i:323;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:324;s:27:"                    <div>
+";i:325;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:326;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:327;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:328;s:64:"                      <input type="text" name="q" size="31" />
+";i:329;s:28:"                    </div>
+";i:330;s:27:"                  </form>
+";i:331;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:332;s:25:"                  </td>
+";i:333;s:24:"                  <td>
+";i:334;s:46:"                  <div class="buttonframe" >
+";i:335;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:336;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:337;s:26:"                  </div>
+";i:338;s:25:"                  </div
+";i:339;s:25:"                  </td>
+";i:340;s:25:"                  </tr>
+";i:341;s:28:"                  </table>
+";i:342;s:29:"                  </center>
+";i:343;s:17:"    					</div>
+";i:344;s:15:"    				</td>
+";i:345;s:15:"    				</tr>
+";i:346;s:16:"    		</table>
+";i:347;s:8:"    		
+";i:348;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:349;s:10:"    				
+";i:350;s:27:"    				<tr valign="top">
+";i:351;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:352;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:353;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:354;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:355;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:356;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:357;s:15:"    				</tr>
+";i:358;s:10:"    				
+";i:359;s:10:"    				
+";i:360;s:8:"    		
+";i:361;s:16:"    		</table>
+";i:362;s:8:"    		
+";i:363;s:28:"    		<div id="wikilogo" >
+";i:364;s:16:"    		<center>
+";i:365;s:2:"
+";i:366;s:22:"<!-- leaderboard -->
+";i:367;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:368;s:33:"<script type='text/javascript'>
+";i:369;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:370;s:11:"</script>
+";i:371;s:8:"</div>
+";i:372;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:373;s:28:"    					<tr valign="top">
+";i:374;s:225:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'TurnInYourBadge');" autocomplete="off"  style="width:50px;"><option> </option><option value="Main">Main</option></select></td>
+";i:375;s:270:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TurnInYourBadge?action=source" >source</a></div></div></td>
+";i:376;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:377;s:271:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.TurnInYourBadge">history</a></div></div></td>
+";i:378;s:273:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TurnInYourBadge?action=edit'> edit page</a></div></div></td>
+";i:379;s:269:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/TurnInYourBadge" >related</a></div></div></td>
+";i:380;s:38:"    							<td valign="middle"></td>
+";i:381;s:16:"    					</tr>
+";i:382;s:18:"    				</table>
+";i:383;s:10:"    				
+";i:384;s:35:"    				<div id="watchmsg"></div>
+";i:385;s:18:"    			</center>
+";i:386;s:13:"    		</td>
+";i:387;s:12:"     </tr>
+";i:388;s:6:"    
+";i:389;s:11:"    	<tr>
+";i:390;s:39:"    		<td id="wikititle" colspan="2">
+";i:391;s:40:"    				<div class="namespacebuttons">
+";i:392;s:659:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.TurnInYourBadge" >&nbsp;Discussion </a></li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=TurnInYourBadge" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/TurnInYourBadge" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:393;s:16:"    				</div>
+";i:394;s:26:"    				<!--RepairBug-->
+";i:395;s:10:"    				
+";i:396;s:34:"    				<div class='pagetitle'> 
+";i:397;s:45:"    						  <span>Turn In Your Badge</span>
+";i:398;s:16:"    				</div>
+";i:399;s:11:"    				 
+";i:400;s:13:"    		</td>
+";i:401;s:12:"    	</tr>
+";i:402;s:10:"</table>
+";i:403;s:2:"
+";i:404;s:16:"<!--PageText-->
+";i:405;s:20:"<div id='wikitext'>
+";i:406;s:156:"<div class='indent'><strong>Nick:</strong> I'll tell you guys what I'm gonna do! I'll tell you what! I'm gonna get even with every rotten cop in this city!
+";i:407;s:64:"</div><div class='indent'><strong>Paolo:</strong> Yeah, me too!
+";i:408;s:98:"</div><div class='indent'><strong>Guido:</strong> How you gonna do it, Nick? How you gonna do it?
+";i:409;s:80:"</div><div class='indent'><strong>Nick:</strong> I'm gonna... turn in my badge!
+";i:410;s:86:"</div><div class='indent'><strong>Guido:</strong> Yeah! I'm gonna burn my uniform!...
+";i:411;s:315:"<div class='indent'>&#8212;<strong><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/TheFiresignTheatre' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/TheFiresignTheatre'>The Firesign Theatre</a></strong>, <em>How Can You Be In Two Places At Once When You're Not Anywhere At All?</em>
+";i:412;s:573:"</div></div><p></p>That cop has always been a loose cannon, but this time he's stepped over the line. He is ordered by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaChief' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaChief'>his boss</a> to turn in his badge and gun, and then go home on an extended "vacation." This is sometimes accompanied by an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InsigniaRipOffRitual' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InsigniaRipOffRitual'>Insignia Rip Off Ritual</a>.
+";i:413;s:1154:"<p></p>The cop ignores this directive and finishes tracking the perp down. Sometimes, it's because he's a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CowboyCop' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CowboyCop'>Cowboy Cop</a>. Other times, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItsPersonal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItsPersonal'>It's Personal</a>. When the bad guy is eventually caught, the cop's boss never reprimands the rogue cop and sometimes even admits he was wrong. There won't even be a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ArsonMurderAndLifesaving' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ArsonMurderAndLifesaving'>McCloud Speech</a> about all the regulations the cop broke on this excursion, not the least of which being ignoring an order &#8212; probably because he technically wasn't acting as a cop, but merely <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VigilanteMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VigilanteMan'>breaking the law as a regular citizen...</a>
+";i:414;s:518:"<p></p>Variation: the cop was never actually off the force but was merely pretending to be, with his superiors' knowledge, to fool a bad guy, sometimes another cop (see: <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FakeDefector' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FakeDefector'>Fake Defector</a>, which is a case of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NotHimself' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NotHimself'>Not Himself</a>).
+";i:415;s:14:"<p></p><hr />
+";i:416;s:19:"<h2>Examples:</h2>
+";i:417;s:122:"<p></p><div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:418;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp;Advertising&nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:419;s:613:"<ul ><li> Played with in Sprint's "Epic <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CowboyCop' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CowboyCop'>Renegade Cop</a>" ad: the badge is the <em>only</em> thing Callahan doesn't turn in to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaChief' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaChief'>Da Chief</a> during his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ExtendedDisarming' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ExtendedDisarming'>Extended Disarming</a>.
+";i:420;s:17:"</li></ul></div>
+";i:421;s:191:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp;Anime and Manga&nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:422;s:108:"<ul ><li> In general, Japanese police officers do not surrender their badge, but their book-like police ID.
+";i:423;s:301:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/DeathNote' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/DeathNote'>Death Note</a></em>, most of the taskforce spend the Yotsuba arc doing this under L's supervision, after they're pulled from the Kira case.
+";i:424;s:1682:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/TheBigO' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/TheBigO'>The Big O</a>: Dan Dastun <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShamingTheMob' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShamingTheMob'>shames</a> the military police with a speech about them following Alex Rosewater’s deranged leadership and then performs the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InsigniaRipOffRitual' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InsigniaRipOffRitual'>Insignia Rip Off Ritual</a>. Later, the rest of the military police <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TurnInYourBadge' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TurnInYourBadge'>follows his example</a> and attacks Alex Rosewater. <a class='urllink' href='http://www.paradigm-city.com/scripts/article.php?a=ep26'>[1]<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>, <a class='urllink' href='http://www.youtube.com/watch?v=Pgy5w8jRxWA'>[2]<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>, <a class='urllink' href='http://www.youtube.com/watch?v=eR9hs-M3GTQ'>[3]<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>, <a class='urllink' href='http://www.youtube.com/watch?v=Amw3DwVXHGU'>[4]<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>.
+";i:425;s:486:"</li><li> A military version (since the military are the police, and the entire government for that matter) in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/FullmetalAlchemist' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/FullmetalAlchemist'>Fullmetal Alchemist</a></em>, when some of the lower-level soldiers decide to stop following orders from the corrupt High Command; they tear the insignia off of their uniforms and drop it at a General's feet.
+";i:426;s:152:"<ul ><li> Subverted when Ed attempts to resign in a meeting with the Fuhrer, who then responds by threatening to kill Winry if he went through with it.
+";i:427;s:1476:"</li></ul></li><li> A <em>magical girl</em> version happens in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/DokiDokiPrecure' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/DokiDokiPrecure'>DokiDoki! Precure</a></em>, when Mana goes to plunge into the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DespairEventHorizon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DespairEventHorizon'>Despair Event Horizon</a> after <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkMagicalGirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkMagicalGirl'>Regina</a> ends up <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BrainwashedAndCrazy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BrainwashedAndCrazy'>Brainwashed and Crazy</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeelFaceDoorSlam' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeelFaceDoorSlam'>putting a stop to her attempt at turning good</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SixthRanger' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SixthRanger'>Cure Ace</a> ends up snatching away her <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TransformationTrinket' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TransformationTrinket'>Transformation Trinket</a> and keeps it until she can find her drive again.
+";i:428;s:17:"</li></ul></div>
+";i:429;s:180:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp;Film&nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:430;s:263:"<ul ><li> Brian Dennehy's character in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/FX' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/FX'>F/X</a></em> is told to turn in his badge and does so. Then he steals his superior's badge.
+";i:431;s:664:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Dragnet' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Dragnet'>Dragnet</a></em>: Happens to Friday in the <a class='urllink' href='http://en.wikipedia.org/wiki/Dragnet_(1987_film)'>parody film<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>. However, he deserves it as he arrests the suspect in public and only has the testimony of an eyewitness who briefly saw the suspect. Captain Gannon then tells Friday's partner if he comes within 100 feet of the suspect, Gannon'll take his badge too.
+";i:432;s:669:"</li><li> Happened to FBI Agent Clarice Starling in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Hannibal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Hannibal'>Hannibal</a></em>, the sequel to <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSilenceOfTheLambs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSilenceOfTheLambs'>The Silence of the Lambs</a></em>. Except in this case she had followed every procedure to the letter and was suspended because a rival agent planted obviously fake evidence against her in her office. Apparently everybody else in the FBI is either corrupt or incompetent.
+";i:433;s:648:"<ul ><li> Actually not a rival agent, but a superior with whom she would not sleep with. Brought out much better in the book: the FBI was not a very female-friendly workplace. Jack Crawford had sheltered her from much of the agency's internal politics, and with him retired, she no longer had any protection. Plus, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FacialHorror' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FacialHorror'>Mason Verger</a> was manipulating the situation through a large political donation, as he (correctly) believed that putting Starling into a vulnerable situation would flush out Lecter.
+";i:434;s:252:"</li></ul></li><li> Hellboy, Liz, Abe, and Krauss do this at the end of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Hellboy' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Hellboy'>Hellboy II: The Golden Army</a></em>.
+";i:435;s:976:"</li><li> It's being acted out in one scene of the 2003 <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheItalianJob2003' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheItalianJob2003'>The Italian Job</a></em> remake. Rob, whilst trying to drive through the city as fast as possible to time the escape route, is waiting at a light where he needs to make a left turn (green arrow only). Unfortunately, he is trapped behind an actor rehearsing the phrase "Give me your badge and your weapon; I don't want to see you anywhere near this case (pretends to crush cup)" in such a variety of different voices and emphases he fails to notice there's a green arrow, until the very last second when <em>it's turning amber</em> and Rob starts honking at him, so he's the only one that gets to go through, with a very disgruntled Rob saying, "Unbelievable" in disbelief. Also, the actor copies Rob's accent and decides to use that accent for the audition.
+";i:436;s:940:"</li><li> Parodied again near the end of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WereBackADinosaursStory' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WereBackADinosaursStory'>We're Back! A Dinosaur's Story</a></em>, when <span class="spoiler" title="you can set spoilers visible by default on your profile" >Stubbs the Clown resigns from Prof. Screweyes' circus and hands in his props. All his props: "Here's my shoes, my nose, my horn, my buzzer, my fake arm, my bug-eye glasses, my backstage passes, my hat, my rabbit, his backstage passes, my fake fangs, a few birds, my pogo stick, my donkey ears, my extending tongue gag, my rubber chicken... ya can't even get these anymore... my lucky whale tooth, and a giant clam that opens to reveal the American flag held by a mermaid and her normal brother Richard!"</span> If you thought reading the description was funny, it's even better in the movie.
+";i:437;s:215:"<ul ><li> <a class='urllink' href='http://www.youtube.com/watch?v=H1dOtpj48Hg'>Here's a link.<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>
+";i:438;s:766:"</li></ul></li><li> Inspector Li Ying from John Woo's <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheKiller' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheKiller'>The Killer</a></em> is taken off the case of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HitmanWithAHeart' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HitmanWithAHeart'>Hitman with a Heart</a> that he's beginning to develop a bond with when he completely botches his attempt to capture him at the airport and brings in the wrong guy, allowing the killer to get away with his blinded girlfriend. He's taken off the case because the superintendent is convinced that Li is siding with the suspect rather than trying to bring him in.
+";i:439;s:820:"</li><li> Bud White from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/LAConfidential' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/LAConfidential'>LA Confidential</a></em> fits the brutal-cop part of the trope perfectly, but his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TurnInYourBadge' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TurnInYourBadge'>Turn In Your Badge</a> moment is undercut by <span class="spoiler" title="you can set spoilers visible by default on your profile" > the fact that <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaChief' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaChief'>Da Chief</a> only did it to get leverage over White when he recruited him as muscle for a criminal enterprise.</span>
+";i:440;s:370:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Lampshade' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Lampshade'>Lampshaded</a> by Danny Madigan in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/LastActionHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/LastActionHero'>Last Action Hero</a></em>.
+";i:441;s:120:"<div class='indent'><strong>Danny:</strong> He only took your badge, because you destroyed more of the city than usual.
+";i:442;s:473:"</div></li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/LicenceToKill' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/LicenceToKill'>Licence To Kill</a></em>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/JamesBond' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/JamesBond'>James Bond</a> pretty much turns in his badge to go after the iguana-stroking villain who dumped his best friend into a shark pool.
+";i:443;s:640:"<ul ><li> Subverted at the beginning of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/OnHerMajestysSecretService' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/OnHerMajestysSecretService'>On Her Majesty's Secret Service</a></em>. After M takes Bond off the hunt for <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Blofeld</a>, Bond tells Moneypenny to write a memo tendering his resignation (presumably with the intent of pursuing Blofeld as a rogue agent). Moneypenny instead writes a memo requesting two weeks' leave.
+";i:444;s:212:"</li></ul></li><li> The ENTIRE POLICE FORCE in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RoboCop3' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RoboCop3'>Robo Cop 3</a></em>.
+";i:445;s:563:"</li><li> Ray Duquette in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/WildThings' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/WildThings'>Wild Things</a></em> is asked to do this after his second lawful shooting, due to the (well-founded) fear of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaChief' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaChief'>Da Chief</a> that with that kind of luck, the shootings might not be so lawful after all. Of course, this isn't where the consequences end...
+";i:446;s:684:"</li><li> They try to do this to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DirtyHarry' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DirtyHarry'>Dirty Harry</a> in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuddenImpact' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuddenImpact'>Sudden Impact</a></em>. After his harassment of an old mobster at his daughter's wedding results in a heart attack they order him to take a vacation. While on vacation some punks try to take him down with a molotov cocktail and he forces them off a pier to their deaths. They end his vacation, but send him out of town on another case.
+";i:447;s:737:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DayOfTheWolves' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DayOfTheWolves'>Day of the Wolves</a></em>, the police chief of Wellerton is fired after he tries to arrest the mayor's son. This causes him to be not at the police station when the villains who are <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TakingOverTheTown' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TakingOverTheTown'>Taking Over The Town</a> arrive; allowing him to stage a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DieHardOnAnX' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DieHardOnAnX'>Die Hard on an X</a>.
+";i:448;s:485:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheGuard' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheGuard'>The Guard</a></em>, Sergeant Gerry Boyle is told to turn in his badge. Subverted when he refuses, turns out to have critical information regarding the case and finally <span class="spoiler" title="you can set spoilers visible by default on your profile" > proves to be the only cop NOT on the take from the drug dealers</span>.
+";i:449;s:382:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/IRobot' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/IRobot'>I, Robot</a></em>: After shooting up, crashing, and beating the crap out of two entire sixteen-wheelers' worth of robots, but having no evidence to prove it was self-defense, the chief orders Detective Spooner to turn in his badge.
+";i:450;s:185:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OsmosisJones' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OsmosisJones'>Osmosis Jones</a></em>
+";i:451;s:1055:"</li><li> Played straight in <em><a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Showtime' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Showtime'>Showtime</a></em>, after the two protagonists (who are forced to be part of a cop reality show) cause a lot of damage to the city, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaChief' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaChief'>Da Chief</a> (normally, a nice guy) tells one of them (a patrolman) that he's no longer a TV detective and is back on patrol. The other cop (played by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RobertDeNiro' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RobertDeNiro'>Robert De Niro</a>) is suspended. Averted in that, when he asks if the chief wants his badge, the guy just tells him to get out of his office. Also, they don't immediately start following up on the case. Only when they see the latest episode of the show that they notice something strange that gives them a clue.
+";i:452;s:453:"</li><li> Played straight in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SoBadItsGood' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SoBadItsGood'>So Bad, It's Good</a> French film La Vengeance. The problem? <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CriticalResearchFailure' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CriticalResearchFailure'>French policemen don't carry badges</a>.
+";i:453;s:594:"</li><li>  <span class="spoiler" title="you can set spoilers visible by default on your profile" >Kirk gets demoted for violating the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlienNonInterferenceClause' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlienNonInterferenceClause'>Prime Directive</a> in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/StarTrekIntoDarkness' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/StarTrekIntoDarkness'>Star Trek Into Darkness</a></em>'s opening, and then trying to hide it in his report</span>.
+";i:454;s:872:"</li><li> Played with in the film of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/SWAT' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/SWAT'>S.W.A.T.</a>. After a reckless stunt that wounds a civilian, creating a PR nightmare and a hefty lawsuit against the department, the Chief wants the people responsible gone. Their Commander, however, insists they should stay within the division, for a chance at redemption; the Chief relents just enough to assign them to the Gun Cage. The hothead who caused the whole problem in the first place blows up and walks out; his partner <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EstablishingCharacterMoment' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EstablishingCharacterMoment'>accepts the demotion calmly, but won't sell his partner out to get back on the team.</a>
+";i:455;s:17:"</li></ul></div>
+";i:456;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp;Literature&nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:457;s:898:"<ul ><li> DCI Jack Spratt of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JasperFforde' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JasperFforde'>Jasper Fforde</a>'s <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NurseryCrime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NurseryCrime'>Nursery Crime</a></em> series is stated in the book-within-a-book <em>Bumper Book of Berkshire Records</em> to have been suspended over 262 times in his career, only one of which led to higher action (a reprimand). This is mainly because both he and his supervisor are <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy'>Genre Savvy</a>, and his supervisor makes a point of suspending him at least once per case more for dramatic effect than anything else.
+";i:458;s:604:"</li><li> Halt from John Flanagan's <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RangersApprentice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RangersApprentice'>Ranger's Apprentice</a></em> deliberately creates a situation where he'll get banished from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheKingdom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheKingdom'>The Kingdom</a> so he can save his apprentice only to get misty-eyed when he must turn in his <strike>ranger badge</strike> oak leaf necklace to the authorities as well.
+";i:459;s:1733:"</li><li> Subverted in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/TerryPratchett' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/TerryPratchett'>Terry Pratchett</a>'s <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Discworld' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Discworld'>Discworld</a> book <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/MenAtArms' title='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/MenAtArms'>Men at Arms</a></em>, when Lord Vetinari takes Vimes off the case and demands that he turn in his badge. It eventually becomes clear to the reader that <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InvokedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InvokedTrope'>he is doing this to make </a><em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InvokedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InvokedTrope'>sure </a></em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InvokedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InvokedTrope'>Vimes solves it</a>, though Vetinari goes a bit too far and drives Vimes into a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TenMinuteRetirement' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TenMinuteRetirement'>10-Minute Retirement</a>. The trope was played more or less straight in the earlier novel <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/GuardsGuards' title='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/GuardsGuards'>Guards! Guards!</a>!</em>, when Lupin Wonse takes Vimes' badge.
+";i:460;s:486:"<ul ><li> Additionally, in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/Jingo' title='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/Jingo'>Jingo</a></em>, all the senior officers of the Watch do this when threatened by Lord Rust, Vetrinari's stand in during his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TenMinuteRetirement' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TenMinuteRetirement'>10-Minute Retirement</a>.
+";i:461;s:195:"<ul ><li> <em>Everyone</em> &#8212; Vimes, the senior officers, <em>Lord Rust</em>... &#8212; proceed to act as if Vimes is still Commander of the Watch (once he gets out of the door, at least).
+";i:462;s:409:"</li></ul></li><li> Parodied in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/Snuff' title='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/Snuff'>Snuff</a></em>, when Vimes treats going on a two-week holiday arranged by his wife like being suspended (or forcibly retired), and says "My badge, just like Vetinari ordered. I put it down. It won't be said they took it off me!"
+";i:463;s:79:"<ul ><li> And what's actually in the envelope he turns over is a tin of snuff.
+";i:464;s:275:"</li></ul></li></ul></li><li> Ian Rankin's Inspector <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Rebus' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Rebus'>Rebus</a> is frequently suspended from cases for various reasons throughout the series.
+";i:465;s:608:"</li><li> Subverted in Liz Williams' Inspector Chen novel <em>Snake Agent</em>. About halfway through, Chen has a meeting with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaChief' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaChief'>Da Chief</a>, who tells him explicitly that he is <em>not</em> going to take Chen off the case, because he knows full well that Chen is the only person able and willing to handle it. (The scene also features Chen uttering the words "Go to Hell, sir" &#8212; as a literal and truthful response to the question "What do you intend to do next?")
+";i:466;s:748:"</li><li> Meyer Landsman of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheYiddishPolicemensUnion' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheYiddishPolicemensUnion'>The Yiddish Policemen's Union</a></em> is ordered to turn in his badge and gun as a result of his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CowboyCop' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CowboyCop'>Cowboy Cop</a> methods. When he still goes investigating the case, he uses <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TitleDrop' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TitleDrop'>his membership card in the titular union</a> to justify his questioning.
+";i:467;s:495:"</li><li> In the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaleBrown' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaleBrown'>Dale Brown</a> novel <em>Warrior Class</em>, Terrill Samson asks Patrick McLanahan and David Luger to resign after <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoOneGetsLeftBehind' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoOneGetsLeftBehind'>they take part in a rescue mission</a> against his orders.
+";i:468;s:250:"</li><li> The Isaacsons in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAlienist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAlienist'>The Alienist</a></em> are on a "special assignment" leave from the NYPD.
+";i:469;s:674:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RiversOfLondon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RiversOfLondon'>Rivers Of London</a></em> after <span class="spoiler" title="you can set spoilers visible by default on your profile" >Detective Chief Inspector Nightingale is shot</span>, Grant is put on suspension and <span class="spoiler" title="you can set spoilers visible by default on your profile" >Tyburn</span> moves quickly to try and get him fired and the magical department shut down. The Commissioner doing the firing becoming one of those possessed and turned into a rioter probably helped get this fixed.
+";i:470;s:623:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheDresdenFiles' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheDresdenFiles'>The Dresden Files</a></em>: Throughout the series, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionGirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionGirl'>Murphy</a> has been taking blows to her career in order to help Harry fight various monsters. She finally gets fired at the end of <em>Changes.</em> In the novella <em>Aftermath</em> and in <em>Ghost Story</em>, she keeps fighting monsters anyway.
+";i:471;s:536:"</li><li> <em>China Mieville</em> ("The City and The City") manages the only inversion of this trope this troper EVER ran into: <span class="spoiler" title="you can set spoilers visible by default on your profile" >You absolutely expect that the Inspector will clash with the ominous, all-powerful Breach and gets drawn off the case. Nope. He WANTS to hand over this political stinking case to Breach, but the crime was so carefully perpretrated that Breach, who is specialized only on Breaches, duh, has no rights to take over.</span>
+";i:472;s:17:"</li></ul></div>
+";i:473;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp;Live-Action TV&nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:474;s:331:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/AdamTwelve' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/AdamTwelve'>Adam-12</a></em>: In the episode "X-Force," Malloy is suspended for four days after being accused of using excessive force on a suspect, a smart-mouthed child molester.
+";i:475;s:1020:"<ul ><li> Several other episodes see rouge or otherwise <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadCopIncompetentCop' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadCopIncompetentCop'>bad or ill-suited police officers</a> either get let go, voluntarily agree to turn in their badge or get washed out. A Season 3 episode saw an officer, a close friend of Malloy's, be involved in an extortion ring. A "Badge Heavy" cop turns in his things in Season 5 after evidence mounts of him using excessive force on suspects. A Season 6 episode, "The Rookie," saw a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnowNothingKnowItAll' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnowNothingKnowItAll'>"supercop"</a> get fired after it was clear he was using poor judgement in identifying suspects. And finally, a young rookie cop realizes &#8212; almost too late &#8212; that a stuttering impediment makes him ill-suited for the force in Season 7's "Pressure Point."
+";i:476;s:579:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WalkerTexasRanger' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WalkerTexasRanger'>Walker, Texas Ranger</a></em>: A Season 5 episode saw Trivette be placed on administrative leave while the shooting of a child during a drug bust is investigated; a tough high-ranking officer suggests that Trivette carelessly fired his gun and shot the child, but in the end it becomes clear that the child was caught in the crossfire and that the bullet came from one of the criminal's handguns.
+";i:477;s:310:"</li><li> Happens to Jack Bauer on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/TwentyFour' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/TwentyFour'>24</a></em> at least once a season, forcing him to "go rogue" for 2-3 episodes before CTU realizes he was right all along.
+";i:478;s:188:"</li><li> Kate in season 2 of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Angel' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Angel'>Angel</a></em>.
+";i:479;s:493:"</li><li> Det. Mike Cellucci is asked for his badge in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/BloodTies' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/BloodTies'>Blood Ties</a></em> S2 finale. Considering he's been threatened with it for two seasons and finally <span class="spoiler" title="you can set spoilers visible by default on your profile" > left a hostage crisis to battle Astaroth with Vicki and Henry</span>, it's completely unsurprising.
+";i:480;s:547:"</li><li> Subverted in an episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/ColdCase' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/ColdCase'>Cold Case</a></em>, where Det. Valens goes overboard on a suspect after suffering a personal tragedy and is ordered to turn in his gun (but not his badge) to his boss. Not only was he <em>not</em> taken off the force (it was only a suggestion for a leave of absence that Valens mistook for a suspension), but he also doesn't go off on his own, during his leave.
+";i:481;s:424:"</li><li> Subverted on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/CSI' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/CSI'>CSI: Crime Scene Investigation</a></em>, when Warrick Brown forces Detective Jim Brass to hand over his badge, but only so he can analyze it and find the evidence to clear Brass of the crime he was accused of, before Brass gets it back at the end of the episode.
+";i:482;s:277:"</li><li> Parodied with Laser Tag in the pre-credits sequence of an episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/HowIMetYourMother' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/HowIMetYourMother'>How I Met Your Mother</a></em>.
+";i:483;s:589:"</li><li> Subverted in an episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JoanOfArcadia' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JoanOfArcadia'>Joan of Arcadia</a></em>: Will <em>was</em> being a loose cannon due to stress from recent events, and nearly shot a little girl; he's slowly talked into accepting the break from work. In a later episode, back on the force and fresh from a successful bust, he's interviewed by reporters who try to shove him into the McCloud role, which he gets an ego trip from until his coworkers call him on it.
+";i:484;s:313:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawAndOrderSpecialVictimsUnit' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawAndOrderSpecialVictimsUnit'>Law & Order: Special Victims Unit</a></em>: Elliot Stabler and Olivia Benson, though very rarely for either of them.
+";i:485;s:333:"<ul ><li> In one episode a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy'>Genre Savvy</a> Stabler is told that the captain wants to see him, he gives his gun and badge to Fin, knowing he'll have to turn them in anyway before he leaves.
+";i:486;s:415:"</li><li> And after the Season 7 Finale, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawAndOrderCriminalIntent' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawAndOrderCriminalIntent'>Law & Order: Criminal Intent</a></em>'s <span class="spoiler" title="you can set spoilers visible by default on your profile" > Bobby Goren. The scene is inverted in the season 8 premiere.</span>
+";i:487;s:790:"</li></ul></li><li> DCI Gene Hunt gets suspended in both <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/LifeOnMars2006' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/LifeOnMars2006'>Life On Mars</a></em> <span class="spoiler" title="you can set spoilers visible by default on your profile" > accused of murdering a boxing promoter</span> and <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AshesToAshes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AshesToAshes'>Ashes to Ashes</a></em> <span class="spoiler" title="you can set spoilers visible by default on your profile" > Gene and Ray attack a suspect and are reported by Alex, and Gene gets put on paid leave</span>, which means, of course, that he was just being Gene!
+";i:488;s:343:"<ul ><li> Gene Hunt himself employs this trope in the seventh episode, when there is a death in police custody and he suspends Sam for being overzealous in his pursuit of the truth. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheStinger' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheStinger'>The Stinger</a>?
+";i:489;s:250:"<div class='indent'><strong>Gene:</strong> You did a good investigation, Sam. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InvokedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InvokedTrope'>I'm glad I let you.</a>
+";i:490;s:131:"</div></li><li> He also suspends Alex in series 2, in a heartbreaking moment illustrating the deterioration of trust between them.
+";i:491;s:608:"</li></ul></li><li> Subverted in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewTricks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewTricks'>New Tricks</a></em>; although he's not technically a police officer anymore, when Gerry is briefly sidelined from an investigation owing to his possible old-time connection to a gangster who has become the focus of the investigation, he angrily <em>offers</em> his resignation, only for his boss (Sandra) to flatly refuse it; she doesn't want his 'badge', but at the same time she can't reasonably have him in the investigation.
+";i:492;s:248:"<ul ><li> Another time, after another chewing out from Sandra, Gerry offers her his badge yet again &#8212; except, of course, being a retired policeman, he no longer <em>has</em> a badge, so he has to make do with his Blockbuster video club card.
+";i:493;s:895:"</li></ul></li><li> Subverted in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/StargateSG1' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/StargateSG1'>Stargate SG-1</a></em> episode "Shades of Grey", in which Jack O'Neill (a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MilitaryMaverick' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MilitaryMaverick'>Military Maverick</a>) is forced to retire after stealing a piece of advanced technology from the Tollan, and then proceeds to collaborate with Colonel Maybourne and his rogue NID team involved in similar activities. In the end, it is revealed that all of this was <span class="spoiler" title="you can set spoilers visible by default on your profile" >a ploy by O'Neill and General Hammond to expose the NID's mole in the SGC, who turned out to be Colonel Makepeace</span>.
+";i:494;s:741:"</li><li> Occurs during the first series finale of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Torchwood' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Torchwood'>Torchwood</a></em> to Owen after he opened the Rift and caused what appeared to be irreparable damage. It was later subverted in the second series, <span class="spoiler" title="you can set spoilers visible by default on your profile" > once again with Owen</span>. The subversion was that <span class="spoiler" title="you can set spoilers visible by default on your profile" >he was asked to turn in his badge, not because of the danger to others, but to himself - he had died and was brought back to life, and could no longer heal</span>.
+";i:495;s:213:"</li><li> Fox Mulder (<em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheXFiles' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheXFiles'>The X-Files</a></em>), at least three times.
+";i:496;s:399:"</li><li> Danny Messer on <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CSINY' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CSINY'>CSI NY</a>, once in the third season, played relatively straight, although Danny didn't actually kill the guy-his DNA just ended up on a cigarette his brother swiped and tossed in a hole with the guy-and averted more recently in season 8.
+";i:497;s:330:"</li><li> Used with Wayne Rigsby on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMentalist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMentalist'>The Mentalist</a></em>, but quickly taken back once Patrick Jane realized that he had been hypnotized and wasn't responsible for his actions.
+";i:498;s:160:"<ul ><li> Used again in the second season with Lisbon after she was accused of murder and failed a polygraph test. And this time, she really had to turn it in.
+";i:499;s:293:"</li><li> The whole team went unregulated for an episode after breaking protocol, but they were allowed to carry on when <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaChief' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaChief'>Minelli</a> looked the other way.
+";i:500;s:510:"</li></ul></li><li> "Mr <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Monk' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Monk'>Monk</a> Gets Fired": Monk accidentally deletes important police information, so the commissioner revokes his license. It's implied that Monk deleting important forensic information was really only an excuse for the commissioner to do this, and that he was actually taking Monk off the case in revenge for sending his friend (a corrupt cop) to jail.
+";i:501;s:544:"<ul ><li> In the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TieInNovel' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TieInNovel'>Tie-In Novel</a> <em>Mr. Monk on the Couch</em>, Stottlemeyer threatens to have former vice cop turned homicide Lieutenant Amy Devlin's badge after she comes very close to getting killed by an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AxCrazy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AxCrazy'>Ax Crazy</a> killer in a trap to catch said killer.
+";i:502;s:377:"</li></ul></li><li> One episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Bones' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Bones'>Bones</a></em> had Booth turn in his badge. The rest of the team realized that they could get him his job back if they solved the case they were working on, so his suspension only lasted one episode.
+";i:503;s:360:"<ul ><li> Hodgins also hands in his resignation after Booth finds out that the victim's wife is a good friend of his, and Hodgins failed to mention that. When the case is solved and the bad guy put away, Cam tears up the letter of resignation. This is despite the fact that Hodgins more or less owns the entire institute but does his work because he likes it.
+";i:504;s:907:"</li></ul></li><li> Subverted in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/NCIS' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/NCIS'>NCIS</a></em>. In "Jeopardy" Ziva appears to have caused the death of a prisoner in her custody and is stuck on desk work. She says there's only one thing to do, having "seen it on your American movies" and hands Gibbs her badge. Gibbs in unimpressed, gives her back the badge and tells Ziva that if she does that again, she'd better mean it. In "Twisted Sister" McGee hands in his badge to the Director because he refused to turn in his sister when she appeared to have committed a murder &#8212; Gibbs promptly <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DopeSlap' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DopeSlap'>Dope Slaps</a> McGee for allowing the Director to manipulate him into resigning.
+";i:505;s:236:"<ul ><li> Played straight in the season 8 episode "Defiance"; after McGee and DiNozzo blunder a protection detail, director Vance demands that "if the situation is not rectified in 48 hours", he will have both their badges on his desk.
+";i:506;s:243:"</li><li> And in the season 10 finale "Damned If You Do", <span class="spoiler" title="you can set spoilers visible by default on your profile" > DiNozzo,McGee and Ziva all take off their badges and hand them over to clear Gibbs' name.</span>
+";i:507;s:541:"</li></ul></li><li> A humourous variation occurs in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/NCISLosAngeles' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/NCISLosAngeles'>NCIS Los Angeles</a></em>. When they're about to go rogue to rescue Hettie, the team pre-emptively does this. One by one, they slap down their badges . . . until it reaches Deeks, the consultant from the LAPD who doesn't <em>have</em> a NCIS badge. He shrugs philosophically, comments "I would if I could," and follows them out.
+";i:508;s:290:"</li><li> Parodied. Kenneth does this in the workplace dramedy <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/ThirtyRock' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/ThirtyRock'>30 Rock</a></em>. Pete is justly alarmed that a page was carrying a gun...
+";i:509;s:449:"</li><li> Astoundingly, it takes <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheGoodGuys' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheGoodGuys'>The Good Guys</a></em> ten episodes before this happens to Dan and Jack. Dan isn't bothered by it, since he considers suspension like a vacation. Naturally, he manages to bungle his way into getting them reinstated through an incredibly illegal chain of events.
+";i:510;s:299:"</li><li> On <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhiteCollar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhiteCollar'>White Collar</a></em>, fingerprints implying Peter planted evidence lead to an investigation and his boss asking for his badge and gun.
+";i:511;s:304:"</li><li> On <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TwinPeaks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TwinPeaks'>Twin Peaks</a></em>, this happens to <span class="spoiler" title="you can set spoilers visible by default on your profile" >Agent Cooper</span>.
+";i:512;s:492:"</li><li> On <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/SWAT' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/SWAT'>SWAT</a></em>, the premiere episode plays with this as Robert Urich's cop character, in the hospital after surviving an attack that killed his partner, picks up his badge is if he wants to resign. However, he then simply requests if his badge could be renumbered to his deceased partner's; the SWAT leader agrees to make the arrangements.
+";i:513;s:575:"</li><li> Worf does this on an episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekTheNextGeneration' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekTheNextGeneration'>Star Trek: The Next Generation</a></em>. Picard denies him a leave of absence to complete a mission regarding his Klingon honor, so he resigns his Starfleet commission. A mildly annoying example, because when the mission is over, he walks back to his post on the Enterprise with no explanation, and nary a comment from Picard or the rest of the crew.
+";i:514;s:483:"<ul ><li> Averted in an earlier episode, where Worf kills Duras, a member of the Klingon High Council in a duel. Granted, Duras has just killed the mother of Worf's child (aboard the <em>Enterprise</em>, no less), but this, at the very least, shold have cost him his commission. The only thing that saves him is the fact that the Klingon High Coucil considers the matter closed (that and the fact that they don't even want to acknowledge Worf's existence after his discommendation).
+";i:515;s:593:"</li></ul></li><li> In the pilot of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/DueSouth' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/DueSouth'>Due South</a></em>, Fraser turns in his own badge, after he is denied a transfer to the consulate in Chicago so that he could coordinate with the Chicago Police Department to ensure that they are investigating the suspect in his father's murder. Having seen that he intends to go to Chicago whether they let him go officially or not, they decide to give him the transfer (thus, he keeps the badge after all.)
+";i:516;s:394:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dollhouse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dollhouse'>Dollhouse</a></em>, Agent Paul Ballard has to hand in his badge and gun <span class="spoiler" title="you can set spoilers visible by default on your profile" >because the Dollhouse sets him up since he's too close to the truth</span>.
+";i:517;s:515:"</li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Castle' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Castle'>Castle</a></em> episode "Always", <span class="spoiler" title="you can set spoilers visible by default on your profile" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaChief' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaChief'>Gates</a> demands this of Esposito and Beckett, and Beckett decides to resign entirely.</span>
+";i:518;s:537:"</li><li> Discussed and defied in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheBridge' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheBridge'>The Bridge</a></em> &#8212; when it's suggested that Martin be taken off the case now that <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItsPersonal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItsPersonal'>It's Personal</a>, he matter-of-factly announces that he'd just keep investigating as a civilian. They keep him on.
+";i:519;s:308:"</li><li> In the third season of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheJoeSchmoShow' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheJoeSchmoShow'>The Joe Schmo Show</a></em>, <em>The Full Bounty</em>, those evicted are told "Turn in your badge and your gun."
+";i:520;s:602:"</li><li> On <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Community' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Community'>Community</a></em> a blistering Turn In Your Badge speech is given by Abed, of all people, to Shirley and Annie who are campus security for the day and are trying to out-loose cannon each other. Being <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy'>Genre Savvy</a>, Abed is deliberately invoking this trope, and it is played straight in full.
+";i:521;s:17:"</li></ul></div>
+";i:522;s:185:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp;New Media&nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:523;s:233:"<ul ><li> Parodied in this <a class='urllink' href='http://www.theonion.com/content/node/41923'>Onion Statshot<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>.
+";i:524;s:322:"</li><li> <a class='urllink' href='http://lazymuffin.deviantart.com/art/James-and-the-Chief-44010304'>James and the Chief<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> by Lazymuffin did this twice- once to James and the next time to a coffee boy.
+";i:525;s:17:"</li></ul></div>
+";i:526;s:192:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp;Newspaper Comics&nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:527;s:698:"<ul ><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicStrip/DickTracy' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicStrip/DickTracy'>Dick Tracy</a></em> story where Big Boy Caprice put a million dollar open murder contract on Tracy's head, Chief Patton orders Tracy suspended (presumably with pay) from duty until that case is solved considering that having him on duty would attract murder attempts that would also endanger his colleagues. Tracy is completely against this and Sam Catchem offers the compromise of increasing the security around Tracy, who will be confined to desk duty in the meantime, while the detectives work on stopping the contract.
+";i:528;s:17:"</li></ul></div>
+";i:529;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder7');">&nbsp;&nbsp;&nbsp;&nbsp;Videogames&nbsp;</div><div id="folder7" class="folder" isfolder="true" style="display:block;">
+";i:530;s:303:"<ul ><li> Kyle Hyde got canned three years prior to the events of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HotelDuskRoom215' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HotelDuskRoom215'>Hotel Dusk: Room 215</a> after what happened with his turncoat partner, Bradley.
+";i:531;s:495:"</li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/AceAttorney' title='http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/AceAttorney'>Ace Attorney</a></em> series, Detective Gumshoe <span class="spoiler" title="you can set spoilers visible by default on your profile" > loses his job in both the DS-exclusive fifth case of the first game and the fourth case of the second game. He makes it through the third game without getting fired once.</span>
+";i:532;s:193:"<ul ><li> Happens literally when <span class="spoiler" title="you can set spoilers visible by default on your profile" > Phoenix loses his job after submitting forged evidence to court.</span>
+";i:533;s:633:"</li><li> And then in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AceAttorneyInvestigations' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AceAttorneyInvestigations'>Ace Attorney Investigations</a> 2: <span class="spoiler" title="you can set spoilers visible by default on your profile" >Edgeworth gets fed up with the corruption in his job branche when a friend of his is baselessly declared the prime suspect of a murder and he is kept from properly investigating into the same case by his superiors. He turns in his badge then as a sign of protest and to be free to investigate as he pleases.</span>
+";i:534;s:839:"</li></ul></li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MassEffect1' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MassEffect1'>Mass Effect 1</a></em>, the same effect is had when <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolShip' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolShip'>the Normandy</a> is kept from leaving the Citadel. It gets even more severe in the sequels. In <em>Mass Effect 2</em> Shepard may be unceremoniously stripped of his/her Spectre status depending on his/her actions (you have to actually volunteer to get reinstated, and that option is only available to you if you took certain actions before), and in <em>Mass Effect 3</em> s/he has also been relieved of duty in the Alliance military and had his/her rank stripped.
+";i:535;s:397:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Fahrenheit' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Fahrenheit'>Fahrenheit</a></em> has Carla and Tyler doing this if their <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SanityMeter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SanityMeter'>Sanity Meter</a> goes down to 0.
+";i:536;s:375:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeavyRain' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeavyRain'>Heavy Rain</a></em> has <span class="spoiler" title="you can set spoilers visible by default on your profile" >Lt. Blake and his boss, Captain Perry, getting this if the former kills Ethan while Norman is alive</span>.
+";i:537;s:204:"<ul ><li> This also happens to <span class="spoiler" title="you can set spoilers visible by default on your profile" > Norman Jayden if the player has him accuse Blake of being the Origami Killer.</span>
+";i:538;s:288:"</li></ul></li><li> Happens to Jack Slate in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadToRights' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadToRights'>Dead To Rights: Retribution</a></em>. At the very beginning of the first chapter, no less.
+";i:539;s:206:"<ul ><li> "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/LetsPlay/Slowbeef' title='http://tvtropes.org/pmwiki/pmwiki.php/LetsPlay/Slowbeef'>Thanks for setting up that Cliche for me.</a>"
+";i:540;s:534:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LANoire' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LANoire'>L.A. Noire</a></em>, case Manifest Destiny. Phelps, a married man is caught committing adultery with a woman (a dope fiend at that). <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaChief' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaChief'>Chief Donelly</a> can't have a cop that has committed a criminal charge on the case, cue this scene.
+";i:541;s:17:"</li></ul></div>
+";i:542;s:185:"<p></p><div class="folderlabel" onclick="togglefolder('folder8');">&nbsp;&nbsp;&nbsp;&nbsp;Webcomics&nbsp;</div><div id="folder8" class="folder" isfolder="true" style="display:block;">
+";i:543;s:427:"<ul ><li> Played with in a long-running cop show parody on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CheckerboardNightmare' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CheckerboardNightmare'>Checkerboard Nightmare</a></em>. The trope is so routine that when the chief pulls it more often than usual, the title character protests that "we've already turned in our week's supply of badges!"
+";i:544;s:799:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarthsAndDroids' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarthsAndDroids'>Darths & Droids</a></em>, Obi-Wan and Anakin get suspended from the Jedi Order after they do a spectacularly bad job protecting the Senator and apprehending the assassin. The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy'>Genre Savvy</a> players think that this means they're on the right track, since this always happens to the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CowboyCop' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CowboyCop'>Cowboy Cop</a> just before they save the day in the movies.
+";i:545;s:305:"</li><li> <a class='urllink' href='http://www.robandelliot.cycomics.com/archive.php?id=393'>God damn it! Did that bird just take your badge and gun!? Great! He's officially a cop now!<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>
+";i:546;s:17:"</li></ul></div>
+";i:547;s:193:"<p></p><div class="folderlabel" onclick="togglefolder('folder9');">&nbsp;&nbsp;&nbsp;&nbsp;Western Animation&nbsp;</div><div id="folder9" class="folder" isfolder="true" style="display:block;">
+";i:548;s:658:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AngryBeavers' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AngryBeavers'>Angry Beavers</a></em>, "Dagski and Norb" (parodying <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarskyAndHutch' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarskyAndHutch'>Starsky and Hutch</a></em>). The titular cops report to their superior about seeing a car that looked just like theirs... and end up turning in their badges anyhow because there was a report about "something bad going down" and their car being seen leaving the scene of the crime.
+";i:549;s:420:"</li><li> Happens to Montoya in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanTheAnimatedSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanTheAnimatedSeries'>Batman The Animated Series</a></em> episode "P.O.V.". (Bullock and an incidental character, Wilkes, are also forced to turn in their badges, but only Montoya keeps working on the case.)
+";i:550;s:480:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/FamilyGuy' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/FamilyGuy'>Family Guy</a></em> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMovie' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMovie'>The Movie</a>, Tom Tucker is fired from the news station and had to give back all of his station items, including his <em>mustache</em>.
+";i:551;s:260:"</li><li> In at least one episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Fillmore' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Fillmore'>Fillmore!</a></em>, the title character has to turn in his Safety Patrol sash.
+";i:552;s:310:"</li><li> The second variation of this trope happened with Elisa on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Gargoyles' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Gargoyles'>Gargoyles</a></em>. Turns out she was going undercover to catch Dracon.
+";i:553;s:677:"</li><li> Officer Mike Brikowski from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePowerpuffGirls' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePowerpuffGirls'>The Powerpuff Girls</a></em> is a fat, lazy old cop who believes that the girls are a waste of space who just take work away from "hard-working" policemen like him. In the end he is fired for his laziness and forced to turn in his badge and reflective sunglasses, but for some reason is allowed to keep his firearm as "a little souvenir". He also has to give up his precious donut. He swears vengeance on the Powerpuffs, which he goes after unsuccessfully through the episode.
+";i:554;s:529:"</li><li> Done, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSimpsonsDidIt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSimpsonsDidIt'>as everything is</a>, on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSimpsons' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSimpsons'>The Simpsons</a></em> when Apu is fired from the Kwik-E-Mart. He is told to hand in his pricing gun (which he keeps in a shoulder holster) and his backup (kept in an ankle holster).
+";i:555;s:423:"<ul ><li> In one episode, Ned Flanders became a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BountyHunter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BountyHunter'>Bounty Hunter</a>. When he quit, he tried to play the trope but then realized there wasn't anything he had to give back. (Which is odd, considering Ned and Homer were seen using tasers. Was Homer the only one to be given one?)
+";i:556;s:1215:"</li><li> Subverted in one of the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowWithinAShow' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowWithinAShow'>McBain</a></em> clips &#8212; <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaChief' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaChief'>Da Chief</a> reads our <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CowboyCop' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CowboyCop'>Cowboy Cop</a> his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ListOfTransgressions' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ListOfTransgressions'>List of Transgressions</a>, and just as he starts to threaten that "You're outta here!", McBain picks him up and <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DestinationDefenestration' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DestinationDefenestration'>throws him through a window</a></em>. ("<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BondOneLiner' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BondOneLiner'>That makes two of us.</a>")
+";i:557;s:250:"</li></ul></li><li> Parodied in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SouthPark' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SouthPark'>South Park</a></em> when Mr. Garrison is fired.
+";i:558;s:99:"<div class='indent'><strong>Mr. Garrison:</strong> I suppose you'll be wanting my badge and gun...
+";i:559;s:101:"</div><div class='indent'><strong>Chairman:</strong> Mr. Garrison, most teachers do not carry a gun!
+";i:560;s:91:"</div><div class='indent'><strong>Mr. Garrison:</strong> Oh, sorry. So I can keep it then?
+";i:561;s:1125:"</div></li><li> Grizzlikov, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ObstructiveBureaucrat' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ObstructiveBureaucrat'>Obstructive Bureaucrat</a> supreme of SHUSH, ends up getting let go by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaChief' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaChief'>Da Chief</a> J Gander Hooter, in favour of a squad trained and inspired by Costumed Crimefighter (and title character) <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DarkwingDuck' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DarkwingDuck'>Darkwing Duck</a> in one episode. <span class="spoiler" title="you can set spoilers visible by default on your profile" > It's the variant, as mentioned above; he gets recruited by the villains and works as <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMole' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMole'>The Mole</a> to sabotage their big design, all according to Hooter's plan.</span>
+";i:562;s:758:"</li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Bonkers' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Bonkers'>Bonkers</a></em> episode "Quibbling Rivalry," Bonkers meets Miranda's sister, Shirley Wright. During one scene, because of the damage caused when Shirley filmed them doing their jobs, Bonker phones her news station and announces on live television that he will turn in his badge, despite Miranda's pleas that he not do it. Later in the episode, however, Bonkers and Miranada rescue an old lady and her cat, and Shirley's praise of him causes Bonkers to change his mind about resigning. (This is a harsh blow for Francis, who desperately wants Bonkers out of the department.)
+";i:563;s:864:"</li><li> Inverted on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SupermanTheAnimatedSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SupermanTheAnimatedSeries'>Superman The Animated Series</a></em>. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaChief' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaChief'>Da Chief</a> Maggie Sawyer remarks that if she had a nickel for every time <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CowboyCop' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CowboyCop'>Cowboy Cop</a> Dan Turpin turned in his badge of his own volition, she'd be richer than <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LexLuthor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LexLuthor'>Lex Luthor</a>.
+";i:564;s:391:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DangerMouse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DangerMouse'>Danger Mouse</a></em>: In "The Invasion of Colonel K," the Colonel fires Danger Mouse and Penfold, but that's only because Baron Greenback (reduced to microscopic size) has entered his brain and is telling the Colonel what to say.
+";i:565;s:188:"<ul ><li> "Demons Aren't Dull" has DM attempting to quit after he is humiliated on a "This Is Your Life" show showcasing his shortcomings. The show was secretly staged by Baron Greenback.
+";i:566;s:385:"</li></ul></li><li> April O'Neil's news station boss occasionally threatened to "have your press card!" on the '90s animated version of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TeenageMutantNinjaTurtles1987' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TeenageMutantNinjaTurtles1987'>Teenage Mutant Ninja Turtles</a>.</em>
+";i:567;s:584:"</li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/PhineasAndFerb' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/PhineasAndFerb'>Phineas And Ferb</a></em> episode "The Chronicles of Meap", <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheStinger' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheStinger'>The Stinger</a> for the episode features a mock trailer for a sequel episode, including a scene with Major Monogram furiously telling Perry the Platypus "I want your hat on my desk!"
+";i:568;s:484:"<ul ><li> When it was made into an actual episode, when the scene itself occurs... <span class="spoiler" title="you can set spoilers visible by default on your profile" >Major Monogram <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoodWhiplash' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoodWhiplash'>suddenly changes his tone</a> and says, "'Cause it rains a lot in Seattle, and we want to spray it with this cool new waterproofing treatment."</span>
+";i:569;s:319:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Futurama' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Futurama'>Futurama</a></em>: Professor Farnsworth used this on Leela to demand her to give back stuff he didn't give her in the first place.
+";i:570;s:573:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Metalocalypse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Metalocalypse'>Metalocalypse</a></em>, Murderface is placed on band suspension because the others are tired of dealing with his crap. Murderface tries to make it sound cooler by comparing himself to a badass cop who crossed the line and has to turn in his gun and badge. Ofdenson then informs that he actually <em>does</em> need to turn in his badge. Apparently he was given one when the band was formed, but he lost it.
+";i:571;s:463:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeManAndTheMastersOfTheUniverse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeManAndTheMastersOfTheUniverse'>He-Man and the Masters of the Universe</a></em>: In "Prince Adam no More", when Skeletor banished Beast-Man from Snake Mountain, he told Beast-Man to turn in his whip and his seat at their meeting room. (Skeletor had the second part done by destroying said seat)
+";i:572;s:17:"</li></ul></div>
+";i:573;s:14:"<p></p><hr />
+";i:574;s:1547:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TurnedAgainstTheirMasters">Turned Against Their Masters</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots">Plots</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TwelfthNightAdventure">Twelfth Night Adventure</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ShoutOut">Shout Out</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Recap/TheSimpsonsS13E22PoppasGotABrandNewBadge">Recap/The Simpsons S   13  E   22  Poppas Got A Brand New Badge</a></td><td class="trail_right" path="true">&nbsp;&nbsp;&nbsp;&nbsp;</td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TrueCrime">True Crime</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes">Crime and Punishment Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/UndercoverCopReveal">Undercover Cop Reveal</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:575;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:576;s:10:"<p> </p>
+";i:577;s:10:"<center>
+";i:578;s:2:"
+";i:579;s:24:"<!-- med rectangle -->
+";i:580;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:581;s:33:"<script type='text/javascript'>
+";i:582;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:583;s:11:"</script>
+";i:584;s:8:"</div>
+";i:585;s:2:"
+";i:586;s:11:"</center>
+";i:587;s:24:"</td><!-- wikibody -->
+";i:588;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:589;s:7:"</td>
+";i:590;s:7:"</tr>
+";i:591;s:10:"</table>
+";i:592;s:22:"<!--PageFooterFmt-->
+";i:593;s:77:"<div class="alt_title" style="font-size:x-small;text-align:center;" ></div>
+";i:594;s:10:"<center>
+";i:595;s:44:"<table style="width:606px;margin:0 auto;">
+";i:596;s:7:"	<tr>
+";i:597;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:598;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:599;s:264:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TurnInYourBadge?action=edit'> edit page</a></div></div></td>
+";i:600;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:601;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:602;s:8:"	</tr>
+";i:603;s:10:"</table>
+";i:604;s:11:"</center>
+";i:605;s:21:"<div id='wikifoot'>
+";i:606;s:27:"    <div class='footnav'>
+";i:607;s:2:"
+";i:608;s:14:"			 <center>
+";i:609;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:610;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:611;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:612;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:613;s:15:"				</center>
+";i:614;s:2:"
+";i:615;s:29:"    </div><!-- wikifoot -->
+";i:616;s:23:"<!--/PageFooterFmt-->
+";i:617;s:12:"72370<br/>
+";i:618;s:3:"0
+";i:619;s:8:"</div>
+";i:620;s:26:"</div><!-- container -->
+";i:621;s:2:"
+";i:622;s:9:"</body>
+";i:623;s:21:"<!--ScriptInsert-->
+";i:624;s:9:"</html>
+";}}

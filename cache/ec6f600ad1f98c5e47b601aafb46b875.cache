@@ -1,0 +1,579 @@
+a:2:{i:0;i:1377888752;i:1;a:578:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:62:"<title>The Ahnold - Television Tropes &amp; Idioms  </title>
+";i:5;s:128:"<meta name="Description" content="The The Ahnold trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:2:"
+";i:25;s:10:"</style>
+";i:26;s:2:"
+";i:27;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:28;s:33:"<script type="text/javascript">
+";i:29;s:26:"  var _gaq = _gaq || [];
+";i:30;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:31;s:34:"  _gaq.push(['_trackPageview']);
+";i:32;s:2:"
+";i:33;s:17:"  (function() {
+";i:34;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:35;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:36;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:37;s:9:"  })();
+";i:38;s:2:"
+";i:39;s:32:"	function subpage(sel, title){
+";i:40;s:4:"		
+";i:41;s:40:"		var namespce = ""+getselection(sel);
+";i:42;s:34:"		if(namespce.trim()=="")return;
+";i:43;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:44;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:45;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:46;s:29:"		window.location.href=url;
+";i:47;s:4:"	}
+";i:48;s:32:"	function p5(groupname,title){
+";i:49;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:50;s:4:"	}
+";i:51;s:27:"	function togglenote(id){
+";i:52;s:23:"		var ele=object(id);
+";i:53;s:34:"		var state = ele.style.display;
+";i:54;s:49:"		if(state=='none') ele.style.display='inline';
+";i:55;s:48:"		if(state=='inline')ele.style.display='none';
+";i:56;s:4:"	}
+";i:57;s:35:"	var googletag = googletag || {};
+";i:58;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:59;s:16:"	(function() {
+";i:60;s:47:"	var gads = document.createElement('script');
+";i:61;s:21:"	gads.async = true;
+";i:62;s:33:"	gads.type = 'text/javascript';
+";i:63;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:64;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:65;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:66;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:67;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:68;s:8:"	})();
+";i:69;s:2:"
+";i:70;s:34:"	googletag.cmd.push(function() {
+";i:71;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:73;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:74;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:75;s:45:"		googletag.pubads().enableSingleRequest();
+";i:76;s:31:"		googletag.enableServices();
+";i:77;s:6:"	});
+";i:78;s:2:"
+";i:79;s:11:"</script>
+";i:80;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:81;s:2:"
+";i:82;s:9:"</head>
+";i:83;s:8:"<body>
+";i:84;s:40:"<div class="container" id="container">
+";i:85;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:86;s:6:"<tr>
+";i:87;s:46:"<td style="width:166px;vertical-align:top;">
+";i:88;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:89;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:90;s:38:"<g:plusone size="small"></g:plusone>
+";i:91;s:2:"
+";i:92;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:93;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:94;s:6:"<ul>
+";i:95;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:96;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:97;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:98;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:99;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:100;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:101;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:102;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:103;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:104;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:105;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:106;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:107;s:7:"</ul>
+";i:108;s:8:"</div>
+";i:109;s:2:"
+";i:110;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:111;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:112;s:2:"
+";i:113;s:180:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','TheAhnold');">send request</button><hr/></div>
+";i:114;s:2:"
+";i:115;s:321:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="TheAhnold" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:116;s:2:"
+";i:117;s:51:"<div style="font-size:small;text-align:center;" >
+";i:118;s:30:"Find recent edits by troper:
+";i:119;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:120;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:121;s:8:"</div>
+";i:122;s:7:"<hr/>
+";i:123;s:7:"<ul>	
+";i:124;s:4:"		
+";i:125;s:7:"<hr/>
+";i:126;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:127;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:128;s:58:"		<input type="hidden" name="title" value="TheAhnold" />
+";i:129;s:54:"		This article needs some moderator assistance with:
+";i:130;s:9:"		<br/>
+";i:131;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:132;s:9:"		<br/>
+";i:133;s:4:"		
+";i:134;s:34:"		<p style="text-align:center;">
+";i:135;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:136;s:8:"		</p>
+";i:137;s:34:"		<p style="text-align:center;">
+";i:138;s:48:"			<input type="submit" value="send report" />
+";i:139;s:8:"		</p>
+";i:140;s:11:"		</form>
+";i:141;s:7:"<hr/>
+";i:142;s:6:"<ul>
+";i:143;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:144;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:145;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:146;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:147;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:148;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:149;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:150;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:151;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:152;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:153;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:154;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:155;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:156;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:157;s:138:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.TheAhnold'>Referral Count for This Page</a></li>
+";i:158;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:159;s:113:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=TheAhnold'>Article Relationships</a></li> -->
+";i:160;s:99:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.TheAhnold'>Folderize</a></li>
+";i:161;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:162;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:163;s:7:"</ul>
+";i:164;s:8:"	<hr/>
+";i:165;s:6:"<ul>
+";i:166;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:167;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:168;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:169;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:170;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:171;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:172;s:7:"</ul>
+";i:173;s:7:"<hr/>
+";i:174;s:2:"
+";i:175;s:8:"</div>
+";i:176;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:177;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:178;s:8:"		<ul>
+";i:179;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:180;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:181;s:9:"		</ul>
+";i:182;s:8:"</div>
+";i:183;s:10:"<center>
+";i:184;s:34:"		<div style="margin-top:4px;">	
+";i:185;s:5:"			
+";i:186;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:187;s:33:"<script type='text/javascript'>
+";i:188;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:189;s:94:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/TheAhnold");
+";i:190;s:11:"</script>
+";i:191;s:8:"</div>
+";i:192;s:2:"
+";i:193;s:11:"		</div>	
+";i:194;s:10:"		<div>	
+";i:195;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:196;s:6:"		 	
+";i:197;s:4:"		
+";i:198;s:4:"		
+";i:199;s:10:"		</div>
+";i:200;s:185:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/TheAhnold">Laconic</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAhnold">Main</a><br/>
+";i:201;s:9:"		<div>
+";i:202;s:10:"		</div>
+";i:203;s:36:"		<div style="font-size:x-small;">
+";i:204;s:11:"				<hr/>
+";i:205;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:206;s:14:"				<p> </p>
+";i:207;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:208;s:13:"				<p></p>
+";i:209;s:11:"				<ul >
+";i:210;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:211;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:212;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:213;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:214;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:215;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:216;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:217;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:219;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:220;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:221;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:222;s:11:"				</li>
+";i:223;s:11:"				</ul>
+";i:224;s:13:"				<p></p>
+";i:225;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:226;s:13:"				<p></p>
+";i:227;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:228;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:229;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:230;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:231;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:232;s:6:"				
+";i:233;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:234;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:235;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:236;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:237;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:238;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:239;s:6:"				
+";i:240;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:241;s:16:"				</li></ul>
+";i:242;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:243;s:13:"				<p></p>
+";i:244;s:11:"				<ul >
+";i:245;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:246;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:247;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:248;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:249;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:250;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:251;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:252;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:253;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:254;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:255;s:6:"				
+";i:256;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:257;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:258;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:259;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:260;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:261;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:262;s:6:"				
+";i:263;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:264;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:265;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:266;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:268;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:269;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:270;s:11:"				</li>
+";i:271;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:272;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:273;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:274;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:275;s:6:"				
+";i:276;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:278;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:279;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:280;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:281;s:16:"				</li></ul>
+";i:282;s:6:"				
+";i:283;s:13:"				<p></p>
+";i:284;s:39:"				<strong>Other Categories</strong>
+";i:285;s:13:"				<p></p>
+";i:286;s:10:"				<ul>
+";i:287;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:288;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:289;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:290;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:291;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:292;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:293;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:294;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:295;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:296;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:297;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:298;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:299;s:11:"				</ul>
+";i:300;s:11:"		</div>	
+";i:301;s:11:"</center>
+";i:302;s:2:"
+";i:303;s:30:"</div> <!-- wikileftpage -->
+";i:304;s:7:"</td>
+";i:305;s:20:"<td id='wikibody'>
+";i:306;s:2:"
+";i:307;s:21:"<!--PageTitleFmt-->
+";i:308;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:309;s:12:"    		<tr>
+";i:310;s:38:"    		<td id="wikicmds" align="top">
+";i:311;s:8:"    		
+";i:312;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:313;s:45:"    				<tr style="vertical-align:middle;">
+";i:314;s:31:"    					<td align="center" >
+";i:315;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:316;s:16:"    					</td>
+";i:317;s:15:"    				<td >
+";i:318;s:37:"    					<div style="width:400px;">
+";i:319;s:28:"                  <center>
+";i:320;s:27:"                  <table>
+";i:321;s:24:"                  <tr>
+";i:322;s:24:"                  <td>
+";i:323;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:324;s:27:"                    <div>
+";i:325;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:326;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:327;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:328;s:64:"                      <input type="text" name="q" size="31" />
+";i:329;s:28:"                    </div>
+";i:330;s:27:"                  </form>
+";i:331;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:332;s:25:"                  </td>
+";i:333;s:24:"                  <td>
+";i:334;s:46:"                  <div class="buttonframe" >
+";i:335;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:336;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:337;s:26:"                  </div>
+";i:338;s:25:"                  </div
+";i:339;s:25:"                  </td>
+";i:340;s:25:"                  </tr>
+";i:341;s:28:"                  </table>
+";i:342;s:29:"                  </center>
+";i:343;s:17:"    					</div>
+";i:344;s:15:"    				</td>
+";i:345;s:15:"    				</tr>
+";i:346;s:16:"    		</table>
+";i:347;s:8:"    		
+";i:348;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:349;s:10:"    				
+";i:350;s:27:"    				<tr valign="top">
+";i:351;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:352;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:353;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:354;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:355;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:356;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:357;s:15:"    				</tr>
+";i:358;s:10:"    				
+";i:359;s:10:"    				
+";i:360;s:8:"    		
+";i:361;s:16:"    		</table>
+";i:362;s:8:"    		
+";i:363;s:28:"    		<div id="wikilogo" >
+";i:364;s:16:"    		<center>
+";i:365;s:2:"
+";i:366;s:22:"<!-- leaderboard -->
+";i:367;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:368;s:33:"<script type='text/javascript'>
+";i:369;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:370;s:11:"</script>
+";i:371;s:8:"</div>
+";i:372;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:373;s:28:"    					<tr valign="top">
+";i:374;s:259:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'TheAhnold');" autocomplete="off"  style="width:50px;"><option> </option><option value="Laconic">Laconic</option><option value="Main">Main</option></select></td>
+";i:375;s:264:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAhnold?action=source" >source</a></div></div></td>
+";i:376;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:377;s:265:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.TheAhnold">history</a></div></div></td>
+";i:378;s:267:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAhnold?action=edit'> edit page</a></div></div></td>
+";i:379;s:263:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/TheAhnold" >related</a></div></div></td>
+";i:380;s:38:"    							<td valign="middle"></td>
+";i:381;s:16:"    					</tr>
+";i:382;s:18:"    				</table>
+";i:383;s:10:"    				
+";i:384;s:35:"    				<div id="watchmsg"></div>
+";i:385;s:18:"    			</center>
+";i:386;s:13:"    		</td>
+";i:387;s:12:"     </tr>
+";i:388;s:6:"    
+";i:389;s:11:"    	<tr>
+";i:390;s:39:"    		<td id="wikititle" colspan="2">
+";i:391;s:40:"    				<div class="namespacebuttons">
+";i:392;s:915:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments"  style="border-width:2px;border-color:silver;margin-right:2px;" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.TheAhnold" >&nbsp;Discussion </a></li> <li class="namespace_li Laconic" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/TheAhnold" class="textcolor">&nbsp;Laconic&nbsp;</a> </li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=TheAhnold" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/TheAhnold" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:393;s:16:"    				</div>
+";i:394;s:26:"    				<!--RepairBug-->
+";i:395;s:10:"    				
+";i:396;s:34:"    				<div class='pagetitle'> 
+";i:397;s:37:"    						  <span>The Ahnold</span>
+";i:398;s:16:"    				</div>
+";i:399;s:11:"    				 
+";i:400;s:13:"    		</td>
+";i:401;s:12:"    	</tr>
+";i:402;s:10:"</table>
+";i:403;s:2:"
+";i:404;s:16:"<!--PageText-->
+";i:405;s:20:"<div id='wikitext'>
+";i:406;s:347:"<div class="quoteright" style="width:282px;" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheSimpsons' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheSimpsons'><img src='http://static.tvtropes.org/pmwiki/pub/images/RainierWolfcastle.gif' class='embeddedimage' border='0' alt='' /></a></div>
+";i:407;s:229:"<div class="acaptionright" style="width:282px;" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Predator' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Predator'>Get to the choppah!</a></div>
+";i:408;s:1303:"<p></p><div class='indent'><em>"I'm <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Eagleland' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Eagleland'>American</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AbsoluteXenophobe' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AbsoluteXenophobe'>and you're not! So</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrecisionFStrike' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrecisionFStrike'>FUCKING</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AbsoluteXenophobe' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AbsoluteXenophobe'>DIE!</a>" <br /><br />"I'll cry when I'm done killing." <br /><br />"<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Eagleland' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Eagleland'>Welcome to the Land of Freedom</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThisIsForEmphasisBitch' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThisIsForEmphasisBitch'>Bitches!</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShoutingShooter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShoutingShooter'>AHHHHHHHHH!</a>"</em>
+";i:409;s:255:"<div class='indent'>&#8212; <strong>Jack Howitzer</strong> (various quotes from his films), <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GTARadio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GTARadio'>GTA Radio</a></em>
+";i:410;s:1141:"</div></div><p></p>An <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AffectionateParody' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AffectionateParody'>Affectionate Parody</a> of 1980s <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionHero'>action stars</a>. It could be an actor, or a character based on one of them, or a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheTerminator' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheTerminator'>futuristic killer robot</a>. The most common star used for this trope is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/ArnoldSchwarzenegger' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/ArnoldSchwarzenegger'>Arnold Schwarzenegger</a>, particularly exaggerating his accent, hence the trope name. But other stars, like <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SylvesterStallone' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SylvesterStallone'>Sylvester Stallone</a>, happen as well.
+";i:411;s:258:"<p></p>If the character is animated, this overlaps with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoCelebritiesWereHarmed' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoCelebritiesWereHarmed'>No Celebrities Were Harmed</a>.
+";i:412;s:7:"<hr />
+";i:413;s:18:"<h2>Examples</h2>
+";i:414;s:122:"<p></p><div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:415;s:193:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp;Anime &amp; Manga&nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:416;s:428:"<ul ><li> Luna's dad in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/SetoNoHanayome' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/SetoNoHanayome'>Seto no Hanayome</a></em>, is the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NinjaPirateZombieRobot' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NinjaPirateZombieRobot'>Terminator. And a yakuza. And a merman</a>.
+";i:417;s:275:"</li><li> When <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/SDGundamForce' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/SDGundamForce'>SD Gundam Force</a></em> was dubbed in America, weapons expert Destroyer Dom is given an Ahnold flavor.
+";i:418;s:241:"</li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/YuGiOhGX' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/YuGiOhGX'>Yu-Gi-Oh! GX</a></em> dub, Gem Beast Amber Mammoth is given an Ahnold accent.
+";i:419;s:939:"</li><li> Bando in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/ElfenLied' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/ElfenLied'>Elfen Lied</a></em> is a <em>walking</em> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShoutOut' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShoutOut'>Shout Out</a> to <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheTerminator' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheTerminator'>The Terminator</a></em>, up to and including <span class="spoiler" title="you can set spoilers visible by default on your profile" >having a bionic prosthetic arm and special eyes</span>, despite not having the accent. His name sounds awfully familiar to <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Rambo' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Rambo'>Rambo</a></em>.
+";i:420;s:443:"</li><li> Mr. Lucky Strike, the PE teacher from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/FutabaKunChange' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/FutabaKunChange'>Futaba-kun Change!</a></em>, looks and acts quite a lot like Dutch from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Predator' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Predator'>Predator</a></em>.
+";i:421;s:430:"</li><li> Guts' voice actor from the American dub of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Berserk' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Berserk'>Berserk</a></em> played this up at certain points during the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HilariousOuttakes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HilariousOuttakes'>outtakes</a>.
+";i:422;s:460:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/YuYuHakusho' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/YuYuHakusho'>YuYu Hakusho</a></em>: Possibly Younger Toguro. He bears an uncanny resemblance to the Terminator, as well as having Arnold's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TesshoGenda' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TesshoGenda'>Japanese dub voice</a>...
+";i:423;s:728:"</li><li> Goku, in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/DragonBall' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/DragonBall'>Dragon Ball</a></em>, encounters a killer android called Sargent Metallic (Major Metallotron in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Funimation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Funimation'>Funimation</a> English dub), who is clearly an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Expy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Expy'>expy</a> of the Terminator. He is one of the bad guys that Goku defeats fighting his way up through the Red Ribbon Army's Muscle Tower.
+";i:424;s:596:"<ul ><li> In the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MilestoneCelebration' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MilestoneCelebration'>anime's 10th anniversary movie</a> Metallic got a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RaceLift' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RaceLift'>Race Lift</a> into a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ScaryBlackMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ScaryBlackMan'>Scary Black Man</a>, taking him away from this trope.
+";i:425;s:27:"</li></ul></li></ul></div>
+";i:426;s:182:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp;Comedy&nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:427;s:153:"<ul ><li> Australian comedy duo The Umbilical Brothers frequently use impressions of Schwarzenegger as staples of their live-action and puppet routines.
+";i:428;s:17:"</li></ul></div>
+";i:429;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp;Comic Books&nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:430;s:186:"<ul ><li> Randy Violent in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/TheDCU' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/TheDCU'>The DCU</a>.
+";i:431;s:692:"</li><li> Arnie from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/NinjaHighSchool' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/NinjaHighSchool'>Ninja High School</a></em> doesn't even try to be subtle about it. Also Kenterminator, a mix of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FistOfTheNorthStar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FistOfTheNorthStar'>Kenshiro</a> and the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Terminator' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Terminator'>Terminator</a>. Maybe others as well &#8212; the whole series runs on shout outs.
+";i:432;s:421:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/IncredibleHulk' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/IncredibleHulk'>Hulk</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Marvel2099' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Marvel2099'>2099</a></em> features a brief appearance by an action movie star called Albert Studebaker.
+";i:433;s:466:"</li><li> There was once a <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Spider-Man' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Spider-Man'>Spider-Man</a></em> subplot with Mary Jane getting excited over being in an "Arnold Schwarztenheimer" movie but choosing to pass up the role when it was revealed she would have to do a nude scene. The Arnold never showed up but it was obvious who the celebrity was supposed to be.
+";i:434;s:17:"</li></ul></div>
+";i:435;s:199:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp;Films &#8212; Animation&nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:436;s:308:"<ul ><li> Dolph, one of <span class="spoiler" title="you can set spoilers visible by default on your profile" >Boingo</span>'s henchmen in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Hoodwinked' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Hoodwinked'>Hoodwinked</a></em>.
+";i:437;s:246:"</li><li> In Disney's <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Disney/Aladdin' title='http://tvtropes.org/pmwiki/pmwiki.php/Disney/Aladdin'>Aladdin</a></em>, the Genie does a brief impression of Arnold Schwarzenegger.
+";i:438;s:638:"</li><li> Volf Volfssonssonssonsson in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedAdaptation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedAdaptation'>Animated Adaptation</a> of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/SoulMusic' title='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/SoulMusic'>Soul Music</a></em>. He's a Hubland barbarian, riffing off one of Ahnold's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConanTheBarbarian' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConanTheBarbarian'>earlier roles</a>.
+";i:439;s:17:"</li></ul></div>
+";i:440;s:201:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp;Films &#8212; Live-Action&nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:441;s:616:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/LastActionHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/LastActionHero'>Last Action Hero</a></em>: <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/ArnoldSchwarzenegger' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/ArnoldSchwarzenegger'>Arnold Schwarzenegger</a> plays Jack Slater, an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AffectionateParody' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AffectionateParody'>Affectionate Parody</a> of <em>himself</em>.
+";i:442;s:434:"<div class='indent'><strong>Danny Madigan:</strong> You think you are funny, don't you? <br /><strong>Jack Slater:</strong> I know I am. I'm the famous comedian Arnold Braunschweiger. <br /><strong>Danny Madigan:</strong> Schwarzenegger! <br /><strong>Jack Slater:</strong> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Gesundheit' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Gesundheit'>Gesundheit</a>.
+";i:443;s:393:"</div></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConanTheBarbarian' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConanTheBarbarian'>Conan the Barbarian</a></em>. The DVD commentary starts with director John Milius saying in an "Arnie" accent: "My name is Arnold Schwarzenegger." The real Schwarzenegger then goes: "And I'm John Milius the Great!"
+";i:444;s:1001:"</li><li> The scriptwriter for <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/EndOfDays' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/EndOfDays'>End of Days</a></em> pitched his script on how great it would be to hear Arnold Schwarzenegger say "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OneLiner' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OneLiner'>I'm sending you back to Hell!</a>" to the Devil (this indeed is the best part of the movie). But when pitching <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/EndOfDays' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/EndOfDays'>End of Days</a></em> to the man himself, he suddenly realised that "I can't do '<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAhnold' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAhnold'>Arnie</a>' to Arnie!" Fortunately Schwarzenegger said the line himself, thus avoiding any embarrassment.
+";i:445;s:470:"</li><li> Lampshaded, like much of the stuff going on in <em>Super Capers</em>, of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GadgeteerGenius' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GadgeteerGenius'>Gadgeteer Genius</a>' <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RobotBuddy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RobotBuddy'>Robot Buddy</a> Robo, who bases all his inventions off movies.
+";i:446;s:17:"</li></ul></div>
+";i:447;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp;Live-Action TV&nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:448;s:205:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/SaturdayNightLive' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/SaturdayNightLive'>Saturday Night Live</a></em>
+";i:449;s:120:"<ul ><li> Pumping Up with Hans und Franz'': "I am Hans." "Und I am Franz." "And ve ah here to pump..." *clap* "YOU UP!"
+";i:450;s:268:"</li><li> On an aside note, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WeirdAlEffect' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WeirdAlEffect'>most versions of this trope that use the phrase "Girly Man" are getting it from here.</a>
+";i:451;s:88:"</li><li> In one episode, the <em>real</em> Arnold turns up and shows them what's what.
+";i:452;s:533:"</li></ul></li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheSarahConnorChronicles' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheSarahConnorChronicles'>The Sarah Connor Chronicles</a></em>, the primary Terminator antagonist Cromartie takes the appearance of an actor best known in that universe for playing <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConanTheBarbarian' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConanTheBarbarian'>a barbarian</a>.
+";i:453;s:575:"</li><li> Chip Rommel from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/SonOfTheBeach' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/SonOfTheBeach'>Son Of The Beach</a></em> is a straight-up <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Parody' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Parody'>parody</a> of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/ArnoldSchwarzenegger' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/ArnoldSchwarzenegger'>Arnold Schwarzenegger</a>.
+";i:454;s:258:"</li><li> The Lizzinator monster in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/MightyMorphinPowerRangers' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/MightyMorphinPowerRangers'>Mighty Morphin' Power Rangers</a></em>.
+";i:455;s:17:"</li></ul></div>
+";i:456;s:181:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp;Music&nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:457;s:248:"<ul ><li> The song "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Catchphrase' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Catchphrase'>I'll be back</a>" by Arnie and the Terminators is sung in this manner, naturally.
+";i:458;s:513:"</li><li> Three words: Austrian, Death, Machine! All of their songs not only have Ahnold style vocals, but they all pay tribute to various films starring Arnold Schwarzenegger. <a class='urllink' href='http://www.youtube.com/watch?v=tPIO86jTrQQ'>"Get to the Choppa!"<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> They even have their lead singer in a giant rubber Schwarzenegger mask and call him "Ahnold", just to score the extra point.
+";i:459;s:17:"</li></ul></div>
+";i:460;s:188:"<p></p><div class="folderlabel" onclick="togglefolder('folder7');">&nbsp;&nbsp;&nbsp;&nbsp;Puppet Shows&nbsp;</div><div id="folder7" class="folder" isfolder="true" style="display:block;">
+";i:461;s:210:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/LesGuignolsDeLInfo' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/LesGuignolsDeLInfo'>Les Guignols de l'info</a></em>
+";i:462;s:548:"<ul ><li> In this French <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpittingImage' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpittingImage'>Spitting Image</a></em>-style satirical show, Monsieur Sylvestre, a highly cynical and brutal man with a dark sense of humour who occupies many different functions (White House adviser, Cardinal, CEO, etc.), is one of the few characters who does not correspond directly to any real-life person... but he <em>does</em> look an awful lot like Sylvester Stallone, though.
+";i:463;s:233:"</li><li> His voice has grown different from the one of the puppet standing in for Sylvester Stallone himself, however. The latter is closer to the French dubbing voice in Stallone's movies (mainly <em>Rambo</em> or <em>Rocky</em>).
+";i:464;s:428:"</li><li> Also, the puppet for <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/ArnoldSchwarzenegger' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/ArnoldSchwarzenegger'>Arnold Schwarzenegger</a> always speaks with the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Terminator' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Terminator'>Terminator</a>'s voice.
+";i:465;s:27:"</li></ul></li></ul></div>
+";i:466;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder8');">&nbsp;&nbsp;&nbsp;&nbsp;Video Games&nbsp;</div><div id="folder8" class="folder" isfolder="true" style="display:block;">
+";i:467;s:386:"<ul ><li> Jack Howitzer in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GTARadio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GTARadio'>radio stations</a> in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/GrandTheftAuto' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/GrandTheftAuto'>Grand Theft Auto</a></em>.
+";i:468;s:210:"</li><li> Sven T. Uncommon in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PopfulMail' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PopfulMail'>Popful Mail</a></em>.
+";i:469;s:222:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DukeNukem' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DukeNukem'>Duke Nukem</a> is a combination of this and Clint Eastwood.
+";i:470;s:334:"</li><li> <a class='urllink' href='http://www.youtube.com/watch?v=SFFWwLgQtXw'>This review<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> illustrates that even if the original game (<em>Ark 22</em>) doesn't include Arnold, the fans can always pretend it does.
+";i:471;s:1368:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/CommandAndConquer' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/CommandAndConquer'>Red Alert 2: Yuri's Revenge</a></em> has the second mission of the Allied campaign take place in Hollywood. As you explore the map you can find parodies of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ClintEastwood' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ClintEastwood'>Clint Eastwood</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/ArnoldSchwarzenegger' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/ArnoldSchwarzenegger'>Arnold Schwarzenegger</a>, and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SylvesterStallone' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SylvesterStallone'>Sylvester Stallone</a> (in that order, depending on where you send your forces) that will help you to take back the city and stop Yuri from feeding the civilian population of Los Angeles into his Grinders. Unfortunately, a patch made it so that <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Bowdlerise' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Bowdlerise'>the names and voices of these units were changed to the standard-issue "Civilian" and "G.I.", respectively</a>.
+";i:472;s:227:"<ul ><li> But if you make some modding, it's possible to make the voices back for them and the names. Fact: Voices weren't deleted from the game's files. But you still need to edit one file to edit the names as what they were.
+";i:473;s:282:"</li></ul></li><li> Sting Sniperscope from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/EatLeadTheReturnOfMattHazard' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/EatLeadTheReturnOfMattHazard'>Eat Lead The Return Of Matt Hazard</a></em>.
+";i:474;s:189:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SpaceQuest' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SpaceQuest'>Space Quest</a></em>
+";i:475;s:122:"<ul ><li> <em>Space Quest 3</em> has Arnoid the Annihilator, a Terminator-like android sent to kill Roger for mail fraud.
+";i:476;s:60:"</li><li> <em>Space Quest 6</em> has an Arnold-like T-1000.
+";i:477;s:235:"</li></ul></li><li> Jim the body building pit bull from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Toonstruck' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Toonstruck'>Toonstruck</a></em>.
+";i:478;s:454:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BilingualBonus' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BilingualBonus'>Ubel</a> from the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BattalionWars' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BattalionWars'>Battalion Wars</a></em> series. To underline the reference, he's promised the role of "Governator" in his boss' empire.
+";i:479;s:647:"</li><li> The Thor pilot in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/StarcraftII' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/StarcraftII'>Starcraft II</a></em>. In fact, most of his "pissed" lines are Arnold quotes (except for the one <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Ghostbusters' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Ghostbusters'>Ghostbusters</a></em> reference) like this <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConanTheBarbarian' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConanTheBarbarian'>gem</a>:
+";i:480;s:128:"<div class='indent'>"What is best? To crush the Zerg, see them driven before you, and to hear the lamentations of the Protoss."
+";i:481;s:455:"</div></li><li> The Cryo Legionnaires in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/CommandAndConquerRedAlert3' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/CommandAndConquerRedAlert3'>Command And Conquer Red Alert 3</a></em>, are basically <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/BatmanAndRobin' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/BatmanAndRobin'>Mr. Freeze</a>.
+";i:482;s:249:"</li><li> Lisa's father in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Persona2' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Persona2'>Persona 2: Innocent Sin</a></em> is a carbon copy of Steven Seagal.
+";i:483;s:232:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LeagueOfLegends' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LeagueOfLegends'>League Of Legends</a></em>: Sion certainly qualifies.
+";i:484;s:356:"</li><li> Several mercenaries in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/JaggedAlliance' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/JaggedAlliance'>Jagged Alliance</a></em> series count. The most stereotypical example is Bobby "Steroid" Gontarski who shares his appearance and accent with Schwarzenegger.
+";i:485;s:548:"</li><li> The Hublanders in the Broken/Mended Drum in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Discworld' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Discworld'>Discworld</a></em> PC adventure game both speak with the Arnie accent, and even go so far as to say in conversation "This ffery boring town" and the followup "Ja... <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CatchPhrase' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CatchPhrase'>ve von't be back.</a>"
+";i:486;s:296:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PrinnyCanIReallyBeTheHero' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PrinnyCanIReallyBeTheHero'>Prinny Can I Really Be The Hero</a></em>: You don't get anymore Ahnold than Asagi Schwarzinature.
+";i:487;s:652:"</li><li> Johnny Cage of the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MortalKombat' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MortalKombat'>Mortal Kombat</a></em> series is very much an expy of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JeanClaudeVanDamme' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JeanClaudeVanDamme'>Jean-Claude Van Damme</a>, because originally the game was to star the real Van Damme, with a bunch of other characters he could beat up. When Van Damme backed out because he considered it "selling out", thus was born Mortal Kombat as we know it.
+";i:488;s:76:"</li><li> Biff Atlas, the bodybuilding ghost from <em>Luigi's Mansion</em>.
+";i:489;s:458:"</li><li> One boss in the original <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MetalGear' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MetalGear'>Metal Gear</a></em> was a pair of Terminator <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainErsatz' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainErsatz'>ersatzes</a> named Arnold, later renamed Bloody Brad for legal reasons.
+";i:490;s:435:"</li><li> Abore in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DoubleDragon' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DoubleDragon'>Double Dragon</a> II</em>, although the arcade game's version also has elements of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AndreTheGiant' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AndreTheGiant'>André the Giant</a>.
+";i:491;s:553:"</li><li> The Sledger in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/BattleRealms' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/BattleRealms'>Battle Realms</a></em> (a game set in a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FantasyCounterpartCulture' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FantasyCounterpartCulture'>Fantasy Counterpart Culture</a> of feudal Japan) is an Arnold reference, constantly talking with the accent and making references to his giant muscles.
+";i:492;s:162:"</li><li> Bill Rizer is a pretty obvious stand in for Schwarzengger in the <em>Contra</em> series, while his buddy Lance Bean is the same for Sylvester Stallone.
+";i:493;s:637:"</li><li> The Barbarians of Krolm in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Majesty' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Majesty'>Majesty</a>: The Fantasy Kingdom Sim</em> are obvious examples, being <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Expy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Expy'>Expies</a> of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConanTheBarbarian' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConanTheBarbarian'>Conan the Barbarian</a></em> and having exaggerated Austrian accents.
+";i:494;s:17:"</li></ul></div>
+";i:495;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder9');">&nbsp;&nbsp;&nbsp;&nbsp;Web Comics&nbsp;</div><div id="folder9" class="folder" isfolder="true" style="display:block;">
+";i:496;s:486:"<ul ><li> Frans Rayner, "The Great Dane", from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/TheAdventuresOfDrMcNinja' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/TheAdventuresOfDrMcNinja'>The Adventures of Dr. McNinja</a></em>. Action star turned evil mastermind &#8212; and a clear homage to Jean-Claude Van Damme. The author even said in an interview that if the webcomic was made into a movie, he would insist on Jean-Claude playing Frans.
+";i:497;s:268:"</li><li> <a class='urllink' href='http://www.timeslikethis.com/index.php?id=184'>"Nicki, do your Terminator impression!" "I'm from da FYOO-CHAH!"<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>
+";i:498;s:17:"</li></ul></div>
+";i:499;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder10');">&nbsp;&nbsp;&nbsp;&nbsp;Web Original&nbsp;</div><div id="folder10" class="folder" isfolder="true" style="display:block;">
+";i:500;s:455:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Roleplay/WeAreOurAvatars' title='http://tvtropes.org/pmwiki/pmwiki.php/Roleplay/WeAreOurAvatars'>We Are Our Avatars</a></em> has Mark, who looks and acts like <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/ArnoldSchwarzenegger' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/ArnoldSchwarzenegger'>Arnold Schwarzenegger</a> in all of his roles.
+";i:501;s:17:"</li></ul></div>
+";i:502;s:195:"<p></p><div class="folderlabel" onclick="togglefolder('folder11');">&nbsp;&nbsp;&nbsp;&nbsp;Western Animation&nbsp;</div><div id="folder11" class="folder" isfolder="true" style="display:block;">
+";i:503;s:206:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheSimpsons' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheSimpsons'>The Simpsons</a></em>
+";i:504;s:133:"<ul ><li> Rainier Wolfcastle is one of the best-known parodies. McBain, the supercop action hero he plays, is an example in himself.
+";i:505;s:724:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheSimpsonsMovie' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheSimpsonsMovie'>The movie</a> also has "President" Arnold Schwarzenegger who, while not exactly an example of this trope since it was the actual character it was based on, was quite literally <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PaperThinDisguise' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PaperThinDisguise'>Rainier Wolfcastle with</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AdaptationDyeJob' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AdaptationDyeJob'>brown hair</a>.
+";i:506;s:241:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheFairlyOddparents' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheFairlyOddparents'>The Fairly Oddparents</a></em>
+";i:507;s:33:"<ul ><li> Arnold Shwartzengerman
+";i:508;s:50:"</li><li> Jorgen von Strangle from the same show.
+";i:509;s:76:"</li><li> The show also has Sylvester Calzone, based on Stallone of course.
+";i:510;s:296:"</li></ul></li><li> Arnold Mousenegger, a minor character from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/ChipNDaleRescueRangers' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/ChipNDaleRescueRangers'>Chip N Dale Rescue Rangers</a></em>.
+";i:511;s:297:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanTheAnimatedSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanTheAnimatedSeries'>Batman The Animated Series</a></em> makes reference to action star Donald Shaltenpepper.
+";i:512;s:862:"</li><li> Arnold the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AngryGuardDog' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AngryGuardDog'>security guard dog</a> from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TinyToonAdventures' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TinyToonAdventures'>Tiny Toon Adventures</a></em>. He's got a little bit of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TotallyRadical' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TotallyRadical'>Totally Radical</a> '80s icon <a class='urllink' href='http://en.wikipedia.org/wiki/Spuds_MacKenzie'>Spuds Mackenzie<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> mixed in for more laffs.
+";i:513;s:210:"</li><li> Ronald Weisenheimer from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Doug' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Doug'>Doug</a></em>.
+";i:514;s:513:"</li><li> Blitzwing's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonality' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonality'>Hothead face</a> in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TransformersAnimated' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TransformersAnimated'>Transformers Animated</a></em> seems to be based on an angry Arnold Schwartzenegger parody in terms of voice and demeanor.
+";i:515;s:331:"</li><li> A variation occurred in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/JohnnyBravo' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/JohnnyBravo'>Johnny Bravo</a></em> with the character of Squint Ringo, an obvious parody of <em>90's</em> action "star", Steven Seagal.
+";i:516;s:284:"</li><li> One called Sly Eastenegger appears in an episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheMask' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheMask'>The Mask</a></em>, a parody of both Arnie and Stallone.
+";i:517;s:1073:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheGrimAdventuresOfBillyAndMandy' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheGrimAdventuresOfBillyAndMandy'>The Grim Adventures Of Billy And Mandy</a></em> has Hoss Delgado, who seems based on <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KurtRussell' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KurtRussell'>Kurt Russell</a>, particularly Snake Plissken in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/EscapeFromNewYork' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/EscapeFromNewYork'>Escape from New York</a></em>, and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/BruceCampbell' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/BruceCampbell'>Bruce Campbell</a> (as Ash Williams in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/EvilDead' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/EvilDead'>Evil Dead</a></em>).
+";i:518;s:258:"</li><li> The animated adaptation of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Beetlejuice' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Beetlejuice'>Beetlejuice</a></em> has Armhold Musselhugger.
+";i:519;s:383:"</li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AdventuresOfSonicTheHedgehog' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AdventuresOfSonicTheHedgehog'>Adventures Of Sonic The Hedgehog</a></em> episode "Robolympics", Dr. Robotnik had a muscular Badnik called Arnold Robonegger doing his team's weight-lifting.
+";i:520;s:233:"</li><li> This was how <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Histeria' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Histeria'>Histeria</a></em> portrayed Leif Ericson.
+";i:521;s:229:"</li><li> From <em><a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Popetown' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Popetown'>Popetown</a></em>, Richter the Swiss Guard is another Arnold parody.
+";i:522;s:652:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BikerMiceFromMars' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BikerMiceFromMars'>Biker Mice From Mars</a></em>, the title heroes face the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MeaningfulName' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MeaningfulName'>Exterminator</a> in their first episode debut. "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShoutOut' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShoutOut'>I'll be back</a>," indeed, as he sinks away in acid....
+";i:523;s:244:"</li><li> A fictional TV hero called The Abdicator in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/HeyArnold' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/HeyArnold'>Hey Arnold</a></em>
+";i:524;s:639:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheCritic' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheCritic'>The Critic</a></em>, usually unafraid to hit celebrities with their real names, had a fictional version of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JeanClaudeVanDamme' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JeanClaudeVanDamme'>Jean-Claude Van Damme</a> named <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePope'>Jean-Paul LePope</a>.
+";i:525;s:17:"</li></ul></div>
+";i:526;s:7:"<hr />
+";i:527;s:1518:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/AbbeyRoadCrossing">Abbey Road Crossing</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/StockParodies">Stock Parodies</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Music/AlsoSprachZarathustra">Also Sprach Zarathustra</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/AGodIAmNot">A God I Am Not</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes">Characterization Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/AirHugging">Air Hugging</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/AgonyOfTheFeet">Agony of the Feet</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes">Comedy Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/AirHugging">Air Hugging</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:528;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:529;s:10:"<p> </p>
+";i:530;s:10:"<center>
+";i:531;s:2:"
+";i:532;s:24:"<!-- med rectangle -->
+";i:533;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:534;s:33:"<script type='text/javascript'>
+";i:535;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:536;s:11:"</script>
+";i:537;s:8:"</div>
+";i:538;s:2:"
+";i:539;s:11:"</center>
+";i:540;s:24:"</td><!-- wikibody -->
+";i:541;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:542;s:7:"</td>
+";i:543;s:7:"</tr>
+";i:544;s:10:"</table>
+";i:545;s:22:"<!--PageFooterFmt-->
+";i:546;s:77:"<div class="alt_title" style="font-size:x-small;text-align:center;" ></div>
+";i:547;s:10:"<center>
+";i:548;s:44:"<table style="width:606px;margin:0 auto;">
+";i:549;s:7:"	<tr>
+";i:550;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:551;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:552;s:258:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAhnold?action=edit'> edit page</a></div></div></td>
+";i:553;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:554;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:555;s:8:"	</tr>
+";i:556;s:10:"</table>
+";i:557;s:11:"</center>
+";i:558;s:21:"<div id='wikifoot'>
+";i:559;s:27:"    <div class='footnav'>
+";i:560;s:2:"
+";i:561;s:14:"			 <center>
+";i:562;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:563;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:564;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:565;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:566;s:15:"				</center>
+";i:567;s:2:"
+";i:568;s:29:"    </div><!-- wikifoot -->
+";i:569;s:23:"<!--/PageFooterFmt-->
+";i:570;s:12:"40127<br/>
+";i:571;s:3:"1
+";i:572;s:8:"</div>
+";i:573;s:26:"</div><!-- container -->
+";i:574;s:2:"
+";i:575;s:9:"</body>
+";i:576;s:21:"<!--ScriptInsert-->
+";i:577;s:9:"</html>
+";}}

@@ -1,0 +1,545 @@
+a:2:{i:0;i:1377888911;i:1;a:544:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:60:"<title>Costumer - Television Tropes &amp; Idioms  </title>
+";i:5;s:126:"<meta name="Description" content="The Costumer trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:10:"</style>
+";i:25;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:26;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:27;s:33:"<script type="text/javascript">
+";i:28;s:26:"  var _gaq = _gaq || [];
+";i:29;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:30;s:34:"  _gaq.push(['_trackPageview']);
+";i:31;s:2:"
+";i:32;s:17:"  (function() {
+";i:33;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:34;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:35;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:36;s:9:"  })();
+";i:37;s:2:"
+";i:38;s:32:"	function subpage(sel, title){
+";i:39;s:4:"		
+";i:40;s:40:"		var namespce = ""+getselection(sel);
+";i:41;s:34:"		if(namespce.trim()=="")return;
+";i:42;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:43;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:44;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:45;s:29:"		window.location.href=url;
+";i:46;s:4:"	}
+";i:47;s:32:"	function p5(groupname,title){
+";i:48;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:49;s:4:"	}
+";i:50;s:27:"	function togglenote(id){
+";i:51;s:23:"		var ele=object(id);
+";i:52;s:34:"		var state = ele.style.display;
+";i:53;s:49:"		if(state=='none') ele.style.display='inline';
+";i:54;s:48:"		if(state=='inline')ele.style.display='none';
+";i:55;s:4:"	}
+";i:56;s:35:"	var googletag = googletag || {};
+";i:57;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:58;s:16:"	(function() {
+";i:59;s:47:"	var gads = document.createElement('script');
+";i:60;s:21:"	gads.async = true;
+";i:61;s:33:"	gads.type = 'text/javascript';
+";i:62;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:63;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:64;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:65;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:66;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:67;s:8:"	})();
+";i:68;s:2:"
+";i:69;s:34:"	googletag.cmd.push(function() {
+";i:70;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:71;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:73;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:74;s:45:"		googletag.pubads().enableSingleRequest();
+";i:75;s:31:"		googletag.enableServices();
+";i:76;s:6:"	});
+";i:77;s:2:"
+";i:78;s:11:"</script>
+";i:79;s:2:"
+";i:80;s:9:"</head>
+";i:81;s:8:"<body>
+";i:82;s:40:"<div class="container" id="container">
+";i:83;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:84;s:6:"<tr>
+";i:85;s:46:"<td style="width:166px;vertical-align:top;">
+";i:86;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:87;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:88;s:38:"<g:plusone size="small"></g:plusone>
+";i:89;s:2:"
+";i:90;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:91;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:92;s:6:"<ul>
+";i:93;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:94;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:95;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:96;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:97;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:98;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:99;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:100;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:101;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:102;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:103;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:104;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:105;s:7:"</ul>
+";i:106;s:8:"</div>
+";i:107;s:2:"
+";i:108;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:109;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:110;s:2:"
+";i:111;s:179:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','Costumer');">send request</button><hr/></div>
+";i:112;s:2:"
+";i:113;s:320:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="Costumer" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:114;s:2:"
+";i:115;s:51:"<div style="font-size:small;text-align:center;" >
+";i:116;s:30:"Find recent edits by troper:
+";i:117;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:118;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:119;s:8:"</div>
+";i:120;s:7:"<hr/>
+";i:121;s:7:"<ul>	
+";i:122;s:4:"		
+";i:123;s:7:"<hr/>
+";i:124;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:125;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:126;s:57:"		<input type="hidden" name="title" value="Costumer" />
+";i:127;s:54:"		This article needs some moderator assistance with:
+";i:128;s:9:"		<br/>
+";i:129;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:130;s:9:"		<br/>
+";i:131;s:4:"		
+";i:132;s:34:"		<p style="text-align:center;">
+";i:133;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:134;s:8:"		</p>
+";i:135;s:34:"		<p style="text-align:center;">
+";i:136;s:48:"			<input type="submit" value="send report" />
+";i:137;s:8:"		</p>
+";i:138;s:11:"		</form>
+";i:139;s:7:"<hr/>
+";i:140;s:6:"<ul>
+";i:141;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:142;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:143;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:144;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:145;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:146;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:147;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:148;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:149;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:150;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:151;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:152;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:153;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:154;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:155;s:137:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.Costumer'>Referral Count for This Page</a></li>
+";i:156;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:157;s:112:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=Costumer'>Article Relationships</a></li> -->
+";i:158;s:98:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.Costumer'>Folderize</a></li>
+";i:159;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:160;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:161;s:7:"</ul>
+";i:162;s:8:"	<hr/>
+";i:163;s:6:"<ul>
+";i:164;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:165;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:166;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:167;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:168;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:169;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:170;s:7:"</ul>
+";i:171;s:7:"<hr/>
+";i:172;s:2:"
+";i:173;s:8:"</div>
+";i:174;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:175;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:176;s:8:"		<ul>
+";i:177;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:178;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:179;s:9:"		</ul>
+";i:180;s:8:"</div>
+";i:181;s:10:"<center>
+";i:182;s:34:"		<div style="margin-top:4px;">	
+";i:183;s:5:"			
+";i:184;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:185;s:33:"<script type='text/javascript'>
+";i:186;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:187;s:93:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/Costumer");
+";i:188;s:11:"</script>
+";i:189;s:8:"</div>
+";i:190;s:2:"
+";i:191;s:11:"		</div>	
+";i:192;s:10:"		<div>	
+";i:193;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:194;s:6:"		 	
+";i:195;s:4:"		
+";i:196;s:4:"		
+";i:197;s:10:"		</div>
+";i:198;s:102:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Costumer">Main</a><br/>
+";i:199;s:9:"		<div>
+";i:200;s:10:"		</div>
+";i:201;s:36:"		<div style="font-size:x-small;">
+";i:202;s:11:"				<hr/>
+";i:203;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:204;s:14:"				<p> </p>
+";i:205;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:206;s:13:"				<p></p>
+";i:207;s:11:"				<ul >
+";i:208;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:209;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:210;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:211;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:212;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:213;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:214;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:215;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:216;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:217;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:219;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:220;s:11:"				</li>
+";i:221;s:11:"				</ul>
+";i:222;s:13:"				<p></p>
+";i:223;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:224;s:13:"				<p></p>
+";i:225;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:226;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:227;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:228;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:229;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:230;s:6:"				
+";i:231;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:232;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:233;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:234;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:235;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:236;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:237;s:6:"				
+";i:238;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:239;s:16:"				</li></ul>
+";i:240;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:241;s:13:"				<p></p>
+";i:242;s:11:"				<ul >
+";i:243;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:244;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:245;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:246;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:247;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:248;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:249;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:250;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:251;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:252;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:253;s:6:"				
+";i:254;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:255;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:256;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:257;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:258;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:259;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:260;s:6:"				
+";i:261;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:262;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:263;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:264;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:265;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:266;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:268;s:11:"				</li>
+";i:269;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:270;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:271;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:272;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:273;s:6:"				
+";i:274;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:275;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:276;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:278;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:279;s:16:"				</li></ul>
+";i:280;s:6:"				
+";i:281;s:13:"				<p></p>
+";i:282;s:39:"				<strong>Other Categories</strong>
+";i:283;s:13:"				<p></p>
+";i:284;s:10:"				<ul>
+";i:285;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:286;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:287;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:288;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:289;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:290;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:291;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:292;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:293;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:294;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:295;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:296;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:297;s:11:"				</ul>
+";i:298;s:11:"		</div>	
+";i:299;s:11:"</center>
+";i:300;s:2:"
+";i:301;s:30:"</div> <!-- wikileftpage -->
+";i:302;s:7:"</td>
+";i:303;s:20:"<td id='wikibody'>
+";i:304;s:2:"
+";i:305;s:21:"<!--PageTitleFmt-->
+";i:306;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:307;s:12:"    		<tr>
+";i:308;s:38:"    		<td id="wikicmds" align="top">
+";i:309;s:8:"    		
+";i:310;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:311;s:45:"    				<tr style="vertical-align:middle;">
+";i:312;s:31:"    					<td align="center" >
+";i:313;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:314;s:16:"    					</td>
+";i:315;s:15:"    				<td >
+";i:316;s:37:"    					<div style="width:400px;">
+";i:317;s:28:"                  <center>
+";i:318;s:27:"                  <table>
+";i:319;s:24:"                  <tr>
+";i:320;s:24:"                  <td>
+";i:321;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:322;s:27:"                    <div>
+";i:323;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:324;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:325;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:326;s:64:"                      <input type="text" name="q" size="31" />
+";i:327;s:28:"                    </div>
+";i:328;s:27:"                  </form>
+";i:329;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:330;s:25:"                  </td>
+";i:331;s:24:"                  <td>
+";i:332;s:46:"                  <div class="buttonframe" >
+";i:333;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:334;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:335;s:26:"                  </div>
+";i:336;s:25:"                  </div
+";i:337;s:25:"                  </td>
+";i:338;s:25:"                  </tr>
+";i:339;s:28:"                  </table>
+";i:340;s:29:"                  </center>
+";i:341;s:17:"    					</div>
+";i:342;s:15:"    				</td>
+";i:343;s:15:"    				</tr>
+";i:344;s:16:"    		</table>
+";i:345;s:8:"    		
+";i:346;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:347;s:10:"    				
+";i:348;s:27:"    				<tr valign="top">
+";i:349;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:350;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:351;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:352;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:353;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:354;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:355;s:15:"    				</tr>
+";i:356;s:10:"    				
+";i:357;s:10:"    				
+";i:358;s:8:"    		
+";i:359;s:16:"    		</table>
+";i:360;s:8:"    		
+";i:361;s:28:"    		<div id="wikilogo" >
+";i:362;s:16:"    		<center>
+";i:363;s:2:"
+";i:364;s:22:"<!-- leaderboard -->
+";i:365;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:366;s:33:"<script type='text/javascript'>
+";i:367;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:368;s:11:"</script>
+";i:369;s:8:"</div>
+";i:370;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:371;s:28:"    					<tr valign="top">
+";i:372;s:218:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'Costumer');" autocomplete="off"  style="width:50px;"><option> </option><option value="Main">Main</option></select></td>
+";i:373;s:263:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Costumer?action=source" >source</a></div></div></td>
+";i:374;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:375;s:264:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.Costumer">history</a></div></div></td>
+";i:376;s:266:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Costumer?action=edit'> edit page</a></div></div></td>
+";i:377;s:262:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/Costumer" >related</a></div></div></td>
+";i:378;s:38:"    							<td valign="middle"></td>
+";i:379;s:16:"    					</tr>
+";i:380;s:18:"    				</table>
+";i:381;s:10:"    				
+";i:382;s:35:"    				<div id="watchmsg"></div>
+";i:383;s:18:"    			</center>
+";i:384;s:13:"    		</td>
+";i:385;s:12:"     </tr>
+";i:386;s:6:"    
+";i:387;s:11:"    	<tr>
+";i:388;s:39:"    		<td id="wikititle" colspan="2">
+";i:389;s:40:"    				<div class="namespacebuttons">
+";i:390;s:638:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.Costumer" >&nbsp;Discussion </a></li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=Costumer" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/Costumer" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:391;s:16:"    				</div>
+";i:392;s:26:"    				<!--RepairBug-->
+";i:393;s:10:"    				
+";i:394;s:34:"    				<div class='pagetitle'> 
+";i:395;s:35:"    						  <span>Costumer</span>
+";i:396;s:16:"    				</div>
+";i:397;s:11:"    				 
+";i:398;s:13:"    		</td>
+";i:399;s:12:"    	</tr>
+";i:400;s:10:"</table>
+";i:401;s:2:"
+";i:402;s:16:"<!--PageText-->
+";i:403;s:20:"<div id='wikitext'>
+";i:404;s:346:"<div class="quoteright" style="width:300px;" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekTheNextGeneration' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekTheNextGeneration'><img src='http://static.tvtropes.org/pmwiki/pub/images/Costumer.jpg' class='embeddedimage' border='0' alt='' /></a></div>
+";i:405;s:244:"<div class="acaptionright" style="width:300px;" >Just another ho-hum <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpaceOpera' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpaceOpera'>Space Opera</a> episode.</div>
+";i:406;s:1639:"An alternative reality episode that's an excuse to put the characters in period costume. This trope is almost exclusively the property of sitcoms and <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/StarTrek' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/StarTrek'>Star Trek</a></em>. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWildWest' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWildWest'>The Wild West</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheRoaringTwenties' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheRoaringTwenties'>The Roaring Twenties</a> / the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenteelInterbellumSetting' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenteelInterbellumSetting'>Genteel Interbellum Setting</a> are popular destinations. In SitcomLand, it is usually either a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DreamSequence' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DreamSequence'>Dream Sequence</a> after a character falls asleep in front of the TV, or a flashback told by an older relative about the characters' <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IdenticalGrandson' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IdenticalGrandson'>identical ancestors</a>. It's also a popular type of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateUniverseFic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateUniverseFic'>Alternate Universe Fic</a>.
+";i:407;s:14:"<p></p><hr />
+";i:408;s:19:"<h2>Examples:</h2>
+";i:409;s:329:"<p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Manga' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Manga'>Manga</a></span>
+";i:410;s:295:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Pucca' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Pucca'>Pucca</a></em> has episodes consisting of episodes where the entire cast is in the Wild West, or in Canada, or Holland, or even in ancient Greece.
+";i:411;s:650:"</li><li> The "Boss Luffy" <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Filler' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Filler'>Fillers</a> in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/OnePiece' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/OnePiece'>One Piece</a></em>, which takes all the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoadsAndLoadsOfCharacters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoadsAndLoadsOfCharacters'>Loads and Loads of Characters</a> of the series and place them in a setting that's reminicent of ancient Japan.
+";i:412;s:194:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Comics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Comics'>Comics</a></span>
+";i:413;s:441:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GIJoe' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GIJoe'>G.I. Joe</a> vs The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Transformers' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Transformers'>Transformers</a> II,</em> some Transformers are cast back in time to the 1970s and 1930s, acquiring period vehicle modes.
+";i:414;s:411:"</li><li> Kitty's Fairy Tale, a reimagining of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Comicbook/XMen' title='http://tvtropes.org/pmwiki/pmwiki.php/Comicbook/XMen'>X-Men</a> in an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/ArabianNights' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/ArabianNights'>Arabian Nights</a>-esque bedside story.
+";i:415;s:770:"</li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/YoungJustice' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/YoungJustice'>Young Justice</a> 80</em> Page Giant, a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealityWarper' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealityWarper'>Reality Warper</a> reimagines the team into a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WildWest' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WildWest'>Wild West</a> setting and a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WorldWarII' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WorldWarII'>World War II</a> epic, among other things.
+";i:416;s:206:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a></span>
+";i:417;s:562:"<ul ><li> In the children's book series <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMagicTreehouse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMagicTreehouse'>The Magic Treehouse</a></em>, the two main leads, Jack and Annie get teleported to various locales and time periods throughout history. In most adventures, after they're finished warping, they find themselves in appropriate clothing of the time. When they went to ancient Rome, they wore togas. When they went to the North Pole, they had fur coats. And so on.
+";i:418;s:214:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LiveActionTV' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LiveActionTV'>Live-Action TV</a></span>
+";i:419;s:265:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDickVanDykeShow' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDickVanDykeShow'>The Dick Van Dyke Show</a></em>: Rob has an Wild West dream while having dental work done.
+";i:420;s:270:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheOddCouple' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheOddCouple'>The Odd Couple</a></em>: Felix tells the story of how his and Oscar's fathers knew each other in the 1920s.
+";i:421;s:337:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HappyDays' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HappyDays'>Happy Days</a></em> was a repeat offender, going back to such times as the First Thanksgiving, Prohibition and the Cunninghams' immigrant ancestors (it was a musical episode, too).
+";i:422;s:237:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GilligansIsland' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GilligansIsland'>Gilligan's Island</a></em>: Pretty much all of the "dream" episodes.
+";i:423;s:715:"</li><li> ABC once had sort of a "<em><a class='urllink' href='http://www.poobala.com/timeball.html'>time travel night<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a></em>", with the cast of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/SabrinaTheTeenageWitch' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/SabrinaTheTeenageWitch'>Sabrina the Teenage Witch</a></em> superimposed over the 1970s and the cast of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BoyMeetsWorld' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BoyMeetsWorld'>Boy Meets World</a></em> in World War II.
+";i:424;s:550:"<ul ><li> Hey, don't forget the two forgettable shows: <em><a class='urllink' href='http://en.wikipedia.org/wiki/You_Wish_(TV_series)'>You Wish<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a></em> wound up in the 1950's and <em><a class='urllink' href='http://en.wikipedia.org/wiki/Teen_Angel_(TV_series)'>Teen Angel<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a></em> was (also) trapped in the 1970's.
+";i:425;s:523:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/RedDwarf' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/RedDwarf'>Red Dwarf</a></em> had an interesting example where Kryten's struggle with a complex computer virus is shown as a Western with him cast as the drunk sheriff. The others eventually go in and help him as Western heroes. Related to the trope below, because in the beginning, Lister is playing a total immersion video game in the style of <em>Film Noir</em>.
+";i:426;s:317:"<ul ><li> Another notable example is "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JaneAusten' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JaneAusten'>Jane Austen</a> World", which is exactly what it sounds like. Except for Kryten arriving to break things up with a <em>T-55 tank</em>.
+";i:427;s:201:"<ul ><li> "Entering the King Arthur simulation with a book of cheats and attempting to seduce the queen of Camelot?! I haven't been this embarrased since my groinal box fell into mister Rimmer's soup!
+";i:428;s:471:"</li></ul></li></ul></li><li> The third season finale of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NorthernExposure' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NorthernExposure'>Northern Exposure</a></em> was a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WholeEpisodeFlashback' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WholeEpisodeFlashback'>Whole Episode Flashback</a> to the founding of Cecily.
+";i:429;s:390:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePrisoner' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePrisoner'>The Prisoner</a></em> episode "Living in Harmony" is another Western-themed <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Costumer' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Costumer'>Costumer</a>.
+";i:430;s:433:"</li><li> Variation in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer'>Buffy the Vampire Slayer</a></em> episode "Halloween": Thanks to magic, the characters literally become the figures whom they dress up as &#8212; Buffy is a young 18th century aristocrat, Xander is a soldier, and Willow is a ghost.
+";i:431;s:947:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HerculesTheLegendaryJourneys' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HerculesTheLegendaryJourneys'>Hercules: The Legendary Journeys</a></em> and <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/XenaWarriorPrincess' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/XenaWarriorPrincess'>Xena: Warrior Princess</a></em> were rather infamous for having episodes set in the show's future (our past, natch), starring <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IdenticalGrandson' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IdenticalGrandson'>identical descendants</a> or equally-identical <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpiritualSuccessor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpiritualSuccessor'>Spiritual Successors</a> of the title characters.
+";i:432;s:188:"</li><li> Let me count the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/StarTrek' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/StarTrek'>Treks</a>:
+";i:433;s:453:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekTheOriginalSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekTheOriginalSeries'>Star Trek: The Original Series</a></em>: Not counting the times they were actually on another planet dressed as Nazis or Gangsters, the TOS Ur-example is "City On The Edge Of Forever", though the Depression-era costumes were deliberately <em>not</em> gorgeous.
+";i:434;s:365:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekTheNextGeneration' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekTheNextGeneration'>Star Trek: The Next Generation</a></em> had "Time's Arrow", a two-parter, the episode where Q made them act out Robin Hood, and the Dixon Hill holodeck stories (see below).
+";i:435;s:423:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekDeepSpaceNine' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekDeepSpaceNine'>Deep Space Nine</a></em> had Bashir's James Bond holofantasies, the Ferengis visiting 1947, a holo-1963 where Vic Fontaine lived; and of course, the Tribble episode, where the Gorgeous Period they visited <em>was the Original Series</em>.
+";i:436;s:800:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekVoyager' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekVoyager'>Voyager</a></em> had the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TwoFistedTales' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TwoFistedTales'>pulp-inspired</a> Captain Proton!, WWII Occupied France with Alien Nazis, an Irish village, and <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Beowulf' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Beowulf'>Beowulf</a></em> on the holodeck. The actual time-travel "period piece" ep is a subversion, as the period was today, so they probably gave the costumers the day off and went to work in casual clothes.
+";i:437;s:237:"<ul ><li> Then when the Q Continuum got into a civil war and Voyager's crew got pulled into it, the Q's universe was dressed up as <em>the American Civil War</em> because its real appearance would have been too much for mortals to take.
+";i:438;s:243:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekEnterprise' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekEnterprise'>Star Trek: Enterprise</a></em> had Alien Nazis. Again.
+";i:439;s:98:"<ul ><li> Although that time, they were alien Nazis on Earth, working with <em>actual</em> Nazis.
+";i:440;s:92:"</li><li> They also did a "time travel to the present day" episode. Same effect as Voyager.
+";i:441;s:769:"</li></ul></li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/MacGyver' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/MacGyver'>MacGyver</a></em> had several dream episodes set in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWildWest' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWildWest'>The Wild West</a> town of Serenity. Cue <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReverseFunnyAneurysm' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReverseFunnyAneurysm'>chuckles</a> from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Firefly' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Firefly'>modern science fiction</a> fans.
+";i:442;s:400:"<ul ><li> And the two part episode where Mac found himself back in a pseudo medieval Scotland, primarily to set up <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheReveal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheReveal'>The Reveal</a> of Mac's first name. <span class="spoiler" title="you can set spoilers visible by default on your profile" > It's Angus.</span>
+";i:443;s:500:"</li></ul></li><li> A season-two episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PowerRangers' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PowerRangers'>Power Rangers</a></em> had the Pink Ranger teleported back to the Wild West, where she met the predictably-dressed identical ancestors of the rest of the team; when they got Ranger powers, their Ranger suits were largely the same, but featured scarves/bandanas, fringe on the gloves, and restyled boots.
+";i:444;s:221:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuddenlySusan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuddenlySusan'>Suddenly Susan</a></em> also went back to the Wild West.
+";i:445;s:350:"</li><li> Continuing with the Wild West, When <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WalkerTexasRanger' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WalkerTexasRanger'>Cordell Walker</a> would tell stories about Hayes Cooper, one of the first Texas Rangers, he would imagine Cooper looking very much like himself.
+";i:446;s:467:"</li><li> While they've never done full episodes, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/HowIMetYourMother' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/HowIMetYourMother'>How I Met Your Mother</a></em> has featured such scenes in at least two episodes. In <em>The Goat</em>, when we learn how Barnabus Stinson came to write the Bro Code, and twice in <em>the Sexless Innkeeper</em> when Barney and Ted recite their poems.
+";i:447;s:430:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ILoveLucy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ILoveLucy'>I Love Lucy</a></em> did this once. As to be expected, Lucy's dream is full of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMomentofFunny' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMomentofFunny'>Crowning Momentof Funny</a>.
+";i:448;s:1189:"</li><li> Not counting the <a class='urllink' href='http://www.imdb.com/title/tt0531116/'>1920's "Charleston dance" outfits<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> or the Pilgrim outfits for the <a class='urllink' href='http://www.imdb.com/title/tt0769860/'>silent school film<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> (beause every family has outfits like these just for fun), <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheBradyBunch' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheBradyBunch'>Bobby Brady</a> had a dream where his family lived <a class='urllink' href='http://www.imdb.com/title/tt0531075/'>back in the late 1800's<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> and was on board a train being robbed by <a class='urllink' href='http://en.wikipedia.org/wiki/Jesse_James'>Jesse James<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>.
+";i:449;s:283:"<ul ><li> Don't forget the episode where they got to be in a <a class='urllink' href='http://www.imdb.com/title/tt0531164/'>old fashioned slapstick silent movie<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>.
+";i:450;s:260:"<ul ><li> Anything involving <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CousinOliver' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CousinOliver'>you-know-who</a> I am purging from my mind. There's a reason he's the trope namer.
+";i:451;s:570:"</li></ul></li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItsAlwaysSunnyInPhiladelphia' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItsAlwaysSunnyInPhiladelphia'>It's Always Sunny in Philadelphia</a></em>, trying to get their bar recognized as a historical site, told the story of colonial days, and how their <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IdenticalGrandson' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IdenticalGrandson'>Identical Ancestors</a> cracked the Liberty Bell.
+";i:452;s:284:"</li><li> Although usually averted on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho'>Doctor Who</a></em>, Donna Noble enjoyed dressing the part when visiting historic time periods.
+";i:453;s:208:"<ul ><li> Rose also did this when they visited <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheFifties' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheFifties'>The Fifties</a>.
+";i:454;s:235:"</li></ul></li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WesternAnimation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WesternAnimation'>Western Animation</a></span>
+";i:455;s:363:"<ul ><li> The <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Futurama' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Futurama'>Futurama</a></em> episode "Roswell That Ends Well" had Fry donning army fatigues to avoid suspicion in 1947... and the Professor in a 30s zoot suit and Leela in a 50s poodle skirt.
+";i:456;s:116:"<ul ><li> Though not the first time at all, there was the time they dressed up as robots in "Fear of a Bot Planet".
+";i:457;s:323:"</li></ul></li><li> An episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DarkwingDuck' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DarkwingDuck'>Darkwing Duck</a></em> starts off on the high seas and details the exploits of the good Pirate Darkwing Dubloon.
+";i:458;s:1020:"</li><li> This happens twice in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KimPossible' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KimPossible'>Kim Possible</a></em>. The season 2 finale that has a dream sequence involving most of the major characters a century ago in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenerationXerox' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenerationXerox'>Generation Xerox</a>. Then we have the fourth season Cap'n Drakken where a school camp takes place at a recreation of 17th century, where everyone has to dress and act the part so there can be an escuse for the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PiratesoftheCaribbean' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PiratesoftheCaribbean'>Piratesofthe Caribbean</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShoutOut' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShoutOut'>Shout Out</a>.
+";i:459;s:470:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyGuy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyGuy'>Family Guy</a></em> released made-for-DVD parodies of each movie in the original <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StarWars' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StarWars'>Star Wars</a></em> trilogy with Chris as Luke, Peter as Han, Stewie as Darth Vader, etc.
+";i:460;s:369:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheSmurfs' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheSmurfs'>The Smurfs</a></em> Season 9 episodes had the time-traveling Smurfs automatically dress up in clothes that are appropriate for the time period and/or geographical location that they enter.
+";i:461;s:201:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WebComic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WebComic'>Web Comic</a></span>
+";i:462;s:306:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Narbonic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Narbonic'>Narbonic</a></em> has a long-running Sunday feature involving Victorian versions of the characters and an Edgar-Rice-Burroughs-esque space travel plot.
+";i:463;s:24:"</li></ul><p></p><hr />
+";i:464;s:273:"In a nearly identical trope, the characters will find themselves in a Sam Spade-like <em>Film Noir</em>, complete with a Grizzled Gumshoe and a Classy Dame. (Fun Fact: Did you know there are more <em>Film Noir</em> parodies than there are actual <em>Film Noir</em> films?)
+";i:465;s:17:"<p></p>Examples:
+";i:466;s:196:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NYPDBlue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NYPDBlue'>NYPD Blue</a></em> (in a reviled episode)
+";i:467;s:210:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MarriedWithChildren' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MarriedWithChildren'>Married... with Children</a></em>
+";i:468;s:295:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyMatters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyMatters'>Family Matters</a></em> "Farewell, My Laura." Steve writes a short story about himself as the hard-boiled detective Johnny Danger.
+";i:469;s:180:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StepByStep' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StepByStep'>Step by Step</a></em>
+";i:470;s:164:"</li><li> <em><a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Jesse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Jesse'>Jesse</a></em>
+";i:471;s:577:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Moonlighting' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Moonlighting'>Moonlighting</a></em>: "The Dream Sequence Always Rings Twice" (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FilmNoir' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FilmNoir'>Film Noir</a>) and "Atomic Shakespeare" (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainObvious' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainObvious'>take a guess</a>)
+";i:472;s:215:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SmallWonder' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SmallWonder'>Small Wonder</a></em> (Jamie's videotaped book report)
+";i:473;s:410:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HappyDays' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HappyDays'>Happy Days</a></em> (During the post-Shark Jump years, Richie &amp; the gang remember a story about the Cunningham family, featuring the gang in, of course, period 20s gangster dress, with Richie as an inquisitive DA, and the Fonz as the head gangster.)
+";i:474;s:189:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BoyMeetsWorld' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BoyMeetsWorld'>Boy Meets World</a></em>
+";i:475;s:245:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekTheNextGeneration' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekTheNextGeneration'>Star Trek: The Next Generation</a></em> (Dixon Hill)
+";i:476;s:178:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Smallville' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Smallville'>Smallville</a></em>
+";i:477;s:450:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/LoisAndClark' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/LoisAndClark'>Lois & Clark</a></em> did this in the episode Fly Hard, as terrorists try and break into the Daily Planet Perry recites the story of gangsters where the newspaper now stands. Clark, Lois, Perry, Lex and Jimmy play the part of mobsters and currupt cops during the flashback sequences.
+";i:478;s:371:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/BlueHeelers' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/BlueHeelers'>Blue Heelers</a></em> has a story of an old film fan who may have come across old crooks. The end credits has the actors dress as old cops, gangsters and dames to a 1930s rag time version of the theme song.
+";i:479;s:1040:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PhineasAndFerb' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PhineasAndFerb'>Phineas and Ferb</a></em> in the episode "Finding Mary <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/McGuffin' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/McGuffin'>McGuffin</a>" has this. After watching their father's old Film Noir movies, Phineas and Ferb decide to find Candace's lost doll using that style. They also parody other detective movies and shows. Lampshaded when an old man they are questioning says, "Aren't you a little young to know all these detective shows." and Phineas says "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Catchphrase' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Catchphrase'>Yes. Yes we</a> (<em>puts sunglasses on</em>) <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Catchphrase' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Catchphrase'>are.</a>
+";i:480;s:224:"</li><li> The <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/YoungJustice' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/YoungJustice'>Young Justice</a></em> example mentioned above.
+";i:481;s:374:"</li><li> Film Noir detective is one of the options for the Camden Lock's interrogation simulator in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Hyperdrive' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Hyperdrive'>Hyperdrive</a></em> episode "Convoy". In fact, most of the options use literary or film detectives as the interrogators.
+";i:482;s:24:"</li></ul><p></p><hr />
+";i:483;s:110:"Yet another variation is to have the cast reenact the events from a famous period play or work of literature.
+";i:484;s:204:"<p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LiveActionTV' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LiveActionTV'>Live-Action TV</a></span>
+";i:485;s:520:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/WhatsHappening' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/WhatsHappening'>Whats Happening</a></em> and <em>Fame: the TV Series</em> both had characters who got hit on the head and imagined themselves in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheWonderfulWizardOfOz' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheWonderfulWizardOfOz'>The Wonderful Wizard of Oz</a></em>.
+";i:486;s:561:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Moonlighting' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Moonlighting'>Moonlighting</a></em> had a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoFourthWall' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoFourthWall'>No Fourth Wall</a> episode, where a fan of the show is forced to do his homework instead of watching the latest episode of the show, so he reads "The Taming of the Shrew", but imagines it with the cast of Moonlighting.
+";i:487;s:411:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MarriedWithChildren' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MarriedWithChildren'>Married... with Children</a></em> had the entire cast playing out the roles of characters in a bodice-ripper romance novel. (With Steve Rhodes cameo-ing as a singing pirate who likes to torture people with Gilbert and Sullivan songs.)
+";i:488;s:225:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WesternAnimation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WesternAnimation'>Western Animation</a></span>
+";i:489;s:790:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSimpsons' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSimpsons'>The Simpsons</a></em> had an episode like the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MarriedWithChildren' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MarriedWithChildren'>Married... with Children</a></em> example , as well, with Ned Flanders playing the role of the "manly man" to Homer's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Jerkass' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Jerkass'>jerkass</a> love rival. This has happened again with the episode "Tales from the Public Domain", three stories which involve the characters in familiar old woks.
+";i:490;s:197:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theatre' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theatre'>Theatre</a></span>
+";i:491;s:273:"<ul ><li> This has been done so often with <em>A Christmas Carol</em> that it has <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/YetAnotherChristmasCarol' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/YetAnotherChristmasCarol'>its own trope.</a>
+";i:492;s:17:"</li></ul><hr />
+";i:493;s:990:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Cosplay">Cosplay</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CostumeTropes">Costume Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CultureEqualsCostume">Culture Equals Costume</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CosmeticCatastrophe">Cosmetic Catastrophe</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots">Plots</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CrapsackWorld">Crapsack World</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:494;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:495;s:10:"<p> </p>
+";i:496;s:10:"<center>
+";i:497;s:2:"
+";i:498;s:24:"<!-- med rectangle -->
+";i:499;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:500;s:33:"<script type='text/javascript'>
+";i:501;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:502;s:11:"</script>
+";i:503;s:8:"</div>
+";i:504;s:2:"
+";i:505;s:11:"</center>
+";i:506;s:24:"</td><!-- wikibody -->
+";i:507;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:508;s:7:"</td>
+";i:509;s:7:"</tr>
+";i:510;s:10:"</table>
+";i:511;s:22:"<!--PageFooterFmt-->
+";i:512;s:119:"<div class="alt_title" style="font-size:x-small;text-align:center;" ><b>alternative title(s):</b> Costume Trash</div>
+";i:513;s:10:"<center>
+";i:514;s:44:"<table style="width:606px;margin:0 auto;">
+";i:515;s:7:"	<tr>
+";i:516;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:517;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:518;s:257:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Costumer?action=edit'> edit page</a></div></div></td>
+";i:519;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:520;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:521;s:8:"	</tr>
+";i:522;s:10:"</table>
+";i:523;s:11:"</center>
+";i:524;s:21:"<div id='wikifoot'>
+";i:525;s:27:"    <div class='footnav'>
+";i:526;s:2:"
+";i:527;s:14:"			 <center>
+";i:528;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:529;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:530;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:531;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:532;s:15:"				</center>
+";i:533;s:2:"
+";i:534;s:29:"    </div><!-- wikifoot -->
+";i:535;s:23:"<!--/PageFooterFmt-->
+";i:536;s:12:"33171<br/>
+";i:537;s:3:"0
+";i:538;s:8:"</div>
+";i:539;s:26:"</div><!-- container -->
+";i:540;s:2:"
+";i:541;s:9:"</body>
+";i:542;s:21:"<!--ScriptInsert-->
+";i:543;s:9:"</html>
+";}}

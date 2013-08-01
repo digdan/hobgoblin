@@ -1,0 +1,22 @@
+.header {
+	display:inline;
+}
+.header > .item {
+	margin-left:5px;
+	display:inline;
+}
+.left {
+	float : left;
+}
+.right {
+	float:right;
+}
+
+.badge {
+	border:1px solid gray;
+	height:9px;
+	width:9px;
+	margin:0px;
+	margin-top:5px;
+	float:left;
+}

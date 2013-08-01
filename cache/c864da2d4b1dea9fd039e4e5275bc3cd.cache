@@ -1,0 +1,608 @@
+a:2:{i:0;i:1377888129;i:1;a:607:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:68:"<title>Pure Is Not Good - Television Tropes &amp; Idioms  </title>
+";i:5;s:134:"<meta name="Description" content="The Pure Is Not Good trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:10:"</style>
+";i:25;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:26;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:27;s:33:"<script type="text/javascript">
+";i:28;s:26:"  var _gaq = _gaq || [];
+";i:29;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:30;s:34:"  _gaq.push(['_trackPageview']);
+";i:31;s:2:"
+";i:32;s:17:"  (function() {
+";i:33;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:34;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:35;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:36;s:9:"  })();
+";i:37;s:2:"
+";i:38;s:32:"	function subpage(sel, title){
+";i:39;s:4:"		
+";i:40;s:40:"		var namespce = ""+getselection(sel);
+";i:41;s:34:"		if(namespce.trim()=="")return;
+";i:42;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:43;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:44;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:45;s:29:"		window.location.href=url;
+";i:46;s:4:"	}
+";i:47;s:32:"	function p5(groupname,title){
+";i:48;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:49;s:4:"	}
+";i:50;s:27:"	function togglenote(id){
+";i:51;s:23:"		var ele=object(id);
+";i:52;s:34:"		var state = ele.style.display;
+";i:53;s:49:"		if(state=='none') ele.style.display='inline';
+";i:54;s:48:"		if(state=='inline')ele.style.display='none';
+";i:55;s:4:"	}
+";i:56;s:35:"	var googletag = googletag || {};
+";i:57;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:58;s:16:"	(function() {
+";i:59;s:47:"	var gads = document.createElement('script');
+";i:60;s:21:"	gads.async = true;
+";i:61;s:33:"	gads.type = 'text/javascript';
+";i:62;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:63;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:64;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:65;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:66;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:67;s:8:"	})();
+";i:68;s:2:"
+";i:69;s:34:"	googletag.cmd.push(function() {
+";i:70;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:71;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:73;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:74;s:45:"		googletag.pubads().enableSingleRequest();
+";i:75;s:31:"		googletag.enableServices();
+";i:76;s:6:"	});
+";i:77;s:2:"
+";i:78;s:11:"</script>
+";i:79;s:2:"
+";i:80;s:9:"</head>
+";i:81;s:8:"<body>
+";i:82;s:40:"<div class="container" id="container">
+";i:83;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:84;s:6:"<tr>
+";i:85;s:46:"<td style="width:166px;vertical-align:top;">
+";i:86;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:87;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:88;s:38:"<g:plusone size="small"></g:plusone>
+";i:89;s:2:"
+";i:90;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:91;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:92;s:6:"<ul>
+";i:93;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:94;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:95;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:96;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:97;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:98;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:99;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:100;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:101;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:102;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:103;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:104;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:105;s:7:"</ul>
+";i:106;s:8:"</div>
+";i:107;s:2:"
+";i:108;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:109;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:110;s:2:"
+";i:111;s:184:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','PureIsNotGood');">send request</button><hr/></div>
+";i:112;s:2:"
+";i:113;s:325:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="PureIsNotGood" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:114;s:2:"
+";i:115;s:51:"<div style="font-size:small;text-align:center;" >
+";i:116;s:30:"Find recent edits by troper:
+";i:117;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:118;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:119;s:8:"</div>
+";i:120;s:7:"<hr/>
+";i:121;s:7:"<ul>	
+";i:122;s:4:"		
+";i:123;s:7:"<hr/>
+";i:124;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:125;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:126;s:62:"		<input type="hidden" name="title" value="PureIsNotGood" />
+";i:127;s:54:"		This article needs some moderator assistance with:
+";i:128;s:9:"		<br/>
+";i:129;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:130;s:9:"		<br/>
+";i:131;s:4:"		
+";i:132;s:34:"		<p style="text-align:center;">
+";i:133;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:134;s:8:"		</p>
+";i:135;s:34:"		<p style="text-align:center;">
+";i:136;s:48:"			<input type="submit" value="send report" />
+";i:137;s:8:"		</p>
+";i:138;s:11:"		</form>
+";i:139;s:7:"<hr/>
+";i:140;s:6:"<ul>
+";i:141;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:142;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:143;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:144;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:145;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:146;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:147;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:148;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:149;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:150;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:151;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:152;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:153;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:154;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:155;s:142:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.PureIsNotGood'>Referral Count for This Page</a></li>
+";i:156;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:157;s:117:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=PureIsNotGood'>Article Relationships</a></li> -->
+";i:158;s:103:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.PureIsNotGood'>Folderize</a></li>
+";i:159;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:160;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:161;s:7:"</ul>
+";i:162;s:8:"	<hr/>
+";i:163;s:6:"<ul>
+";i:164;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:165;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:166;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:167;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:168;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:169;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:170;s:7:"</ul>
+";i:171;s:7:"<hr/>
+";i:172;s:2:"
+";i:173;s:8:"</div>
+";i:174;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:175;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:176;s:8:"		<ul>
+";i:177;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:178;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:179;s:9:"		</ul>
+";i:180;s:8:"</div>
+";i:181;s:10:"<center>
+";i:182;s:34:"		<div style="margin-top:4px;">	
+";i:183;s:5:"			
+";i:184;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:185;s:33:"<script type='text/javascript'>
+";i:186;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:187;s:98:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/PureIsNotGood");
+";i:188;s:11:"</script>
+";i:189;s:8:"</div>
+";i:190;s:2:"
+";i:191;s:11:"		</div>	
+";i:192;s:10:"		<div>	
+";i:193;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:194;s:6:"		 	
+";i:195;s:4:"		
+";i:196;s:4:"		
+";i:197;s:10:"		</div>
+";i:198;s:191:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PureIsNotGood">Main</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Quotes/PureIsNotGood">Quotes</a><br/>
+";i:199;s:9:"		<div>
+";i:200;s:10:"		</div>
+";i:201;s:36:"		<div style="font-size:x-small;">
+";i:202;s:11:"				<hr/>
+";i:203;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:204;s:14:"				<p> </p>
+";i:205;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:206;s:13:"				<p></p>
+";i:207;s:11:"				<ul >
+";i:208;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:209;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:210;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:211;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:212;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:213;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:214;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:215;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:216;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:217;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:219;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:220;s:11:"				</li>
+";i:221;s:11:"				</ul>
+";i:222;s:13:"				<p></p>
+";i:223;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:224;s:13:"				<p></p>
+";i:225;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:226;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:227;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:228;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:229;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:230;s:6:"				
+";i:231;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:232;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:233;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:234;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:235;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:236;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:237;s:6:"				
+";i:238;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:239;s:16:"				</li></ul>
+";i:240;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:241;s:13:"				<p></p>
+";i:242;s:11:"				<ul >
+";i:243;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:244;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:245;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:246;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:247;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:248;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:249;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:250;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:251;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:252;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:253;s:6:"				
+";i:254;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:255;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:256;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:257;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:258;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:259;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:260;s:6:"				
+";i:261;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:262;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:263;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:264;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:265;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:266;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:268;s:11:"				</li>
+";i:269;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:270;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:271;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:272;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:273;s:6:"				
+";i:274;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:275;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:276;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:278;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:279;s:16:"				</li></ul>
+";i:280;s:6:"				
+";i:281;s:13:"				<p></p>
+";i:282;s:39:"				<strong>Other Categories</strong>
+";i:283;s:13:"				<p></p>
+";i:284;s:10:"				<ul>
+";i:285;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:286;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:287;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:288;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:289;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:290;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:291;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:292;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:293;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:294;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:295;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:296;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:297;s:11:"				</ul>
+";i:298;s:11:"		</div>	
+";i:299;s:11:"</center>
+";i:300;s:2:"
+";i:301;s:30:"</div> <!-- wikileftpage -->
+";i:302;s:7:"</td>
+";i:303;s:20:"<td id='wikibody'>
+";i:304;s:2:"
+";i:305;s:21:"<!--PageTitleFmt-->
+";i:306;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:307;s:12:"    		<tr>
+";i:308;s:38:"    		<td id="wikicmds" align="top">
+";i:309;s:8:"    		
+";i:310;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:311;s:45:"    				<tr style="vertical-align:middle;">
+";i:312;s:31:"    					<td align="center" >
+";i:313;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:314;s:16:"    					</td>
+";i:315;s:15:"    				<td >
+";i:316;s:37:"    					<div style="width:400px;">
+";i:317;s:28:"                  <center>
+";i:318;s:27:"                  <table>
+";i:319;s:24:"                  <tr>
+";i:320;s:24:"                  <td>
+";i:321;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:322;s:27:"                    <div>
+";i:323;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:324;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:325;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:326;s:64:"                      <input type="text" name="q" size="31" />
+";i:327;s:28:"                    </div>
+";i:328;s:27:"                  </form>
+";i:329;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:330;s:25:"                  </td>
+";i:331;s:24:"                  <td>
+";i:332;s:46:"                  <div class="buttonframe" >
+";i:333;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:334;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:335;s:26:"                  </div>
+";i:336;s:25:"                  </div
+";i:337;s:25:"                  </td>
+";i:338;s:25:"                  </tr>
+";i:339;s:28:"                  </table>
+";i:340;s:29:"                  </center>
+";i:341;s:17:"    					</div>
+";i:342;s:15:"    				</td>
+";i:343;s:15:"    				</tr>
+";i:344;s:16:"    		</table>
+";i:345;s:8:"    		
+";i:346;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:347;s:10:"    				
+";i:348;s:27:"    				<tr valign="top">
+";i:349;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:350;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:351;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:352;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:353;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:354;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:355;s:15:"    				</tr>
+";i:356;s:10:"    				
+";i:357;s:10:"    				
+";i:358;s:8:"    		
+";i:359;s:16:"    		</table>
+";i:360;s:8:"    		
+";i:361;s:28:"    		<div id="wikilogo" >
+";i:362;s:16:"    		<center>
+";i:363;s:2:"
+";i:364;s:22:"<!-- leaderboard -->
+";i:365;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:366;s:33:"<script type='text/javascript'>
+";i:367;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:368;s:11:"</script>
+";i:369;s:8:"</div>
+";i:370;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:371;s:28:"    					<tr valign="top">
+";i:372;s:261:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'PureIsNotGood');" autocomplete="off"  style="width:50px;"><option> </option><option value="Main">Main</option><option value="Quotes">Quotes</option></select></td>
+";i:373;s:268:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PureIsNotGood?action=source" >source</a></div></div></td>
+";i:374;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:375;s:269:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.PureIsNotGood">history</a></div></div></td>
+";i:376;s:271:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PureIsNotGood?action=edit'> edit page</a></div></div></td>
+";i:377;s:267:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/PureIsNotGood" >related</a></div></div></td>
+";i:378;s:38:"    							<td valign="middle"></td>
+";i:379;s:16:"    					</tr>
+";i:380;s:18:"    				</table>
+";i:381;s:10:"    				
+";i:382;s:35:"    				<div id="watchmsg"></div>
+";i:383;s:18:"    			</center>
+";i:384;s:13:"    		</td>
+";i:385;s:12:"     </tr>
+";i:386;s:6:"    
+";i:387;s:11:"    	<tr>
+";i:388;s:39:"    		<td id="wikititle" colspan="2">
+";i:389;s:40:"    				<div class="namespacebuttons">
+";i:390;s:928:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments"  style="border-width:2px;border-color:silver;margin-right:2px;" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.PureIsNotGood" >&nbsp;Discussion </a></li> <li class="namespace_li Quotes" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Quotes/PureIsNotGood" class="textcolor">&nbsp;Quotes&nbsp;</a> </li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=PureIsNotGood" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/PureIsNotGood" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:391;s:16:"    				</div>
+";i:392;s:26:"    				<!--RepairBug-->
+";i:393;s:10:"    				
+";i:394;s:34:"    				<div class='pagetitle'> 
+";i:395;s:43:"    						  <span>Pure Is Not Good</span>
+";i:396;s:16:"    				</div>
+";i:397;s:11:"    				 
+";i:398;s:13:"    		</td>
+";i:399;s:12:"    	</tr>
+";i:400;s:10:"</table>
+";i:401;s:2:"
+";i:402;s:16:"<!--PageText-->
+";i:403;s:20:"<div id='wikitext'>
+";i:404;s:258:"<div class='indent'><em>"The legend said the heart must be pure&#8212;<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ExactWords' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ExactWords'>it never said</a> pure </em>good<em>."</em>
+";i:405;s:250:"<div class='indent'>&#8212; <strong>Harm</strong>, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/YoungJustice' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/YoungJustice'>Young Justice</a></em>
+";i:406;s:874:"</div></div><p></p>Okay, so you've been told that in order to make the Phlebotinum work, or go to this particular place, or what have you, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnlyThePureOfHeart' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnlyThePureOfHeart'>you have</a> to be <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PurityPersonified' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PurityPersonified'>pure of heart</a>. And then you get there, and there's the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a>. What?!? Turns out <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PureIsNotGood' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PureIsNotGood'>Pure Is Not Good</a>.
+";i:407;s:57:"<p></p>In fact, it's perfectly possible to be Pure Evil.
+";i:408;s:369:"<p></p>This trope is solely for "pure of heart" where purity does not necessarily denote goodness. Any resemblance to being a trope about pure <em>substances</em> is... <em>ahem</em>... <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IncrediblyLamePun' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IncrediblyLamePun'>purely coincidental</a>.
+";i:409;s:765:"<p></p>May make use of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VirginPower' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VirginPower'>Virgin Power</a> as a specific form of purity. See also <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AmbiguousInnocence' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AmbiguousInnocence'>Ambiguous Innocence</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LightIsNotGood' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LightIsNotGood'>Light Is Not Good</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StraightEdgeEvil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StraightEdgeEvil'>Straight Edge Evil</a>.
+";i:410;s:216:"Contrast <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IncorruptiblePurePureness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IncorruptiblePurePureness'>Incorruptible Pure Pureness</a>.
+";i:411;s:214:"<p></p><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoRealLifeExamplesPlease' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoRealLifeExamplesPlease'>No Real Life Examples, Please!</a>
+";i:412;s:14:"<p></p><hr />
+";i:413;s:18:"<h2>Examples</h2>
+";i:414;s:122:"<p></p><div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:415;s:193:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp;Anime &amp; Manga&nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:416;s:1099:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/DragonBallZ' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/DragonBallZ'>Dragon Ball Z</a></em>, it's explained that Vegeta was able to obtain his Super Saiyan form, thought to require a "pure heart", by having a heart of pure evil. One of the difficulties of fighting as a Super Saiyan is the sheer rage that overcomes the Saiyan. This is because their purity of heart is transformed into <em>pure rage</em>. Even for Goku, Super Saiyan was his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperPoweredEvilSide' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperPoweredEvilSide'>Super Powered Evil Side</a> (at first, anyway), which is why he never used the spirit bomb in this form except in a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NonSerialMovie' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NonSerialMovie'>Non-Serial Movie</a> (even then, he had to actually absorb it into his body so it wouldn't backfire on him when he transformed).
+";i:417;s:206:"<ul ><li> In the DBZ Video games, Cell is able to use the Spirit Bomb as his ultimate attack by being pure evil. Incidentally, the Viz translated manga does indeed give this line as a heart of "pure evil".
+";i:418;s:626:"</li><li> Kid Buu (Yes, the absolutely insane destroyer of all worlds) is hinted to be pure of heart during the climax of the battle with Goku, since he was able to not only catch the Spirit Bomb and move it back, but was also quite capable of deflecting it back at Goku (During the Vegeta Saga, Goku stated that the Spirit Bomb could be deflected by those pure of heart, and thus could not hurt them). This is probably because of Buu's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PsychopathicManChild' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PsychopathicManChild'>childlike mentality</a>.
+";i:419;s:369:"</li></ul></li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Bleach' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Bleach'>Bleach</a>,</em> Kaname Tosen says that Wonderweiss Margera likes being near him because pure creatures gravitate toward each other, but that he isn't sure where along the spectrum Margera's purity lies.
+";i:420;s:619:"</li><li> A <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/SailorMoon' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/SailorMoon'>Sailor Moon</a></em> episode has Minako depressed because the villains haven't tried to steal her <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnatomyOfTheSoul' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnatomyOfTheSoul'>pure heart crystal</a>. In order to cheer her up Luna tells her that Usagi had her heart crystal stolen because of her pure love for Mamoru but still has plenty of bad traits like a pure love of eating.
+";i:421;s:764:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/Naruto' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/Naruto'>Naruto</a></em>: Itachi notes that Sasuke is "still pure, and can be colored by anything", and as a result the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a> had a fairly easy time manipulating him. Further events indicate this purity likely stemmed from <span class="spoiler" title="you can set spoilers visible by default on your profile" >his ignorance of the darker goings-on of his village. The person to first introduce him to the reality could bend his perception of the conflict as they pleased</span>.
+";i:422;s:515:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/YuYuHakusho' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/YuYuHakusho'>YuYu Hakusho</a></em> has Sensui, who once was <em>extremely</em> pure. If he wasn't so pure as a good guy, he couldn't have become so tainted as a villain. <span class="spoiler" title="you can set spoilers visible by default on your profile" >And out of his seven personalities, "Shinobu" (the original) <em>remains</em> very pure and innocent.</span>
+";i:423;s:1670:"</li><li> Mao from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/CodeGeass' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/CodeGeass'>Code Geass</a></em> is as innocent as a child, and can also read people's minds. If he sees that they've done or thought anything bad, hen automatically assumes that <em>they're</em> bad people. And then he'll use what he knows about them to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MindRape' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MindRape'>Mind Rape</a> them. And his victims include the show's resident <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMessiah' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMessiah'>Messiah</a> and (then) <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightInShiningArmor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightInShiningArmor'>Knight in Shining Armor</a>!</em> It's explained because he received his mind-reading powers when he was only six, and so learned about the bad thoughts everyone gets at some point before he was old enough to understand that you can have bad thoughts or make mistakes and still be a perfectly decent person. To really drive the point home, his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ColorCodedForYourConvenience' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ColorCodedForYourConvenience'>signature color</a> is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhiteHairedPrettyBoy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhiteHairedPrettyBoy'>white</a>!
+";i:424;s:811:"</li><li> Takato of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/DigimonTamers' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/DigimonTamers'>Digimon Tamers</a></em> is probably the purest and most innocent of all the "Goggleheads" in the series is also the quickest to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BewareTheNiceOnes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BewareTheNiceOnes'>flip</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnstoppableRage' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnstoppableRage'>extremes</a>. <span class="spoiler" title="you can set spoilers visible by default on your profile" >Thankfully this only becomes a problem if you happened to have killed Leomon.</span>
+";i:425;s:732:"</li><li> There's an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OurAngelsAreDifferent' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OurAngelsAreDifferent'>angelic</a> character in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OPartsHunter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OPartsHunter'>O Parts Hunter</a></em> who is a genuine angel and doesn't have one iota of evil in his heart <span class="spoiler" title="you can set spoilers visible by default on your profile" > even when disemboweling his enemies he loves everything. He's on the "evil" side, and since the hero's weapon is only as powerful as the amount of fear of his enemy he's screwed.</span>
+";i:426;s:1445:"<ul ><li> This is a standard trait of <em>O Parts</em> angels. Their so-called goodness doesn't prevent their vessels from destructive agendas. All an angel can really do is to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GettingSmiliesPaintedOnYourSoul' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GettingSmiliesPaintedOnYourSoul'>kill their vessels' malice</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TotalitarianUtilitarian' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TotalitarianUtilitarian'>bolster their altruistic sentiments</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TautologicalTemplar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TautologicalTemplar'>grant them a sense of justification</a> instead of, say, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeconstructedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeconstructedTrope'>actually improving their morality</a></em>. If, however, the holder is good already, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReconstructedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReconstructedTrope'>that's a</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IncorruptiblePurePureness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IncorruptiblePurePureness'>different story</a>.
+";i:427;s:465:"</li></ul></li><li> The two antagonists in season 2 of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GhostInTheShell' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GhostInTheShell'>Ghost in the Shell</a>: <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StandAloneComplex' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StandAloneComplex'>Stand Alone Complex</a></em> are both different facets of this trope.
+";i:428;s:255:"<ul ><li> Gouda thinks of himself as a pure person who has only the best for everyone in mind, but is treacherous bastard who always dresses in black and never had his terribly disfigured face restored, so everyone who meets him will always remember him.
+";i:429;s:1234:"</li><li> Kuze has given up on all kind of idealism and turned to terrorism, <span class="spoiler" title="you can set spoilers visible by default on your profile" >but is completely devoted to helping the people suffering in the internment camps and sacrifices everything he has to improve their situation</span>. He also had his cybernetic body custom build with white skin and hair, and a face so perfectly sculpted that it allows for almost no facial expressions or even mouth movement so to not distort it's unfading beauty. He also dresses completely in white when possible evoking at the same time an image of purity and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LightIsNotGood' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LightIsNotGood'>death</a>. He gets rid of the white getup after quitting Individual Eleven and joining the Asian refugees, switching to more practical jeans and leather jacket. Characterwise, he is compared to Che Guevara, Malcom X and Cassius Clay (the 19th century abolitionist, not the 20th century boxer who changed his name to Muhammed Ali) - a person utterly convinced of the rightness of his cause and with ability to steer others to it with his massive charisma.
+";i:430;s:302:"</li></ul></li><li> Shiori Takatsuki from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RevolutionaryGirlUtena' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RevolutionaryGirlUtena'>Revolutionary Girl Utena</a></em> takes this to new levels. "Innocently cruel", indeed.
+";i:431;s:605:"</li><li> In one episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/ZeroZeroNineOne' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/ZeroZeroNineOne'>009-1</a></em>, 9-1 meets a young woman who she can only describe as "pure." Later, the woman tries to kill her when 9-1 tries to stop her from meeting up with enemy agents. <span class="spoiler" title="you can set spoilers visible by default on your profile" >It turns out that the girl is actually an android made mostly out of very pure gold that the enemy agents were trying to smuggle out of the country.</span>
+";i:432;s:1139:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/InuYasha' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/InuYasha'>InuYasha</a></em>, Naraku corrupts Hakushin, a Living Buddha who has become bitter over his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicSacrifice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicSacrifice'>Heroic Sacrifice</a>, into protecting him by erecting a <em>purifying</em> barrier that destroys demons (except for Naraku's). Kikyo at times is also aligned against the protagonists, and uses her purifying priestess powers to thwart their efforts, since she's a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkMagicalGirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkMagicalGirl'>Dark Magical Girl</a> who wants to face Naraku all alone. <span class="spoiler" title="you can set spoilers visible by default on your profile" > Ironically (or meaningfully), Kikyou is the one who actually convinces Hakushin to stop serving Naraku, which finally allows him to stop hating people and pass on.</span>
+";i:433;s:435:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CodeBreaker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CodeBreaker'>Code Breaker</a></em> has the pure, innocent killer <span class="spoiler" title="you can set spoilers visible by default on your profile" > child-Sakura. Her pal Ogami shows her that killing is bad and hugging is good, although she kills him anyway (they get better)</span>.
+";i:434;s:1257:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/FullmetalAlchemist' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/FullmetalAlchemist'>Fullmetal Alchemist</a></em>, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a> insists that he has purified himself by giving his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SevenDeadlySins' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SevenDeadlySins'>Seven Deadly Sins</a> their own bodies in the form of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OurHomunculiAreDifferent' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OurHomunculiAreDifferent'>homunculi</a>. When he reabsorbs Greed into himself, he becomes <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AffablyEvil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AffablyEvil'>Affably Evil</a>. When he removes Greed he reverts to being <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilHasABadSenseOfHumour' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilHasABadSenseOfHumour'>a humorless prick</a>.
+";i:435;s:1626:"</li><li> <span class="spoiler" title="you can set spoilers visible by default on your profile" > Kyouko Sakura</span> from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/PuellaMagiMadokaMagica' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/PuellaMagiMadokaMagica'>Puella Magi Madoka Magica</a></em> describes <span class="spoiler" title="you can set spoilers visible by default on your profile" > her father</span> like this. And she does so a while after <span class="spoiler" title="you can set spoilers visible by default on your profile" > he actually <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoMadFromTheRevelation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoMadFromTheRevelation'>lost his mind after learning of Kyoko</a>'s <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SelflessWish' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SelflessWish'>Selfless Wish</a> and went the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PaterFamilicide' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PaterFamilicide'>Pater Familicide</a> route, since his mind simply <em>broke</em> after that.</span> Confirmed when the Drama CD <span class="spoiler" title="you can set spoilers visible by default on your profile" > shows us <em>what</em> kind of person Minister Sakura was before breaking himself and everyone else but Kyouko: a soft-spoken, kind <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NiceGuy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NiceGuy'>Nice Guy</a>.</span>
+";i:436;s:263:"<div class='indent'><span class="spoiler" title="you can set spoilers visible by default on your profile" ><strong>Kyouko</strong>:</span> <em>"He was too honest. Too kind. Every morning reading the paper, the worries of the world brought him to tears(...)"</em>
+";i:437;s:1022:"</div></li><li> Lucy from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/ElfenLied' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/ElfenLied'>Elfen Lied</a></em>. Pure, sweet, kind... <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheLastOfTheseIsNotLikeTheOthers' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheLastOfTheseIsNotLikeTheOthers'>psychotic</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BreadEggsMilkSquick' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BreadEggsMilkSquick'>killer</a>, her theme song <a class='urllink' href='http://www.youtube.com/watch?v=2QLP4DCcOZA'>Lilium<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OminousLatinChanting' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OminousLatinChanting'>Ominous Latin Chanting</a> for "pure as the lily".
+";i:438;s:272:"<ul ><li> In addition, Number 35 (Mariko) is a five year old girl, filled with childish innocence and playfulness. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AxeCrazy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AxeCrazy'>And Cruelty</a>.
+";i:439;s:2283:"</li></ul></li><li> <span class="spoiler" title="you can set spoilers visible by default on your profile" > Mato Kuroi</span> from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/BlackRockShooter' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/BlackRockShooter'>Black&#9733;Rock Shooter</a></em> is this. <span class="spoiler" title="you can set spoilers visible by default on your profile" > She happens to be a genuinely pure girl that has no sorrow or worry, and wants other people to be just like her. In similar case like <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/DeathNote' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/DeathNote'>Light</a> above, she also realizes that people aren't as pure as her and wants to change that. That desire manifests into Black&#9733;Rock Shooter and, true to her nature, strives to help others. It's just said Otherself lives in a place where suffering and sorrow are <em>the</em> society, and her method of saving everyone is to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KillEmAll' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KillEmAll'>kill everyone and everything</a> as a form of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MercyKill' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MercyKill'>Mercy Kill</a>. This makes Black&#9733;Rock Shooter extremely homicidal (as the Otherselves are <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EmotionlessGirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EmotionlessGirl'>Emotionless Girl</a> race and only acting on their counterparts' behalf) by going around and killing her own kind in a giant massacre for years without batting an eyelash because Mato is ignorant of such world and would never thought that her ideology will result in something like that. When Mato finds out about this, she understandably <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FreakOut' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FreakOut'>freaks</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperpoweredEvilSide' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperpoweredEvilSide'>out</a>.</span>
+";i:440;s:709:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BlackButler' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BlackButler'>Black Butler</a></em>: Both <span class="spoiler" title="you can set spoilers visible by default on your profile" > Queen Victoria and the angel Ash/Angela</span>'s ultimate goal is to purify England of its sins... with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KillItWithFire' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KillItWithFire'>fire</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MindControl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MindControl'>brainwashing</a>.
+";i:441;s:590:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/PsychoPass' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/PsychoPass'>Psycho Pass</a></em>: <span class="spoiler" title="you can set spoilers visible by default on your profile" > <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a> Makishima has a pure-white psycho-pass, indicating a perfectly sound mind, which peaks at its purest even as he kills the Akane's friend Yuki with a straight-razor.</span>
+";i:442;s:17:"</li></ul></div>
+";i:443;s:182:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp;Comics&nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:444;s:928:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Comicbook/Watchmen' title='http://tvtropes.org/pmwiki/pmwiki.php/Comicbook/Watchmen'>Watchmen</a></em>: Rorsarch has an incorruptible black-and-white world view, that, while admirable in a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrapsackWorld' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrapsackWorld'>Crapsack World</a> of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BlackAndGreyMorality' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BlackAndGreyMorality'>Black and Grey Morality</a>, causes him to do some pretty horrific things to people who fall under the "black" part of it. <span class="spoiler" title="you can set spoilers visible by default on your profile" > When he knows that the only pragmatic thing to do is to compromise his ideals, he chooses to die instead.</span>
+";i:445;s:1465:"</li><li> Jei-san of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UsagiYojimbo' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UsagiYojimbo'>Usagi Yojimbo</a></em> sees himself as the only person who can eliminate evil. Unfortunately, he is pure evil (with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MilkyWhiteEyes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MilkyWhiteEyes'>pure white eyes</a> and a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VoiceOfTheLegion' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VoiceOfTheLegion'>creepy voice</a> to boot) and <em>everyone</em> is evil to him, except for his "innocent niece" Kyoko, who is so innocent (or severely traumatized) she isn't afraid of a pile of corpses, only happy that "Uncle is nearby!" Interestingly, Kyoko seems to be the only one (not counting Jei himself or later <span class="spoiler" title="you can set spoilers visible by default on your profile" > Inazuma</span> who can safely touch Jei's soul-sucking black blade. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WordOfGod' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WordOfGod'>Word Of God</a> is that <span class="spoiler" title="you can set spoilers visible by default on your profile" > Kyoko was supposed to become Jei's new host, but the author felt uncomfortable about it so Inazuma and Jiro were created</span>.
+";i:446;s:841:"</li><li> It's established during Final Crisis that the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GreenLantern' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GreenLantern'>Green Lantern</a> Ring requires a pure willpower to work, and creating a simple arrow is enough to almost take <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GreenArrow' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GreenArrow'>Green Arrow</a> out of combat. It didn't prevent Parallax-possesed Hal Jordan from using it. The other <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RingOfPower' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RingOfPower'>Power Rings</a> appear to work on a similar base, requiring a pure emotion to feed them, not related with straight out good or evil.
+";i:447;s:941:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JudgeDredd' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JudgeDredd'>Judge Dredd</a></em>, when some satanic cultists need to sacrifice a "pure" soul, they choose fascist <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiHero'>Anti-Hero</a> Judge Dredd as he's the closest thing to pure in their <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrapsackWorld' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrapsackWorld'>Crapsack World</a>. Dredd <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawfulStupid' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawfulStupid'>is certainly not ''just''</a>, but he <em>is</em> utterly incorruptible and the living embodiment of law, order, discipline, duty and sacrifice.
+";i:448;s:24:"</li></ul><p></p></div>
+";i:449;s:185:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp;Fan Works&nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:450;s:707:"<ul ><li> Like in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/DeathNote' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/DeathNote'>Death Note</a></em> canon, Light in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/ACureForLove' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/ACureForLove'>A Cure For Love</a></em>: "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMessiah' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMessiah'>At one point he had felt such overpowering empathy</a> that he had to ignore it completely, like flicking a switch. He didn't realize that it was that which had made him cruel."
+";i:451;s:17:"</li></ul></div>
+";i:452;s:191:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp;Film - Animated&nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:453;s:967:"<ul ><li> In the movie <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Nine' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Nine'>Nine</a></em>, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Fabrication Machine</a> is powered by/contains pure <em>intelligence.</em> Unlike the nine <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Golem' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Golem'>ragdolls</a>, it has no human soul, and therefore no conscience, no sense of right and wrong...Toward the end of the movie, <span class="spoiler" title="you can set spoilers visible by default on your profile" >The Scientist</span> explains that it's because of this that the Fabrication Machine is so dangerous: containing only pure intelligence and no human soul, it could be all too easily corrupted.
+";i:454;s:17:"</li></ul></div>
+";i:455;s:194:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp;Film - Live-Action&nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:456;s:357:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Alien' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Alien'>Alien</a></em>, the Xenomorph is said to be "the perfect organism", with "structural perfection" matched only by its hostility, a pure survivor "unclouded by conscience, remorse, or delusions of morality."
+";i:457;s:17:"</li></ul></div>
+";i:458;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp;Literature&nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:459;s:448:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhoCensoredRogerRabbit' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhoCensoredRogerRabbit'>Who Censored Roger Rabbit?</a>,</em> Solomon's lamp is supposed only be destroyable by the pure in heart. In this case, "Purity of Heart" seemed to mean "not acting out of selfish motives". Or maybe, (as the hero suspects) the Purity judge was on a coffee break.
+";i:460;s:278:"</li><li> In one of the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MagicTheGathering' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MagicTheGathering'>Magic: The Gathering</a></em> novels, it's mentioned that pure hearts can become pure evil.
+";i:461;s:454:"</li><li> The Pure Ones in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GuardiansOfGaHoole' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GuardiansOfGaHoole'>Guardians of Ga'Hoole</a></em> series of books are <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ANaziByAnyOtherName' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ANaziByAnyOtherName'>owl nazis (though not explicitly stated).</a>
+";i:462;s:801:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PiersAnthony' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PiersAnthony'>Piers Anthony</a>'s <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IncarnationsOfImmortality' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IncarnationsOfImmortality'>Incarnations of Immortality</a></em>, God is so pure that he cannot comprehend human evil, and so spends all his time contemplating his own greatness. <span class="spoiler" title="you can set spoilers visible by default on your profile" >This turns out to be the whole point of the series. God, contemplating himself, isn't doing his job of promoting goodness (or doing anything else at all, for that matter) and needs to be replaced.</span>
+";i:463;s:450:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/MarkTwain' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/MarkTwain'>Mark Twain</a>'s short novel <em>The Mysterious Stranger</em>, angels are pure - meaning that they have no knowledge of good or evil. The angel in the story causes many characters to suffer horribly, explaining that he can "do no evil" because he is innocent. The angel's name is Satan...
+";i:464;s:318:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/ThePictureOfDorianGray' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/ThePictureOfDorianGray'>The Picture Of Dorian Gray</a></em>. Dorian Gray, early in the book, is described as having the "candor (purity) of youth".
+";i:465;s:173:"</li><li> There are several modern takes on Arthurian stories that play up Galahad's faith and purity to the point where he seems distant, inhuman, and utter unsympathetic.
+";i:466;s:624:"</li><li> In Zilpha Keatley Snyder's <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GreenSkyTrilogy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GreenSkyTrilogy'>Green Sky Trilogy</a></em>, the Kindar race has done very well in purging negative emotions like anger and malice from society, to the point where 2 year olds squabbling over a toy is considered an embarrassing example of poor parenting, and "sorrow" is about as strong as it gets (it's also considered a borderline swear word). Unfortunately for the Kindar, this has led to a very broken Utopia, where the people are dying off.
+";i:467;s:585:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheStrangeCaseOfDrJekyllAndMrHyde' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheStrangeCaseOfDrJekyllAndMrHyde'>The Strange Case Of Dr Jekyll And Mr Hyde</a></em>. <em>I have observed that when I wore the semblance of Edward Hyde, none could come near to me at first without a visible misgiving of the flesh. This, as I take it, was because all human beings, as we meet them, are commingled out of good and evil: and Edward Hyde, alone in the ranks of mankind, was pure evil.</em>
+";i:468;s:836:"<ul ><li> Henry Jekyll, a man with mostly good and some evil urges, thinks that if he could separate his good and bad urges into separate identities, life would be better, because he would be free of morality and can indulge himself on every pleasurable vice without hypocrisy. When he creates the potion that let him do that, his bad side crosses the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralEventHorizon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralEventHorizon'>Moral Event Horizon</a> and Jekyll’s life is threatened. <em>The only thing that made Jekyll’s safe was his hypocrisy</em>. Mirrored with the <em>impurity of salt</em> of the potion components: the impurities had made the potion work. <em>Without the contamination of the samples, he cannot make the transformation work</em>.
+";i:469;s:341:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HarryPotter' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HarryPotter'>Harry Potter</a> </em>: One could see Dolores Umbridge as indicative of this trope if only as a representative of the concept of purity... in a KKK kinda way.
+";i:470;s:389:"<ul ><li> Umbridge was able to make a Patronus, which requires pure happy thoughts, even while wearing a horcrux, which rendered the heroes unable to create a Patronus. Of course, nobody stated what those <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FridgeHorror' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FridgeHorror'>happy thoughts had to be about</a>.
+";i:471;s:507:"</li><li> And Purebloods in general. Not all pureblood wizards are bad, but those who feel the need to point out that they are pureblood most certainly are. After all, the very notion that those from all-wizarding families are "purer" in blood implies that Muggles and Muggle-born wizards are "dirty" (with the "Mudblood" slur <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging'>making this clear</a>).
+";i:472;s:664:"</li></ul></li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Warhammer40000' title='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Warhammer40000'>Warhammer 40000</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Eisenhorn' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Eisenhorn'>Eisenhorn</a></em> novel <em>Hereticus</em>, Cherubael appears naked as pure <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LightIsNotGood' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LightIsNotGood'>light</a>. The title character notes that its purity is "an abomination".
+";i:473;s:268:"</li><li> In Leo Frankowski's <em>Conrad Stargard</em> series, the title character reflects on his pastor's words that one with a pure heart has the strength of ten men. He realizes that it could be pure anything; pure love or pure hate, pure greed or even pure evil.
+";i:474;s:597:"</li><li> One of the most common <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/KurtVonnegut' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/KurtVonnegut'>Kurt Vonnegut</a> quotes comes from the protagonist in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/MotherNight' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/MotherNight'>Mother Night</a></em>, and it could be this trope's page quote: "Say what you will about the sweet miracle of unquestioning faith, I consider a capacity for it terrifying and absolutely vile!"
+";i:475;s:671:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HisDarkMaterials' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HisDarkMaterials'>His Dark Materials</a></em> specifically the last installment <em><a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAmberSpyglass' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAmberSpyglass'>The Amber Spyglass</a></em> a priest is sent after our hapless heroes; this man's special because among his peers he is seen as inexplicably pure - he has spent a long time praying and being absolved so that he could 'make room' for the sin of committing murder.
+";i:476;s:696:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheHunchbackOfNotreDame' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheHunchbackOfNotreDame'>The Hunchback of Notre Dame</a></em>, the Hunchback and Count Frollo are similar to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/DeathNote' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/DeathNote'>Light Yagami</a> in that they are so pure (they lived their whole lives in the cathedral) that when sin (in the form of Esmeralda) enters their lives, they have no idea how to deal with it. Frollo becomes obsessed with her yet hates her for giving him impure thoughts.
+";i:477;s:309:"</li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/LordOfTheRings' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/LordOfTheRings'>Lord of the Rings</a></em> series, as a being of pure hunger, Shelob cannot be tempted by The One Ring's promises of power.
+";i:478;s:260:"<ul ><li> Tom Bombadil is equally incorruptible by the Ring, and although he is benevolent to the hobbits (and to pretty much everyone who isn't working for the Dark Lord), his incorruptibility makes him too fickle to be a reliable caretaker for the One Ring.
+";i:479;s:27:"</li></ul></li></ul></div>
+";i:480;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp;Live-Action TV&nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:481;s:577:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer'>Buffy the Vampire Slayer</a></em>, Spike and Drusilla unleash the Judge, a demon sent to destroy everyone that isn't pure evil. It's a pretty demanding requirement - Spike and Drusilla themselves were vulnerable because of their love for each other, and their minion Dalton died because of his love for <em>learning.</em> The only one confirmed to be immune was the newly released Angelus.
+";i:482;s:77:"<div class='indent'> <strong>The Judge</strong>: There's no humanity in him.
+";i:483;s:92:"</div><div class='indent'> <strong>Angelus</strong>: I couldn't have said it better myself.
+";i:484;s:241:"</div><ul ><li> The demonic types that make the most of being pure are the Scourge (who want to exterminate both humanity and impure demons, though their own purity is dubious by other canon) and the Old Ones, the monstrous original demons.
+";i:485;s:216:"</li><li> Xander also attempts a love spell on Cordelia so he can dump her, and is told that the emotion has to be pure. He replies that he intends pure revenge. The spell works, although not the way he wants it to.
+";i:486;s:442:"</li></ul></li><li> The Daleks from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho'>Doctor Who</a></em> are, as a species, obsessed with genetic purity-and <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ArcWords' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ArcWords'>exterminating</a></em> everything else.
+";i:487;s:17:"</li></ul></div>
+";i:488;s:181:"<p></p><div class="folderlabel" onclick="togglefolder('folder7');">&nbsp;&nbsp;&nbsp;&nbsp;Music&nbsp;</div><div id="folder7" class="folder" isfolder="true" style="display:block;">
+";i:489;s:365:"<ul ><li> "<a class='urllink' href='http://www.youtube.com/watch?v=Zy1YaLe1D0E'>Purity<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>" by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Slipknot' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Slipknot'>Slipknot</a>
+";i:490;s:399:"</li><li> "<a class='urllink' href='http://www.youtube.com/watch?v=Urdv-CTuEpo&amp;feature=related'>Puritania<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>" by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DimmuBorgir' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DimmuBorgir'>Dimmu Borgir</a>:
+";i:491;s:130:"</li></ul><div class='indent'><em>I am pure, I am true / I am all over you / I am laugh, I am smile / I am the Earth defiled</em>
+";i:492;s:270:"</div><div class='indent'><em>I am the cosmic storms / I am the tiny worms / I am fear in the night / I am <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Satan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Satan'>bringereth of light</a></em>
+";i:493;s:236:"</div><div class='indent'><em><strong><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ApocalypseHow/ClassX' title='http://tvtropes.org/pmwiki/pmwiki.php/ApocalypseHow/ClassX'>Earth successfully erased</a></strong></em>
+";i:494;s:376:"</div><ul ><li> "<a class='urllink' href='http://www.youtube.com/watch?v=WvZn57oeK_0'>Purify<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>" by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Music/Metallica' title='http://tvtropes.org/pmwiki/pmwiki.php/Music/Metallica'>Metallica</a>
+";i:495;s:24:"</li></ul><p></p></div>
+";i:496;s:196:"<p></p><div class="folderlabel" onclick="togglefolder('folder8');">&nbsp;&nbsp;&nbsp;&nbsp;Myths &amp; Religion&nbsp;</div><div id="folder8" class="folder" isfolder="true" style="display:block;">
+";i:497;s:964:"<ul ><li> The original unicorn was said to be the purest form of nature, which made it so fierce that nobody could tame it &#8212; <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VirginPower' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VirginPower'>except an innocent virgin girl</a>. Whether it <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NatureAdoresAVirgin' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NatureAdoresAVirgin'>liked virgins</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoodHurtsEvil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoodHurtsEvil'>couldn't fight one</a>, or just <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainObvious' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainObvious'>figured out that a quiet, unarmed girl is much less threatening than a man actively trying to kill it</a> is anyone's guess.
+";i:498;s:17:"</li></ul></div>
+";i:499;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder9');">&nbsp;&nbsp;&nbsp;&nbsp;Tabletop Games&nbsp;</div><div id="folder9" class="folder" isfolder="true" style="display:block;">
+";i:500;s:1143:"<ul ><li> In any given game of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/DungeonsAndDragons' title='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/DungeonsAndDragons'>Dungeons & Dragons</a></em>, as the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeNamer' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeNamer'>Trope Namer</a> for the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterAlignment' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterAlignment'>Character Alignment</a>, there's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NeutralEvil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NeutralEvil'>Neutral Evil</a>; not caring about law or chaos, not having any real compulsion for or against any one religion, the gods, devils, demons, monsters (and occasional player characters) that fall under this alignment are in it <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ForTheEvulz' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ForTheEvulz'>For the Evulz</a>.
+";i:501;s:725:"</li><li> The Architects of the Flesh from the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/FengShui' title='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/FengShui'>Feng Shui</a></em> RPG seem to take this idea to heart in many ways. In their world intra-racial (within one's own race) relationships are socially unacceptable, their primary technology (arcanowave) is demoniacally imbued cybernetics and, when their program to enhance apes with cybernetic implants turned against them, they took up capturing monsters and replacing some of their innate abilities with arcanowave technologies (possibly to hide the fact that most of the human users had turned into monsters as well).
+";i:502;s:827:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Exalted' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Exalted'>Exalted</a></em>: The Primordials are so pure, they are the embodiment of their concept. So Malfeas is pure <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BloodKnight' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BloodKnight'>RRRAAAGGGEEE</a>, She Who Lives In Her Name is pure Order, and the Ebon Dragon is pure <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JerkAss' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JerkAss'>Betrayal</a> (let that last one sink in for a bit). This turned out to be their downfall, because they absolutely can't understand <em>why</em> anyone would think differently than how they think.
+";i:503;s:393:"<ul ><li> While the Primordials may not understand why people think differently, they do comprehend that people <em>do</em> think differently. In the mind of She Who Lives In Her Name, the Primordials' decision to allow free will in the world they created was a bad idea, especially since it got her and hers thrown into Hell. Should she ever be released, she fully intends to put that right.
+";i:504;s:568:"</li><li> Possibly the most tragic part of the Primordials' example is that they were the purest essence of their concept including the good parts... until the Exalts killed parts of them and forced surrender oaths on the rest that pretty much eliminated the good parts. Malfeas was once the purest expression of rulership, including the guarding steward as well as the tyrannical lord. When the Exalts were done with him he became the deposed tyrant, who rages because he (in his mind) should be king but cannot be. The Ebon Dragon was always a pure asshole, though.
+";i:505;s:107:"<ul ><li> It should be noted, though, that Primordials are, at best, antithetical to all life around them.
+";i:506;s:325:"</li></ul></li></ul></li><li> The Chaos Gods of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Warhammer' title='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Warhammer'>Warhammer</a> universe represent different emotions distilled to their purest form, spelling trouble for everyone.
+";i:507;s:463:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Nobilis' title='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Nobilis'>Nobilis</a></em>: Deceivers whose lifepath includes Water Lily, the Key of Something Spiritual, are pure and innocent <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OmnicidalManiac' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OmnicidalManiac'>Omnicidal Maniacs</a>.
+";i:508;s:764:"<div class='indent'>If you should meet her walking in the world bow before her for she is sacred; bring her oil and fine cloth; bow before her, three times bow; but she is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConsummateLiar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConsummateLiar'>Iolithae Septimian</a>, and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealityWarper' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealityWarper'>you must not let her speak</a>. I do not know how you can prevent it but <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CosmicRetcon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CosmicRetcon'>you must not let her speak</a></em>.
+";i:509;s:348:"</div></li><li> Uriel was the Archangel of purity in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/InNomine' title='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/InNomine'>In Nomine</a></em>. He led a crusade of genocide against the world's pagan gods and myths, driving many of them into the arms of hell.
+";i:510;s:17:"</li></ul></div>
+";i:511;s:189:"<p></p><div class="folderlabel" onclick="togglefolder('folder10');">&nbsp;&nbsp;&nbsp;&nbsp;Video Games&nbsp;</div><div id="folder10" class="folder" isfolder="true" style="display:block;">
+";i:512;s:890:"<ul ><li> The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Precursors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Precursors'>Xel'naga</a> of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Starcraft' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Starcraft'>Starcraft</a></em> proved this to be true in both of the races they personally nurtured. The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProudWarriorRaceGuy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProudWarriorRaceGuy'>Protoss</a> were molded in pursuit of "Purity of Form" and the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAssimilator' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAssimilator'>Zerg</a> in an attempt to maintain a "Purity of Essence". Both ultimately turned on their creators.
+";i:513;s:710:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/StarFoxAdventures' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/StarFoxAdventures'>Star Fox Adventures</a></em>, an Earthwalker tells <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DistressedDamsel' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DistressedDamsel'>Krystal</a> that only the pure of heart can take the tests. Later, a Krazoa tells Fox that only the pure of heart can enter the shrines. So we take and pass the tests, and go to the last shrine, and... <span class="spoiler" title="you can set spoilers visible by default on your profile" >What the... Scales?!?</span>
+";i:514;s:756:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LuminousArc2' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LuminousArc2'>Luminous Arc 2</a></em> <span class="spoiler" title="you can set spoilers visible by default on your profile" > Elicia, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a> is actually <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMessiah' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMessiah'>The Messiah</a> who saved many children's lives, but the grief that she cannot save everyone cause her to go to the dark side and tap into forbidden magic.</span>
+";i:515;s:612:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FableII' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FableII'>Fable II</a></em>, there is both a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KarmaMeter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KarmaMeter'>Karma Meter</a> for Good/Evil and Purity/Corruption. It is theoretically possible to be <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StraightEdgeEvil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StraightEdgeEvil'>both Evil and Pure</a>.
+";i:516;s:124:"<ul ><li> Evil and Pure characters will resemble vampires with pale skin and red eyes. Their character type is the Fanatic.
+";i:517;s:711:"</li><li> Specifically, townspeople will be afraid but <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DracoInLeatherPants' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DracoInLeatherPants'>attracted to you</a> if you are evil/pure, and do fun things such as spout off a line about how 'you should just die', then immediately follow it up by asking you to marry them. In contrast, a good/corrupt character is liked by everyone, but has a harder time causing townsfolk to fall in love with them or <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DudeWheresMyRespect' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DudeWheresMyRespect'>take them seriously</a>.
+";i:518;s:119:"</li><li> The meter for Purity/Corruption thereof could be seen as a sliding scale of Lawful/Chaotic at the same time.
+";i:519;s:794:"</li></ul></li><li> Roa of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/Tsukihime' title='http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/Tsukihime'>Tsukihime</a></em> was an incredibly pure person in life. Also a good person, from what we hear during Ciel's route. <span class="spoiler" title="you can set spoilers visible by default on your profile" >Unfortunately, this gave him absolutely no understanding of his emotions so, lacking understanding of his love towards Arcueid, he turned into a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a> whose purpose was to continually torment her because he didn't know how else to express said feelings.</span>
+";i:520;s:1112:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/FateStayNight' title='http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/FateStayNight'>Fate/stay night</a></em>, <span class="spoiler" title="you can set spoilers visible by default on your profile" >Gilgamesh</span> reveals that the Grail spilled on him <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateZero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateZero'>in the last grail war</a>. The Grail contains <span class="spoiler" title="you can set spoilers visible by default on your profile" >the incarnation of <em>all human evils in the world</em>, and its contents tend to hideously corrupt and/or dissolve whatever it touches</span> &#8212; But it failed to affect him at all because he was so pure. His 'purity' is not due to sacred protection or innate goodness of the heart but merely because he's so <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItsAllAboutMe' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItsAllAboutMe'>purely self-centred</a>.
+";i:521;s:223:"<div class='indent'><strong><span class="spoiler" title="you can set spoilers visible by default on your profile" >Gilgamesh:</strong> "All the evils in the world"? Bring three times as much if you want to stain me!</span>
+";i:522;s:418:"</div></li><li> Played for laughs in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Disgaea' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Disgaea'>Disgaea</a></em>, shortly after Jennifer meets <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RoyalBrat' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RoyalBrat'>"Prince"</a> Laharl for the first time:
+";i:523;s:161:"<div class='indent'><strong>Jennifer:</strong> I believe you because your eyes are pure. I don't know if it's pure good or pure evil, though. <em>(chuckle)</em>
+";i:524;s:856:"</div></li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SengokuRance' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SengokuRance'>Sengoku Rance</a></em>, Natori eventually reveals to Rance that the reason he kept losing the Miko lottery (you get to have sex with a miko, nearly everyone wins) is because he has no negative emotions for them to absorb. No dishonesty, jealousy or hate. Yep, Rance is very open about his desire to have sex with absolutely anything female and cute whether they <a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RapeIsLove' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RapeIsLove'>like it</a> or <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BlackComedyRape' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BlackComedyRape'>not</a>.
+";i:525;s:423:"</li><li> <span class="spoiler" title="you can set spoilers visible by default on your profile" >Vanitas</span> from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KingdomHearts' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KingdomHearts'>Kingdom Hearts</a></em> is <span class="spoiler" title="you can set spoilers visible by default on your profile" > Ventus</span>'s darkness given form.
+";i:526;s:469:"</li><li> Weiss of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyVII' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyVII'>Final Fantasy VII</a>: <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DirgeOfCerberus' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DirgeOfCerberus'>Dirge of Cerberus</a></em> was created from a pure lifestream, with no traces of the tainted lifestream.
+";i:527;s:662:"</li><li> <span class="spoiler" title="you can set spoilers visible by default on your profile" >Wendy</span> from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RuleOfRose' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RuleOfRose'>Rule of Rose</a></em> <span class="spoiler" title="you can set spoilers visible by default on your profile" >is the sweetest little girl that you could think of,</span> and her love and devotion for <span class="spoiler" title="you can set spoilers visible by default on your profile" >Jennifer</span> is absolute. Pity that she expects just as much in return, and won't accept tiniest compromises.
+";i:528;s:413:"</li><li> After the player learns N's backstory from one of the "goddesses" at the end of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PokemonBlackAndWhite' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PokemonBlackAndWhite'>Pokemon Black And White</a></em>, she even lampshades this. N's innocence, purity and good will are what makes him dangerous in the wrong hands.
+";i:529;s:599:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatDidIDoToDeserveThisMyLord' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatDidIDoToDeserveThisMyLord'>What Did I Do to Deserve This, My Lord?</a></em>, Pure <em>is</em> good, but it's <em>no good for you.</em> Monsters that are under a lot of stress may tend to give birth to "Pure" versions of monsters which are weaker and do not reproduce and are so nice that they're terrible at fighting the heroes. The third game also introduces holy water, which can purify your monsters into the lame versions.
+";i:530;s:765:"</li><li> Ishida Mitsunari from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SengokuBasara' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SengokuBasara'>Sengoku Basara</a> 3</em> is described as 'disconcertingly pure' during his brief cameo in the game's anime. This also implied in Ieyasu's blue path. His personality in-game can charitably be described as '<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDeterminator' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDeterminator'>focused</a>' and '<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RoaringRampageOfRevenge' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RoaringRampageOfRevenge'>uncompromising</a>'.
+";i:531;s:245:"</li><li> Maiden Astraea from "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DemonsSouls' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DemonsSouls'>Demon's Souls</a>", her kindness is too pure that lead her to evil.
+";i:532;s:572:"<ul ><li> <span class="spoiler" title="you can set spoilers visible by default on your profile" > Subverted, it's more or less an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InformedFlaw' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InformedFlaw'>Informed Flaw</a>. The church dislikes her because she took a demon's soul and lives in the swamp, where she cares for the undead aborted fetuses, you read that right, and tries to live in peace. She only attacks in self defense. She's also the least hypocritical character in the game.</span>
+";i:533;s:519:"</li><li> However, her soul is said to be 'the most impure'. The other demons' souls you collect are from various eldritch monstrosities, so that should give you an idea of how bad this is. After all, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LightIsNotGood' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LightIsNotGood'>Light Is Not Good</a>, especially since God <span class="spoiler" title="you can set spoilers visible by default on your profile" >is most likely the Old One</span>.
+";i:534;s:945:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Skullgirls' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Skullgirls'>Skullgirls</a></em> has a tentative example of this in <span class="spoiler" title="you can set spoilers visible by default on your profile" > Cerebella</span>'s individual storymode. It's noted that <span class="spoiler" title="you can set spoilers visible by default on your profile" > Cerebella</span> has a pure heart, but that doesn't stop her from <span class="spoiler" title="you can set spoilers visible by default on your profile" > killing Ms. Fortune by crushing her into a new Life Gem</span>. Sadly, <span class="spoiler" title="you can set spoilers visible by default on your profile" > Cerebella seems to realize her folly only <em>after</em> she presented her mobster father figure Vitale with a shiny new Life Gem made of compressed cat gore.</span>
+";i:535;s:905:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Touhou' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Touhou'>Touhou</a>: Subterranean Animism</em>, the description for Parsee's "Grandfather Cherry Blossoms" spell cards notes that neither <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatTheHellHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatTheHellHero'>Reimu</a> nor <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConsummateLiar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConsummateLiar'>Marisa</a> is pure-hearted enough to make flowers bloom from the ashes, so they must be reacting to Parsee's own pure <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GreenEyedMonster' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GreenEyedMonster'>envy</a></em>.
+";i:536;s:349:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/OFF' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/OFF'>OFF</a> gets a <em>nasty</em> example of this. <span class="spoiler" title="you can set spoilers visible by default on your profile" >Try going to one of the zones after you beat it sometime.</span>
+";i:537;s:196:"<ul ><li> <span class="spoiler" title="you can set spoilers visible by default on your profile" > Even worse, purifying the world means personally killing the Batter's wife and infant son.</span>
+";i:538;s:27:"</li></ul></li></ul></div>
+";i:539;s:188:"<p></p><div class="folderlabel" onclick="togglefolder('folder11');">&nbsp;&nbsp;&nbsp;&nbsp;Web Comics&nbsp;</div><div id="folder11" class="folder" isfolder="true" style="display:block;">
+";i:540;s:617:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/SluggyFreelance' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/SluggyFreelance'>Sluggy Freelance</a></em> played around with this in the That Which Redeems arcs. The inhabitants of the Dimension of Lame are all incredibly innocent and pure, to the point of being annoying. But as a whole, most of them weren't exactly good. They were perfectly willing to let demons from the Dimension of Pain enslave them, and tried to hand Torg over to them multiple times on the flimsiest promises of lesser suffering from the demons.
+";i:541;s:211:"<ul ><li> And their Riff ended up being the sole demon in the world after victory, fitting due to his causing all of the problems by kidnapping Torgs from various dimensions after accidently blowing up his own.
+";i:542;s:277:"</li></ul></li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnsemRetort' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnsemRetort'>Ansem Retort</a></em> Axel manages to achieve "Reverse Nirvana" because his heart is pure chaotic evil.
+";i:543;s:676:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAdventuresOfWiglafAndMordred' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAdventuresOfWiglafAndMordred'>The Adventures of Wiglaf and Mordred</a></em>, there is a sword that gives third-degree burns to anyone not pure of heart. The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CanonSue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CanonSue'>Canon Sue</a> and the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a> are the only people who can use it.
+";i:544;s:425:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Pibgorn' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Pibgorn'>Pibgorn</a></em>: <a class='urllink' href='http://www.gocomics.com/pibgorn/2007/09/21/'>A discharge of focused evil. . . so young, and yet. . . so pure<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>
+";i:545;s:778:"</li><li> Though they're more <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WellIntentionedExtremist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WellIntentionedExtremist'>Well Intentioned Extremists</a> than anything, anytime the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightTemplar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightTemplar'>Kyorl'solenurn</a> in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Drowtales' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Drowtales'>Drowtales</a></em> invoke the word "purity" it's generally a good idea to run since they're probably about to perform a "purge", IE kill a bunch of people (who may or may not deserve it, it varies).
+";i:546;s:17:"</li></ul></div>
+";i:547;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder12');">&nbsp;&nbsp;&nbsp;&nbsp;Web Original&nbsp;</div><div id="folder12" class="folder" isfolder="true" style="display:block;">
+";i:548;s:289:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SailorNothing' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SailorNothing'>Sailor Nothing</a></em>, the Yamiko created from a person has a power and evil level proportional to their host's purity.
+";i:549;s:17:"</li></ul></div>
+";i:550;s:195:"<p></p><div class="folderlabel" onclick="togglefolder('folder13');">&nbsp;&nbsp;&nbsp;&nbsp;Western Animation&nbsp;</div><div id="folder13" class="folder" isfolder="true" style="display:block;">
+";i:551;s:1091:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AvatarTheLastAirbender' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AvatarTheLastAirbender'>Avatar The Last Airbender</a></em>: To bend lightning, one must have no internal conflicts whether emotional or idealistic. Purity of focus is required. You can do that by being calm, cool and collected like the well-adjusted <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OldMaster' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OldMaster'>Iroh</a>, being an emotionally repressed psychopath like <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MagnificentBastard' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MagnificentBastard'>Azula</a> or being ruthless and supremely arrogant like Ozai. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiHero'>Anti-Hero</a> Zuko, however, can't manage it because he's too conflicted and generally emotional.
+";i:552;s:835:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Deconstructed' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Deconstructed'>Deconstructed</a> in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/YoungJustice' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/YoungJustice'>Young Justice</a></em>: Harm became pure evil <span class="spoiler" title="you can set spoilers visible by default on your profile" >by murdering his own sister, the only person he ever loved,</span> so he could wield the Sword of Beowulf, which only the pure of heart can draw. <span class="spoiler" title="you can set spoilers visible by default on your profile" >The Sword rejects him when he feels a shred of remorse after seeing his sister's ghost, becoming impure.</span>
+";i:553;s:17:"</li></ul></div>
+";i:554;s:8:"<p></p>
+";i:555;s:7:"<hr />
+";i:556;s:3160:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PsychopathicManchild">Psychopathic Manchild</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SubvertedInnocence">Subverted Innocence</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/RazorApples">Razor Apples</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PurityPersonified">Purity Personified</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes">Morality Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/QuestionableConsent">Questionable Consent</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PunchClockVillain">Punch Clock Villain</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Administrivia/NoRealLifeExamplesPlease">Administrivia/No Real Life Examples, Please!</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PuttingOnTheReich">Putting on the Reich</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ProperLady">Proper Lady</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PurityPersonified">Purity Personified</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/EnemyToAllLivingThings">Enemy to All Living Things</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightTemplar">Knight Templar</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/HiddenEvil">Hidden Evil</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveMakesYouCrazy">Love Makes You Crazy</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/APupilOfMineUntilHeTurnedToEvil">A Pupil of Mine Until He Turned to Evil</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Villains">Villains</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PutThemAllOutOfMyMisery">Put Them All Out of My Misery</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:557;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:558;s:10:"<p> </p>
+";i:559;s:10:"<center>
+";i:560;s:2:"
+";i:561;s:24:"<!-- med rectangle -->
+";i:562;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:563;s:33:"<script type='text/javascript'>
+";i:564;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:565;s:11:"</script>
+";i:566;s:8:"</div>
+";i:567;s:2:"
+";i:568;s:11:"</center>
+";i:569;s:24:"</td><!-- wikibody -->
+";i:570;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:571;s:7:"</td>
+";i:572;s:7:"</tr>
+";i:573;s:10:"</table>
+";i:574;s:22:"<!--PageFooterFmt-->
+";i:575;s:77:"<div class="alt_title" style="font-size:x-small;text-align:center;" ></div>
+";i:576;s:10:"<center>
+";i:577;s:44:"<table style="width:606px;margin:0 auto;">
+";i:578;s:7:"	<tr>
+";i:579;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:580;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:581;s:262:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PureIsNotGood?action=edit'> edit page</a></div></div></td>
+";i:582;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:583;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:584;s:8:"	</tr>
+";i:585;s:10:"</table>
+";i:586;s:11:"</center>
+";i:587;s:21:"<div id='wikifoot'>
+";i:588;s:27:"    <div class='footnav'>
+";i:589;s:2:"
+";i:590;s:14:"			 <center>
+";i:591;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:592;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:593;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:594;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:595;s:15:"				</center>
+";i:596;s:2:"
+";i:597;s:29:"    </div><!-- wikifoot -->
+";i:598;s:23:"<!--/PageFooterFmt-->
+";i:599;s:12:"73079<br/>
+";i:600;s:3:"1
+";i:601;s:8:"</div>
+";i:602;s:26:"</div><!-- container -->
+";i:603;s:2:"
+";i:604;s:9:"</body>
+";i:605;s:21:"<!--ScriptInsert-->
+";i:606;s:9:"</html>
+";}}

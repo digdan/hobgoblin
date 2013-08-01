@@ -1,0 +1,513 @@
+a:2:{i:0;i:1377888986;i:1;a:512:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:60:"<title>The Tell - Television Tropes &amp; Idioms  </title>
+";i:5;s:126:"<meta name="Description" content="The The Tell trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:2:"
+";i:25;s:10:"</style>
+";i:26;s:2:"
+";i:27;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:28;s:33:"<script type="text/javascript">
+";i:29;s:26:"  var _gaq = _gaq || [];
+";i:30;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:31;s:34:"  _gaq.push(['_trackPageview']);
+";i:32;s:2:"
+";i:33;s:17:"  (function() {
+";i:34;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:35;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:36;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:37;s:9:"  })();
+";i:38;s:2:"
+";i:39;s:32:"	function subpage(sel, title){
+";i:40;s:4:"		
+";i:41;s:40:"		var namespce = ""+getselection(sel);
+";i:42;s:34:"		if(namespce.trim()=="")return;
+";i:43;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:44;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:45;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:46;s:29:"		window.location.href=url;
+";i:47;s:4:"	}
+";i:48;s:32:"	function p5(groupname,title){
+";i:49;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:50;s:4:"	}
+";i:51;s:27:"	function togglenote(id){
+";i:52;s:23:"		var ele=object(id);
+";i:53;s:34:"		var state = ele.style.display;
+";i:54;s:49:"		if(state=='none') ele.style.display='inline';
+";i:55;s:48:"		if(state=='inline')ele.style.display='none';
+";i:56;s:4:"	}
+";i:57;s:35:"	var googletag = googletag || {};
+";i:58;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:59;s:16:"	(function() {
+";i:60;s:47:"	var gads = document.createElement('script');
+";i:61;s:21:"	gads.async = true;
+";i:62;s:33:"	gads.type = 'text/javascript';
+";i:63;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:64;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:65;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:66;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:67;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:68;s:8:"	})();
+";i:69;s:2:"
+";i:70;s:34:"	googletag.cmd.push(function() {
+";i:71;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:73;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:74;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:75;s:45:"		googletag.pubads().enableSingleRequest();
+";i:76;s:31:"		googletag.enableServices();
+";i:77;s:6:"	});
+";i:78;s:2:"
+";i:79;s:11:"</script>
+";i:80;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:81;s:2:"
+";i:82;s:9:"</head>
+";i:83;s:8:"<body>
+";i:84;s:40:"<div class="container" id="container">
+";i:85;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:86;s:6:"<tr>
+";i:87;s:46:"<td style="width:166px;vertical-align:top;">
+";i:88;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:89;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:90;s:38:"<g:plusone size="small"></g:plusone>
+";i:91;s:2:"
+";i:92;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:93;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:94;s:6:"<ul>
+";i:95;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:96;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:97;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:98;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:99;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:100;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:101;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:102;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:103;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:104;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:105;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:106;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:107;s:7:"</ul>
+";i:108;s:8:"</div>
+";i:109;s:2:"
+";i:110;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:111;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:112;s:2:"
+";i:113;s:178:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','TheTell');">send request</button><hr/></div>
+";i:114;s:2:"
+";i:115;s:319:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="TheTell" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:116;s:2:"
+";i:117;s:51:"<div style="font-size:small;text-align:center;" >
+";i:118;s:30:"Find recent edits by troper:
+";i:119;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:120;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:121;s:8:"</div>
+";i:122;s:7:"<hr/>
+";i:123;s:7:"<ul>	
+";i:124;s:4:"		
+";i:125;s:7:"<hr/>
+";i:126;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:127;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:128;s:56:"		<input type="hidden" name="title" value="TheTell" />
+";i:129;s:54:"		This article needs some moderator assistance with:
+";i:130;s:9:"		<br/>
+";i:131;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:132;s:9:"		<br/>
+";i:133;s:4:"		
+";i:134;s:34:"		<p style="text-align:center;">
+";i:135;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:136;s:8:"		</p>
+";i:137;s:34:"		<p style="text-align:center;">
+";i:138;s:48:"			<input type="submit" value="send report" />
+";i:139;s:8:"		</p>
+";i:140;s:11:"		</form>
+";i:141;s:7:"<hr/>
+";i:142;s:6:"<ul>
+";i:143;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:144;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:145;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:146;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:147;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:148;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:149;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:150;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:151;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:152;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:153;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:154;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:155;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:156;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:157;s:136:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.TheTell'>Referral Count for This Page</a></li>
+";i:158;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:159;s:111:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=TheTell'>Article Relationships</a></li> -->
+";i:160;s:97:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.TheTell'>Folderize</a></li>
+";i:161;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:162;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:163;s:7:"</ul>
+";i:164;s:8:"	<hr/>
+";i:165;s:6:"<ul>
+";i:166;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:167;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:168;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:169;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:170;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:171;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:172;s:7:"</ul>
+";i:173;s:7:"<hr/>
+";i:174;s:2:"
+";i:175;s:8:"</div>
+";i:176;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:177;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:178;s:8:"		<ul>
+";i:179;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:180;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:181;s:9:"		</ul>
+";i:182;s:8:"</div>
+";i:183;s:10:"<center>
+";i:184;s:34:"		<div style="margin-top:4px;">	
+";i:185;s:5:"			
+";i:186;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:187;s:33:"<script type='text/javascript'>
+";i:188;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:189;s:92:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/TheTell");
+";i:190;s:11:"</script>
+";i:191;s:8:"</div>
+";i:192;s:2:"
+";i:193;s:11:"		</div>	
+";i:194;s:10:"		<div>	
+";i:195;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:196;s:6:"		 	
+";i:197;s:4:"		
+";i:198;s:4:"		
+";i:199;s:10:"		</div>
+";i:200;s:101:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheTell">Main</a><br/>
+";i:201;s:9:"		<div>
+";i:202;s:10:"		</div>
+";i:203;s:36:"		<div style="font-size:x-small;">
+";i:204;s:11:"				<hr/>
+";i:205;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:206;s:14:"				<p> </p>
+";i:207;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:208;s:13:"				<p></p>
+";i:209;s:11:"				<ul >
+";i:210;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:211;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:212;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:213;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:214;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:215;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:216;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:217;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:219;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:220;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:221;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:222;s:11:"				</li>
+";i:223;s:11:"				</ul>
+";i:224;s:13:"				<p></p>
+";i:225;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:226;s:13:"				<p></p>
+";i:227;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:228;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:229;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:230;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:231;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:232;s:6:"				
+";i:233;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:234;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:235;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:236;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:237;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:238;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:239;s:6:"				
+";i:240;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:241;s:16:"				</li></ul>
+";i:242;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:243;s:13:"				<p></p>
+";i:244;s:11:"				<ul >
+";i:245;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:246;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:247;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:248;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:249;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:250;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:251;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:252;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:253;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:254;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:255;s:6:"				
+";i:256;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:257;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:258;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:259;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:260;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:261;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:262;s:6:"				
+";i:263;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:264;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:265;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:266;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:268;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:269;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:270;s:11:"				</li>
+";i:271;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:272;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:273;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:274;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:275;s:6:"				
+";i:276;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:278;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:279;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:280;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:281;s:16:"				</li></ul>
+";i:282;s:6:"				
+";i:283;s:13:"				<p></p>
+";i:284;s:39:"				<strong>Other Categories</strong>
+";i:285;s:13:"				<p></p>
+";i:286;s:10:"				<ul>
+";i:287;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:288;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:289;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:290;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:291;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:292;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:293;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:294;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:295;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:296;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:297;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:298;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:299;s:11:"				</ul>
+";i:300;s:11:"		</div>	
+";i:301;s:11:"</center>
+";i:302;s:2:"
+";i:303;s:30:"</div> <!-- wikileftpage -->
+";i:304;s:7:"</td>
+";i:305;s:20:"<td id='wikibody'>
+";i:306;s:2:"
+";i:307;s:21:"<!--PageTitleFmt-->
+";i:308;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:309;s:12:"    		<tr>
+";i:310;s:38:"    		<td id="wikicmds" align="top">
+";i:311;s:8:"    		
+";i:312;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:313;s:45:"    				<tr style="vertical-align:middle;">
+";i:314;s:31:"    					<td align="center" >
+";i:315;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:316;s:16:"    					</td>
+";i:317;s:15:"    				<td >
+";i:318;s:37:"    					<div style="width:400px;">
+";i:319;s:28:"                  <center>
+";i:320;s:27:"                  <table>
+";i:321;s:24:"                  <tr>
+";i:322;s:24:"                  <td>
+";i:323;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:324;s:27:"                    <div>
+";i:325;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:326;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:327;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:328;s:64:"                      <input type="text" name="q" size="31" />
+";i:329;s:28:"                    </div>
+";i:330;s:27:"                  </form>
+";i:331;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:332;s:25:"                  </td>
+";i:333;s:24:"                  <td>
+";i:334;s:46:"                  <div class="buttonframe" >
+";i:335;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:336;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:337;s:26:"                  </div>
+";i:338;s:25:"                  </div
+";i:339;s:25:"                  </td>
+";i:340;s:25:"                  </tr>
+";i:341;s:28:"                  </table>
+";i:342;s:29:"                  </center>
+";i:343;s:17:"    					</div>
+";i:344;s:15:"    				</td>
+";i:345;s:15:"    				</tr>
+";i:346;s:16:"    		</table>
+";i:347;s:8:"    		
+";i:348;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:349;s:10:"    				
+";i:350;s:27:"    				<tr valign="top">
+";i:351;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:352;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:353;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:354;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:355;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:356;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:357;s:15:"    				</tr>
+";i:358;s:10:"    				
+";i:359;s:10:"    				
+";i:360;s:8:"    		
+";i:361;s:16:"    		</table>
+";i:362;s:8:"    		
+";i:363;s:28:"    		<div id="wikilogo" >
+";i:364;s:16:"    		<center>
+";i:365;s:2:"
+";i:366;s:22:"<!-- leaderboard -->
+";i:367;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:368;s:33:"<script type='text/javascript'>
+";i:369;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:370;s:11:"</script>
+";i:371;s:8:"</div>
+";i:372;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:373;s:28:"    					<tr valign="top">
+";i:374;s:217:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'TheTell');" autocomplete="off"  style="width:50px;"><option> </option><option value="Main">Main</option></select></td>
+";i:375;s:262:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheTell?action=source" >source</a></div></div></td>
+";i:376;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:377;s:263:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.TheTell">history</a></div></div></td>
+";i:378;s:265:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheTell?action=edit'> edit page</a></div></div></td>
+";i:379;s:261:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/TheTell" >related</a></div></div></td>
+";i:380;s:38:"    							<td valign="middle"></td>
+";i:381;s:16:"    					</tr>
+";i:382;s:18:"    				</table>
+";i:383;s:10:"    				
+";i:384;s:35:"    				<div id="watchmsg"></div>
+";i:385;s:18:"    			</center>
+";i:386;s:13:"    		</td>
+";i:387;s:12:"     </tr>
+";i:388;s:6:"    
+";i:389;s:11:"    	<tr>
+";i:390;s:39:"    		<td id="wikititle" colspan="2">
+";i:391;s:40:"    				<div class="namespacebuttons">
+";i:392;s:635:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.TheTell" >&nbsp;Discussion </a></li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=TheTell" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/TheTell" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:393;s:16:"    				</div>
+";i:394;s:26:"    				<!--RepairBug-->
+";i:395;s:10:"    				
+";i:396;s:34:"    				<div class='pagetitle'> 
+";i:397;s:35:"    						  <span>The Tell</span>
+";i:398;s:16:"    				</div>
+";i:399;s:11:"    				 
+";i:400;s:13:"    		</td>
+";i:401;s:12:"    	</tr>
+";i:402;s:10:"</table>
+";i:403;s:2:"
+";i:404;s:16:"<!--PageText-->
+";i:405;s:20:"<div id='wikitext'>
+";i:406;s:70:"<dl><dd><div class='indent'><strong>Reggie:</strong> What did you do?
+";i:407;s:75:"</div><div class='indent'><strong>Joy:</strong> I made blueberry pancakes.
+";i:408;s:88:"</div><div class='indent'><strong>Reggie:</strong> You make those when you feel guilty.
+";i:409;s:198:"<div class='indent'>&#8212; <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadLikeMe' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadLikeMe'>Dead Like Me</a></em>
+";i:410;s:131:"</div></div></dd></dl><p></p>Alice knows Bob very well. She can always tell what he's feeling. She'll probably say something like:
+";i:411;s:55:"<p></p><ul ><li> "You always clean when you're angry."
+";i:412;s:60:"</li><li> "You're only nice to me when something is wrong."
+";i:413;s:67:"</li><li> "Whenever you have a bad day at work, your foot shakes."
+";i:414;s:275:"</li></ul><p></p>The idea is that Alice can tell something about Bob's emotional state because he is performing a significant but unrelated action. Expect Bob to deny it. Don't expect to ever see him perform this action again, even though he supposedly does it all the time.
+";i:415;s:280:"<p></p>Writers will often use <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheTell' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheTell'>The Tell</a> to inform the audience what is going on with a character who wouldn't normally share his feelings.
+";i:416;s:790:"<p></p>See also <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCanAlwaysTellALiar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCanAlwaysTellALiar'>You Can Always Tell A Liar</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PinocchioNose' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PinocchioNose'>Pinocchio Nose</a> for cases where Alice can tell that Bob is lying. See <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMagicPokerEquation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMagicPokerEquation'>The Magic Poker Equation</a> for <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Poker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Poker'>poker</a> tells.
+";i:417;s:14:"<p></p><hr />
+";i:418;s:19:"<h2>Examples:</h2>
+";i:419;s:207:"<p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimeAndManga' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimeAndManga'>Anime and Manga</a></span>
+";i:420;s:362:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MaisonIkkoku' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MaisonIkkoku'>Maison Ikkoku</a></em>, you can tell Kyoko's angry because she becomes VERY enthusiastic while cleaning(moreso than usual). That, and her tendency to break broomhandles by <em>squeezing</em> them.
+";i:421;s:432:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BitterVirgin' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BitterVirgin'>Bitter Virgin</a></em>, Yuzu notices Daisuke is upset by Kazuki's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Yandere' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Yandere'>unwelcome affection</a> because he keeps holding his forehead.
+";i:422;s:204:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CardGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CardGames'>Card Games</a></span>
+";i:423;s:188:"<ul ><li> Good <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Poker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Poker'>poker</a> players can recognize tells.
+";i:424;s:54:"</li></ul><p></p><span class="asscaps" >Fanfic</span>
+";i:425;s:374:"<ul ><li> Shadowfax's tell is that she won't make eye contact when she's trying to hide something. Her interrogator figures this out, and well, <a class='urllink' href='http://www.fimfiction.net/story/119688/1/you-obey/the-interrogation'>it got ugly...<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>
+";i:426;s:188:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a></span>
+";i:427;s:378:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MirrorMask' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MirrorMask'>MirrorMask</a></em>, when Helena's father is trying to calm her about her mother's impending brain surgery, and unconsciously chews his lip, she blurts, "Anyway, you're worried. You only do that when you're worried!"
+";i:428;s:238:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/KungFuPanda' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/KungFuPanda'>Kung Fu Panda</a></em>. "You eat when you are upset."
+";i:429;s:223:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/CasinoRoyale' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/CasinoRoyale'>Casino Royale</a>, Bond can tell when Le Chiffre is bluffing.
+";i:430;s:342:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DavidMamet' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DavidMamet'>David Mamet's</a> film <em>House Of Games</em>, a sequence involved one main explaining to another what a "tell" <em>is</em>&#8212;down to demonstrating it, with a "hidden penny" game.
+";i:431;s:206:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a></span>
+";i:432;s:343:"<ul ><li> It is repeatedly mentioned in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/MercyThompson' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/MercyThompson'>Mercy Thompson</a></em> books that Mercy bakes when she's upset. It is actually pretty consistent, and is remarked upon a few times.
+";i:433;s:364:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/ThePrincessDiaries' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/ThePrincessDiaries'>The Princess Diaries</a></em>, Mia's nostrils flare whenever she lies, although she's an excellent liar otherwise, and no one had noticed the nostrils thing before Grandmere.
+";i:434;s:214:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LiveActionTV' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LiveActionTV'>Live-Action TV</a></span>
+";i:435;s:186:"<ul ><li> From <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadLikeMe' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadLikeMe'>Dead Like Me</a></em>:
+";i:436;s:64:"<div class='indent'><strong>Reggie:</strong> "What did you do?"
+";i:437;s:77:"</div><div class='indent'><strong>Joy:</strong> "I made blueberry pancakes."
+";i:438;s:90:"</div><div class='indent'><strong>Reggie:</strong> "You make those when you feel guilty."
+";i:439;s:179:"</div></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Coupling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Coupling'>Coupling</a></em>:
+";i:440;s:101:"<div class='indent'> "You (referring to Susan) only say apparently when you're annoyed at something"
+";i:441;s:272:"</div></li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Aquila' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Aquila'>Aquila</a></em> one of the protagonists' mothers realises he's upset when he begins sorting his rock collection.
+";i:442;s:236:"</li><li> Ellie Nash from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Degrassi' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Degrassi'>Degrassi</a></em> cooks when she's angry, according to Marco.
+";i:443;s:836:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/BabylonFive' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/BabylonFive'>Babylon 5</a></em>: <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommanderContrarian' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommanderContrarian'>Commander Ivanova</a> knows <em>something</em> is up when she sees Garibaldi "eating like a man starved", but she doesn't know him well enough to be sure there's a reason behind it. It turns out it is something Garibaldi does when faced with death (in this case, a ship full of colonists he came across who were killed by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpacePirates' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpacePirates'>Space Pirates</a>.)
+";i:444;s:329:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Frasier' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Frasier'>Frasier</a></em>, Niles' nose bleeds when he's broken his ethical code. Likewise, when Frasier has knowingly broken his ethical code, he starts having attacks of nausea.
+";i:445;s:369:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/House' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/House'>House</a> can tell when Cuddy's bluffing even when he's not in the same building <span class="spoiler" title="you can set spoilers visible by default on your profile" > because he's talking on a phone with Wilson.</span>
+";i:446;s:471:"<ul ><li> Also, in the season 2 finale, the guy who shot House knows when House isn't sleeping, because his nostrils flare when he sleeps. <span class="spoiler" title="you can set spoilers visible by default on your profile" > Although, most of the episode was <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AllJustADream' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AllJustADream'>All Just a Dream</a>, so make of that what you will.</span>
+";i:447;s:479:"</li></ul></li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWestWing' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWestWing'>The West Wing</a></em> episode "Two Cathedrals", Mrs Landingham explains in a flashback that when Bartlett has made up his mind to do something, he sticks his hands in his pockets, looks away, and smiles. If you're paying attention at the end, he does the same thing when asked if he's going to run again.
+";i:448;s:352:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheCityHunter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheCityHunter'>The City Hunter</a></em>, Prosecutor Kim Young Ju knows his ex-wife, Sae Hee, is lying about the whereabouts of The City Hunter because she draws a circle on the table with her finger.
+";i:449;s:274:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NecessaryRoughness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NecessaryRoughness'>Necessary Roughness</a></em>, Dani squints a lot whenever she doesn't like something or someone.
+";i:450;s:350:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CornerGas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CornerGas'>Corner Gas</a></em>, Emma cleans whenever she is angry about something. In the same episode, Davis and Karen take advantage of this by bringing her to their dirty kitchens and riling her up.
+";i:451;s:545:"</li><li> In Korean Drama, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/SecretGarden' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/SecretGarden'>Secret Garden</a></em>, Gil Ra Im taps one of her feet, when she's interested in has-been singer Oska. Oska sees this after a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FreakyFridayFlip' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FreakyFridayFlip'>Freaky Friday Flip</a> from his male relative, and gets seriously squicked out.
+";i:452;s:210:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopRPG' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopRPG'>Tabletop RPG</a></span>
+";i:453;s:292:"<ul ><li> <em><a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Stormbringer' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Stormbringer'>Stormbringer</a></em> supplement <em>Demon Magic</em>, adventure "Sorcerer's Isle". From the description of the pirate Janar Ra:
+";i:454;s:216:"<div class='indent'>When she is angry, she goes into the jungle and hacks away at trees; when she is very angry, she sullenly sharpens her axes. The rest of the pirates do not disturb her when she sharpens her axes.
+";i:455;s:213:"</div></li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGames'>Video Games</a></span>
+";i:456;s:369:"<ul ><li> This is a game mechanic in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ApolloJusticeAceAttorney' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ApolloJusticeAceAttorney'>Apollo Justice: Ace Attorney</a></em>- when a witness is nervous while testifying they'll perform some sort of habitual action that you have to zoom in on.
+";i:457;s:632:"</li><li> Also a benefit of the advanced facial animation technology present in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LANoire' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LANoire'>L.A. Noire</a></em>, where during interrogations, a suspect may have a telling reaction as they wait your response to their testimony and you must gauge the correct response based on that. Some <a class='urllink' href='http://www.youtube.com/watch?v=IvtMZ20DmJo'>more telling than others.<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>
+";i:458;s:204:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WebComics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WebComics'>Web Comics</a></span>
+";i:459;s:722:"<ul ><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/OzyAndMillie' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/OzyAndMillie'>Ozy And Millie</a>, the tail of foxes shows their emotions. This is mentioned many times, including for <a class='urllink' href='http://russell2.math.bme.hu/~ambrus/sc/comic/millie/comic?n=19991118'>Ozy<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> and <a class='urllink' href='http://russell2.math.bme.hu/~ambrus/sc/comic/millie/comic?n=20050719'>Ms. Mudd<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>
+";i:460;s:17:"</li></ul><hr />
+";i:461;s:1054:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SympathyForTheHero">Sympathy For The Hero</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/EmotionTropes">Emotion Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ThatMakesMeFeelAngry">That Makes Me Feel Angry</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TechnologicalPacifist">Technological Pacifist</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes">Characterization Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheXenophile">The Xenophile</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:462;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:463;s:10:"<p> </p>
+";i:464;s:10:"<center>
+";i:465;s:2:"
+";i:466;s:24:"<!-- med rectangle -->
+";i:467;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:468;s:33:"<script type='text/javascript'>
+";i:469;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:470;s:11:"</script>
+";i:471;s:8:"</div>
+";i:472;s:2:"
+";i:473;s:11:"</center>
+";i:474;s:24:"</td><!-- wikibody -->
+";i:475;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:476;s:7:"</td>
+";i:477;s:7:"</tr>
+";i:478;s:10:"</table>
+";i:479;s:22:"<!--PageFooterFmt-->
+";i:480;s:77:"<div class="alt_title" style="font-size:x-small;text-align:center;" ></div>
+";i:481;s:10:"<center>
+";i:482;s:44:"<table style="width:606px;margin:0 auto;">
+";i:483;s:7:"	<tr>
+";i:484;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:485;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:486;s:256:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheTell?action=edit'> edit page</a></div></div></td>
+";i:487;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:488;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:489;s:8:"	</tr>
+";i:490;s:10:"</table>
+";i:491;s:11:"</center>
+";i:492;s:21:"<div id='wikifoot'>
+";i:493;s:27:"    <div class='footnav'>
+";i:494;s:2:"
+";i:495;s:14:"			 <center>
+";i:496;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:497;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:498;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:499;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:500;s:15:"				</center>
+";i:501;s:2:"
+";i:502;s:29:"    </div><!-- wikifoot -->
+";i:503;s:23:"<!--/PageFooterFmt-->
+";i:504;s:12:"14524<br/>
+";i:505;s:4:"25
+";i:506;s:8:"</div>
+";i:507;s:26:"</div><!-- container -->
+";i:508;s:2:"
+";i:509;s:9:"</body>
+";i:510;s:21:"<!--ScriptInsert-->
+";i:511;s:9:"</html>
+";}}

@@ -1,0 +1,518 @@
+a:2:{i:0;i:1377888719;i:1;a:517:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:65:"<title>Broken Streak - Television Tropes &amp; Idioms  </title>
+";i:5;s:131:"<meta name="Description" content="The Broken Streak trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:10:"</style>
+";i:25;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:26;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:27;s:33:"<script type="text/javascript">
+";i:28;s:26:"  var _gaq = _gaq || [];
+";i:29;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:30;s:34:"  _gaq.push(['_trackPageview']);
+";i:31;s:2:"
+";i:32;s:17:"  (function() {
+";i:33;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:34;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:35;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:36;s:9:"  })();
+";i:37;s:2:"
+";i:38;s:32:"	function subpage(sel, title){
+";i:39;s:4:"		
+";i:40;s:40:"		var namespce = ""+getselection(sel);
+";i:41;s:34:"		if(namespce.trim()=="")return;
+";i:42;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:43;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:44;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:45;s:29:"		window.location.href=url;
+";i:46;s:4:"	}
+";i:47;s:32:"	function p5(groupname,title){
+";i:48;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:49;s:4:"	}
+";i:50;s:27:"	function togglenote(id){
+";i:51;s:23:"		var ele=object(id);
+";i:52;s:34:"		var state = ele.style.display;
+";i:53;s:49:"		if(state=='none') ele.style.display='inline';
+";i:54;s:48:"		if(state=='inline')ele.style.display='none';
+";i:55;s:4:"	}
+";i:56;s:35:"	var googletag = googletag || {};
+";i:57;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:58;s:16:"	(function() {
+";i:59;s:47:"	var gads = document.createElement('script');
+";i:60;s:21:"	gads.async = true;
+";i:61;s:33:"	gads.type = 'text/javascript';
+";i:62;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:63;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:64;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:65;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:66;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:67;s:8:"	})();
+";i:68;s:2:"
+";i:69;s:34:"	googletag.cmd.push(function() {
+";i:70;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:71;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:73;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:74;s:45:"		googletag.pubads().enableSingleRequest();
+";i:75;s:31:"		googletag.enableServices();
+";i:76;s:6:"	});
+";i:77;s:2:"
+";i:78;s:11:"</script>
+";i:79;s:2:"
+";i:80;s:9:"</head>
+";i:81;s:8:"<body>
+";i:82;s:40:"<div class="container" id="container">
+";i:83;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:84;s:6:"<tr>
+";i:85;s:46:"<td style="width:166px;vertical-align:top;">
+";i:86;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:87;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:88;s:38:"<g:plusone size="small"></g:plusone>
+";i:89;s:2:"
+";i:90;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:91;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:92;s:6:"<ul>
+";i:93;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:94;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:95;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:96;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:97;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:98;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:99;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:100;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:101;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:102;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:103;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:104;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:105;s:7:"</ul>
+";i:106;s:8:"</div>
+";i:107;s:2:"
+";i:108;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:109;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:110;s:2:"
+";i:111;s:183:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','BrokenStreak');">send request</button><hr/></div>
+";i:112;s:2:"
+";i:113;s:324:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="BrokenStreak" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:114;s:2:"
+";i:115;s:51:"<div style="font-size:small;text-align:center;" >
+";i:116;s:30:"Find recent edits by troper:
+";i:117;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:118;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:119;s:8:"</div>
+";i:120;s:7:"<hr/>
+";i:121;s:7:"<ul>	
+";i:122;s:4:"		
+";i:123;s:7:"<hr/>
+";i:124;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:125;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:126;s:61:"		<input type="hidden" name="title" value="BrokenStreak" />
+";i:127;s:54:"		This article needs some moderator assistance with:
+";i:128;s:9:"		<br/>
+";i:129;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:130;s:9:"		<br/>
+";i:131;s:4:"		
+";i:132;s:34:"		<p style="text-align:center;">
+";i:133;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:134;s:8:"		</p>
+";i:135;s:34:"		<p style="text-align:center;">
+";i:136;s:48:"			<input type="submit" value="send report" />
+";i:137;s:8:"		</p>
+";i:138;s:11:"		</form>
+";i:139;s:7:"<hr/>
+";i:140;s:6:"<ul>
+";i:141;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:142;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:143;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:144;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:145;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:146;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:147;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:148;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:149;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:150;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:151;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:152;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:153;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:154;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:155;s:141:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.BrokenStreak'>Referral Count for This Page</a></li>
+";i:156;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:157;s:116:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=BrokenStreak'>Article Relationships</a></li> -->
+";i:158;s:102:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.BrokenStreak'>Folderize</a></li>
+";i:159;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:160;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:161;s:7:"</ul>
+";i:162;s:8:"	<hr/>
+";i:163;s:6:"<ul>
+";i:164;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:165;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:166;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:167;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:168;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:169;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:170;s:7:"</ul>
+";i:171;s:7:"<hr/>
+";i:172;s:2:"
+";i:173;s:8:"</div>
+";i:174;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:175;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:176;s:8:"		<ul>
+";i:177;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:178;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:179;s:9:"		</ul>
+";i:180;s:8:"</div>
+";i:181;s:10:"<center>
+";i:182;s:34:"		<div style="margin-top:4px;">	
+";i:183;s:5:"			
+";i:184;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:185;s:33:"<script type='text/javascript'>
+";i:186;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:187;s:97:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/BrokenStreak");
+";i:188;s:11:"</script>
+";i:189;s:8:"</div>
+";i:190;s:2:"
+";i:191;s:11:"		</div>	
+";i:192;s:10:"		<div>	
+";i:193;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:194;s:6:"		 	
+";i:195;s:4:"		
+";i:196;s:4:"		
+";i:197;s:10:"		</div>
+";i:198;s:106:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BrokenStreak">Main</a><br/>
+";i:199;s:9:"		<div>
+";i:200;s:10:"		</div>
+";i:201;s:36:"		<div style="font-size:x-small;">
+";i:202;s:11:"				<hr/>
+";i:203;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:204;s:14:"				<p> </p>
+";i:205;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:206;s:13:"				<p></p>
+";i:207;s:11:"				<ul >
+";i:208;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:209;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:210;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:211;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:212;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:213;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:214;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:215;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:216;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:217;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:219;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:220;s:11:"				</li>
+";i:221;s:11:"				</ul>
+";i:222;s:13:"				<p></p>
+";i:223;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:224;s:13:"				<p></p>
+";i:225;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:226;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:227;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:228;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:229;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:230;s:6:"				
+";i:231;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:232;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:233;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:234;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:235;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:236;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:237;s:6:"				
+";i:238;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:239;s:16:"				</li></ul>
+";i:240;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:241;s:13:"				<p></p>
+";i:242;s:11:"				<ul >
+";i:243;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:244;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:245;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:246;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:247;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:248;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:249;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:250;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:251;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:252;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:253;s:6:"				
+";i:254;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:255;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:256;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:257;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:258;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:259;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:260;s:6:"				
+";i:261;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:262;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:263;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:264;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:265;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:266;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:268;s:11:"				</li>
+";i:269;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:270;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:271;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:272;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:273;s:6:"				
+";i:274;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:275;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:276;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:278;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:279;s:16:"				</li></ul>
+";i:280;s:6:"				
+";i:281;s:13:"				<p></p>
+";i:282;s:39:"				<strong>Other Categories</strong>
+";i:283;s:13:"				<p></p>
+";i:284;s:10:"				<ul>
+";i:285;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:286;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:287;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:288;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:289;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:290;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:291;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:292;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:293;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:294;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:295;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:296;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:297;s:11:"				</ul>
+";i:298;s:11:"		</div>	
+";i:299;s:11:"</center>
+";i:300;s:2:"
+";i:301;s:30:"</div> <!-- wikileftpage -->
+";i:302;s:7:"</td>
+";i:303;s:20:"<td id='wikibody'>
+";i:304;s:2:"
+";i:305;s:21:"<!--PageTitleFmt-->
+";i:306;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:307;s:12:"    		<tr>
+";i:308;s:38:"    		<td id="wikicmds" align="top">
+";i:309;s:8:"    		
+";i:310;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:311;s:45:"    				<tr style="vertical-align:middle;">
+";i:312;s:31:"    					<td align="center" >
+";i:313;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:314;s:16:"    					</td>
+";i:315;s:15:"    				<td >
+";i:316;s:37:"    					<div style="width:400px;">
+";i:317;s:28:"                  <center>
+";i:318;s:27:"                  <table>
+";i:319;s:24:"                  <tr>
+";i:320;s:24:"                  <td>
+";i:321;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:322;s:27:"                    <div>
+";i:323;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:324;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:325;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:326;s:64:"                      <input type="text" name="q" size="31" />
+";i:327;s:28:"                    </div>
+";i:328;s:27:"                  </form>
+";i:329;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:330;s:25:"                  </td>
+";i:331;s:24:"                  <td>
+";i:332;s:46:"                  <div class="buttonframe" >
+";i:333;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:334;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:335;s:26:"                  </div>
+";i:336;s:25:"                  </div
+";i:337;s:25:"                  </td>
+";i:338;s:25:"                  </tr>
+";i:339;s:28:"                  </table>
+";i:340;s:29:"                  </center>
+";i:341;s:17:"    					</div>
+";i:342;s:15:"    				</td>
+";i:343;s:15:"    				</tr>
+";i:344;s:16:"    		</table>
+";i:345;s:8:"    		
+";i:346;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:347;s:10:"    				
+";i:348;s:27:"    				<tr valign="top">
+";i:349;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:350;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:351;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:352;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:353;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:354;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:355;s:15:"    				</tr>
+";i:356;s:10:"    				
+";i:357;s:10:"    				
+";i:358;s:8:"    		
+";i:359;s:16:"    		</table>
+";i:360;s:8:"    		
+";i:361;s:28:"    		<div id="wikilogo" >
+";i:362;s:16:"    		<center>
+";i:363;s:2:"
+";i:364;s:22:"<!-- leaderboard -->
+";i:365;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:366;s:33:"<script type='text/javascript'>
+";i:367;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:368;s:11:"</script>
+";i:369;s:8:"</div>
+";i:370;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:371;s:28:"    					<tr valign="top">
+";i:372;s:222:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'BrokenStreak');" autocomplete="off"  style="width:50px;"><option> </option><option value="Main">Main</option></select></td>
+";i:373;s:267:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BrokenStreak?action=source" >source</a></div></div></td>
+";i:374;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:375;s:268:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.BrokenStreak">history</a></div></div></td>
+";i:376;s:270:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BrokenStreak?action=edit'> edit page</a></div></div></td>
+";i:377;s:266:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/BrokenStreak" >related</a></div></div></td>
+";i:378;s:38:"    							<td valign="middle"></td>
+";i:379;s:16:"    					</tr>
+";i:380;s:18:"    				</table>
+";i:381;s:10:"    				
+";i:382;s:35:"    				<div id="watchmsg"></div>
+";i:383;s:18:"    			</center>
+";i:384;s:13:"    		</td>
+";i:385;s:12:"     </tr>
+";i:386;s:6:"    
+";i:387;s:11:"    	<tr>
+";i:388;s:39:"    		<td id="wikititle" colspan="2">
+";i:389;s:40:"    				<div class="namespacebuttons">
+";i:390;s:650:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.BrokenStreak" >&nbsp;Discussion </a></li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=BrokenStreak" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/BrokenStreak" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:391;s:16:"    				</div>
+";i:392;s:26:"    				<!--RepairBug-->
+";i:393;s:10:"    				
+";i:394;s:34:"    				<div class='pagetitle'> 
+";i:395;s:40:"    						  <span>Broken Streak</span>
+";i:396;s:16:"    				</div>
+";i:397;s:11:"    				 
+";i:398;s:13:"    		</td>
+";i:399;s:12:"    	</tr>
+";i:400;s:10:"</table>
+";i:401;s:2:"
+";i:402;s:16:"<!--PageText-->
+";i:403;s:20:"<div id='wikitext'>
+";i:404;s:311:"A run of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShockingDefeatLegacy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShockingDefeatLegacy'>consecutive losses</a> by (say) the team the main character is on, or of consecutive wins by the team's rivals, or both, comes to an end.
+";i:405;s:678:"<p></p>Exceptions are when <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FailureIsTheOnlyOption' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FailureIsTheOnlyOption'>Failure Is the Only Option</a>, or your would-be streak breakers get <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DiabolusExMachina' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DiabolusExMachina'>diabolically</a> unlucky...or <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IdiotBall' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IdiotBall'>stupid</a>. In other words, if the opposition wins, it's by luck rather than skill.
+";i:406;s:7:"<hr />
+";i:407;s:18:"<h2>Examples</h2>
+";i:408;s:53:"<p></p><span class="asscaps" >Anime and Manga</span>
+";i:409;s:823:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/Pokemon' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/Pokemon'>Pokémon</a></em>'s Ash Ketchum (or rather, Satoshi) <span class="spoiler" title="you can set spoilers visible by default on your profile" >has been on quite the losing streak lately, broken only by winning his first Sinnoh badge (and <em>that</em> was on the second attempt!) and a newly evolved Roselia. Oh, and Team Rocket, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FailureIsTheOnlyOption' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FailureIsTheOnlyOption'>but they don't count</a>.</span> He enters a far worse one after losing a six-on-six battle with Paul. The only battles he's won are the plot-important ones, and gym battles.
+";i:410;s:722:"</li><li> In a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HalloweenEpisode' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HalloweenEpisode'>Halloween Episode</a> of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/AxisPowersHetalia' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/AxisPowersHetalia'>Axis Powers Hetalia</a></em>, America (whose <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhyDidItHaveToBeSnakes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhyDidItHaveToBeSnakes'>only fear is the supernatural</a>), finally defeats the occultist England after 87 losses in their competition of seeing who scares the other first.
+";i:411;s:99:"<ul ><li> It should however be noticed that it was probably only because he enlisted Japan's help.
+";i:412;s:389:"</li></ul></li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InitialD' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InitialD'>Initial D</a></em>, Takumi breaks the winning streak of Ryosuke Takahashi, who had previously been considered the best street racer around. In Second Stage, another opponent appears who had wanted that honour for himself.
+";i:413;s:222:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewspaperComics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewspaperComics'>Newspaper Comics</a></span>
+";i:414;s:570:"<ul ><li> The losing streak of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Peanuts' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Peanuts'>Charlie Brown's</a> softball team is legendary. Most of the times they start winning have been when he wasn't able to play for some reason, with the winning streak ending the moment he returned. One exception to that general rule was a winning streak caused by a bug going around that affected every team in the local league except Charlie Brown's, which ended the moment the other players recovered.
+";i:415;s:138:"<ul ><li> They did win on their own ONCE...at which point, one of their players was revealed to be a gambler. And their win was canceled.
+";i:416;s:216:"</li></ul></li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a></span>
+";i:417;s:1014:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HarryPotterAndThePhilosophersStone' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HarryPotterAndThePhilosophersStone'>Harry Potter and the Philosopher's Stone</a></em>, the protagonists break Slytherin House's seven-year winning streak in the House Cup. Dumbledore gives the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThreeAmigos' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThreeAmigos'>Three Amigos</a> enough last-minute points to put Gryffindor in <em>joint</em> first place, and then awards Neville "Why is it always me?" Longbottom another ten for being brave enough to stand up to his friends (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DisobeyThisMessage' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DisobeyThisMessage'>the same ones who taught him to stand up to people in the first place</a>) when he thought they were making trouble.
+";i:418;s:990:"<ul ><li> A more personal version in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HarryPotterAndTheOrderOfThePhoenix' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HarryPotterAndTheOrderOfThePhoenix'>Order of the Phoenix</a></em>: Gryffindor has limped its way to the Quidditch Cup final despite Umbridge kicking Harry and the Weasley twins off the team <em>and</em> Ron's year-long <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PerformanceAnxiety' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PerformanceAnxiety'>Performance Anxiety</a> issues. No-one's feeling optimistic, so when Hagrid asks Harry and Hermione to meet him in the forest during the match, they do so. When they hear what sounds like the Slytherins' 'Weasley is our King' song on their way back, they assume Gryffindor lost. Then they notice that the actual lyrics have changed a bit, and see Ron being carried across the field by his teammates...
+";i:419;s:80:"</li></ul></li></ul><p></p><span class="asscaps" >Live-Action Television</span>
+";i:420;s:367:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThirdRockFromTheSun' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThirdRockFromTheSun'>3rd Rock from the Sun</a></em>: French Stewart makes an impromptu overhaul of a university football coach's strategy during their homecoming game...and then the team goes on to take the win.
+";i:421;s:212:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DawsonsCreek' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DawsonsCreek'>Dawson's Creek</a></em>: Also involving football.
+";i:422;s:674:"</li><li> Usually the protagonist is trying to break the streak. In the case of a <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BoyMeetsWorld' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BoyMeetsWorld'>Boy Meets World</a></em> episode, Cory is trying to <em>sustain</em> Mr. Feeny's streak at a geography competition (the resident egghead is uninterested since they're not giving out the usual prizes this year). In the end, Feeny's streak is broken, while the winner spazzes out upon finding out she's getting a different prize from the norm. However, Feeny decides to pin up Cory's A on a geography test where his previous wins had gone.
+";i:423;s:943:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FatherTed' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FatherTed'>Father Ted</a></em> - where <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FailureIsTheOnlyOption' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FailureIsTheOnlyOption'>failure (to get off the island) is the only option</a> - was done in such a spectacular fashion that the priests were about to be kicked off the island by Bishop Brennan, so they would no longer be his problem. Therefore a success was required to maintain the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StatusQuoIsGod' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StatusQuoIsGod'>status quo</a>. <span class="spoiler" title="you can set spoilers visible by default on your profile" >They blackmailed the Bishop about his breaking his vows of celibacy.</span>
+";i:424;s:551:"</li><li> Subverted in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnlyFoolsAndHorses' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnlyFoolsAndHorses'>Only Fools And Horses</a></em>. In one episode, Del constantly says to Rodney that the reason he keeps losing money to Boycie at poker is because he is on a "losing streak" which he feels is about to come to an end. Its actually because Boycie cheats. Del does end up winning a lot of money off of Boycie, but the reason he does so is by cheating <em>better</em>.
+";i:425;s:503:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/ICarly' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/ICarly'>iCarly</a></em>: <em>iWas A Pageant Girl</em> had Sam breaking the streak of the long-running champ of a beauty contest. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FridgeLogic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FridgeLogic'>Even though she completely screwed up everything but the final dance routine.</a>
+";i:426;s:218:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Cheers' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Cheers'>Cheers</a></em>'s yearly pranks with rival Gary's Olde Tyme Tavern.
+";i:427;s:61:"</li></ul><p></p><span class="asscaps" >Pro Wrestling</span>
+";i:428;s:623:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WCW' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WCW'>WCW</a>: <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Goldberg' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Goldberg'>Bill Goldberg's</a> 173-win streak (the longest in the history of pro wrestling) finally ended when he got tasered behind the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EasilyDistractedReferee' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EasilyDistractedReferee'>Easily-Distracted Referee</a>'s back.
+";i:429;s:223:"<ul ><li> The losses he suffered before the streak storyline begun were <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Retcon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Retcon'>Retconned</a>.
+";i:430;s:217:"</li></ul></li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGames'>Video Games</a></span>
+";i:431;s:359:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PhoenixWrightAceAttorney' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PhoenixWrightAceAttorney'>Phoenix Wright</a> has broken the winning streaks of Miles Edgeworth, Manfred Von Karma and Franziska Von Karma, while his mentor Mia broke the winning streak of Winston Payne.
+";i:432;s:405:"<ul ><li> And depending on what ending you get in the last case of Justice for All <span class="spoiler" title="you can set spoilers visible by default on your profile" > you can end up breaking Phoenix's winning streak as well. Note that the good ending actually has Phoenix <em>losing</em>, because saving Maya and putting the guilty man behind bars is much more important than a perfect record.</span>
+";i:433;s:293:"<ul ><li> <span class="spoiler" title="you can set spoilers visible by default on your profile" > subverted, in that the 'correct' choice allows you to save Maya and support winning...at which point your guilty client goes behind bars, since he just pissed off a world-famous assassin.</span>
+";i:434;s:238:"</li></ul></li></ul></li></ul><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WesternAnimation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WesternAnimation'>Western Animation</a></span>
+";i:435;s:551:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeyArnold' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeyArnold'>Hey Arnold!</a></em>, "Road Trip": Helga's mom needs $500 to repair her car. Enters bull-riding contest with $500 prize. Rival has won 5 years running. Turns out she was <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuddenlyAlwaysKnewThat' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuddenlyAlwaysKnewThat'>state bull-riding champion</a>, and she takes the money.
+";i:436;s:301:"<ul ><li> "Tour De Pond": Not only is it a case of a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyRivalry' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyRivalry'>Family Rivalry</a>, but Rex Smythe-Higgins the 3rd has also won this race a couple years running.
+";i:437;s:433:"</li></ul></li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Peanuts' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Peanuts'>Peanuts</a></em> movie <em>Bon Voyage, Charlie Brown,</em> the title character, as he is leaving for France, tells Schroeder to take care of the baseball field, whereby Sally bluntly tells him that "the last time you went away, our team won three games in a row."
+";i:438;s:330:"<ul ><li> The only time Charlie Brown's baseball team had a <em>winning</em> streak where Charlie Brown himself wasn't benched for some reason, it was because a bug was going around that made all the other teams too sick to play. Said streaks invariably ended when Charlie Brown returned to the game or the other teams recovered.
+";i:439;s:67:"</li></ul></li></ul><p></p><span class="asscaps" >Real Life</span>
+";i:440;s:196:"<ul ><li> The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/MLBTeams' title='http://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/MLBTeams'>Boston Red Sox</a> in 2004.
+";i:441;s:99:"<ul ><li> And the Chicago White Sox the year after. The San Francisco Giants five years later too.
+";i:442;s:240:"</li><li> For the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NationalHockeyLeague' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NationalHockeyLeague'>National Hockey League</a>, the New York Rangers in 1994.
+";i:443;s:162:"</li></ul></li><li> January 5, 1971: the Washington Generals beat the Harlem Globetrotters 100-99, bringing the Globetrotters' winning streak to an end at 2,495.
+";i:444;s:231:"</li><li> On June 1, 2012, Johan Santana pitched the first no-hitter in Mets history, ending the Mets' streak of 8,019 games (roughly 50 seasons) without one. This was easily the longest stretch without a no-hitter in MLB history.
+";i:445;s:923:"</li><li> After 11 films from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Pixar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Pixar'>Pixar</a>, all certified fresh on <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RottenTomatoes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RottenTomatoes'>Rotten Tomatoes</a>, they released <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Cars' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Cars'>Cars</a> 2</em>, which is currently at 38% on the Tomato-meter. Also, all Pixar films released since the establishment of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AcademyAward' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AcademyAward'>Academy Award</a> for Best Animated Feature in 2001 have been nominated for it, except <em>Cars 2</em>.
+";i:446;s:1544:"<ul ><li> Predating <em>Cars 2</em>, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/ToyStory' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/ToyStory'>Toy Story</a></em>'s streak of 100% <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RottenTomatoes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RottenTomatoes'>Rotten Tomatoes</a> ratings ended when <em>Toy Story 3</em> got...<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EightPointEight' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EightPointEight'>99%</a>. The first two <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComplainingAboutPeopleNotLikingTheShow' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComplainingAboutPeopleNotLikingTheShow'>critics with negative assessments</a> (one of whom already had a reputation as both a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommanderContrarian' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommanderContrarian'>Commander Contrarian</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BiasSteamroller' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BiasSteamroller'>a Pixar hater</a>) <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HePannedItNowHeSucks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HePannedItNowHeSucks'>were bashed to death</a>, the third review only escaped less flames for being released later.
+";i:447;s:290:"</li></ul></li><li> Susan Lucci's run of Daytime Emmy losses for <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AllMyChildren' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AllMyChildren'>Erica Kane</a> ended in 1999. This 28-year streak included 21 nominations.
+";i:448;s:1200:"</li><li> From 1993's <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Theatre/Mystere' title='http://tvtropes.org/pmwiki/pmwiki.php/Theatre/Mystere'>Mystere</a></em> onward, all of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/CirqueDuSoleil' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/CirqueDuSoleil'>Cirque Du Soleil</a>'s shows enjoyed indefinite runs in one venue or another. This streak of successes ended in 2010 when <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Theatre/BananaShpeel' title='http://tvtropes.org/pmwiki/pmwiki.php/Theatre/BananaShpeel'>Banana Shpeel</a></em>, a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreThrowback' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreThrowback'>Genre Throwback</a> to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Vaudeville' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Vaudeville'>Vaudeville</a>, bombed in New York City and couldn't make a go of it as a tour &#8212; ushering in a gloomy few years in which several other shows (most of which premiered in 2008 or afterward) were also shut down.
+";i:449;s:37:"</li></ul><p></p><h2>Exceptions</h2>
+";i:450;s:60:"<p></p><span class="asscaps" >Live-Action Television</span>
+";i:451;s:568:"<ul ><li> <em><a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AMinuteWithStanHooper' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AMinuteWithStanHooper'>A Minute With Stan Hooper</a></em>: The titular newsman wants change in the town he's moved to (it doesn't even allow women to vote), and decides to run for mayor against the 20 year incumbent, a bait shop owner who happens to have a political aide backing him. After spending a better part of the ep drumming up support, he ends up getting just 2 votes: himself...and the mayor's aide.
+";i:452;s:632:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GilmoreGirls' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GilmoreGirls'>Gilmore Girls</a></em>, "They Shoot Gilmores, Don't They?". Lorelei is desperate to break Kirk's winning streak (and her own streak of futility) at a dance marathon and almost does it (just like last year), but her partner / daughter Rory runs off the floor with fifteen minutes to go after breaking up with her boyfriend Dean (the real important event in this eppy), leaving Lorelai with yet another 23rd-hour loss as Kirk outdances the others to win his 5th in a row.
+";i:453;s:61:"</li></ul><p></p><span class="asscaps" >Pro Wrestling</span>
+";i:454;s:508:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheUndertaker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheUndertaker'>The Undertaker</a> has appeared at <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WrestleMania' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WrestleMania'>WrestleMania</a></em> twenty times. After about the tenth time, everyone started making a big deal about who will be the first to beat him. Hasn't happened yet.
+";i:455;s:225:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WesternAnimation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WesternAnimation'>Western Animation</a></span>
+";i:456;s:245:"<ul ><li> The telefilm <em>The Jetsons Meet The Flintstones</em>: Looks as if Nate Slate is about to end his losing streak to a rival in a pig catching contest...time for Dino and Astro come in and inadvertently help sustain the rival's streak.
+";i:457;s:516:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SouthPark' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SouthPark'>South Park</a></em>, "Big Gay Al's Big Gay Boat Ride": QB Stan is looking for his gay dog Sparky, while his football team continues its decades-long losing streak against Middle Park without him. Fortunately, the denizens of South Park were more interested in beating the 60-point spread, and Stan shows up in time to at least do that.
+";i:458;s:435:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AsToldByGinger' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AsToldByGinger'>As Told by Ginger</a></em>, "Next Question": Ginger's school Lucky Jr. High up against 9-time winner Furnace Brook in a televised quiz contest. Ginger asks her quiz team coach out on a date (!) right on the air (!!), resulting in Furnace Brook continuing their streak.
+";i:459;s:197:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theatre' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theatre'>Theatre</a></span>
+";i:460;s:614:"<ul ><li> Used absolutely chillingly in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RosencrantzAndGuildensternAreDead' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RosencrantzAndGuildensternAreDead'>Rosencrantz and Guildenstern Are Dead</a></em>, when Rosencrantz spends the first ten minutes of the play desperately trying to break a streak of turning up heads every single time he flips a coin. He can't. It's their first clue that reality is warping, and that they're stuck in something powerful that they might not be able to escape from by following any of the usual rules.
+";i:461;s:57:"</li></ul><p></p><span class="asscaps" >Real Life</span>
+";i:462;s:220:"<ul ><li> The Boston Red Sox...in 1986. Bottom of the 10th, two outs, Sox lead 5-3. Then: single, single, single for a run, pitcher switch, wild pitch for the tying run, grounder through Bill Buckner's legs for the win.
+";i:463;s:285:"</li><li> The Chicago Cubs in 2003. <em>Almost</em> made it to the World Series, which they haven't won since 1908 and haven't even <em>been to</em> since 1945, but despite having their best pitcher on the mound and holding the lead <em>twice</em>, they still lost Game 7 of the NLCS.
+";i:464;s:154:"</li><li> Karl Malone moved to the Los Angeles Lakers hoping to finally win the NBA title. He reached the finals but lost, leading to retirement instead.
+";i:465;s:24:"</li></ul><p></p><hr />
+";i:466;s:1016:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BrokenPedestal">Broken Pedestal</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots">Plots</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BrokenTreasure">Broken Treasure</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BribingYourWayToVictory">Bribing Your Way to Victory</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/VictoryAndDefeat">Victory And Defeat</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ConsolationAward">Consolation Award</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:467;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:468;s:10:"<p> </p>
+";i:469;s:10:"<center>
+";i:470;s:2:"
+";i:471;s:24:"<!-- med rectangle -->
+";i:472;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:473;s:33:"<script type='text/javascript'>
+";i:474;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:475;s:11:"</script>
+";i:476;s:8:"</div>
+";i:477;s:2:"
+";i:478;s:11:"</center>
+";i:479;s:24:"</td><!-- wikibody -->
+";i:480;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:481;s:7:"</td>
+";i:482;s:7:"</tr>
+";i:483;s:10:"</table>
+";i:484;s:22:"<!--PageFooterFmt-->
+";i:485;s:77:"<div class="alt_title" style="font-size:x-small;text-align:center;" ></div>
+";i:486;s:10:"<center>
+";i:487;s:44:"<table style="width:606px;margin:0 auto;">
+";i:488;s:7:"	<tr>
+";i:489;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:490;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:491;s:261:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BrokenStreak?action=edit'> edit page</a></div></div></td>
+";i:492;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:493;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:494;s:8:"	</tr>
+";i:495;s:10:"</table>
+";i:496;s:11:"</center>
+";i:497;s:21:"<div id='wikifoot'>
+";i:498;s:27:"    <div class='footnav'>
+";i:499;s:2:"
+";i:500;s:14:"			 <center>
+";i:501;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:502;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:503;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:504;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:505;s:15:"				</center>
+";i:506;s:2:"
+";i:507;s:29:"    </div><!-- wikifoot -->
+";i:508;s:23:"<!--/PageFooterFmt-->
+";i:509;s:12:"23622<br/>
+";i:510;s:3:"0
+";i:511;s:8:"</div>
+";i:512;s:26:"</div><!-- container -->
+";i:513;s:2:"
+";i:514;s:9:"</body>
+";i:515;s:21:"<!--ScriptInsert-->
+";i:516;s:9:"</html>
+";}}

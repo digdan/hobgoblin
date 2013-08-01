@@ -1,0 +1,610 @@
+a:2:{i:0;i:1377888917;i:1;a:609:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:71:"<title>Electrified Bathtub - Television Tropes &amp; Idioms  </title>
+";i:5;s:137:"<meta name="Description" content="The Electrified Bathtub trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:2:"
+";i:25;s:10:"</style>
+";i:26;s:2:"
+";i:27;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:28;s:33:"<script type="text/javascript">
+";i:29;s:26:"  var _gaq = _gaq || [];
+";i:30;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:31;s:34:"  _gaq.push(['_trackPageview']);
+";i:32;s:2:"
+";i:33;s:17:"  (function() {
+";i:34;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:35;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:36;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:37;s:9:"  })();
+";i:38;s:2:"
+";i:39;s:32:"	function subpage(sel, title){
+";i:40;s:4:"		
+";i:41;s:40:"		var namespce = ""+getselection(sel);
+";i:42;s:34:"		if(namespce.trim()=="")return;
+";i:43;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:44;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:45;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:46;s:29:"		window.location.href=url;
+";i:47;s:4:"	}
+";i:48;s:32:"	function p5(groupname,title){
+";i:49;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:50;s:4:"	}
+";i:51;s:27:"	function togglenote(id){
+";i:52;s:23:"		var ele=object(id);
+";i:53;s:34:"		var state = ele.style.display;
+";i:54;s:49:"		if(state=='none') ele.style.display='inline';
+";i:55;s:48:"		if(state=='inline')ele.style.display='none';
+";i:56;s:4:"	}
+";i:57;s:35:"	var googletag = googletag || {};
+";i:58;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:59;s:16:"	(function() {
+";i:60;s:47:"	var gads = document.createElement('script');
+";i:61;s:21:"	gads.async = true;
+";i:62;s:33:"	gads.type = 'text/javascript';
+";i:63;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:64;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:65;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:66;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:67;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:68;s:8:"	})();
+";i:69;s:2:"
+";i:70;s:34:"	googletag.cmd.push(function() {
+";i:71;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:73;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:74;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:75;s:45:"		googletag.pubads().enableSingleRequest();
+";i:76;s:31:"		googletag.enableServices();
+";i:77;s:6:"	});
+";i:78;s:2:"
+";i:79;s:11:"</script>
+";i:80;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:81;s:2:"
+";i:82;s:9:"</head>
+";i:83;s:8:"<body>
+";i:84;s:40:"<div class="container" id="container">
+";i:85;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:86;s:6:"<tr>
+";i:87;s:46:"<td style="width:166px;vertical-align:top;">
+";i:88;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:89;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:90;s:38:"<g:plusone size="small"></g:plusone>
+";i:91;s:2:"
+";i:92;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:93;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:94;s:6:"<ul>
+";i:95;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:96;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:97;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:98;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:99;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:100;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:101;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:102;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:103;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:104;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:105;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:106;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:107;s:7:"</ul>
+";i:108;s:8:"</div>
+";i:109;s:2:"
+";i:110;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:111;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:112;s:2:"
+";i:113;s:189:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','ElectrifiedBathtub');">send request</button><hr/></div>
+";i:114;s:2:"
+";i:115;s:330:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="ElectrifiedBathtub" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:116;s:2:"
+";i:117;s:51:"<div style="font-size:small;text-align:center;" >
+";i:118;s:30:"Find recent edits by troper:
+";i:119;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:120;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:121;s:8:"</div>
+";i:122;s:7:"<hr/>
+";i:123;s:7:"<ul>	
+";i:124;s:4:"		
+";i:125;s:7:"<hr/>
+";i:126;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:127;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:128;s:67:"		<input type="hidden" name="title" value="ElectrifiedBathtub" />
+";i:129;s:54:"		This article needs some moderator assistance with:
+";i:130;s:9:"		<br/>
+";i:131;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:132;s:9:"		<br/>
+";i:133;s:108:"		<span style="color:chocolate;">Note:</span> This page has already been marked for mature audiences.<br/>
+";i:134;s:34:"		<p style="text-align:center;">
+";i:135;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:136;s:8:"		</p>
+";i:137;s:34:"		<p style="text-align:center;">
+";i:138;s:48:"			<input type="submit" value="send report" />
+";i:139;s:8:"		</p>
+";i:140;s:11:"		</form>
+";i:141;s:7:"<hr/>
+";i:142;s:6:"<ul>
+";i:143;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:144;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:145;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:146;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:147;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:148;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:149;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:150;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:151;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:152;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:153;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:154;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:155;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:156;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:157;s:147:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.ElectrifiedBathtub'>Referral Count for This Page</a></li>
+";i:158;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:159;s:122:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=ElectrifiedBathtub'>Article Relationships</a></li> -->
+";i:160;s:108:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.ElectrifiedBathtub'>Folderize</a></li>
+";i:161;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:162;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:163;s:7:"</ul>
+";i:164;s:8:"	<hr/>
+";i:165;s:6:"<ul>
+";i:166;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:167;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:168;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:169;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:170;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:171;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:172;s:7:"</ul>
+";i:173;s:7:"<hr/>
+";i:174;s:2:"
+";i:175;s:8:"</div>
+";i:176;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:177;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:178;s:8:"		<ul>
+";i:179;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:180;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:181;s:9:"		</ul>
+";i:182;s:8:"</div>
+";i:183;s:10:"<center>
+";i:184;s:34:"		<div style="margin-top:4px;">	
+";i:185;s:6:"			 
+";i:186;s:49:"<!-- Casale Media: 160x600, 120x600 (Tower) -->
+";i:187;s:33:"<script type="text/javascript">
+";i:188;s:32:"var CasaleArgs = new Object();
+";i:189;s:25:"CasaleArgs.version = 2;
+";i:190;s:29:"CasaleArgs.adUnits = "5,3";
+";i:191;s:31:"CasaleArgs.casaleID = 120256;
+";i:192;s:11:"</script>
+";i:193;s:88:"<script type="text/javascript" src="http://js.casalemedia.com/casaleJTag.js"></script>
+";i:194;s:24:"<!-- DO NOT MODIFY -->
+";i:195;s:2:"
+";i:196;s:11:"		</div>	
+";i:197;s:10:"		<div>	
+";i:198;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:199;s:6:"		 	
+";i:200;s:4:"		
+";i:201;s:4:"		
+";i:202;s:10:"		</div>
+";i:203;s:292:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/ElectrifiedBathtub">Laconic</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ElectrifiedBathtub">Main</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Quotes/ElectrifiedBathtub">Quotes</a><br/>
+";i:204;s:9:"		<div>
+";i:205;s:10:"		</div>
+";i:206;s:36:"		<div style="font-size:x-small;">
+";i:207;s:11:"				<hr/>
+";i:208;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:209;s:14:"				<p> </p>
+";i:210;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:211;s:13:"				<p></p>
+";i:212;s:11:"				<ul >
+";i:213;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:214;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:215;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:216;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:217;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:219;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:220;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:221;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:222;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:223;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:224;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:225;s:11:"				</li>
+";i:226;s:11:"				</ul>
+";i:227;s:13:"				<p></p>
+";i:228;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:229;s:13:"				<p></p>
+";i:230;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:231;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:232;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:233;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:234;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:235;s:6:"				
+";i:236;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:237;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:238;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:239;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:240;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:241;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:242;s:6:"				
+";i:243;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:244;s:16:"				</li></ul>
+";i:245;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:246;s:13:"				<p></p>
+";i:247;s:11:"				<ul >
+";i:248;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:249;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:250;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:251;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:252;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:253;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:254;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:255;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:256;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:257;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:258;s:6:"				
+";i:259;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:260;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:261;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:262;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:263;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:264;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:265;s:6:"				
+";i:266;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:267;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:268;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:269;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:270;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:271;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:272;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:273;s:11:"				</li>
+";i:274;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:275;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:276;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:277;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:278;s:6:"				
+";i:279;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:280;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:281;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:282;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:283;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:284;s:16:"				</li></ul>
+";i:285;s:6:"				
+";i:286;s:13:"				<p></p>
+";i:287;s:39:"				<strong>Other Categories</strong>
+";i:288;s:13:"				<p></p>
+";i:289;s:10:"				<ul>
+";i:290;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:291;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:292;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:293;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:294;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:295;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:296;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:297;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:298;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:299;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:300;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:301;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:302;s:11:"				</ul>
+";i:303;s:11:"		</div>	
+";i:304;s:11:"</center>
+";i:305;s:2:"
+";i:306;s:30:"</div> <!-- wikileftpage -->
+";i:307;s:7:"</td>
+";i:308;s:20:"<td id='wikibody'>
+";i:309;s:2:"
+";i:310;s:21:"<!--PageTitleFmt-->
+";i:311;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:312;s:12:"    		<tr>
+";i:313;s:38:"    		<td id="wikicmds" align="top">
+";i:314;s:8:"    		
+";i:315;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:316;s:45:"    				<tr style="vertical-align:middle;">
+";i:317;s:31:"    					<td align="center" >
+";i:318;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:319;s:16:"    					</td>
+";i:320;s:15:"    				<td >
+";i:321;s:37:"    					<div style="width:400px;">
+";i:322;s:28:"                  <center>
+";i:323;s:27:"                  <table>
+";i:324;s:24:"                  <tr>
+";i:325;s:24:"                  <td>
+";i:326;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:327;s:27:"                    <div>
+";i:328;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:329;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:330;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:331;s:64:"                      <input type="text" name="q" size="31" />
+";i:332;s:28:"                    </div>
+";i:333;s:27:"                  </form>
+";i:334;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:335;s:25:"                  </td>
+";i:336;s:24:"                  <td>
+";i:337;s:46:"                  <div class="buttonframe" >
+";i:338;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:339;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:340;s:26:"                  </div>
+";i:341;s:25:"                  </div
+";i:342;s:25:"                  </td>
+";i:343;s:25:"                  </tr>
+";i:344;s:28:"                  </table>
+";i:345;s:29:"                  </center>
+";i:346;s:17:"    					</div>
+";i:347;s:15:"    				</td>
+";i:348;s:15:"    				</tr>
+";i:349;s:16:"    		</table>
+";i:350;s:8:"    		
+";i:351;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:352;s:10:"    				
+";i:353;s:27:"    				<tr valign="top">
+";i:354;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:355;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:356;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:357;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:358;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:359;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:360;s:15:"    				</tr>
+";i:361;s:10:"    				
+";i:362;s:10:"    				
+";i:363;s:8:"    		
+";i:364;s:16:"    		</table>
+";i:365;s:8:"    		
+";i:366;s:28:"    		<div id="wikilogo" >
+";i:367;s:16:"    		<center>
+";i:368;s:2:"
+";i:369;s:22:"<!-- leaderboard -->
+";i:370;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:371;s:33:"<script type='text/javascript'>
+";i:372;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:373;s:11:"</script>
+";i:374;s:8:"</div>
+";i:375;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:376;s:28:"    					<tr valign="top">
+";i:377;s:306:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'ElectrifiedBathtub');" autocomplete="off"  style="width:50px;"><option> </option><option value="Laconic">Laconic</option><option value="Main">Main</option><option value="Quotes">Quotes</option></select></td>
+";i:378;s:273:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ElectrifiedBathtub?action=source" >source</a></div></div></td>
+";i:379;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:380;s:274:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.ElectrifiedBathtub">history</a></div></div></td>
+";i:381;s:276:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ElectrifiedBathtub?action=edit'> edit page</a></div></div></td>
+";i:382;s:272:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/ElectrifiedBathtub" >related</a></div></div></td>
+";i:383;s:38:"    							<td valign="middle"></td>
+";i:384;s:16:"    					</tr>
+";i:385;s:18:"    				</table>
+";i:386;s:10:"    				
+";i:387;s:35:"    				<div id="watchmsg"></div>
+";i:388;s:18:"    			</center>
+";i:389;s:13:"    		</td>
+";i:390;s:12:"     </tr>
+";i:391;s:6:"    
+";i:392;s:11:"    	<tr>
+";i:393;s:39:"    		<td id="wikititle" colspan="2">
+";i:394;s:40:"    				<div class="namespacebuttons">
+";i:395;s:1167:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments"  style="border-width:2px;border-color:silver;margin-right:2px;" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.ElectrifiedBathtub" >&nbsp;Discussion </a></li> <li class="namespace_li Quotes" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Quotes/ElectrifiedBathtub" class="textcolor">&nbsp;Quotes&nbsp;</a> </li> <li class="namespace_li Laconic" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/ElectrifiedBathtub" class="textcolor">&nbsp;Laconic&nbsp;</a> </li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=ElectrifiedBathtub" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/ElectrifiedBathtub" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:396;s:16:"    				</div>
+";i:397;s:26:"    				<!--RepairBug-->
+";i:398;s:10:"    				
+";i:399;s:34:"    				<div class='pagetitle'> 
+";i:400;s:46:"    						  <span>Electrified Bathtub</span>
+";i:401;s:16:"    				</div>
+";i:402;s:11:"    				 
+";i:403;s:13:"    		</td>
+";i:404;s:12:"    	</tr>
+";i:405;s:10:"</table>
+";i:406;s:2:"
+";i:407;s:16:"<!--PageText-->
+";i:408;s:20:"<div id='wikitext'>
+";i:409;s:1:"
+";i:410;s:1:"
+";i:411;s:1:"
+";i:412;s:324:"<div class="quoteright" style="width:193px;" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Hitman' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Hitman'><img src='http://static.tvtropes.org/pmwiki/pub/images/HitmanToaster_7473.jpg' class='embeddedimage' border='0' alt='' /></a></div>
+";i:413;s:114:"<div class="acaptionright" style="width:193px;" > <span style='font-size:83.3%'>Shocking, isn't it?</span> </div>
+";i:414;s:144:"<p></p><div class='indent'><em>"If there's one thing I know about radios and dryers, you</em> never <em>use them around baths or showers!"</em>
+";i:415;s:259:"<div class='indent'>&#8212; <strong><a class='urllink' href='http://www.youtube.com/watch?v=n6DXkVY8fzs'>Louie the Lightning Bug<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a></strong>
+";i:416;s:502:"</div></div><p></p>Someone drops a mundane electric appliance (classically a toaster) into a bathtub or other pool of water lying around. A classic way to attempt <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadlyBath' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadlyBath'>murder</a> or <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DrivenToSuicide' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DrivenToSuicide'>suicide</a> in the movies.
+";i:417;s:629:"<p></p>Fictional depictions are much flashier than the real thing, with arcs of electricity and bright flashes many seconds long and the complete shorting-out of electrical service to the entire building. In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealLife' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealLife'>Real Life</a>, though, the resulting electric current is momentary and nearly invisible and likely would just trip the nearest circuit breaker or fuse - but <em>grabbing</em> the electric device while in the bathtub would be just as lethal in real life as the trope is in fiction.
+";i:418;s:217:"<p></p>Just one of the many ways that a character can <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadlyBath' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadlyBath'>die in a bath</a>.
+";i:419;s:110:"<p></p><strong>NOTE:</strong> Since this trope can lead to a character getting killed, expect spoilers below.
+";i:420;s:14:"<p></p><hr />
+";i:421;s:18:"<h2>Examples</h2>
+";i:422;s:122:"<p></p><div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:423;s:193:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp;Anime &amp; Manga&nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:424;s:339:"<ul ><li> Electricity and water is used as a weapon of murder in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaseClosed' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaseClosed'>Case Closed</a></em>; the police were almost going to write it off as an accident until Conan noticed that something was off.
+";i:425;s:225:"<ul ><li> Or rather, something didn't quite.. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IncrediblyLamePun' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IncrediblyLamePun'>plug in</a>.. right.
+";i:426;s:312:"</li></ul></li><li> The second <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ElfPrincessRane' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ElfPrincessRane'>Elf Princess Rane</a></em> episode shows Mr. Yumenokata getting shocked from using an electric shaver while taking a bath.
+";i:427;s:309:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MiraiNikki' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MiraiNikki'>Mirai Nikki</a></em>, Fifth almost killed Yuno this way, and was only prevented from doing so by Yukki cutting the electricity to the entire house.
+";i:428;s:17:"</li></ul></div>
+";i:429;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp;Board games&nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:430;s:297:"<ul ><li> <em><a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/SovietSystem' title='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/SovietSystem'>Soviet System</a></em> has a card allowing its drawer to climb a rank thanks to "his skills in bathroom electricity".
+";i:431;s:17:"</li></ul></div>
+";i:432;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp;Comic Books&nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:433;s:469:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicStrip/TheFarSide' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicStrip/TheFarSide'>The Far Side</a></em> once had a guy who kept <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TooDumbToLive' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TooDumbToLive'>his pet electric eel</a> in the bathroom, where it could easily fall into the bathtub if knocked over.
+";i:434;s:263:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/YoungJustice' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/YoungJustice'>Young Justice</a></em>, it's revealed that Secret was originally killed by this method.
+";i:435;s:579:"</li><li> In <em>Fido Dido</em>, a character has an idea while taking a bath, causing an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IdeaBulb' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IdeaBulb'>Idea Bulb</a> to appear over her head. Just then a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InnerMonologue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InnerMonologue'>smaller version of her</a> appears, and says, "Hey, that's dangerous!" so the bulb disappears, and is replaced with a flashlight. "That's better."
+";i:436;s:17:"</li></ul></div>
+";i:437;s:180:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp;Film&nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:438;s:370:"<ul ><li> Used in the under-appreciated classic <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/Troma' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/Troma'>Troma</a> film <em><a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Buttcrack' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Buttcrack'>Buttcrack</a></em>.
+";i:439;s:555:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/DiaryOfTheDead' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/DiaryOfTheDead'>Diary of the Dead</a></em>. The nerdy character experiences this as a zombie tackles him and pushes him into the tub while he's using a blow drier to dry his hair. Strangely, the electricity doesn't disturb the security camera that's watching him the whole time. Also, it wasn't like the shock could hurt him anymore, since he <em>was</em> in the middle of being mawed by a zombie anyway.
+";i:440;s:386:"</li><li> This was how Debbie Jellinsky attempts to kill Fester in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheAddamsFamily' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheAddamsFamily'>Addams Family Values</a></em>. Fester being <em>Fester</em> (the TV series had him lighting a bulb in his mouth, a gag actually used here), it doesn't work.
+";i:441;s:323:"<ul ><li> Leads to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FridgeLogic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FridgeLogic'>Fridge Logic</a> when she later tries to kill him with an electric chair. (Especially since Fester would in the TV series strap himself in one to "recharge".
+";i:442;s:64:"<ul ><li> And Wednesday electrocuted Pugsley in the first film.
+";i:443;s:475:"</li></ul></li></ul></li><li> Bill Murray attempts suicide by tub and toaster in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/GroundhogDay' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/GroundhogDay'>Groundhog Day</a></em>. Like with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GroundhogDayLoop' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GroundhogDayLoop'>all his other suicide attempts</a>, he gets better.
+";i:444;s:220:"</li><li> Chucky does it to his girlfriend in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/ChildsPlay' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/ChildsPlay'>Bride of Chucky</a></em>.
+";i:445;s:263:"<ul ><li> In an earlier draft of the original <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/ChildsPlay' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/ChildsPlay'>Child's Play</a></em> this was how the babysitter was suppose to die
+";i:446;s:314:"</li></ul></li><li> Mel Gibson's character in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatWomenWant' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatWomenWant'>What Women Want</a></em> is almost killed by this, but instead ends up with the power to read the minds of women.
+";i:447;s:389:"</li><li> The teaser to <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Goldfinger' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Goldfinger'>Goldfinger</a></em>, including the very expected <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BondOneLiner' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BondOneLiner'>Bond One-Liner</a>:
+";i:448;s:74:"<div class='indent'><strong>Bond:</strong> Shocking. Positively shocking.
+";i:449;s:185:"</div></li><li> Done in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheRing' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheRing'>The Ring</a></em>.
+";i:450;s:390:"<ul ><li> Particularly noteworthy, since rather than just drop an active, mundane electronic device into a bathtub, he sets up a rather complicated metal harness connected to <em>numerous</em> devices, steps into the bathtub, and then switches it on. The result is also more realistic, as it causes the lighting to intermittantly short out, and much convulsion and a <em>lot</em> of blood.
+";i:451;s:497:"</li></ul></li><li> One character in Jean-Pierre Jeunet's <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Delicatessen' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Delicatessen'>Delicatessen</a></em> has a penchant for <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RubeGoldbergDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RubeGoldbergDevice'>Rube Goldberg Device</a> suicide attempts, one culminating in an Electrified Bathtub.
+";i:452;s:440:"</li><li> According to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WordOfGod' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WordOfGod'>Word Of God</a>, this later happens to the man who spends the whole of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheTrumanShow' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheTrumanShow'>The Truman Show</a></em> watching TV in the bath.
+";i:453;s:1443:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheAstronautsWife' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheAstronautsWife'>The Astronauts Wife</a></em> (<em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RosemarysBaby' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RosemarysBaby'>Rosemary's Baby</a></em> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RecycledINSPACE' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RecycledINSPACE'>with aliens</a>), the wife of one of the astronauts commits suicide this way, after her husband dies of a stroke. When the main character confronts her alien-possessed husband, she's standing with her feet in water dripping down from the sink, preparing to commit suicide the same way... <span class="spoiler" title="you can set spoilers visible by default on your profile" >and after confirming that he's been possessed, water pours down from above, as she's left the tub and sink on the other floor on, causing him to be electrocuted instead</span>... <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItMakesSenseInContext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItMakesSenseInContext'>It Makes Sense in Context</a>. But too bad <span class="spoiler" title="you can set spoilers visible by default on your profile" >this frees up the alien to possess her instead</span>.
+";i:454;s:180:"</li><li> One of the traps in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Saw' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Saw'>Saw</a> V</em>.
+";i:455;s:356:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheRoyalTenenbaums' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheRoyalTenenbaums'>The Royal Tenenbaums</a></em>, Etheline is concerned about her daughter, Margot, watching TV in the bath. Margot <em>does</em> at least have the TV tied up so it doesn't fall in.
+";i:456;s:243:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/EatingRaoul' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/EatingRaoul'>Eating Raoul</a></em> this technique is used on a hot tub filled with swingers.
+";i:457;s:523:"</li><li> A bizarre variation occurs in <em><a class='urllink' href='http://www.imdb.com/title/tt0105434/'>Snake Eater 3<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a></em>: Soldier (Lorenzo Lamas) electrifies a biker perp's <em>toilet bowl</em>, killing the biker as he relieves his bladder. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GroinAttack' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GroinAttack'>Ouch!</a>
+";i:458;s:242:"</li><li> Done with a dildo in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SlumberPartyMassacreIII' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SlumberPartyMassacreIII'>Slumber Party Massacre III</a></em>.
+";i:459;s:335:"</li><li> During the prison riot scene in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Watchmen' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Watchmen'>Watchmen</a></em>, Rorschach kills one of the inmates by breaking a toilet on him and then letting the water reach an exposed wire near the wet guy.
+";i:460;s:422:"</li><li> The same principle is used is <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WristcuttersALoveStory' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WristcuttersALoveStory'>Wristcutters: A Love Story</a></em>, except instead of throwing an appliance into liquid, Eugene throws liquid (a beer) onto an appliance (his guitar) for a rock'n'roll suicide. Works just as well, apparently.
+";i:461;s:330:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StayTuned' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StayTuned'>Stay Tuned</a></em>, while the main characters are stuck as cartoon mice and being chased after a robotic cat, they lead it into a bathtub and throw a hair drier into it.
+";i:462;s:350:"</li><li> Subverted in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/HouseOf9' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/HouseOf9'>House Of 9</a></em>, Francis attempts to kill Lea by ripping a light fixation while Lea washes her hands and drop it into the sink. Lea is shocked and knocked out, but awakens later.
+";i:463;s:486:"</li><li> The ditzy female serial killer in <em><a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Neighbor' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Neighbor'>Neighbor</a></em> ties a girl up, puts her in a bathtub, and throws a hair dryer in, but it fails to kill the victim. When next shown, the bath is now full of random appliances and electronics (including an entire television) and the victim still isn't dead. The killer decides to just drown her.
+";i:464;s:17:"</li></ul></div>
+";i:465;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp;Literature&nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:466;s:633:"<ul ><li> The protagonist in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/StephenKing' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/StephenKing'>Stephen King</a> short story <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/JustAfterSunset' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/JustAfterSunset'>A Very Tight Place</a></em> uses this trope when he confronts his would-be murderer, tossing an electric hair-dryer into the man's lap while he's sitting in his jacuzzi. It turns out to be just a psychological attack, as the dryer's not plugged in.
+";i:467;s:374:"</li><li> The title character in Harlan Ellison's <em>Jeffty is Five</em>. The protagonist doesn't realize until it's too late that <span class="spoiler" title="you can set spoilers visible by default on your profile" >Jeffty's mother deliberately propped the radio by the tub precariously enough that it would tip into the tub as soon as Jeffty changed the channel.</span>
+";i:468;s:206:"</li><li> This is the cause of death/murder method in the Carter Dickson mystery <span class="spoiler" title="you can set spoilers visible by default on your profile" ><em>The Reader is Warned.</em></span>
+";i:469;s:437:"</li><li> In the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheDresdenFiles' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheDresdenFiles'>Dresden</a> novel <em>Blood Rites</em>, an actress is nearly killed when a huge industrial light falls into the puddle created after a burst of scalding water causes her to fall through and break a glass shower door. Yes, someone was trying to kill her.
+";i:470;s:683:"</li><li> William F. Buckley Jr at one time when he needed a murder method for his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BlackfordOakesSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BlackfordOakesSeries'>Blackford Oakes Series</a> discussed methods with an electrical expert. I believe the letters did speculate the actual use of a bathtub. However in the end, in <em>Stained Glass</em> it was an electric booby-trap inside a cathedral that was undergoing a massive restoration (and thus had plenty of stray wiring to blame) that did the deed. It's been a long time since I read the letter I am referring to so I am not sure I am accurate.
+";i:471;s:855:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FearAndLoathingInLasVegas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FearAndLoathingInLasVegas'>Fear and Loathing in Las Vegas</a></em>, Dr. Gonzo asks Raoul Duke to do this during the high point of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JeffersonAirplane' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JeffersonAirplane'>Jefferson Airplane</a>'s "White Rabbit," believing that it will get him the ultimate high. Raoul flings a grapefruit instead (though he doesn't bounce it off his head like in the movie), unplugs the radio (leaving it to run on its harmless batteries), and then gets the hell out before Dr. Gonzo can realize what happened. When he gets up the nerve to check, Gonzo's started to come down from his trip.
+";i:472;s:246:"</li><li> Used as a murder attempt in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/ChristopherPike' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/ChristopherPike'>Christopher Pike</a>'s <em>The Graduation</em>.
+";i:473;s:17:"</li></ul></div>
+";i:474;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp;Live Action TV&nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:475;s:532:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheSarahConnorChronicles' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheSarahConnorChronicles'>The Sarah Connor Chronicles</a></em>, the heroes shock Cameron into reset mode (after her brief <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FaceHeelTurn' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FaceHeelTurn'>Face Heel Turn</a> in the second-season opener) with a clock radio hidden in a baptismal font.
+";i:476;s:303:"</li><li> A woman died in the teaser of the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SixFeetUnder' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SixFeetUnder'>Six Feet Under</a></em> episode "An Open Book" when her cat knocked her electric hot rollers into the tub.
+";i:477;s:243:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/RandallAndHopkirkDeceased' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/RandallAndHopkirkDeceased'>Randall and Hopkirk (Deceased)</a></em> uses this.
+";i:478;s:190:"</li><li> Used in an episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Psych' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Psych'>Psych</a></em>.
+";i:479;s:650:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAdventuresOfSuperman' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAdventuresOfSuperman'>The Adventures of Superman</a></em> (the 1950's TV show with George Reeves), a gullible rich person is told by a phony psychic (hired by the rich guy's heirs) that he would chase away the <a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilSpirits' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilSpirits'>Evil Spirits</a> around him if he stepped into a bathtub while holding a live electrical cable. Superman saved him (of course).
+";i:480;s:326:"</li><li> The cliff-hanger of one story on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Batman' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Batman'>Batman</a></em> had the Penguin and his mooks electrify a swimming pool and were going to throw Chief O'Hara (who's locked in a trunk) in.
+";i:481;s:329:"</li><li> In "Mr. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Monk' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Monk'>Monk</a> Gets Cabin Fever", the neighbor woman kills her husband that way, and then frames it to make it look as if the man got struck by lightning while fishing on the lake.
+";i:482;s:94:"<ul ><li> And in "Mr. Monk and the Big Game", this is how Julie's basketball coach is killed.
+";i:483;s:278:"</li></ul></li><li> Happened once in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/CSI' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/CSI'>CSI: Crime Scene Investigation</a></em>, with the suicide variant. Or so it appears at first glance...
+";i:484;s:296:"<ul ><li> And in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CSIMiami' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CSIMiami'>CSI: Miami</a></em>, as a murder. Justified in that the circuit breaker didn't work as the victim put herb salt (?) in the bath water.
+";i:485;s:390:"<ul ><li> And in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CSINewYork' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CSINewYork'>CSI: New York</a></em>, where... <em>*<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GlassesPull' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GlassesPull'>Glasses Pull</a>*</em> it's complicated.
+";i:486;s:769:"</li></ul></li></ul></li><li> Subverted in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BlackBooks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BlackBooks'>Black Books</a></em>. Manny is making toast in the bath (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TooDumbToLive' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TooDumbToLive'>while using a hair dryer at the same time</a>). When he's applying the jam (which is in a soap dispenser) to the toast and attaching it to a Rube Golderberg -esque device designed to deliver it to Bernard, he accidentally knocks the hairdyer into the tub. He proceeds to take it out, comment, "That was lucky" and continue using it. There may be a radio by the bath too.
+";i:487;s:921:"</li><li> Tested by <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Mythbusters' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Mythbusters'>Mythbusters</a></em>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropesExaminedByTheMythbusters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropesExaminedByTheMythbusters'>who confirmed it</a>. However, they also showed that a working Ground Fault Interrupter will cut the power to an appliance in time. Appliances without GFIs, on the other hand, will kill, which is an issue because the overwhelming majority of small appliances don't have GFIs. They didn't test GFIs built into power outlets (required for new bathroom construction by several building codes), but presumably they'd work the same way - but a murderer could simply plug the appliance into an outlet in another room using a cheap extension cord.
+";i:488;s:239:"</li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Columbo' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Columbo'>Columbo</a></em> episode "Double Shock", the killer uses an electric mixer.
+";i:489;s:618:"</li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/MacGyver' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/MacGyver'>MacGyver</a></em> episode "A Lesson in Evil", the Hannibal Lecter-esque Dr. Zito sets a trap for Mac by restraining a hapless victim (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThereAreNoTherapists' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThereAreNoTherapists'>his own therapist, who he had succeeded in convincing he was "cured"</a>) in a bathtub, attaching an electric heater on top and leaving the water running.
+";i:490;s:273:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Oz' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Oz'>Oz</a></em>. Prison guard Claire Howell murders inmate Nikolai Stanislofsky this way, after first giving him some hand relief.
+";i:491;s:206:"</li><li> Used in an episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/PerryMason' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/PerryMason'>Perry Mason</a></em>.
+";i:492;s:1036:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DoubleSubversion' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DoubleSubversion'>Double subverted</a> on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Life' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Life'>Life</a></em>: When facing a hitmanwoman (sic) who <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MacGyvering' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MacGyvering'>kills using household materials</a>, Charlie thinks that a bathtub was rigged to be electrified as a backup plan to murder the victim in case the murderer's Plan A failed. Bobby says that it's a myth because the circuit breaker would prevent the electrocution from taking place. Charlie then tests this claim by throwing a TV into the bathtub. The TV explodes after hitting the water, and the power for the entire building goes out. They then realize that the killer had circumvented the circuit breaker as well.
+";i:493;s:211:"</li><li> Used in an early episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Smallville' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Smallville'>Smallville</a></em>.
+";i:494;s:798:"</li><li> Used in an episode of the 1994 revival of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/BurkesLaw' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/BurkesLaw'>Burkes Law</a></em>, entitled "Who Killed the Starlet?" A woman is the bath while listening to some music, when a killer sneaks in and drops her boombox into the bathtub, killing her. It turns out that the killer and lady are merely actors on a movie set, and they're filming a murder scene. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NotSoFakePropWeapon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NotSoFakePropWeapon'>Then it turns out the boombox had been plugged into a live outlet by an unknown party, and the actress in the bathtub really ''is'' dead.</a>
+";i:495;s:466:"</li><li> Shower variant in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer'>Buffy the Vampire Slayer</a></em> - Buffy is set up to shut off the water in a locker room shower just as the puddle reaches a live wire. She sees the trap and jumps out just in time, with only static-frazzled hair to show for it (which concerns her quite a bit).
+";i:496;s:330:"<ul ><li> Buffy is given a malfunctioning Initiative taser in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheUriahGambit' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheUriahGambit'>The Uriah Gambit</a> set up by Prof. Walsh &#8212; she throws it into a pool of water in which a demon is standing.
+";i:497;s:232:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/MurderSheWrote' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/MurderSheWrote'>Murder, She Wrote</a></em>: "Unauthorized Obituary"
+";i:498;s:288:"</li><li> Parodied in a Scenes From a Hat segment on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/WhoseLineIsItAnyway' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/WhoseLineIsItAnyway'>Whose Line Is It Anyway?</a></em>. "A nice bath and some toast."
+";i:499;s:17:"</li></ul></div>
+";i:500;s:181:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp;Music&nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:501;s:428:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoDoubt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoDoubt'>No Doubt</a>'s video for "It's My Life": Gwen Stefani, in the guise of a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Theatre/Chicago' title='http://tvtropes.org/pmwiki/pmwiki.php/Theatre/Chicago'>Jazz Age murderess</a>, dispatches drummer Ade Young this way.
+";i:502;s:171:"</li><li> The Alkaline Trio song <em>Radio</em> recounts an ex-girlfriend with the chorus "I wish you would take my radio to bathe with you, plugged in and ready to fall"
+";i:503;s:223:"</li><li> The culmination of the tryst depicted in 'Digital Bath' by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Deftones' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Deftones'>Deftones</a>.
+";i:504;s:54:"</li><li> Blink-182's "Adam's Song" starts with this.
+";i:505;s:101:"<div class='indent'>"I traced the cord back to the wall. No wonder, it was never plugged in at all."
+";i:506;s:23:"</div></li></ul></div>
+";i:507;s:181:"<p></p><div class="folderlabel" onclick="togglefolder('folder7');">&nbsp;&nbsp;&nbsp;&nbsp;Radio&nbsp;</div><div id="folder7" class="folder" isfolder="true" style="display:block;">
+";i:508;s:1134:"<ul ><li> Some of the later Radio Gradittis on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Radio/TrueCapitalist' title='http://tvtropes.org/pmwiki/pmwiki.php/Radio/TrueCapitalist'>True Capitalist Radio</a></em> had Ghost wishing this on the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DepravedBisexual' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DepravedBisexual'>T</a><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnythingThatMoves' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnythingThatMoves'>ub</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SophisticatedAsHell' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SophisticatedAsHell'>G</a><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilBrit' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilBrit'>u</a><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SitcomArchNemesis' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SitcomArchNemesis'>y</a>. He specifically said that Tub Guy should use a toaster, no less.
+";i:509;s:17:"</li></ul></div>
+";i:510;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder8');">&nbsp;&nbsp;&nbsp;&nbsp;Video Games&nbsp;</div><div id="folder8" class="folder" isfolder="true" style="display:block;">
+";i:511;s:686:"<ul ><li> Rum Rogers Sr. in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MonkeyIsland2' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MonkeyIsland2'>Monkey Island 2: LeChuck's Revenge</a></em> dies in a bathub thanks to his habit of bathing while eating toast. <span class="spoiler" title="you can set spoilers visible by default on your profile" >In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheCurseOfMonkeyIsland' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheCurseOfMonkeyIsland'>The Curse Of Monkey Island</a></em> Lechuck reveals that he killed him there, and made it look like an accident.</span>
+";i:512;s:362:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/BioShock1' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/BioShock1'>BioShock</a></em>, any Splicer in the same water will instantly die if you hit them with an electric shock. Killing a Splicer in this manner unlocks an achievement called "Toaster in the Tub".
+";i:513;s:836:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/UrbanChaosRiotResponse' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/UrbanChaosRiotResponse'>Urban Chaos Riot Response</a></em>, during one of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PutDownYourGunAndStepAway' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PutDownYourGunAndStepAway'>hostage situations</a>, a <a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FacelessGoon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FacelessGoon'>burner</a> will use a reporter as a human shield. When you successfully shoot him, he will fall backwards into a conveniently filled bathtub and said reporter will then drop a television on top of the guy ("Fry you bastard!") as payback.
+";i:514;s:416:"</li><li> One of the installments of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Hitman' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Hitman'>Hitman</a></em> series even had this move on advertisement posters. And indeed, in one mission this is the possible, and indeed advisable for a "true", never-seen never-recognized, killer, way to assassinate one of your targets.
+";i:515;s:147:"<ul ><li> Taking into account how difficult it would be to kill <em>yourself</em> this way, however, doing this won't be counted as an "accident".
+";i:516;s:610:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Fallout3' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Fallout3'>Fallout 3</a></em> has a few skeletons found in the bathtub, as they were likely killed upon the bombs falling, this means many of them died in the tub. However, a rare few apparently died afterwards. A few can be found with a toaster in the bathtub with them. Although really, if you're going to choose between semi-instant frying by toaster assisted suicide or waiting for your flesh to fall off from radiation, fry my problems away.
+";i:517;s:309:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Scribblenauts' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Scribblenauts'>Scribblenauts</a></em>, you can use this to kill hostile creatures in bodies of water, or Maxwell if you don't make sure he's safe.
+";i:518;s:541:"</li><li> The Disney game <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/NightmareNed' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/NightmareNed'>Nightmare Ned</a></em> has a <a class='urllink' href='http://www.youtube.com/watch?v=yq0pmg0gjg8'>whole song<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> about this. The level it appears on requires you to leap from bathtub to bathtub and avoid getting shocked in the process.
+";i:519;s:359:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Videogame/AloneInTheDark2008' title='http://tvtropes.org/pmwiki/pmwiki.php/Videogame/AloneInTheDark2008'>Alone In The Dark 2008</a></em>, there are some points where you have to pull electric cables out of the water so you can traverse through the area without getting zapped.
+";i:520;s:367:"</li><li> Multiple puzzles in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Half-Life2' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Half-Life2'>Half-Life 2</a></em> involve a large pool of water in contact with live wires. Gordon must shut off the power source or else suffer severe damage should he find himself swimming.
+";i:521;s:609:"</li><li> Using a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LightningGun' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LightningGun'>Lightning Gun</a> in the water in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Quake' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Quake'>Quake</a></em> discharges all of your ammo into the surrounding area. Damage scales exponentially; one cell (out of a maximum possible of 100) will be a small hit. Ten cells will viciously maim you. Twenty or more cells will gib the player and anything nearby.
+";i:522;s:428:"</li><li> One puzzle in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SilentHill3' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SilentHill3'>Silent Hill 3</a></em> has you drop a hair dryer in a sewer main to kill <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BrokenBridge' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BrokenBridge'>a monster guarding a bridge</a>.
+";i:523;s:639:"</li><li> Played for laughs in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TalesOfVesperia' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TalesOfVesperia'>Tales Of Vesperia</a></em>. Raven is perfectly aware that he'll get electrocuted if he goes in a hot spring <span class="spoiler" title="you can set spoilers visible by default on your profile" >because of his blastia heart</span>. When Yuri brings it up to him, he simply says that it's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WorthIt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WorthIt'>Worth It</a>.
+";i:524;s:254:"</li><li> One of the characters in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Videogame/Lucius' title='http://tvtropes.org/pmwiki/pmwiki.php/Videogame/Lucius'>Lucius</a></em> dies when Lucius drops a hairdryer into her bathtub.
+";i:525;s:294:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SoldierOfFortune' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SoldierOfFortune'>Soldier of Fortune</a> II</em>, you kill Domingo Sanchez by blowing a fuse box while he's standing in a puddle of water.
+";i:526;s:17:"</li></ul></div>
+";i:527;s:185:"<p></p><div class="folderlabel" onclick="togglefolder('folder9');">&nbsp;&nbsp;&nbsp;&nbsp;Webcomics&nbsp;</div><div id="folder9" class="folder" isfolder="true" style="display:block;">
+";i:528;s:677:"<ul ><li> <a class='urllink' href='http://www.amazingsuperpowers.com/2008/06/toast/'>Invoked<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AmazingSuperPowers' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AmazingSuperPowers'>Amazing Super Powers</a></em>, though it's unclear whether they did it or poor Wade later died of something else. See also <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AltText' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AltText'>Alt Text</a> and the hidden comic.
+";i:529;s:17:"</li></ul></div>
+";i:530;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder10');">&nbsp;&nbsp;&nbsp;&nbsp;Web Original&nbsp;</div><div id="folder10" class="folder" isfolder="true" style="display:block;">
+";i:531;s:342:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheJokerBlogs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheJokerBlogs'>The Joker Blogs</a></em>: Joker murders <span class="spoiler" title="you can set spoilers visible by default on your profile" >the best man at Harleen's wedding</span> this way.
+";i:532;s:225:"<ul ><li> It's actually a <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CameraAbuse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CameraAbuse'>camera</a></em> (still filming!) in the bathtub.
+";i:533;s:213:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WebVideo/TheNostalgiaCritic' title='http://tvtropes.org/pmwiki/pmwiki.php/WebVideo/TheNostalgiaCritic'>The Nostalgia Critic</a>
+";i:534;s:449:"<ul ><li> He chooses this method when he's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DrivenToSuicide' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DrivenToSuicide'>Driven to Suicide</a> during his review of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePebbleAndThePenguin' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePebbleAndThePenguin'>The Pebble and the Penguin</a></em>.
+";i:535;s:96:"</li><li> He makes another reference to the act in his "You're a Rotten Dirty Bastard" special.
+";i:536;s:173:"</li></ul><div class='indent'><em>Is this a pep talk? Because pep talks are supposed to make you feel peppy, not make you want to take a shower with a FUCKING TOASTER!</em>
+";i:537;s:23:"</div></li></ul></div>
+";i:538;s:195:"<p></p><div class="folderlabel" onclick="togglefolder('folder11');">&nbsp;&nbsp;&nbsp;&nbsp;Western Animation&nbsp;</div><div id="folder11" class="folder" isfolder="true" style="display:block;">
+";i:539;s:911:"<ul ><li> Done on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Sealab2021' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Sealab2021'>Sealab 2021</a></em> in the episode "Waking Quinn". Stormy drops a high powered hair dryer into a pool which electrocutes Quinn, causing him to experience lots of odd hallucinations. He did it <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HanlonsRazor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HanlonsRazor'>not out of malice, but out of stupidity</a>. Later, when Quinn wakes up, Stormy tries to revive him with a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MagicalDefibrillator' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MagicalDefibrillator'>defibrillator</a> (by putting it directly in the water, away from Quinn himself), then shows him his "bitchin'" homemade Tesla coil.
+";i:540;s:356:"<ul ><li> In a later episode, Sparks kills Murphy by dropping the same Tesla coil into the jacuzzi Murphy is sitting in. However, because of the slow speed of the aforementioned visible arcs of electricity, <span class="spoiler" title="you can set spoilers visible by default on your profile" >Murphy lives long enough to take Sparks down with him</span>.
+";i:541;s:328:"</li></ul></li><li> The title character of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheBraveLittleToaster' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheBraveLittleToaster'>The Brave Little Toaster</a></em> has a nightmare of falling into a bathtub full of water.
+";i:542;s:419:"</li><li> Happens to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DonaldDuck' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DonaldDuck'>Donald Duck</a> in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ClassicDisneyShort' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ClassicDisneyShort'>Classic Disney Short</a> <em>How to Have an Accident in the Home</em>.
+";i:543;s:580:"</li><li> Hilariously attempted by Dale in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/KingOfTheHill' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/KingOfTheHill'>King of the Hill</a></em> to Hank when he heard he had an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EroticDream' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EroticDream'>Erotic Dream</a> about his wife. Dale ran in with a toaster in hand, but forget it was still plugged, so he just tripped and fell before he could make it.
+";i:544;s:235:"<ul ><li> It gets better, he then asks Hank if he can <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TooDumbToLive' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TooDumbToLive'>BORROW HIS EXTENSION CORD!</a>
+";i:545;s:736:"</li></ul></li><li> On the season one <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/FamilyGuy' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/FamilyGuy'>Family Guy</a></em> episode "A Hero Sits Next Door," (<span class="spoiler" title="you can set spoilers visible by default on your profile" >it's the episode that introduces the Swansons, for those who haven't seen <em>Family Guy</em>'s first season</span>) when Peter mentioned how much he hated new neighbors because they always borrow his stuff and never return it, the scene cuts to a man about to commit suicide in a bath with a toaster (implied to be one of the many things he lent to his neighbor and hasn't seen since).
+";i:546;s:390:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BrickJoke' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BrickJoke'>During the next scene</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrossesTheLineTwice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrossesTheLineTwice'>the lights in the Griffin household flicker</a>.
+";i:547;s:443:"</li></ul></li><li> Done in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/RockosModernLife' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/RockosModernLife'>Rocko's Modern Life</a></em> episode "Fatal Contraption" when the new jealous appliance destroys the toaster by throwing it a piece of bread to chase in which said piece of bread falls into the sink so that the toaster follows it.
+";i:548;s:17:"</li></ul></div>
+";i:549;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder12');">&nbsp;&nbsp;&nbsp;&nbsp;Real Life&nbsp;</div><div id="folder12" class="folder" isfolder="true" style="display:block;">
+";i:550;s:67:"<ul ><li> Thomas Merton died this way. Conspiracy theories abound.
+";i:551;s:257:"</li><li> The same can be said of French singer <a class='urllink' href='http://en.wikipedia.org/wiki/Claude_François'>Claude François<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>.
+";i:552;s:238:"<ul ><li> Who won a <a class='urllink' href='http://darwinawards.com/darwin/darwin1994-28.html'>Darwin award<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> for it.
+";i:553;s:276:"</li></ul></li><li> Flavia Boricea, a teenage girl from Romania died from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TooDumbToLive' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TooDumbToLive'>using twitter on a laptop while in the bathtub.</a>
+";i:554;s:67:"<ul ><li> Another teen died from dropping a hair dryer in the tub.
+";i:555;s:257:"</li></ul></li><li> One method of execution by the Nazis involved lowering a group of prisoners on a metal plate into a vat of water, then running current through it. Then the apparatus was raised out of the water and electrified again to burn the corpses.
+";i:556;s:24:"</li></ul><p></p></div>
+";i:557;s:14:"<p></p><hr />
+";i:558;s:4125:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/DrumBathing">Drum Bathing</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BathingTropes">Bathing Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/FlushingToiletScreamingShower">Flushing Toilet, Screaming Shower</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathInTheClouds">Death In The Clouds</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MurderTropes">Murder Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/FrightDeathtrap">Fright Deathtrap</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/DrivenToSuicide">Driven to Suicide</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ChoosingDeath">Choosing Death</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/FaceDeathWithDignity">Face Death with Dignity</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/EatenAlive">Eaten Alive</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes">Death Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/EmpathyDollShot">Empathy Doll Shot</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/EitherOrProphecy">Either-Or Prophecy</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices">Narrative Devices</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ElvesVersusDwarves">Elves Versus Dwarves</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ElectricTorture">Electric Torture</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTrap">Death Trap</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/FakePlatform">Fake Platform</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/EdgyBackwardsChairSitting">Edgy Backwards Chair Sitting</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/FurnitureTropes">Furniture Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/EmptyChairMemorial">Empty Chair Memorial</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/EdibleAmmunition">Edible Ammunition</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/JustForFun/TropesExaminedByTheMythBusters">JustForFun/Tropes Examined By The Myth Busters</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/FartsOnFire">Farts on Fire</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:559;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:560;s:10:"<p> </p>
+";i:561;s:10:"<center>
+";i:562;s:2:"
+";i:563;s:24:"<!-- med rectangle -->
+";i:564;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:565;s:33:"<script type='text/javascript'>
+";i:566;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:567;s:11:"</script>
+";i:568;s:8:"</div>
+";i:569;s:2:"
+";i:570;s:11:"</center>
+";i:571;s:24:"</td><!-- wikibody -->
+";i:572;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:573;s:7:"</td>
+";i:574;s:7:"</tr>
+";i:575;s:10:"</table>
+";i:576;s:22:"<!--PageFooterFmt-->
+";i:577;s:77:"<div class="alt_title" style="font-size:x-small;text-align:center;" ></div>
+";i:578;s:10:"<center>
+";i:579;s:44:"<table style="width:606px;margin:0 auto;">
+";i:580;s:7:"	<tr>
+";i:581;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:582;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:583;s:267:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ElectrifiedBathtub?action=edit'> edit page</a></div></div></td>
+";i:584;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:585;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:586;s:8:"	</tr>
+";i:587;s:10:"</table>
+";i:588;s:11:"</center>
+";i:589;s:21:"<div id='wikifoot'>
+";i:590;s:27:"    <div class='footnav'>
+";i:591;s:2:"
+";i:592;s:14:"			 <center>
+";i:593;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:594;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:595;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:596;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:597;s:15:"				</center>
+";i:598;s:2:"
+";i:599;s:29:"    </div><!-- wikifoot -->
+";i:600;s:23:"<!--/PageFooterFmt-->
+";i:601;s:12:"47882<br/>
+";i:602;s:3:"1
+";i:603;s:8:"</div>
+";i:604;s:26:"</div><!-- container -->
+";i:605;s:2:"
+";i:606;s:9:"</body>
+";i:607;s:21:"<!--ScriptInsert-->
+";i:608;s:9:"</html>
+";}}

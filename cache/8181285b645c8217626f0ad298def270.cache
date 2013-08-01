@@ -1,0 +1,559 @@
+a:2:{i:0;i:1377888900;i:1;a:558:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:66:"<title>The Drag Along - Television Tropes &amp; Idioms  </title>
+";i:5;s:132:"<meta name="Description" content="The The Drag Along trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:2:"
+";i:25;s:10:"</style>
+";i:26;s:2:"
+";i:27;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:28;s:33:"<script type="text/javascript">
+";i:29;s:26:"  var _gaq = _gaq || [];
+";i:30;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:31;s:34:"  _gaq.push(['_trackPageview']);
+";i:32;s:2:"
+";i:33;s:17:"  (function() {
+";i:34;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:35;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:36;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:37;s:9:"  })();
+";i:38;s:2:"
+";i:39;s:32:"	function subpage(sel, title){
+";i:40;s:4:"		
+";i:41;s:40:"		var namespce = ""+getselection(sel);
+";i:42;s:34:"		if(namespce.trim()=="")return;
+";i:43;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:44;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:45;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:46;s:29:"		window.location.href=url;
+";i:47;s:4:"	}
+";i:48;s:32:"	function p5(groupname,title){
+";i:49;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:50;s:4:"	}
+";i:51;s:27:"	function togglenote(id){
+";i:52;s:23:"		var ele=object(id);
+";i:53;s:34:"		var state = ele.style.display;
+";i:54;s:49:"		if(state=='none') ele.style.display='inline';
+";i:55;s:48:"		if(state=='inline')ele.style.display='none';
+";i:56;s:4:"	}
+";i:57;s:35:"	var googletag = googletag || {};
+";i:58;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:59;s:16:"	(function() {
+";i:60;s:47:"	var gads = document.createElement('script');
+";i:61;s:21:"	gads.async = true;
+";i:62;s:33:"	gads.type = 'text/javascript';
+";i:63;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:64;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:65;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:66;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:67;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:68;s:8:"	})();
+";i:69;s:2:"
+";i:70;s:34:"	googletag.cmd.push(function() {
+";i:71;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:73;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:74;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:75;s:45:"		googletag.pubads().enableSingleRequest();
+";i:76;s:31:"		googletag.enableServices();
+";i:77;s:6:"	});
+";i:78;s:2:"
+";i:79;s:11:"</script>
+";i:80;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:81;s:2:"
+";i:82;s:9:"</head>
+";i:83;s:8:"<body>
+";i:84;s:40:"<div class="container" id="container">
+";i:85;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:86;s:6:"<tr>
+";i:87;s:46:"<td style="width:166px;vertical-align:top;">
+";i:88;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:89;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:90;s:38:"<g:plusone size="small"></g:plusone>
+";i:91;s:2:"
+";i:92;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:93;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:94;s:6:"<ul>
+";i:95;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:96;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:97;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:98;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:99;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:100;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:101;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:102;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:103;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:104;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:105;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:106;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:107;s:7:"</ul>
+";i:108;s:8:"</div>
+";i:109;s:2:"
+";i:110;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:111;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:112;s:2:"
+";i:113;s:183:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','TheDragAlong');">send request</button><hr/></div>
+";i:114;s:2:"
+";i:115;s:324:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="TheDragAlong" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:116;s:2:"
+";i:117;s:51:"<div style="font-size:small;text-align:center;" >
+";i:118;s:30:"Find recent edits by troper:
+";i:119;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:120;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:121;s:8:"</div>
+";i:122;s:7:"<hr/>
+";i:123;s:7:"<ul>	
+";i:124;s:4:"		
+";i:125;s:7:"<hr/>
+";i:126;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:127;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:128;s:61:"		<input type="hidden" name="title" value="TheDragAlong" />
+";i:129;s:54:"		This article needs some moderator assistance with:
+";i:130;s:9:"		<br/>
+";i:131;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:132;s:9:"		<br/>
+";i:133;s:4:"		
+";i:134;s:34:"		<p style="text-align:center;">
+";i:135;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:136;s:8:"		</p>
+";i:137;s:34:"		<p style="text-align:center;">
+";i:138;s:48:"			<input type="submit" value="send report" />
+";i:139;s:8:"		</p>
+";i:140;s:11:"		</form>
+";i:141;s:7:"<hr/>
+";i:142;s:6:"<ul>
+";i:143;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:144;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:145;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:146;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:147;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:148;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:149;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:150;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:151;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:152;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:153;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:154;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:155;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:156;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:157;s:141:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.TheDragAlong'>Referral Count for This Page</a></li>
+";i:158;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:159;s:116:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=TheDragAlong'>Article Relationships</a></li> -->
+";i:160;s:102:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.TheDragAlong'>Folderize</a></li>
+";i:161;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:162;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:163;s:7:"</ul>
+";i:164;s:8:"	<hr/>
+";i:165;s:6:"<ul>
+";i:166;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:167;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:168;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:169;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:170;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:171;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:172;s:7:"</ul>
+";i:173;s:7:"<hr/>
+";i:174;s:2:"
+";i:175;s:8:"</div>
+";i:176;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:177;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:178;s:8:"		<ul>
+";i:179;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:180;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:181;s:9:"		</ul>
+";i:182;s:8:"</div>
+";i:183;s:10:"<center>
+";i:184;s:34:"		<div style="margin-top:4px;">	
+";i:185;s:5:"			
+";i:186;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:187;s:33:"<script type='text/javascript'>
+";i:188;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:189;s:97:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/TheDragAlong");
+";i:190;s:11:"</script>
+";i:191;s:8:"</div>
+";i:192;s:2:"
+";i:193;s:11:"		</div>	
+";i:194;s:10:"		<div>	
+";i:195;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:196;s:6:"		 	
+";i:197;s:4:"		
+";i:198;s:4:"		
+";i:199;s:10:"		</div>
+";i:200;s:191:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/TheDragAlong">Laconic</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragAlong">Main</a><br/>
+";i:201;s:9:"		<div>
+";i:202;s:10:"		</div>
+";i:203;s:36:"		<div style="font-size:x-small;">
+";i:204;s:11:"				<hr/>
+";i:205;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:206;s:14:"				<p> </p>
+";i:207;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:208;s:13:"				<p></p>
+";i:209;s:11:"				<ul >
+";i:210;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:211;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:212;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:213;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:214;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:215;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:216;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:217;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:219;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:220;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:221;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:222;s:11:"				</li>
+";i:223;s:11:"				</ul>
+";i:224;s:13:"				<p></p>
+";i:225;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:226;s:13:"				<p></p>
+";i:227;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:228;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:229;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:230;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:231;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:232;s:6:"				
+";i:233;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:234;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:235;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:236;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:237;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:238;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:239;s:6:"				
+";i:240;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:241;s:16:"				</li></ul>
+";i:242;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:243;s:13:"				<p></p>
+";i:244;s:11:"				<ul >
+";i:245;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:246;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:247;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:248;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:249;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:250;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:251;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:252;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:253;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:254;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:255;s:6:"				
+";i:256;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:257;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:258;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:259;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:260;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:261;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:262;s:6:"				
+";i:263;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:264;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:265;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:266;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:268;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:269;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:270;s:11:"				</li>
+";i:271;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:272;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:273;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:274;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:275;s:6:"				
+";i:276;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:278;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:279;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:280;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:281;s:16:"				</li></ul>
+";i:282;s:6:"				
+";i:283;s:13:"				<p></p>
+";i:284;s:39:"				<strong>Other Categories</strong>
+";i:285;s:13:"				<p></p>
+";i:286;s:10:"				<ul>
+";i:287;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:288;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:289;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:290;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:291;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:292;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:293;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:294;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:295;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:296;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:297;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:298;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:299;s:11:"				</ul>
+";i:300;s:11:"		</div>	
+";i:301;s:11:"</center>
+";i:302;s:2:"
+";i:303;s:30:"</div> <!-- wikileftpage -->
+";i:304;s:7:"</td>
+";i:305;s:20:"<td id='wikibody'>
+";i:306;s:2:"
+";i:307;s:21:"<!--PageTitleFmt-->
+";i:308;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:309;s:12:"    		<tr>
+";i:310;s:38:"    		<td id="wikicmds" align="top">
+";i:311;s:8:"    		
+";i:312;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:313;s:45:"    				<tr style="vertical-align:middle;">
+";i:314;s:31:"    					<td align="center" >
+";i:315;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:316;s:16:"    					</td>
+";i:317;s:15:"    				<td >
+";i:318;s:37:"    					<div style="width:400px;">
+";i:319;s:28:"                  <center>
+";i:320;s:27:"                  <table>
+";i:321;s:24:"                  <tr>
+";i:322;s:24:"                  <td>
+";i:323;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:324;s:27:"                    <div>
+";i:325;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:326;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:327;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:328;s:64:"                      <input type="text" name="q" size="31" />
+";i:329;s:28:"                    </div>
+";i:330;s:27:"                  </form>
+";i:331;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:332;s:25:"                  </td>
+";i:333;s:24:"                  <td>
+";i:334;s:46:"                  <div class="buttonframe" >
+";i:335;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:336;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:337;s:26:"                  </div>
+";i:338;s:25:"                  </div
+";i:339;s:25:"                  </td>
+";i:340;s:25:"                  </tr>
+";i:341;s:28:"                  </table>
+";i:342;s:29:"                  </center>
+";i:343;s:17:"    					</div>
+";i:344;s:15:"    				</td>
+";i:345;s:15:"    				</tr>
+";i:346;s:16:"    		</table>
+";i:347;s:8:"    		
+";i:348;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:349;s:10:"    				
+";i:350;s:27:"    				<tr valign="top">
+";i:351;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:352;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:353;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:354;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:355;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:356;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:357;s:15:"    				</tr>
+";i:358;s:10:"    				
+";i:359;s:10:"    				
+";i:360;s:8:"    		
+";i:361;s:16:"    		</table>
+";i:362;s:8:"    		
+";i:363;s:28:"    		<div id="wikilogo" >
+";i:364;s:16:"    		<center>
+";i:365;s:2:"
+";i:366;s:22:"<!-- leaderboard -->
+";i:367;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:368;s:33:"<script type='text/javascript'>
+";i:369;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:370;s:11:"</script>
+";i:371;s:8:"</div>
+";i:372;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:373;s:28:"    					<tr valign="top">
+";i:374;s:262:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'TheDragAlong');" autocomplete="off"  style="width:50px;"><option> </option><option value="Laconic">Laconic</option><option value="Main">Main</option></select></td>
+";i:375;s:267:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragAlong?action=source" >source</a></div></div></td>
+";i:376;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:377;s:268:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.TheDragAlong">history</a></div></div></td>
+";i:378;s:270:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragAlong?action=edit'> edit page</a></div></div></td>
+";i:379;s:266:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/TheDragAlong" >related</a></div></div></td>
+";i:380;s:38:"    							<td valign="middle"></td>
+";i:381;s:16:"    					</tr>
+";i:382;s:18:"    				</table>
+";i:383;s:10:"    				
+";i:384;s:35:"    				<div id="watchmsg"></div>
+";i:385;s:18:"    			</center>
+";i:386;s:13:"    		</td>
+";i:387;s:12:"     </tr>
+";i:388;s:6:"    
+";i:389;s:11:"    	<tr>
+";i:390;s:39:"    		<td id="wikititle" colspan="2">
+";i:391;s:40:"    				<div class="namespacebuttons">
+";i:392;s:863:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.TheDragAlong" >&nbsp;Discussion </a></li> <li class="namespace_li Laconic" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/TheDragAlong" class="textcolor">&nbsp;Laconic&nbsp;</a> </li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=TheDragAlong" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/TheDragAlong" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:393;s:16:"    				</div>
+";i:394;s:26:"    				<!--RepairBug-->
+";i:395;s:10:"    				
+";i:396;s:34:"    				<div class='pagetitle'> 
+";i:397;s:41:"    						  <span>The Drag Along</span>
+";i:398;s:16:"    				</div>
+";i:399;s:11:"    				 
+";i:400;s:13:"    		</td>
+";i:401;s:12:"    	</tr>
+";i:402;s:10:"</table>
+";i:403;s:2:"
+";i:404;s:16:"<!--PageText-->
+";i:405;s:20:"<div id='wikitext'>
+";i:406;s:368:"<div class="quoteright" style="width:225px;" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MarioAndLuigiSuperstarSaga' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MarioAndLuigiSuperstarSaga'><img src='http://static.tvtropes.org/pmwiki/pub/images/mario_drags_luigi_8741.jpg' class='embeddedimage' border='0' alt='' /></a></div>
+";i:407;s:80:"<div class="acaptionright" style="width:225px;" >Not always this literal.</div>
+";i:408;s:280:"<p></p><div class='indent'><em>"...they're always dragging me off to some cockamamie adventure! 'Hurry Iago, we have to find the razor-clawed ice giant!', or 'Come on Iago, the natives of Nincompoop need saving from a blood beast with a <strong>taste for parrots!</strong>'"</em>
+";i:409;s:263:"<div class='indent'>&#8212; <strong>Iago</strong>, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AladdinTheSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AladdinTheSeries'>Aladdin The Series</a></em>
+";i:410;s:420:"</div></div><p></p>Most of the hero team is eager and ready to go on another adventure, face peril, and explore new regions, but not this guy. He'd rather stay home, where it's safe. Maybe he doesn't really think the trip is worth it, maybe he doesn't care, or maybe he just has an aversion to painful, dangerous situations. Yet the team wants him to come, so, kicking and screaming if necessary, he comes along anyway.
+";i:411;s:238:"<p></p>None too happy about constantly being dragged along on adventures, you can usually find this one complaining and making sarcastic remarks, but, when push comes to shove, you can bet that he'll show his heroic traits in the clutch.
+";i:412;s:890:"<p></p>Contrast the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SourSupporter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SourSupporter'>Sour Supporter</a>, who doesn't believe <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FailureIsTheOnlyOption' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FailureIsTheOnlyOption'>it will work</a> but will contribute anyway (although with sardonic comments), and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheLoad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheLoad'>The Load</a> or <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMillstone' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMillstone'>The Millstone</a>, who may or may not be supportive but whose actions and/or very existence work against the heroes' purposes.
+";i:413;s:828:"<p></p>A variation on <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheComplainerIsAlwaysWrong' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheComplainerIsAlwaysWrong'>The Complainer Is Always Wrong</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IDoNotLikeGreenEggsAndHam' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IDoNotLikeGreenEggsAndHam'>I Do Not Like Green Eggs and Ham</a>. Most Drag Alongs are also <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ButtMonkey' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ButtMonkey'>Butt Monkeys</a> or <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChewToy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChewToy'>Chew Toys</a>, which may justify their reluctance.
+";i:414;s:1082:"<p></p>Compare <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RefusalOfTheCall' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RefusalOfTheCall'>Refusal Of The Call</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CowardlySidekick' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CowardlySidekick'>Cowardly Sidekick</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CowardlyLion' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CowardlyLion'>Cowardly Lion</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GrumpyBear' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GrumpyBear'>Grumpy Bear</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IJustWantToBeNormal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IJustWantToBeNormal'>I Just Want to Be Normal</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DraggedByTheCollar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DraggedByTheCollar'>Dragged By The Collar</a>.
+";i:415;s:190:"<p></p>Contrast <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheTeamWannabe' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheTeamWannabe'>The Team Wannabe</a>.
+";i:416;s:8:"<p></p>
+";i:417;s:14:"<p></p><hr />
+";i:418;s:19:"<h1>Examples:</h1>
+";i:419;s:122:"<p></p><div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:420;s:191:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp;Anime and Manga&nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:421;s:730:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/LightNovel/HaruhiSuzumiya' title='http://tvtropes.org/pmwiki/pmwiki.php/LightNovel/HaruhiSuzumiya'>Haruhi Suzumiya</a></em>: Kyon, the viewpoint character, is always getting dragged around as an accessory to the schemes of his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SheIsNotMyGirlfriend' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SheIsNotMyGirlfriend'>totally-not-girlfriend</a>, and is rarely ever happy about it. He later acknowledges that he actually likes the crazyness. Well, he does but that doesn't mean that he likes being forced to dig countless holes for a treasure map that, of course, doesn't exist.
+";i:422;s:439:"</li><li> Ship Leesoo from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TowerOfGod' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TowerOfGod'>Tower Of God</a></em> gets dragged along by Anak and Hatsu quite a bit, especially when they engage in their <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IndyPloy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IndyPloy'>IndyPloys</a>.
+";i:423;s:636:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Naruto' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Naruto'>Naruto</a></em>, Nara Shikamaru fits this trope like a glove early in the series, most prominently during the Chunin exams when chasing Sasuke. He'd much rather simply sit around and watch the clouds than fight or go on missions. Subsequent <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterDevelopment' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterDevelopment'>Character Development</a> means that he takes a much more responsible role.
+";i:424;s:463:"</li><li> Chisame of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MahouSenseiNegima' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MahouSenseiNegima'>Mahou Sensei Negima!</a></em> frequently acted like this for a while after she found out about the magic world. Then it got subverted, as she successfully escapes the weirdness only to realize that her life was now incredibly boring. So she heads right back into the weird stuff.
+";i:425;s:318:"</li><li> Shinji Ikari in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/NeonGenesisEvangelion' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/NeonGenesisEvangelion'>Neon Genesis Evangelion</a></em> episodes 1-4 and in End of Evangelion in which Misato drags Shinji to pilot the EVA01.
+";i:426;s:302:"</li><li> The three delinquents Juumonji, Toganu and Kuroki in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Eyeshield21' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Eyeshield21'>Eyeshield 21</a></em> are initially blackmailed into joining the American football team.
+";i:427;s:634:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnePiece' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnePiece'>One Piece</a></em>: The rest of the Straw Hat Pirates in regards to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IdiotHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IdiotHero'>Luffy</a>. Most of them were pestered, cajaoled, and sometimes flat out blackmailed into joining the crew. And then, his decisions as 'captain' end up sending the crew on outrageous misadventures, though only Usopp, Chopper, and Nami are the ones who complain the most.
+";i:428;s:463:"</li><li> In chapter 143 of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Beelzebub' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Beelzebub'>Beelzebub</a></em>, Oga reveals that part of the reason he drags <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ButtMonkey' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ButtMonkey'>Furuichi</a> around everywhere with him is that he thought it would be funny.
+";i:429;s:366:"</li><li> Much of the fun in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/YankeeKunToMeganeChan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/YankeeKunToMeganeChan'>Yankee-kun to Megane-chan</a></em> comes from Shinagawa reluctantly complying with Hana's shenaningans. It changes when the focus of the story drifts from her to him.
+";i:430;s:301:"</li><li> Mako from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/GirlsUndPanzer' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/GirlsUndPanzer'>Girls Und Panzer</a></em> would rather be sleeping or reading rather than driving a tank, but she needs the extra credits.
+";i:431;s:570:"</li><li> Through much of the first part of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FruitsBasket' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FruitsBasket'>Fruits Basket</a></em>, Kyo is quite unwilling to go along with most of the outtings other family members come up with. He's usually either forced into coming, or is innocently coerced by Tohru (which is lampshaded at one point, when Tohru's friends note with interest that it's taking less and less time for Kyo to crumble when Tohru asks him to come along for something).
+";i:432;s:17:"</li></ul></div>
+";i:433;s:182:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp;Comics&nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:434;s:166:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Tintin' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Tintin'>Tintin</a></em>
+";i:435;s:145:"<ul ><li> In <em>Tintin and the Picaros</em>, Tintin agrees to go in the end, not to save the country but just to get his friends out of prison.
+";i:436;s:228:"</li><li> The Captain owns this trope. All he wants to do is enjoy his retirement &#8212; but unfortunately he fell in with the wrong set of friends. He comes along despite his groans, and always ends up doing something badass.
+";i:437;s:526:"</li></ul></li><li> Yeagar or Arthax in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Nodwick' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Nodwick'>Nodwick</a></em> are prone to this behaviour when it's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IncorruptiblePurePureness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IncorruptiblePurePureness'>Piffany's</a> turn to pick jobs. Nodwick acts like this <em>all the time</em>, but he has no choice in the matter.
+";i:438;s:487:"</li><li> The Drummer in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Planetary' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Planetary'>Planetary</a></em> is this occasionally, likely because his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatKindOfLamePowerIsHeartAnyway' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatKindOfLamePowerIsHeartAnyway'>information-gathering powers</a> aren't the most useful in a fight.
+";i:439;s:702:"</li><li> This is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DonaldDuck' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DonaldDuck'>Donald Duck</a>'s role in many adventures with Scrooge McDuck. Scrooge and the nephews might be excited at the prospect of a new adventure. Donald has to be coerced. Particularly evident in "The Twenty-four Carat Moon" (December, 1958) by Carl Barks. He doesn't want to go to a space-travel mission and proclaims "I want to keep my feet on good old Earth". Two panels later, he is in the space-traveling vehicle, chained to his seat and his feet are standing on a box of dirt. This doesn't stop Donald from being both useful and sarcastic.
+";i:440;s:17:"</li></ul></div>
+";i:441;s:181:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp;Films&nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:442;s:273:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StarWarsANewHope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StarWarsANewHope'>Star Wars A New Hope</a></em>: This definitely describes how C-3PO acts, especially in the first half.
+";i:443;s:96:"<div class='indent'><strong>C-3PO:</strong> We seem to be made to suffer. It's our lot in life.
+";i:444;s:452:"</div></li><li> Willie Scott in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/IndianaJonesAndTheTempleOfDoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/IndianaJonesAndTheTempleOfDoom'>Indiana Jones and the Temple of Doom</a></em> is a drag along from the beginning, and not shy about blasting Indy for it. Many fans of the series rate her as the least interesting of the women, and also because she screeches a lot.
+";i:445;s:468:"</li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/LethalWeapon' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/LethalWeapon'>Lethal Weapon</a></em> movies, Murtaugh just wants to retire and collect his pension for his time with the police, but Riggs is willing to kill himself if it will help get the bad guys. You often find Murtaugh saying, "I'm too old for this shit," eveytime Riggs eggs him into doing something crazy.
+";i:446;s:17:"</li></ul></div>
+";i:447;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp;Literature&nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:448;s:653:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Animorphs' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Animorphs'>Animorphs</a></em>, Marco started out as one of these, having no real reason to enter the battle against the invading Yeerks, and not really wanting to get involved. This changed BIG TIME when he <span class="spoiler" title="you can set spoilers visible by default on your profile" >discovered that Visser One was using the body of his supposedly deceased mother as a host</span>. After this he quickly grew into the hero role, but he was still the sarcastic jokester of the group.
+";i:449;s:732:"</li><li> Rincewind from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Discworld' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Discworld'>Discworld</a></em>. In pretty much every book he's in, he's always forced into adventure without any say on his part. The exception is <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/TheLastHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/TheLastHero'>The Last Hero</a></em>, where he doesn't want to go, but <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy'>knows he'll end up going somehow</a>, so volunteers.
+";i:450;s:362:"</li><li> Kedrigern in the series of books by <a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JohnMorresey' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JohnMorresey'>John Morresey</a>. He's a powerful wizard who hates to travel and just wants to live quietly in his home on the mountain, but he keeps getting pulled into adventures.
+";i:451;s:424:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/TheHitchhikersGuideToTheGalaxy' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/TheHitchhikersGuideToTheGalaxy'>The Hitchhiker's Guide to the Galaxy</a></em>: This happens from time to time. Depending on the task, Arthur Dent, Zaphod, or Ford will not want to do it. Guaranteed. Of course, Marvin <em>never</em> wants to do it.
+";i:452;s:474:"</li><li> Mat from the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WheelOfTime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WheelOfTime'>Wheel of Time</a></em>, he has a very low opinion of heroics and the risks that are involved but unfortunately for him <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCantFightFate' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCantFightFate'>You Can't Fight Fate</a>.
+";i:453;s:972:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheHobbit' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheHobbit'>The Hobbit</a></em>: Poor Bilbo Baggins was billed as a burglar by Gandalf, for no apparent reason at the time (later explained, however, in the appendices of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheLordOfTheRings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheLordOfTheRings'>The Lord of the Rings</a></em>), and then was dragged out of his comfortable hole in the ground by a party of treasure-hunting dwarves. Inverted after a novel's worth of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterDevelopment' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterDevelopment'>Character Development</a>&#8212;when they finally reach the dragon's lair, the dwarves chicken out and Bilbo is the only one with the guts to go on.
+";i:454;s:202:"</li><li> Ahmad in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/The13thWarrior' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/The13thWarrior'>The 13th Warrior</a></em>.
+";i:455;s:390:"</li><li> At one point or another, each member of the core cast of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Everworld' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Everworld'>Everworld</a></em> was the drag-along. I mean, come on. Eventually, they just get plain sick and tired of running from Loki, Ka Anor, Merlin, the Hetwan, etc., etc. ad nauseum.
+";i:456;s:741:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CiaphasCain' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CiaphasCain'>Ciaphas Cain</a></em>: Ciaphas definitely fits this trope. <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Warhammer40000' title='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Warhammer40000'>Warhammer 40000</a>'s</em> least likely Commissar would rather spend his days somewhere far away from the fighting that pervades the galaxy (good luck on that one...). Yet time and time again he's dragged reluctantly into action against every single foe that the galaxy at large can throw at him (and then a few from a different reality altogether).
+";i:457;s:367:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GeronimoStilton' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GeronimoStilton'>Geronimo Stilton</a></em>: Geronimo is continually dragged into adventures, usually literally, by the other characters, despite his assertions that he'd rather stay home and has a lot of work to do.
+";i:458;s:17:"</li></ul></div>
+";i:459;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp;Live-Action TV&nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:460;s:712:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer'>Buffy the Vampire Slayer</a></em>: Cordelia in the earlier bits. Eventually, after <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PutOnABus' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PutOnABus'>moving to LA</a>, she starts working for <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Angel' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Angel'>Angel</a> and realizes that <em>she likes fighting demons</em>, and even more interestingly, that she's not that bad at it.
+";i:461;s:914:"</li><li> Boober in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FraggleRock' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FraggleRock'>Fraggle Rock</a></em> is perpetually <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragAlong' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragAlong'>The Drag Along</a> or a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SourSupporter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SourSupporter'>Sour Supporter</a>, or both. However, in an episode where he and Red <span class="spoiler" title="you can set spoilers visible by default on your profile" > get trapped under a rock slide and believe they are going to die, he confesses that he secretly has enjoyed all of the Fraggles' adventures, despite having been a reluctant coward about them all when they were happening.</span>
+";i:462;s:502:"</li><li> While most <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho'>Doctor Who</a></em> companions are those who <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JumpedAtTheCall' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JumpedAtTheCall'>willingly</a> went with the Doctor to go see the universe, there are a few who wish they didn't have to be in this bloody blue box.
+";i:463;s:317:"<ul ><li> First example: Ian and Barbara, the very <em>first</em> companions. They were just teachers concerned for their student's well-being; in exchange, an alien kidnaps them, and is such a bad driver that they get pulled along on many adventures before he drops them back home. (Two years later, we should add!)
+";i:464;s:522:"</li><li> Mickey Smith, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TookALevelInBadAss' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TookALevelInBadAss'>at first</a>. You can't really blame him. He's nearly killed, his girlfriend abandons him, her disappearance makes him a rape and murder suspect for a whole year. Eventually he goes along in hope that he can regain Rose's affection. Then it turns out that he's pretty good at killing cyberman, and becomes a professional monster fighter.
+";i:465;s:967:"</li><li> Similarly, Rory Williams. The only reason he traveled with the Doctor at all was to avoid losing his fiance/wife. Eventually he takes about <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TookALevelInBadAss' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TookALevelInBadAss'>five</a> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TookALevelInBadAss' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TookALevelInBadAss'>hundred</a></em> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TookALevelInBadAss' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TookALevelInBadAss'>levels in bad-ass</a>, but his fighting is always a last resort, and he'd much prefer to have a quiet life as a nurse. <span class="spoiler" title="you can set spoilers visible by default on your profile" > Eventually he gets it. The Doctor drops him and Amy on Earth with a shiny new car and house.</span>
+";i:466;s:27:"</li></ul></li></ul></div>
+";i:467;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp;Video Games&nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:468;s:1317:"<ul ><li> Luigi in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MarioAndLuigi' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MarioAndLuigi'>Mario And Luigi</a></em> games, part of the general move toward cowardliness he's been going on since <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LuigisMansion' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LuigisMansion'>Luigis Mansion</a></em>, as part of his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DivergentCharacterEvolution' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DivergentCharacterEvolution'>Divergent Character Evolution</a>. Also a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging'>Lampshade Hanging</a> explanation for his absence in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SuperMario64' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SuperMario64'>Super Mario 64</a></em> and <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SuperMarioSunshine' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SuperMarioSunshine'>Super Mario Sunshine</a></em>.
+";i:469;s:897:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DragonQuestVII' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DragonQuestVII'>Dragon Quest VII</a></em>'s resident <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Tsundere' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Tsundere'>Tsundere</a> Maribel hits this after forcing her way into your party in the first place! (To be fair, she's mainly complaining because what she thought would be a fun, relatively safe romp through the ruins led to you all getting <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeyWimeyBall' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeyWimeyBall'>transported back in time</a> and suddenly having to fight monsters, which haven't been seen in your homeland for generations... and she grows out of it quickly.)
+";i:470;s:928:"</li><li> Reid Hershel, from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TalesOfEternia' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TalesOfEternia'>Tales Of Eternia</a></em>, is this despite being the main protagonist of the game, being dragged along on a crazy journey to save two worlds from destruction by his childhood friend Farah, who <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JumpedAtTheCall' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JumpedAtTheCall'>Jumped at the Call</a>. Throughout the journey, Reid constantly expresses his desire to just go home and let the world's military take care of things, but one thing leads to another and he <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCantGoHomeAgain' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCantGoHomeAgain'>ends up a fugitive of his world.</a>
+";i:471;s:215:"</li><li> LapTrap from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheClueFinders' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheClueFinders'>The ClueFinders</a></em>.
+";i:472;s:17:"</li></ul></div>
+";i:473;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp;Web Comics&nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:474;s:607:"<ul ><li> Zoe from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/SluggyFreelance' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/SluggyFreelance'>Sluggy Freelance</a></em> can be like this, especially in the early strips. Whenever Torg or Riff decide it would be fun to summon demons or open portals to other dimensions, she often tries to stay out of it, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WeirdnessMagnet' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WeirdnessMagnet'>but can't stop the weirdness from affecting her life</a>.
+";i:475;s:150:"<ul ><li> Bun-Bun is also sometimes like this, though he'll hop right on board the adventure train as soon as he sees some benefit in it for himself.
+";i:476;s:371:"</li></ul></li><li> Most of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/TheOrderOfTheStick' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/TheOrderOfTheStick'>The Order of the Stick</a></em> (except Elan and Durkon) are prone to this behaviour; Haley and Belkar are the most repeat offenders but V is the most vocal one about it.
+";i:477;s:610:"</li><li> Cadugan in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/YetAnotherFantasyGamerComic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/YetAnotherFantasyGamerComic'>Yet Another Fantasy Gamer Comic</a></em> would like nothing more than to stay home and tend to nature. Unfortunately his skills and in one case his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HalfHumanHybrids' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HalfHumanHybrids'>heritage</a> means people (particularly Lucas) keep pestering him to come along with their adventures.
+";i:478;s:17:"</li></ul></div>
+";i:479;s:189:"<p></p><div class="folderlabel" onclick="togglefolder('folder7');">&nbsp;&nbsp;&nbsp;&nbsp;Web Originals&nbsp;</div><div id="folder7" class="folder" isfolder="true" style="display:block;">
+";i:480;s:339:"<ul ><li> Craig from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAllenAndCraigShow' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAllenAndCraigShow'>The Allen And Craig Show</a></em> is almost always unwilling to go along with Allen's plans, despite almost never seeing as bad an end as Allen does.
+";i:481;s:243:"</li><li> Parodied to <em>death</em> in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharlieTheUnicorn' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharlieTheUnicorn'>Charlie The Unicorn</a></em> videos.
+";i:482;s:332:"</li><li> Not only does Perf of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WebVideo/JourneyQuest' title='http://tvtropes.org/pmwiki/pmwiki.php/WebVideo/JourneyQuest'>JourneyQuest</a></em> not really want to be on the quest, but given a decent chance he will try (albeit not very hard) to escape his party.
+";i:483;s:304:"</li><li> Phase of the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/WhateleyUniverse' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/WhateleyUniverse'>Whateley Universe</a></em>. He complains so often that his teammates suggest he change his name to "Kvetch".
+";i:484;s:17:"</li></ul></div>
+";i:485;s:193:"<p></p><div class="folderlabel" onclick="togglefolder('folder8');">&nbsp;&nbsp;&nbsp;&nbsp;Western Animation&nbsp;</div><div id="folder8" class="folder" isfolder="true" style="display:block;">
+";i:486;s:1245:"<ul ><li> Iago, in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AladdinTheSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AladdinTheSeries'>Aladdin The Series</a></em>, is the quintessential embodiment of this trope. He's more concerned with living in the lap of luxury and staying out of danger, and, as a Card Carrying Coward, is none too happy with being dragged along on some grand adventure every other day (which is understandable, since he's a bit of a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheChewToy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheChewToy'>pain magnet</a>). True to form, he never stops complaining about it, also making him, as a parrot, a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SnarkyNonHumanSidekick' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SnarkyNonHumanSidekick'>Snarky Non-Human Sidekick</a>. Nearly half his quotes in the show could be page quotes for this, and he always had a bit of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy'>Genre Savvy</a> about it. Case in point:
+";i:487;s:137:"<div class='indent'><strong>Iago:</strong> Stop right there! You've got that <strong>put the bird in jeopardy</strong> look in your eye!
+";i:488;s:418:"</div></li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainPlanet' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainPlanet'>Captain Planet</a></em>, Wheeler was the one to fall into this role. In fact, a mini-series involved him actually walking away from the Planeteers, and then going into the future and finding out how horrible things were without five Planeteers.
+";i:489;s:524:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMagicSchoolBus' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMagicSchoolBus'>The Magic School Bus</a></em>, Arnold never wants to go, and always ends up wishing that <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CatchPhrase' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CatchPhrase'>he'd stayed home that day</a>. It's even shown in the opening: "<em>Please</em> let this be a normal field trip!"
+";i:490;s:498:"</li><li> Takua in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Bionicle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Bionicle'>BIONICLE</a>:The Mask of Light</em>. He tries to get out of his duty as <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheChosenOne' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheChosenOne'>The Chosen One</a> by making it appear that the mask chose Jaller instead, however, Jaller drags him along anyway.
+";i:491;s:632:"</li><li> Likewise for <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ScoobyDoo' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ScoobyDoo'>Shaggy and Scooby</a>, who self-identify themselves as being chicken, and, as a result, always end up in the middle of a ghost story gone wrong (often being the main ones to find the <strike>Guy In A Mask</strike> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MonsterOfTheWeek' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MonsterOfTheWeek'>Monster of the Week</a> while exploring), and have to be coerced with promises of Scooby Snacks.
+";i:492;s:254:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Garfield' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Garfield'>Garfield</a> in almost all of his specials, especially Garfield in the Rough and the Christmas special.
+";i:493;s:201:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SouthPark' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SouthPark'>South Park</a></em>:
+";i:494;s:207:"<ul ><li> Craig in exactly one episode. Somewhat of a parody since it was his own adventure he didn't want to go on, and he fulfilled an ancient prophecy while actively trying to have nothing to do with it.
+";i:495;s:59:"</li><li> Cartman as well, in the episode "Fun With Veal."
+";i:496;s:267:"</li></ul></li><li> Simon Belmont in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/CaptainNTheGameMaster' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/CaptainNTheGameMaster'>Captain N The Game Master</a></em>.
+";i:497;s:522:"</li><li> Eddie Spencer, the fat guy from the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/FilmationsGhostbusters' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/FilmationsGhostbusters'>Filmations Ghostbusters</a></em> cartoon (not to be confused with <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheRealGhostbusters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheRealGhostbusters'>The Real Ghostbusters</a></em>), was like this.
+";i:498;s:404:"</li><li> Eric in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DungeonsAndDragons' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DungeonsAndDragons'>Dungeons And Dragons</a></em> also fell into this role, sort of. Only he had even less choice because he'd been thrust into this psychotic fantasy world and going along was the only way to get out.
+";i:499;s:206:"</li><li> Dukey from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JohnnyTest' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JohnnyTest'>Johnny Test</a></em>. "Doggy no go".
+";i:500;s:209:"</li><li> Gus Griswald from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Recess' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Recess'>Recess</a></em>.
+";i:501;s:313:"</li><li> Chuckie "I knew this wasn't a good idea" Finster only willingly goes along with the other babies on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Rugrats' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Rugrats'>Rugrats</a></em> a handful of times.
+";i:502;s:1514:"</li><li> PJ from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/GoofTroop' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/GoofTroop'>Goof Troop</a></em>. Max constantly talks him into doing things he would prefer not to, usually because it's either profoundly unsafe (which doesn't bother <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FearlessFool' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FearlessFool'>Max</a> at all) or likely to get him in huge trouble with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AbusiveParents' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AbusiveParents'>his dad</a> (or both, such as sneaking onto his dad's in-progress ridiculously tall skate ramp). In the former case, PJ will often make agitated, snarky comments about their mortality. Although the reasons vary from episode to episode, he is consistently shown to be <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnlySaneMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnlySaneMan'>in the right frame of mind for refusing</a>. This was <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Lampshaded' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Lampshaded'>Lampshaded</a> in one episode with a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GilliganCut' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GilliganCut'>Gilligan Cut</a>:
+";i:503;s:357:"<div class='indent'> <strong>PJ</strong>: No, forget it, Max. <em>No way.</em> You cannot talk me into this one. (scene cuts) <em>Every</em> time. How does he do it? <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PunctuatedForEmphasis' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PunctuatedForEmphasis'>Every. Single. Time.</a>
+";i:504;s:1245:"</div></li><li> Frizz and Nug of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDreamstone' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDreamstone'>The Dreamstone</a></em> are a rare villain example, being <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy'>Genre Savvy</a> enough to know being enlisted into one of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Zordrak's</a> schemes to steal the Dreamstone, along with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadScientist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadScientist'>Urpgor's</a> deranged inventions and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DrillSergeantNasty' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DrillSergeantNasty'>Sgt Blob's</a> incompetent leadership will only lead to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FailureIsTheOnlyOption' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FailureIsTheOnlyOption'>painful and miserable failure</a>.
+";i:505;s:17:"</li></ul></div>
+";i:506;s:14:"<p></p><hr />
+";i:507;s:524:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/DoubleConsciousness">Double Consciousness</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes">Characterization Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaQueen">Drama Queen</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:508;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:509;s:10:"<p> </p>
+";i:510;s:10:"<center>
+";i:511;s:2:"
+";i:512;s:24:"<!-- med rectangle -->
+";i:513;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:514;s:33:"<script type='text/javascript'>
+";i:515;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:516;s:11:"</script>
+";i:517;s:8:"</div>
+";i:518;s:2:"
+";i:519;s:11:"</center>
+";i:520;s:24:"</td><!-- wikibody -->
+";i:521;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:522;s:7:"</td>
+";i:523;s:7:"</tr>
+";i:524;s:10:"</table>
+";i:525;s:22:"<!--PageFooterFmt-->
+";i:526;s:77:"<div class="alt_title" style="font-size:x-small;text-align:center;" ></div>
+";i:527;s:10:"<center>
+";i:528;s:44:"<table style="width:606px;margin:0 auto;">
+";i:529;s:7:"	<tr>
+";i:530;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:531;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:532;s:261:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragAlong?action=edit'> edit page</a></div></div></td>
+";i:533;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:534;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:535;s:8:"	</tr>
+";i:536;s:10:"</table>
+";i:537;s:11:"</center>
+";i:538;s:21:"<div id='wikifoot'>
+";i:539;s:27:"    <div class='footnav'>
+";i:540;s:2:"
+";i:541;s:14:"			 <center>
+";i:542;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:543;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:544;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:545;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:546;s:15:"				</center>
+";i:547;s:2:"
+";i:548;s:29:"    </div><!-- wikifoot -->
+";i:549;s:23:"<!--/PageFooterFmt-->
+";i:550;s:12:"40202<br/>
+";i:551;s:3:"2
+";i:552;s:8:"</div>
+";i:553;s:26:"</div><!-- container -->
+";i:554;s:2:"
+";i:555;s:9:"</body>
+";i:556;s:21:"<!--ScriptInsert-->
+";i:557;s:9:"</html>
+";}}

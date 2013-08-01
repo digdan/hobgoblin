@@ -1,0 +1,668 @@
+a:2:{i:0;i:1377889788;i:1;a:667:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:67:"<title>Big Fancy House - Television Tropes &amp; Idioms  </title>
+";i:5;s:133:"<meta name="Description" content="The Big Fancy House trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:10:"</style>
+";i:25;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:26;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:27;s:33:"<script type="text/javascript">
+";i:28;s:26:"  var _gaq = _gaq || [];
+";i:29;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:30;s:34:"  _gaq.push(['_trackPageview']);
+";i:31;s:2:"
+";i:32;s:17:"  (function() {
+";i:33;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:34;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:35;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:36;s:9:"  })();
+";i:37;s:2:"
+";i:38;s:32:"	function subpage(sel, title){
+";i:39;s:4:"		
+";i:40;s:40:"		var namespce = ""+getselection(sel);
+";i:41;s:34:"		if(namespce.trim()=="")return;
+";i:42;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:43;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:44;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:45;s:29:"		window.location.href=url;
+";i:46;s:4:"	}
+";i:47;s:32:"	function p5(groupname,title){
+";i:48;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:49;s:4:"	}
+";i:50;s:27:"	function togglenote(id){
+";i:51;s:23:"		var ele=object(id);
+";i:52;s:34:"		var state = ele.style.display;
+";i:53;s:49:"		if(state=='none') ele.style.display='inline';
+";i:54;s:48:"		if(state=='inline')ele.style.display='none';
+";i:55;s:4:"	}
+";i:56;s:35:"	var googletag = googletag || {};
+";i:57;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:58;s:16:"	(function() {
+";i:59;s:47:"	var gads = document.createElement('script');
+";i:60;s:21:"	gads.async = true;
+";i:61;s:33:"	gads.type = 'text/javascript';
+";i:62;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:63;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:64;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:65;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:66;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:67;s:8:"	})();
+";i:68;s:2:"
+";i:69;s:34:"	googletag.cmd.push(function() {
+";i:70;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:71;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:73;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:74;s:45:"		googletag.pubads().enableSingleRequest();
+";i:75;s:31:"		googletag.enableServices();
+";i:76;s:6:"	});
+";i:77;s:2:"
+";i:78;s:11:"</script>
+";i:79;s:2:"
+";i:80;s:9:"</head>
+";i:81;s:8:"<body>
+";i:82;s:40:"<div class="container" id="container">
+";i:83;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:84;s:6:"<tr>
+";i:85;s:46:"<td style="width:166px;vertical-align:top;">
+";i:86;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:87;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:88;s:38:"<g:plusone size="small"></g:plusone>
+";i:89;s:2:"
+";i:90;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:91;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:92;s:6:"<ul>
+";i:93;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:94;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:95;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:96;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:97;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:98;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:99;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:100;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:101;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:102;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:103;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:104;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:105;s:7:"</ul>
+";i:106;s:8:"</div>
+";i:107;s:2:"
+";i:108;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:109;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:110;s:2:"
+";i:111;s:184:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','BigFancyHouse');">send request</button><hr/></div>
+";i:112;s:2:"
+";i:113;s:325:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="BigFancyHouse" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:114;s:2:"
+";i:115;s:51:"<div style="font-size:small;text-align:center;" >
+";i:116;s:30:"Find recent edits by troper:
+";i:117;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:118;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:119;s:8:"</div>
+";i:120;s:7:"<hr/>
+";i:121;s:7:"<ul>	
+";i:122;s:4:"		
+";i:123;s:7:"<hr/>
+";i:124;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:125;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:126;s:62:"		<input type="hidden" name="title" value="BigFancyHouse" />
+";i:127;s:54:"		This article needs some moderator assistance with:
+";i:128;s:9:"		<br/>
+";i:129;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:130;s:9:"		<br/>
+";i:131;s:4:"		
+";i:132;s:34:"		<p style="text-align:center;">
+";i:133;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:134;s:8:"		</p>
+";i:135;s:34:"		<p style="text-align:center;">
+";i:136;s:48:"			<input type="submit" value="send report" />
+";i:137;s:8:"		</p>
+";i:138;s:11:"		</form>
+";i:139;s:7:"<hr/>
+";i:140;s:6:"<ul>
+";i:141;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:142;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:143;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:144;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:145;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:146;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:147;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:148;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:149;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:150;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:151;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:152;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:153;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:154;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:155;s:142:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.BigFancyHouse'>Referral Count for This Page</a></li>
+";i:156;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:157;s:117:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=BigFancyHouse'>Article Relationships</a></li> -->
+";i:158;s:103:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.BigFancyHouse'>Folderize</a></li>
+";i:159;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:160;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:161;s:7:"</ul>
+";i:162;s:8:"	<hr/>
+";i:163;s:6:"<ul>
+";i:164;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:165;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:166;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:167;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:168;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:169;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:170;s:7:"</ul>
+";i:171;s:7:"<hr/>
+";i:172;s:2:"
+";i:173;s:8:"</div>
+";i:174;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:175;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:176;s:8:"		<ul>
+";i:177;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:178;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:179;s:9:"		</ul>
+";i:180;s:8:"</div>
+";i:181;s:10:"<center>
+";i:182;s:34:"		<div style="margin-top:4px;">	
+";i:183;s:5:"			
+";i:184;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:185;s:33:"<script type='text/javascript'>
+";i:186;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:187;s:98:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/BigFancyHouse");
+";i:188;s:11:"</script>
+";i:189;s:8:"</div>
+";i:190;s:2:"
+";i:191;s:11:"		</div>	
+";i:192;s:10:"		<div>	
+";i:193;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:194;s:6:"		 	
+";i:195;s:4:"		
+";i:196;s:4:"		
+";i:197;s:10:"		</div>
+";i:198;s:193:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/BigFancyHouse">Laconic</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BigFancyHouse">Main</a><br/>
+";i:199;s:9:"		<div>
+";i:200;s:10:"		</div>
+";i:201;s:36:"		<div style="font-size:x-small;">
+";i:202;s:11:"				<hr/>
+";i:203;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:204;s:14:"				<p> </p>
+";i:205;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:206;s:13:"				<p></p>
+";i:207;s:11:"				<ul >
+";i:208;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:209;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:210;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:211;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:212;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:213;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:214;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:215;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:216;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:217;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:219;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:220;s:11:"				</li>
+";i:221;s:11:"				</ul>
+";i:222;s:13:"				<p></p>
+";i:223;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:224;s:13:"				<p></p>
+";i:225;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:226;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:227;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:228;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:229;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:230;s:6:"				
+";i:231;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:232;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:233;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:234;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:235;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:236;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:237;s:6:"				
+";i:238;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:239;s:16:"				</li></ul>
+";i:240;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:241;s:13:"				<p></p>
+";i:242;s:11:"				<ul >
+";i:243;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:244;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:245;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:246;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:247;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:248;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:249;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:250;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:251;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:252;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:253;s:6:"				
+";i:254;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:255;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:256;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:257;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:258;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:259;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:260;s:6:"				
+";i:261;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:262;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:263;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:264;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:265;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:266;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:268;s:11:"				</li>
+";i:269;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:270;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:271;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:272;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:273;s:6:"				
+";i:274;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:275;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:276;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:278;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:279;s:16:"				</li></ul>
+";i:280;s:6:"				
+";i:281;s:13:"				<p></p>
+";i:282;s:39:"				<strong>Other Categories</strong>
+";i:283;s:13:"				<p></p>
+";i:284;s:10:"				<ul>
+";i:285;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:286;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:287;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:288;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:289;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:290;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:291;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:292;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:293;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:294;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:295;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:296;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:297;s:11:"				</ul>
+";i:298;s:11:"		</div>	
+";i:299;s:11:"</center>
+";i:300;s:2:"
+";i:301;s:30:"</div> <!-- wikileftpage -->
+";i:302;s:7:"</td>
+";i:303;s:20:"<td id='wikibody'>
+";i:304;s:2:"
+";i:305;s:21:"<!--PageTitleFmt-->
+";i:306;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:307;s:12:"    		<tr>
+";i:308;s:38:"    		<td id="wikicmds" align="top">
+";i:309;s:8:"    		
+";i:310;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:311;s:45:"    				<tr style="vertical-align:middle;">
+";i:312;s:31:"    					<td align="center" >
+";i:313;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:314;s:16:"    					</td>
+";i:315;s:15:"    				<td >
+";i:316;s:37:"    					<div style="width:400px;">
+";i:317;s:28:"                  <center>
+";i:318;s:27:"                  <table>
+";i:319;s:24:"                  <tr>
+";i:320;s:24:"                  <td>
+";i:321;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:322;s:27:"                    <div>
+";i:323;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:324;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:325;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:326;s:64:"                      <input type="text" name="q" size="31" />
+";i:327;s:28:"                    </div>
+";i:328;s:27:"                  </form>
+";i:329;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:330;s:25:"                  </td>
+";i:331;s:24:"                  <td>
+";i:332;s:46:"                  <div class="buttonframe" >
+";i:333;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:334;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:335;s:26:"                  </div>
+";i:336;s:25:"                  </div
+";i:337;s:25:"                  </td>
+";i:338;s:25:"                  </tr>
+";i:339;s:28:"                  </table>
+";i:340;s:29:"                  </center>
+";i:341;s:17:"    					</div>
+";i:342;s:15:"    				</td>
+";i:343;s:15:"    				</tr>
+";i:344;s:16:"    		</table>
+";i:345;s:8:"    		
+";i:346;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:347;s:10:"    				
+";i:348;s:27:"    				<tr valign="top">
+";i:349;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:350;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:351;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:352;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:353;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:354;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:355;s:15:"    				</tr>
+";i:356;s:10:"    				
+";i:357;s:10:"    				
+";i:358;s:8:"    		
+";i:359;s:16:"    		</table>
+";i:360;s:8:"    		
+";i:361;s:28:"    		<div id="wikilogo" >
+";i:362;s:16:"    		<center>
+";i:363;s:2:"
+";i:364;s:22:"<!-- leaderboard -->
+";i:365;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:366;s:33:"<script type='text/javascript'>
+";i:367;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:368;s:11:"</script>
+";i:369;s:8:"</div>
+";i:370;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:371;s:28:"    					<tr valign="top">
+";i:372;s:263:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'BigFancyHouse');" autocomplete="off"  style="width:50px;"><option> </option><option value="Laconic">Laconic</option><option value="Main">Main</option></select></td>
+";i:373;s:268:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BigFancyHouse?action=source" >source</a></div></div></td>
+";i:374;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:375;s:269:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.BigFancyHouse">history</a></div></div></td>
+";i:376;s:271:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigFancyHouse?action=edit'> edit page</a></div></div></td>
+";i:377;s:267:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/BigFancyHouse" >related</a></div></div></td>
+";i:378;s:38:"    							<td valign="middle"></td>
+";i:379;s:16:"    					</tr>
+";i:380;s:18:"    				</table>
+";i:381;s:10:"    				
+";i:382;s:35:"    				<div id="watchmsg"></div>
+";i:383;s:18:"    			</center>
+";i:384;s:13:"    		</td>
+";i:385;s:12:"     </tr>
+";i:386;s:6:"    
+";i:387;s:11:"    	<tr>
+";i:388;s:39:"    		<td id="wikititle" colspan="2">
+";i:389;s:40:"    				<div class="namespacebuttons">
+";i:390;s:931:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments"  style="border-width:2px;border-color:silver;margin-right:2px;" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.BigFancyHouse" >&nbsp;Discussion </a></li> <li class="namespace_li Laconic" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/BigFancyHouse" class="textcolor">&nbsp;Laconic&nbsp;</a> </li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=BigFancyHouse" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/BigFancyHouse" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:391;s:16:"    				</div>
+";i:392;s:26:"    				<!--RepairBug-->
+";i:393;s:10:"    				
+";i:394;s:34:"    				<div class='pagetitle'> 
+";i:395;s:42:"    						  <span>Big Fancy House</span>
+";i:396;s:16:"    				</div>
+";i:397;s:11:"    				 
+";i:398;s:13:"    		</td>
+";i:399;s:12:"    	</tr>
+";i:400;s:10:"</table>
+";i:401;s:2:"
+";i:402;s:16:"<!--PageText-->
+";i:403;s:20:"<div id='wikitext'>
+";i:404;s:1:"
+";i:405;s:181:"<div class="quoteright" style="width:300px;" ><img src='http://static.tvtropes.org/pmwiki/pub/images/spider_osbornmansion_5884.jpg' class='embeddedimage' border='0' alt='' /></div>
+";i:406;s:268:"<div class="acaptionright" style="width:300px;" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AristocratsAreEvil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AristocratsAreEvil'>Doesn't look appropriate for a good guy, either.</a></div>
+";i:407;s:119:"<p></p><div class='indent'><em>"This place is huge! Dammit, why do rich people have to live in such huge houses?"</em>
+";i:408;s:267:"<div class='indent'>&#8212; <strong>Hayate Ayasaki</strong>, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/HayateTheCombatButler' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/HayateTheCombatButler'>Hayate the Combat Butler</a></em>
+";i:409;s:338:"</div></div><p></p>A big, well-appointed home is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConspicuousConsumption' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConspicuousConsumption'>a symbol of wealth and status</a> almost anywhere, varying based on facets including its location and relative opulence.
+";i:410;s:498:"<p></p>There are many culture specific variations on this these, based on the economics situation of the culture depicted. What is considered an impossibly huge dwelling in one culture may be a standard middle class house in another culture. For more information on how this applies to Japan, see the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/BigFancyHouse/AnimeAndManga' title='http://tvtropes.org/pmwiki/pmwiki.php/BigFancyHouse/AnimeAndManga'>Anime And Manga</a> section.
+";i:411;s:1271:"<p></p>If a house is awe-inspiring for reasons other than size, it <em>might</em> be a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolHouse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolHouse'>Cool House</a>. Compare also to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OldDarkHouse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OldDarkHouse'>Old Dark House</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigFancyCastle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigFancyCastle'>Big Fancy Castle</a>. Contrast <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FriendsRentControl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FriendsRentControl'>Friends Rent Control</a>, where the home (or apartment) doesn't have to be all that large or luxurious objectively, but it's enough so for the location that there's no logical reason why the character should be able to afford it. Also the indication of wealth is not always solid if the home was vacated or offered cheaply <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HauntedHouse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HauntedHouse'>for obvious reasons</a>.
+";i:412;s:7:"<hr />
+";i:413;s:19:"<h2>Examples:</h2>
+";i:414;s:205:"<p></p><ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/BigFancyHouse/AnimeAndManga' title='http://tvtropes.org/pmwiki/pmwiki.php/BigFancyHouse/AnimeAndManga'>Anime And Manga</a>
+";i:415;s:132:"</li></ul><p></p><div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:416;s:182:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp;Comics&nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:417;s:194:"<ul ><li> Rich Manor in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RichieRich' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RichieRich'>Richie Rich</a></em>.
+";i:418;s:116:"<ul ><li> In one cartoon, the father used LONG distance to call eastern part of house from INSIDE the same house...
+";i:419;s:134:"</li></ul></li><li> Name any rich super hero and said hero probably has one. Except for Iron Fist who lives in a apartment in Harlem.
+";i:420;s:173:"<ul ><li> Though, to be fair, it's big enough for a dojo, and Harlem has been significant gentrified in the last decade. So it's got the same net worth as a mansion by now.
+";i:421;s:27:"</li></ul></li></ul></div>
+";i:422;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp;Fanfiction&nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:423;s:301:"<ul ><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/DecksFallEveryoneDies' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/DecksFallEveryoneDies'>Decks Fall Everyone Dies</a>, the Duke's big fancy house is in stark contrast to the crumbling Domino City around it.
+";i:424;s:370:"</li><li> What little we know about the Smash Mansion in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/NewLookSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/NewLookSeries'>New Look Series</a> makes it look like this. Every Smasher in the house has their rooms specifically designed to suit their tastes prior to their arrival.
+";i:425;s:17:"</li></ul></div>
+";i:426;s:180:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp;Film&nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:427;s:428:"<ul ><li> Frank Lucas, drug kingpin, buys one for <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvenBadMenLoveTheirMamas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvenBadMenLoveTheirMamas'>his mother</a> in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/AmericanGangster' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/AmericanGangster'>American Gangster</a></em>:
+";i:428;s:93:"<dl><dd><div class='indent'><strong>Mrs. Lucas</strong>: ...And whose house is that, Franky?
+";i:429;s:90:"</div><div class='indent'><strong>Frank Lucas</strong>: That is <em>your</em> house Mama!
+";i:430;s:94:"</div><div class='indent'><strong>Mrs. Lucas</strong>: <em>My house!</em> ...and who else's?!
+";i:431;s:848:"</div></dd></dl></li><li> Wayne Manor in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/BatmanBegins' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/BatmanBegins'>Batman Begins</a></em> is one of these, what with the Batcave in the basement/surrounding caves. However, it burns down, forcing Bruce to move to just a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolHouse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolHouse'>Cool House</a> &#8212; though considering that it's a penthouse <em>floor</em> with a helicopter landing pad and a hidden room with a spare batsuit and equipment, it may qualify as another <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigFancyHouse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigFancyHouse'>Big Fancy House</a>.
+";i:432;s:420:"</li><li> The mansion in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EyesWideShut' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EyesWideShut'>Eyes Wide Shut</a></em> that Bill bluffs his way into once he gets the password from a friend. Of course, the fact that it's gigantic isn't as impressive as the Black Mass-esque ceremony culminating with an orgy <em>in every single room</em>.
+";i:433;s:354:"</li><li> Michael Douglas's character in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheGame'>The Game</a></em> has a palatial residence that he presumably inherited from his father, and he is also fabulously wealthy. Apart from his servants, he lives there alone.
+";i:434;s:565:"</li><li> Jodie Foster's character in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PanicRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PanicRoom'>Panic Room</a></em> buys a big, brownstone rowhome in Manhattan for her daughter and herself while she goes to study at Columbia. It's a bit of a spooky place, large for two people, and featuring the title safe room. The real estate agent seems curious about how she expects to afford it and it's revealed that she was formerly married to the chairman of a pharmaceutical company.
+";i:435;s:571:"</li><li> In <em><a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AGoodYear' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AGoodYear'>A Good Year</a></em>, the aggressive London stockbroker Max Skinner inherits a beautiful vineyard-estate in Provence from his uncle. Acting on his normal instincts, he prepares to sell the place and make a pretty penny <span class="spoiler" title="you can set spoilers visible by default on your profile" >but eventually falls in love and gives up his old lifestyle in favor of a quieter life in France</span>.
+";i:436;s:235:"</li><li> The title country estate of Sir William McCordle in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GosfordPark' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GosfordPark'>Gosford Park</a></em>.
+";i:437;s:62:"</li><li> The title mansion of <em>Brideshead Revisited</em>.
+";i:438;s:459:"</li><li> Croft Manor in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/LaraCroftTombRaider' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/LaraCroftTombRaider'>film adaptations</a> of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/TombRaider' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/TombRaider'>video game franchise</a>. 87 rooms. Eighty. Seven. And a trailer out front for Bryce.
+";i:439;s:330:"</li><li> The mansion of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheHaunting1963' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheHaunting1963'>The Haunting 1963</a></em>. The massive sets were appropriately housed in the hanger for the Spruce Goose, the largest wooden airplane ever built.
+";i:440;s:530:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/IronMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/IronMan'>Tony Stark's pad</a>. If <em><strong><a class='urllink' href='http://www.forbes.com/2008/12/18/expensive-fictional-homes-forbeslife-fictional1508-cx_mn_de_expensivehomes_slide_11.html?thisspeed=20000'>this<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a></strong></em> doesn't count, this whole page is a lie.
+";i:441;s:195:"</li><li> Xanadu from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/CitizenKane' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/CitizenKane'>Citizen Kane</a></em>.
+";i:442;s:191:"<ul ><li> Possibly a deconstruction. Xanadu was too big, and it's massive halls too empty. It was symbolic of Kane himself, opulent and garish, but devoid of anything that actually mattered.
+";i:443;s:267:"</li></ul></li><li> The Corleone houses in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheGodfather' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheGodfather'>The Godfather</a></em>. The most luxurious being the one at Lake Tahoe.
+";i:444;s:87:"<ul ><li> Also the film producer's California mansion in the first <em>Godfather</em>.
+";i:445;s:217:"</li></ul></li><li> Tony Montana's Florida mansion in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Scarface' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Scarface'>Scarface</a></em>.
+";i:446;s:216:"</li><li> Tara Plantation in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoneWithTheWind' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoneWithTheWind'>Gone with the Wind</a></em>.
+";i:447;s:261:"<ul ><li> Mostly averted in the book, where the house is described as a graciously decorated but somewhat haphazard structure valuable mainly for the farmland it sits on, and important mainly because of the emotional connection the protagonist feels toward it.
+";i:448;s:171:"</li><li> The house that Scarlett has built in Atlanta when she marries Rhett may count, although Rhett never loses an opportunity to describe how grotesque the place is.
+";i:449;s:222:"</li></ul></li><li> The plantation in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SongOfTheSouth' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SongOfTheSouth'>Song of the South</a></em>.
+";i:450;s:274:"</li><li> Adam Kesher has one of these in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MulhollandDrive' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MulhollandDrive'>Mulholland Drive</a></em> &#8212; a road famous for its Big Fancy Houses.
+";i:451;s:425:"</li><li> <a class='urllink' href='http://www.ilamhomestead.co.nz/our-location.htm'>Ilam<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>, home of the Hulmes, in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeavenlyCreatures' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeavenlyCreatures'>Heavenly Creatures</a></em>.
+";i:452;s:251:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MrBrooks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MrBrooks'>Mr. Brooks</a> has one, complete with his own pottery studio/hidden serial killer equipment closets.
+";i:453;s:304:"</li><li> The mansion of <span class="spoiler" title="you can set spoilers visible by default on your profile" > Bill Murray</span> in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Zombieland' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Zombieland'>Zombieland</a></em>.
+";i:454;s:819:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMatrixReloaded' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMatrixReloaded'>The Matrix Reloaded</a></em>, the Merovingian lives in one of these. In addition to the "usual" lavishly decorated hallways, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WallOfWeapons' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WallOfWeapons'>Wall of Weapons</a>, and prison located behind a secret bookcase, it also has doors which lead directly into the City as well as a private garage. Noteworthy here because the house is actually located 500 miles away from the city in the mountains (open the doors normally and you go outside into the mountain area, open them with a special key and you enter the city.)
+";i:455;s:285:"</li><li> John has such a house in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Knowing' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Knowing'>Knowing</a></em>, a huge, rambling, half-ruined place that he was fixing up. He stopped when his wife died.
+";i:456;s:211:"</li><li> The Pottsdorf palace in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheGreatRace' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheGreatRace'>The Great Race</a></em>.
+";i:457;s:17:"</li></ul></div>
+";i:458;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp;Literature&nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:459;s:268:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheRomanMysteries' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheRomanMysteries'>The Roman Mysteries</a></em> has the Villa Limona, an opulent Roman sea-side house.
+";i:460;s:694:"</li><li> Pemberley in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrideAndPrejudice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrideAndPrejudice'>Pride and Prejudice</a></em>. Curious, however, in that while by modern standards it's quite flashy, by the standards of the time it's quite a restrained and tasteful property, which is one of the things that indicates to Elizabeth Bennet that Mr. Darcy's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HiddenDepths' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HiddenDepths'>Hidden Depths</a> reveal him to be a more modest, humble and decent man than first impressions indicate.
+";i:461;s:199:"<ul ><li> Rosings Park, the home of his aunt Lady Catherine de Burgh, also appears; in keeping with his aunt's overall foolishness, snobbery and lack of decorum, it's a lot more gaudy and show-offy.
+";i:462;s:229:"</li></ul></li><li> In the Foundation novels, we see the Emperor of the Galaxy lives on a 100 acre palace on the capital world of Trantor. Noteworthy since the rest of the planet is completely covered in a series of metal domes.
+";i:463;s:362:"</li><li> Manderley, in Daphne du Maurier's <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Rebecca' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Rebecca'>Rebecca</a></em>, is the Cornish country estate of the wealthy Englishman Maximilian de Winter. It features heirlooms, a full staff, and is open to the public on certain days.
+";i:464;s:286:"</li><li> The Grosvenor Square mansion of the outrageously wealthy financier Augustus Melmotte in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWayWeLiveNow' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWayWeLiveNow'>The Way We Live Now</a></em>.
+";i:465;s:681:"</li><li> A number of extravagant "old money" homes appear in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/JeevesAndWooster' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/JeevesAndWooster'>Jeeves and Wooster</a> stories by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/PGWodehouse' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/PGWodehouse'>PG Wodehouse</a>. Their owners are frequently some relation to Wooster, who is a model <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UpperClassTwit' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UpperClassTwit'>Upper Class Twit</a>.
+";i:466;s:254:"</li><li> Sir Thomas and Lady Bertram's titular mansion in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MansfieldPark' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MansfieldPark'>Mansfield Park</a></em>, by Jane Austen.
+";i:467;s:274:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HerculePoirot' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HerculePoirot'>Hercule Poirot</a> frequently provides his services as a detective to upper-class residents of big, fancy houses.
+";i:468;s:131:"<ul ><li> Also by Agatha Christie, <em>The Secret of Chimneys</em> is largely set in the big house that gives the novel its title.
+";i:469;s:266:"</li></ul></li><li> Thornfield Hall, the Gothic estate of the wealthy Edward Rochester in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/JaneEyre' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/JaneEyre'>Jane Eyre</a></em>.
+";i:470;s:278:"</li><li> The wealthy Mr. Toad, of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWindInTheWillows' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWindInTheWillows'>The Wind in the Willows</a></em>, lives in his family seat called Toad Hall.
+";i:471;s:364:"</li><li> The villain in <em><a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheGunSeller' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheGunSeller'>The Gun Seller</a></em> lives in a huge mansion with attached grounds within easy commuting distance of London - the protagonist mentally notes the vast wealth this implies.
+";i:472;s:253:"</li><li> Jay Gatsby's mansion in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheGreatGatsby' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheGreatGatsby'>The Great Gatsby</a></em>, which is supposed to impress Daisy.
+";i:473;s:297:"</li><li> Hell Hall, the ancestral home of the de Vil family in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheHundredAndOneDalmatians' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheHundredAndOneDalmatians'>The Hundred And One Dalmatians</a></em>.
+";i:474;s:231:"</li><li> Misselthwaite Manor in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheSecretGarden' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheSecretGarden'>The Secret Garden</a></em>.
+";i:475;s:444:"</li><li> The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MouseWorld' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MouseWorld'>Mouse World</a> equivalent: in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheRescuers' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheRescuers'>The Rescuers</a></em> books, Miss Bianca is a pampered pet whose cage is a porcelain pagoda.
+";i:476;s:239:"</li><li> Darlington Hall, in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheRemainsOfTheDay' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheRemainsOfTheDay'>The Remains Of The Day</a></em>.
+";i:477;s:97:"</li><li> The increasingly decrepit Hundreds Hall in Sarah Waters' <em>The Little Stranger.</em>
+";i:478;s:415:"</li><li> When an Ugly becomes a Pretty in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Uglies' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Uglies'>Uglies</a></em>, they get moved from a dorm to a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigFancyHouse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigFancyHouse'>Big Fancy House</a>.
+";i:479;s:285:"</li><li> Homeward in J.P Martin's <em>Uncle</em> series. It's so big that the owner hasn't met a tenth of the people who also live there. It has a railway station that he didn't know about until the second book, and the most pimped out library possible, among countless other things.
+";i:480;s:298:"</li><li> Fowl Manor in the outskirts of Dublin, Ireland from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/ArtemisFowl' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/ArtemisFowl'>Artemis Fowl</a></em>. It's <strong>200</strong> freaking <em>acres</em>.
+";i:481;s:385:"</li><li> Baskerville Hall is probably the most well-known example in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SherlockHolmes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SherlockHolmes'>Sherlock Holmes</a> canon, but there are several instances of him visiting the sprawling country homes of the rich and powerful (and, occasionally, criminal).
+";i:482;s:666:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/RobertEHoward' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/RobertEHoward'>Robert E Howard</a>'s <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/ConanTheBarbarian' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/ConanTheBarbarian'>Conan the Barbarian</a> story "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/RoguesInTheHouse' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/RoguesInTheHouse'>Rogues In The House</a>", Nabonidus lives in one &#8212; which makes his lack of servants all the stranger.
+";i:483;s:397:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Buddenbrooks' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Buddenbrooks'>Buddenbrooks</a></em>, Thomas builds one, but later feels exhausted and regrets building such an expensive home. Even the house the family moves in later (after their downfall has become obvious) would probably qualify.
+";i:484;s:789:"</li><li> Subverted in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Malevil' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Malevil'>Malevil</a></em>. The titular Malevil is a large English castle from the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HundredYearsWar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HundredYearsWar'>Hundred Years War</a>, sitting on a cliff with accompanying grounds. Emmanuel is not a wealthy man, upper-middle class at best, and nor was his uncle who left the inheritance he buys Malevil with. The property was sold "cheap" being considered a bad investment; the castle officially condemned and the grounds too unkempt to be worth the expense and hassle of restoration or clearing.
+";i:485;s:421:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheGoodEarth' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheGoodEarth'>The Good Earth</a></em>, the rich family on the outskirts of the protagonist's home town and the rich family in the city both have this. The one in the city is so big that an entire tent city is spring up leaning on the wall around the estate.
+";i:486;s:493:"</li><li> Notably in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AuntDimity' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AuntDimity'>Aunt Dimity</a></em> series, Penford Hall, seat of the Duke of Penford in <em>Aunt Dimity and the Duke</em>; Hailesham Park, the seat of the Earl of Elstyn and the setting for <em>Aunt Dimity Takes a Holiday</em>; and Dundrillin Castle, Sir Percy's Scottish island retreat in <em>Aunt Dimity and the Deep Blue Sea</em>.
+";i:487;s:512:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Animorphs' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Animorphs'>Animorphs</a></em>, the group breaks into the mansion of Joe Bob Fenestre, a near- <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainErsatz' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainErsatz'>Captain Ersatz</a> of Bill Gates, who has a ton of security measures in it. It gets burned down in the end.
+";i:488;s:471:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HonorHarrington' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HonorHarrington'>Honor Harrington</a></em>, the eponymous heroine has acquired several through the course of the series. Harrington House on Grayson (which doubles as headquarters for the local government), her house on Manticore, her duchy on Gryphon, and her family's not-inconsiderable home on Sphinx.
+";i:489;s:216:"</li><li> Brandham Hall in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheGoBetween' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheGoBetween'>The Go Between</a></em>.
+";i:490;s:390:"</li><li> Hoffmann's house in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheFearIndex' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheFearIndex'>The Fear Index</a></em> is truly massive and costs around sixty million dollars. As Hoffmann is a recluse it's completely unnecessary but he bought it because that's what you do when you're rich.
+";i:491;s:376:"</li><li> Foxworth Hall in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/FlowersInTheAttic' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/FlowersInTheAttic'>Flowers In The Attic</a></em> is so big that when the grandmother arranges to have the children locked away, she can lock up a whole wing just to make sure no one hears them.
+";i:492;s:835:"</li><li> Kyle in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/MercyThompson' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/MercyThompson'>Mercy Thompson</a></em> books has one. While a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigFancyHouse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigFancyHouse'>Big Fancy House</a> isn't a surprise when you're a successful divorce lawyer, Kyle's home also doubles as a shelter for his clients in cases involving <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DomesticAbuse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DomesticAbuse'>Domestic Abuse</a>, with all the creature comforts needed to distract the kids and state-of-the-art security systems in case angry husbands show up.
+";i:493;s:17:"</li></ul></div>
+";i:494;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp;Live Action TV&nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:495;s:690:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AsTimeGoesBy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AsTimeGoesBy'>As Time Goes By</a></em>, Lionel's father gives him a country house in Hampshire complete with a full-time housekeeper, however most of the time he lives with Jean in her nice London home. Lionel is practically <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LandPoor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LandPoor'>Land Poor</a>, however, and at one point suggests they sell the infrequently used house, which leads to an awkward situation where his father offers to buy it back from him.
+";i:496;s:155:"<ul ><li> Alistair, Lionel's highly successful publisher, hints several times about his prized penthouse overlooking the Thames, but little of it is seen.
+";i:497;s:445:"</li></ul></li><li> Gu Jun Pyo's house in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KoreanSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KoreanSeries'>Korean Series</a> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BoysBeforeFlowers' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BoysBeforeFlowers'>Boys Before Flowers</a></em> comes complete with many many housemaids.
+";i:498;s:386:"</li><li> Likewise, in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheCityHunter' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheCityHunter'>The City Hunter</a></em>, the house that Yoon Sung grew up in includes extensive grounds, many servants, garages filled with vehicles. Oh and a terrorist-style training camp, all paid for with drug money.
+";i:499;s:416:"</li><li> Collinwood Mansion featured in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/DarkShadows' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/DarkShadows'>Dark Shadows</a></em> is also known for being <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HauntedHeadquarters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HauntedHeadquarters'>haunted</a>.
+";i:500;s:538:"</li><li> Niles Crane, in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Frasier' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Frasier'>Frasier</a></em>, is shown living in two Big Fancy Houses: Maris's mansion and his later apartment at The Montana. Various jokes are made about the ridiculous size of his place at The Montana, especially for one single man, with Martin once getting lost on his way to the bathroom. It has at least three floors, a study <em>and</em> a library, and a gift-wrapping room.
+";i:501;s:338:"<ul ><li> Later, when he's hooked up with Daphne, they have a minor disagreement about how many things Niles should pack if he's planning on staying over with her at Frasier's apartment. It takes them a surprisingly long time to reach the conclusion that it would probably be much easier if she moved into his massive apartment with him.
+";i:502;s:385:"</li></ul></li><li> The Banks' mansion in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheFreshPrinceOfBelAir' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheFreshPrinceOfBelAir'>The Fresh Prince of Bel-Air</a></em> - which in addition to the mansion, features both a swimming pool and a poolhouse that characters use as an apartment in later years.
+";i:503;s:205:"<ul ><li> On the other hand <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MediumAwareness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MediumAwareness'>it has no ceiling</a>.
+";i:504;s:366:"</li></ul></li><li> Francis Urquhart, in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/HouseOfCardsUK' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/HouseOfCardsUK'>House Of Cards</a></em>, has a very nice house in London, and an impressive estate in the countryside, where he shows off some of his Conservative "Old Boy" values.
+";i:505;s:487:"</li><li> The Scottish estate Glenbogle plays a significant role in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/MonarchOfTheGlen' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/MonarchOfTheGlen'>Monarch Of The Glen</a></em>. Its owners, though, are <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LandPoor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LandPoor'>Land Poor</a>, which is a source of struggle in the stories.
+";i:506;s:421:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Angel' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Angel'>Angel</a></em>, the mansion of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CorruptCorporateExecutive' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CorruptCorporateExecutive'>Corrupt Corporate Executive</a> and vampire Russell Winters.
+";i:507;s:296:"</li><li> And Angel himself had a mansion in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer'>Buffy the Vampire Slayer</a></em>, though not in the typical rich guy sense.
+";i:508;s:561:"</li><li> Andrew Hartford's mansion in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/PowerRangersOperationOverdrive' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/PowerRangersOperationOverdrive'>Power Rangers Operation Overdrive</a></em> has a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolGarage' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolGarage'>Zord bay</a> beneath the house, 27 bathrooms on the first floor alone, and yet he can't make a security system to keep the villains out.
+";i:509;s:78:"<ul ><li> Maybe the sheer size IS the reason it's such a nightmare to secure.
+";i:510;s:644:"</li></ul></li><li> The comedic tension in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ToTheManorBorn' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ToTheManorBorn'>To The Manor Born</a></em> focuses on Grantleigh Manor, which the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LandPoor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LandPoor'>Land Poor</a> Audrey Fforbes-Hamilton sells to the wealthy <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SelfMadeMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SelfMadeMan'>Self-Made Man</a> Richard DeVere.
+";i:511;s:145:"<ul ><li> One example of the sheer size of the place is the fact that he has a rather large room <em>just</em> for his antique china collection.
+";i:512;s:862:"</li></ul></li><li> ITV's smash hit, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/DowntonAbbey' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/DowntonAbbey'>Downton Abbey</a></em>, concerns the Abbey itself (exterior shots are of <a class='urllink' href='http://en.wikipedia.org/wiki/Highclere_Castle'>Highclere Castle<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> in Hampshire). Downton is so <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UpToEleven' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UpToEleven'>so fantastically big and fancythat requires a full time staff of almost twenty people to clean and maintain</a>.Much of the plot frames the Abbey as an obligation and a money drain, creating tension for everyone.
+";i:513;s:190:"</li><li> Southfork Ranch in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Dallas' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Dallas'>Dallas</a></em>.
+";i:514;s:230:"</li><li> Drummond's Manhattan penthouse in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DiffrentStrokes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DiffrentStrokes'>Diff'rent Strokes</a></em>.
+";i:515;s:240:"</li><li> Jed Clampett's mansion in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheBeverlyHillbillies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheBeverlyHillbillies'>The Beverly Hillbillies</a></em>.
+";i:516;s:225:"</li><li> The beachfront Robin's Nest estate in Hawaii in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MagnumPI' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MagnumPI'>Magnum, P.I.</a></em>.
+";i:517;s:583:"</li><li> On <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheSopranos' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheSopranos'>The Sopranos</a></em>, a female friend of AJ's is reluctant to invite him to her home. When he finally goes there, he sees a house he thinks is normal-sized, if a bit smaller than his own. Turns out that was just the guard shack out at the gate; the house, set well back from the road, is orders of magnitude bigger than his own. It's kind of an eye-opener for him, as he had always believed his family was wealthy.
+";i:518;s:362:"</li><li> The Darling family of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/DirtySexyMoney' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/DirtySexyMoney'>Dirty Sexy Money</a></em> lives in the Imperial, a townhouse in the upper east side of Manhattan, that stands about eight stories tall and takes up an entire city block.
+";i:519;s:197:"</li><li> Yonk and Nicole in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheClass' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheClass'>The Class</a></em>.
+";i:520;s:228:"</li><li> Hodgins' mansion has popped up once or twice in the seven seasons of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Bones' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Bones'>Bones</a>.
+";i:521;s:190:"</li><li> The eponymous <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Sanctuary' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Sanctuary'>Sanctuary</a></em>.
+";i:522;s:17:"</li></ul></div>
+";i:523;s:181:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp;Music&nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:524;s:486:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Music/Blur' title='http://tvtropes.org/pmwiki/pmwiki.php/Music/Blur'>blur</a>'s bright and shiny-sounding song "Country House" describes a successful man who moves from the city into one of these, and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LyricalDissonance' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LyricalDissonance'>the emptiness he feels in spite of his success.</a>
+";i:525;s:160:"</li><li> The Titular <em>Two Story House</em> in the George Jones/Tammy Wynette song about a couple that buys one and then finds their marriage falling apart.
+";i:526;s:17:"</li></ul></div>
+";i:527;s:183:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp;Theater&nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:528;s:593:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Theatre/TheTamingOfTheShrew' title='http://tvtropes.org/pmwiki/pmwiki.php/Theatre/TheTamingOfTheShrew'>The Taming of the Shrew</a></em>, Gremio and Tranio argue over who has more of these to offer Bianca, the girl they're wooing. As it happens, Tranio <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MockMillionaire' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MockMillionaire'>isn't really wealthy</a>&#8212;he's a servant impersonating his master and playing the role to the hilt.
+";i:529;s:17:"</li></ul></div>
+";i:530;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder7');">&nbsp;&nbsp;&nbsp;&nbsp;Video Games&nbsp;</div><div id="folder7" class="folder" isfolder="true" style="display:block;">
+";i:531;s:375:"<ul ><li> The Valentine Mansion, London - home to the English Countess Isabella "Ivy" Valentine from the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SoulSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SoulSeries'>Soul Series</a>. The grand staircase and library are used as fighting arenas in <em>SC 1</em> and <em>SC 3</em> respectively.
+";i:532;s:468:"</li><li> Yai's house in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MegaManBattleNetwork' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MegaManBattleNetwork'>Mega Man Battle Network</a> games &#8212; though it appears <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HammerSpace' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HammerSpace'>roughly the same size as her neighbors' houses from the outside</a>.
+";i:533;s:216:"</li><li> Croft Manor in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/TombRaider' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/TombRaider'>Tomb Raider</a></em> series.
+";i:534;s:259:"</li><li> A huge mansion is the backdrop of a field, the Webber Estate, in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BackyardSports' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BackyardSports'>Backyard Baseball</a></em>.
+";i:535;s:334:"</li><li> Wario's Castle in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/WarioWorld' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/WarioWorld'>Wario World</a></em>. It's a solid gold castle people, complete with fancy throne and lots and lots of treasure lying around just about everywhere.
+";i:536;s:431:"<ul ><li> The <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/WarioLand' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/WarioLand'>Wario Land</a> 2</em> version is just ridiculous though, it has tons of rooms, is probably the size of a small town when mapped out, and has TEN LEVELS set in the building. Getting to his alarm clock requires going through about twenty rooms for goodness sake!
+";i:537;s:779:"</li></ul></li><li> The Shinra Mansion at Nibelheim in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyVII' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyVII'>Final Fantasy VII</a>. The largest house in the game, if this troper is not mistaken. 2 wings, 2 floors, with a deep underground basement. Gets further expanded in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrisisCore' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrisisCore'>Crisis Core</a> to have larger rooms, a huge entrance hall, wider corridors, and 2 levels of basements. Funnily enough, for a former scientist's base, the only room to contain anything actually scientific is the deepest, furthest room in the basement.
+";i:538;s:371:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Phantasmagoria' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Phantasmagoria'>Phantasmagoria</a> begins with a young couple moving into a gothic castle. It's never explained how they could possibly afford it, or why the original owner's belongings are untouched decades after his death.
+";i:539;s:293:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LuigisMansion' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LuigisMansion'>Luigis Mansion</a>. Okay, so it's a bit haunted, but you can literally vacuum money and pearls right out of the furniture!
+";i:540;s:696:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Touhou' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Touhou'>Touhou</a>'s Eientei and Scarlet Devil Mansion. Both are also cases where they are <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BiggerOnTheInside' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BiggerOnTheInside'>Bigger on the Inside</a>. Interestingly, the Scarlet Devil Mansion is a..well, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShapedLikeItself' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShapedLikeItself'>Western-style mansion</a>, while Eientei is very much Japanese.
+";i:541;s:930:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MassEffect2' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MassEffect2'>Mass Effect 2</a>: Donavan Hock has a ridiculously large house, especially after you get through the large room where the party is held, the balcony, the vault that's large enough that the Statue of Liberty's head is a display on one end, the underground security bunkers, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HumongousMecha' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HumongousMecha'>YMIR mechs</a>, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UpToEleven' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UpToEleven'>garage full of tanks and fuel canisters</a>, the secondary landing pad...and that gunship and the rest of the squadron Hock talks about had to have come from somewhere...
+";i:542;s:566:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FableII' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FableII'>Fable II</a></em> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FableIII' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FableIII'>3</a>'' have Fairfax Mansion and Bowerstone Castle respectively. Both are huge, contain any kind of real world room you could want. Both however seem to have large, rather complex escape routes that are actually filled with danger.
+";i:543;s:244:"</li><li> Dorne Manor (the Operation Repunzel level) in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MedalOfHonor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MedalOfHonor'>Medal of Honor</a>: Frontline</em>.
+";i:544;s:341:"</li><li> In the backstory comics for <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TeamFortress2' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TeamFortress2'>Team Fortress 2</a>, we see that the Demoman lives in a very fancy mansion with his mother. The Heavy also seems to live in a big fancy cabin.
+";i:545;s:254:"</li><li> The Tohno mansion of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/Tsukihime' title='http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/Tsukihime'>Tsukihime</a></em>, big and fancy even for Japanese standards.
+";i:546;s:654:"</li><li> In Battlefield 3 the Russian protagonist storms a mansion positioned on a cliff side overseeing an enormous beach spanning as far as the eye can see and a breath-taking view of the ocean. The reason why is that there is a well-known arms dealer suspected of having given away nuclear weapons so they are trying to capture him and find out what he knows. As for the mansion itself there are numerous sections one after the other that could be considered houses into their own right, lavish gardens, multiple pools, and an entire underground Military facility. This arms dealer must be banking to have been able to afford a house that beautiful.
+";i:547;s:236:"</li><li> Due to being extremely rich, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/KiraKira' title='http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/KiraKira'>Sarina's</a> family have several of these.
+";i:548;s:222:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Videogame/TheIdolmaster2' title='http://tvtropes.org/pmwiki/pmwiki.php/Videogame/TheIdolmaster2'>The iDOLM@STER 2</a></em> - Takane's has one.
+";i:549;s:367:"</li><li> Being the head of a mafia crime family it's not surprising <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheDarkness' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheDarkness'>Jackie Estacado</a> lives in a large mansion. What is surprising is that said mansion is located on the top of a skyscraper in New York City.
+";i:550;s:658:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DragonAgeII' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DragonAgeII'>Dragon Age II</a></em> the first Act revolves around Hawke trying to gain enough money so he can reclaim the Amell Estate for his mother, after his deadbeat uncle; hid the Will that revealed everything was left to his <em>sister</em>, spent the entire family inheritance on himself and then finally sold the Estate to <em>slavers</em> in order to cover his extensive debts. After Hawke regains the family fortune and Estate in Act II, his uncle was <em>not</em> allowed to live there.
+";i:551;s:235:"<ul ><li> While we only see a fraction of it in game, just how big is the Estate? Its vast cellars are mentioned as extending all the way from Hightown, right through to the former mine tunnels that running beneath the city, Darktown.
+";i:552;s:456:"</li></ul></li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheElderScrollsVSkyrim' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheElderScrollsVSkyrim'>Skyrim</a></em> most of the houses in Solitude including Proudspire Manor which is the one the player can buy and the most expensive of the player's options. It would be big and fancy by modern standards but even moreso in the context of the setting.
+";i:553;s:177:"<ul ><li> Castle Volkihar in the <em>Dawnguard</em> DLC is a huge castle on its own island that is home to over a dozen vampires, including yourself if you choose to join them.
+";i:554;s:484:"</li><li> The <em>Hearthfire</em> DLC allows you to design and build your own <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigFancyHouse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigFancyHouse'>Big Fancy House</a> from the ground up. Once completed, it can house you, your spouse, two children, a steward, a housecarl and a bard. Depending on your preferences, it can have towers, a greenhouse, an armory, a kitchen, trophy room, and extra bedrooms.
+";i:555;s:275:"</li></ul></li><li> With enough money the players in "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TornCity' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TornCity'>Torn City</a>" can upgrade all the way up to an entire private island!
+";i:556;s:846:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheKingOfFighters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheKingOfFighters'>The King of Fighters</a>: KYO RPG game, we get again to see <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheProtagonist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheProtagonist'>Kyo Kusanagi</a>'s home. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ContinuityNod' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ContinuityNod'>It's still</a> the same and very big traditional complex from the KOF: KYO manga, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheThingThatGoesDoink' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheThingThatGoesDoink'>The Thing That Goes Doink</a> included.
+";i:557;s:283:"<ul ><li> We also see <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MsFanservice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MsFanservice'>Mai's</a> house aka the Shiranui dojo. It's just as big, and it looks like it also has a tea ceremony pavillion.
+";i:558;s:464:"</li><li> The backstory for KOF XIII implies that <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/YamatoNadeshiko' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/YamatoNadeshiko'>Chizuru Kagura</a> lives in a similar traditional house, possibly attached to the shrine that she's a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Miko' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Miko'>Miko</a> for in KOF: KYO.
+";i:559;s:27:"</li></ul></li></ul></div>
+";i:560;s:191:"<p></p><div class="folderlabel" onclick="togglefolder('folder8');">&nbsp;&nbsp;&nbsp;&nbsp;Table-Top Games&nbsp;</div><div id="folder8" class="folder" isfolder="true" style="display:block;">
+";i:561;s:509:"<ul ><li> The residence of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Warhammer40000' title='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Warhammer40000'>The God-Emperor of Mankind</a>. All I know is that it was visible from space, and I've jokingly concluded that many millennia ago <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WildMassGuessing' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WildMassGuessing'>it was called "France"</a>.
+";i:562;s:87:"<ul ><li> IIRC, the third edition rulebook stated that it covered about half of Terra.
+";i:563;s:77:"</li><li> From what I know, the Imperial Palace covers all of North America.
+";i:564;s:500:"</li><li> From the deptiction in Draco, the Imperial Palace appears to be a massive city. It doesn't just house the Emperor, it houses the central imperial government and the surrounding population of butchers, cleaners, guards, priests etc, as well as being a massive shrine to the history of the imperium, the deeds of the imperial military and the lives of all the saints. Even so, the bit where the emperor does live is pretty big - the front door is guarded by a pair of Imperator Class Titans.
+";i:565;s:323:"</li><li> In a sense, all of Terra itself could be considered the Emperor's house. Terra is entirely covered by a single city. The planet (and indeed the whole Solar System) is one enormous fortress and shrine whose primary purpose is to protect the Emperor and power the Astronomican (the beacon that allows Warp travel).
+";i:566;s:89:"</li></ul></li><li> The Board Game <em>Mystery Mansion</em> takes place in one of these.
+";i:567;s:17:"</li></ul></div>
+";i:568;s:185:"<p></p><div class="folderlabel" onclick="togglefolder('folder9');">&nbsp;&nbsp;&nbsp;&nbsp;Webcomics&nbsp;</div><div id="folder9" class="folder" isfolder="true" style="display:block;">
+";i:569;s:269:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/Annyseed' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/Annyseed'>Annyseed</a></em> "I still can't get over your uncles mansion back there!" -Winston says to Anny, page 99.
+";i:570;s:277:"</li><li> Tessa from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BittersweetCandyBowl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BittersweetCandyBowl'>Bittersweet Candy Bowl</a></em> lives in one, much to the amazement of her new friends.
+";i:571;s:216:"</li><li> In "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDreamer' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDreamer'>The Dreamer</a>", the Murrays of Murray Hill live in one.
+";i:572;s:224:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/ElGoonishShive' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/ElGoonishShive'>El Goonish Shive</a></em>, Susan lives in one.
+";i:573;s:91:"<ul ><li> She has a remote with one button. Its purpose is to raise the back of the couch.
+";i:574;s:299:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheKingfisher' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheKingfisher'>The Kingfisher</a>: Fancy house interiors abound, almost creating a bigger sense of abnormality when the characters visit a pit.
+";i:575;s:436:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/NoRestForTheWicked' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/NoRestForTheWicked'>No Rest for the Wicked</a></em>, <a class='urllink' href='http://www.forthewicked.net/archive/02-23.html'>the Beast lives in one.<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>
+";i:576;s:17:"</li></ul></div>
+";i:577;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder10');">&nbsp;&nbsp;&nbsp;&nbsp;Web Original&nbsp;</div><div id="folder10" class="folder" isfolder="true" style="display:block;">
+";i:578;s:656:"<ul ><li> When <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WebVideo/TheNostalgiaCritic' title='http://tvtropes.org/pmwiki/pmwiki.php/WebVideo/TheNostalgiaCritic'>The Nostalgia Critic</a> wanders around his huge house (both of them, Doug and Rob moved into their own home during <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheRoom'>The Room</a></em> review), you get an awful lot of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SceneryPorn' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SceneryPorn'>Scenery Porn</a>.
+";i:579;s:371:"</li><li> Mutterwald in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhateleyUniverse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhateleyUniverse'>Whateley Universe</a>, the massive mansion on the huge estate where the Goodkinds live. It used to be Phase's home, right up until chapter 2 of "Ayla and the Late Trevor James Goodkind."
+";i:580;s:167:"</li></ul><p></p>Brown Manor in The Molly and Pippin Show is a large mansion which is basically a cross between Neuschwanstein, the Taj Mahal and The Biltmore Estate.
+";i:581;s:7:"</div>
+";i:582;s:195:"<p></p><div class="folderlabel" onclick="togglefolder('folder11');">&nbsp;&nbsp;&nbsp;&nbsp;Western Animation&nbsp;</div><div id="folder11" class="folder" isfolder="true" style="display:block;">
+";i:583;s:482:"<ul ><li> The palace that <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LukeNounverber' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LukeNounverber'>Vonda Clutchcoin</a> calls her own in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/ChipNDaleRescueRangers' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/ChipNDaleRescueRangers'>Chip N Dale Rescue Rangers</a></em> episode "The Carpetsnaggers".
+";i:584;s:242:"</li><li> Burns Manor in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSimpsons' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSimpsons'>The Simpsons</a></em>, home of local evil tycoon Montgomery Burns.
+";i:585;s:270:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheCritic' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheCritic'>The Critic</a></em>, Jay Sherman's family and his boss Duke Phillips live in mansions.
+";i:586;s:288:"</li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpongeBobSquarePants' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpongeBobSquarePants'>Sponge Bob Square Pants</a></em> episode "House Fancy", Squilliam's house, much to Squidward's dismay.
+";i:587;s:293:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheFlintstones' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheFlintstones'>Fred Flintstone</a> moves into one to keep Pebbles away from the riff-raff in Bedrock, but they find they can't afford the upkeep.
+";i:588;s:244:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TinyToonAdventures' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TinyToonAdventures'>Montana Max's</a> mansion (complete with doorbell that chimes "MON-ney!")
+";i:589;s:499:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TexAvery' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TexAvery'>Tex Avery</a>'s <em><a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LonesomeLenny' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LonesomeLenny'>Lonesome Lenny</a></em> is a big dumb dog whose home is a huge mansion - his room is the size of an opera house - and he lives in a standard-issue wooden doghouse in the corner.
+";i:590;s:228:"</li><li> Scrooge McDuck's mansion in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DuckTales' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DuckTales'>DuckTales</a></em>.
+";i:591;s:776:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheLegendOfKorra' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheLegendOfKorra'>The Legend of Korra</a></em> Airbending Master Tenzin and his family reside in a palatial estate on the grounds of <a class='urllink' href='http://www.lastairbenderfans.com/cutenews/data/upimages/air-temple-island.jpg'>Air Temple Island<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a><small>&#9674;</small>, a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IslandBase' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IslandBase'>sanctuary</a> situated on the bay of Republic City.
+";i:592;s:328:"</li><li> Mordhaus (German for "Murder House"), the home of Dethklok from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Metalocalypse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Metalocalypse'>Metalocalypse</a></em> is a gigantic, high-tech fortress that even has the ability to <em>fly</em>.
+";i:593;s:17:"</li></ul></div>
+";i:594;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder12');">&nbsp;&nbsp;&nbsp;&nbsp;Real Life&nbsp;</div><div id="folder12" class="folder" isfolder="true" style="display:block;">
+";i:595;s:633:"<p></p><ul ><li> <a class='urllink' href='http://upload.wikimedia.org/wikipedia/commons/8/8f/Windsor_Castle_at_Sunset_-_Nov_2006.jpg'>Windsor Castle<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a><small>&#9674;</small>, home of the British Royal Family, is the largest inhabited castle in the world and, dating back to the time of William the Conqueror (1066), is the oldest in continuous occupation. The castle's floor area is about 45,000 square metres (480,000 sq ft); it contains over 1,000 rooms and the surrounding parkland is over 20 square kilometres.
+";i:596;s:672:"<ul ><li> And this is only one of the British Royal Family's <em>twenty-plus</em> official residences, one of which is the sprawling Houses of Parliament in the heart of Westminster (though only technically, since the monarch no longer lives there at any time and really couldn't&#8212;the only living space in the Palace is for the Speaker of the Commons and Lord Speaker of the Lords, who have formal state apartments in the building). The numbers are staggering - the Crown property portfolio is collectively worth something like <em>£5.6bn</em> (around $8.7bn US), includes over 50% of the UK shoreline, and covers in total well over <em>1,000 square kilometres</em>.
+";i:597;s:944:"<ul ><li> However, about half of this&#8212;including the London palaces&#8212;is owned by the Crown rather than the Queen herself, and is thus managed by the government. On the other hand, a substantial portion of Crown land is actually part of the Crown Estate, which while managed by the government is in theory voluntarily surrendered to Parliament in exchange for a share of the (lucrative) proceeds and the right to succeed to the Throne, and it is quite possible that should the British monarchy ever end, the Royal Family would keep the Crown Estate. <a class='urllink' href='https://www.youtube.com/watch?v=bhyYgnhhKFw'>C.G.P. Grey explains<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>. Finally, certain major properties&#8212;including the <em>very</em> big and fancy Sandringham House and Balmoral Castle&#8212;are directly owned by the monarch personally.
+";i:598;s:484:"</li></ul></li></ul></li><li> Speaking of Britain, Checquers, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMenOfDowningStreet' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMenOfDowningStreet'>Prime Minister's</a> country estate. Furthermore, 10 Downing Street is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BiggerOnTheInside' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BiggerOnTheInside'>deceptively large</a>.
+";i:599;s:998:"</li><li> <a class='urllink' href='http://en.wikipedia.org/wiki/Tokyo_Imperial_Palace'>The residence of the Emperor of Japan<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>. A palace, <em>several</em> Big Fancy Houses and <em>several square kilometres of open parkland</em>. In <strong>central Tokyo</strong>. One estimate of its "market value" (if a market for it existed) is that the palace and grounds is worth, roughly, California<span class="notelabel" onclick="togglenote('note0ab72');"><sup>note&nbsp;</sup></span><span id="note0ab72" class="inlinefolder" isnote="true" onclick="togglenote('note0ab72');" style="cursor:pointer;font-size:smaller;display:none;">Although that estimate was made during the '90s Japanese real estate bubble. Probably less now. But still really expensive.</span>. There are bigger, fancier palaces out there for heads of state, but no real estate in the world more expensive than this one.
+";i:600;s:669:"</li><li> Canadian Governors-General are lodged at <a class='urllink' href='http://en.wikipedia.org/wiki/Rideau_Hall'>Rideau Hall<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>, a superb manor in Ottawa where the GG holds receptions and diplomatic events, though the vast majority of it is working offices for various Crown functions. In contrast, the Prime Minister and provincial Primiers lived in smaller houses or condos. Except for one, the Prime Minister of Newfoundland, who lived in a beautiful house. Newfoundland is one of the poorest provinces in Canada, if not <em>the</em> poorest.
+";i:601;s:591:"<ul ><li> While not on the same scale, <a class='urllink' href='http://en.wikipedia.org/wiki/24_Sussex_Drive'>24 Sussex Drive<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>, the official residence of the Prime Minster is still quite large and fancy. <a class='urllink' href='http://en.wikipedia.org/wiki/Stornoway_%28residence%29'>Stornoway<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>, the home of the Leader of the Opposition, is similar.
+";i:602;s:563:"</li></ul></li><li> In Newport, Rhode Island, there are the famous <a class='urllink' href='http://www.newportmansions.org'>Newport Mansions<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>. These were built mostly in the late 1800s, by very wealthy people during <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheGildedAge' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheGildedAge'>The Gilded Age</a>. Several movies have filmed scenes at the various mansions.
+";i:603;s:347:"</li><li> The Biltmore Estate in Asheville, North Carolina, the country estate of railroad heir George Washington Vanderbilt II and largest privately-owned house (175,000 sq ft) in the United States. It's been used in several films as the residence of somebody who obviously has enormous amounts of money, especially <em>old</em> money. Examples:
+";i:604;s:237:"<ul ><li> Mason Verger's mansion in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Hannibal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Hannibal'>Hannibal</a></em>, set in Virginia and shot at Biltmore.
+";i:605;s:249:"</li><li> The movie adaptation of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BeingThere' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BeingThere'>Being There</a></em>, the Rand estate was represented by Biltmore.
+";i:606;s:150:"</li><li> The movie adaptation of <em>Richie Rich</em> was also shot at Biltmore. One of the kids idly speculates that it must have its own ZIP code.
+";i:607;s:855:"</li></ul></li><li> The <a class='urllink' href='http://en.wikipedia.org/wiki/David_and_Frederick_Barclay'>Barclay Brothers<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> in have built a faux-gothic castle on the private island of <a class='urllink' href='http://en.wikipedia.org/wiki/File:Brecqhou_from_the_air.JPG'>Brecqhou<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a><small>&#9674;</small> in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/TheChannelIslands' title='http://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/TheChannelIslands'>Sark</a>, with landscaped gardens covering most of the rest of the island. Features include the Servants Helipad and an ornamental lake.
+";i:608;s:948:"</li><li> After the Great Fire of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AncientRome' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AncientRome'>Rome</a> in 64, the emperor Nero had a gigantic new palace built. If Suetonius is to be believed, the entrance hall alone was a mile long and had a 120-foot statue of Nero; there was a huge artificial lake, gardens and woods rife with plants and animals, petal- and perfume-sprinklers and a banqueting hall with a constantly revolving roof, and gold, jewelled and ivory decorations throughout. When it was finished, Nero is supposed to have said, "Good - now at last I can begin to live like a human being." No wonder people accused him of starting the fire (though it's now generally agreed that he didn't). As Nero was less than popular with the Roman establishment by the time he died and the palace was a gigantic reminder of him, most of it was later demolished.
+";i:609;s:300:"<ul ><li> Of course, Nero's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ZeroPercentApprovalRating' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ZeroPercentApprovalRating'>profound unpopularity</a> means that this description should be taken with a large grain of salt.
+";i:610;s:1492:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWhiteHouse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWhiteHouse'>The White House</a> is pretty damn fancy, though its size comes more from the fact that it's also full of a lot of office space for the President's staff than the residential part. Still, the Executive Residence&#8212;the middle part with the staterooms and so on where the President lives&#8212;is big and fancy enough to qualify. However, it's substantially smaller than most other official residences of heads of state and government&#8212;most private mansions are larger than the Residence, and the parts that are actually exclusively the President's (the private apartments on the second floor) amount to little more than a moderately large three-bedroom penthouse over a building open to the public and otherwise given over to areas for public entertaining.<span class="notelabel" onclick="togglenote('note1x08w');"><sup>note&nbsp;</sup></span><span id="note1x08w" class="inlinefolder" isnote="true" onclick="togglenote('note1x08w');" style="cursor:pointer;font-size:smaller;display:none;">There is also a small private area in the basement, for a bowling alley and a small movie theater.</span> On one hand, this is remarkable, considering that the United States is the world's richest, most powerful country; on the other hand, it's not terribly remarkable, given the egalitarian sensibilities of most Americans.
+";i:611;s:644:"<ul ><li> As an example of Americans' schizophrenic attitude regarding things of this kind, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThomasJefferson' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThomasJefferson'>Thomas Jefferson</a> thought that the White House was <em>too big</em> when he moved in in 1801, calling it "big enough for two emperors, one pope, and the grand lama in the bargain." And then he conducted the first expansion of the White House, building the colonnades that now connect the Residence to the East and West Wings. (They were originally designed to disguise the laundry and stables).
+";i:612;s:535:"</li></ul></li><li> "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GratuitousSpanish' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GratuitousSpanish'>La Cuesta Encantada</a>" ("The Enchanted Hill"), a gigantic, highly-eclectic house built by William Randolph Hearst in San Simeon, California, often called the "Hearst Castle" because of its size and some of its architectural features. Hearst being the obvious basis for Kane in <em>Citizen Kane</em>, it's pretty clear that Xanadu is based on this place.
+";i:613;s:182:"</li><li> The Ottoman Empire's Topkapi Palace, which functioned as a seat of government as well as the personal residence of rulers, and as a result was a huge complex of buildings.
+";i:614;s:17:"</li></ul></div>
+";i:615;s:14:"<p></p><hr />
+";i:616;s:3067:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BigFancyCastle">Big Fancy Castle</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BuildingTropes">Building Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BigLabyrinthineBuilding">Big Labyrinthine Building</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BedlamHouse">Bedlam House</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/IndexOfGothicHorrorTropes">Index of Gothic Horror Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BoardingSchoolOfHorrors">Boarding School of Horrors</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BigFancyCastle">Big Fancy Castle</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/LuxuryTropes">Luxury Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CityOfGold">City of Gold</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BegoneBribe">Begone Bribe</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes">Money Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BrandNamesAreBetter">Brand Names Are Better</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BigFancyCastle">Big Fancy Castle</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BiggerIsBetter">Bigger Is Better</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BigLabyrinthineBuilding">Big Labyrinthine Building</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BigFancyCastle">Big Fancy Castle</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings">Settings</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BiggerOnTheInside">Bigger on the Inside</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:617;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:618;s:10:"<p> </p>
+";i:619;s:10:"<center>
+";i:620;s:2:"
+";i:621;s:24:"<!-- med rectangle -->
+";i:622;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:623;s:33:"<script type='text/javascript'>
+";i:624;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:625;s:11:"</script>
+";i:626;s:8:"</div>
+";i:627;s:2:"
+";i:628;s:11:"</center>
+";i:629;s:24:"</td><!-- wikibody -->
+";i:630;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:631;s:7:"</td>
+";i:632;s:7:"</tr>
+";i:633;s:10:"</table>
+";i:634;s:22:"<!--PageFooterFmt-->
+";i:635;s:77:"<div class="alt_title" style="font-size:x-small;text-align:center;" ></div>
+";i:636;s:10:"<center>
+";i:637;s:44:"<table style="width:606px;margin:0 auto;">
+";i:638;s:7:"	<tr>
+";i:639;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:640;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:641;s:262:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigFancyHouse?action=edit'> edit page</a></div></div></td>
+";i:642;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:643;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:644;s:8:"	</tr>
+";i:645;s:10:"</table>
+";i:646;s:11:"</center>
+";i:647;s:21:"<div id='wikifoot'>
+";i:648;s:27:"    <div class='footnav'>
+";i:649;s:2:"
+";i:650;s:14:"			 <center>
+";i:651;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:652;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:653;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:654;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:655;s:15:"				</center>
+";i:656;s:2:"
+";i:657;s:29:"    </div><!-- wikifoot -->
+";i:658;s:23:"<!--/PageFooterFmt-->
+";i:659;s:12:"72276<br/>
+";i:660;s:3:"0
+";i:661;s:8:"</div>
+";i:662;s:26:"</div><!-- container -->
+";i:663;s:2:"
+";i:664;s:9:"</body>
+";i:665;s:21:"<!--ScriptInsert-->
+";i:666;s:9:"</html>
+";}}

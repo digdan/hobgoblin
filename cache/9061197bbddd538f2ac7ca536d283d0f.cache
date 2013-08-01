@@ -1,0 +1,599 @@
+a:2:{i:0;i:1377888560;i:1;a:598:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:67:"<title>Miss Conception - Television Tropes &amp; Idioms  </title>
+";i:5;s:133:"<meta name="Description" content="The Miss Conception trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:2:"
+";i:25;s:10:"</style>
+";i:26;s:2:"
+";i:27;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:28;s:33:"<script type="text/javascript">
+";i:29;s:26:"  var _gaq = _gaq || [];
+";i:30;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:31;s:34:"  _gaq.push(['_trackPageview']);
+";i:32;s:2:"
+";i:33;s:17:"  (function() {
+";i:34;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:35;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:36;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:37;s:9:"  })();
+";i:38;s:2:"
+";i:39;s:32:"	function subpage(sel, title){
+";i:40;s:4:"		
+";i:41;s:40:"		var namespce = ""+getselection(sel);
+";i:42;s:34:"		if(namespce.trim()=="")return;
+";i:43;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:44;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:45;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:46;s:29:"		window.location.href=url;
+";i:47;s:4:"	}
+";i:48;s:32:"	function p5(groupname,title){
+";i:49;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:50;s:4:"	}
+";i:51;s:27:"	function togglenote(id){
+";i:52;s:23:"		var ele=object(id);
+";i:53;s:34:"		var state = ele.style.display;
+";i:54;s:49:"		if(state=='none') ele.style.display='inline';
+";i:55;s:48:"		if(state=='inline')ele.style.display='none';
+";i:56;s:4:"	}
+";i:57;s:35:"	var googletag = googletag || {};
+";i:58;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:59;s:16:"	(function() {
+";i:60;s:47:"	var gads = document.createElement('script');
+";i:61;s:21:"	gads.async = true;
+";i:62;s:33:"	gads.type = 'text/javascript';
+";i:63;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:64;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:65;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:66;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:67;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:68;s:8:"	})();
+";i:69;s:2:"
+";i:70;s:34:"	googletag.cmd.push(function() {
+";i:71;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:73;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:74;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:75;s:45:"		googletag.pubads().enableSingleRequest();
+";i:76;s:31:"		googletag.enableServices();
+";i:77;s:6:"	});
+";i:78;s:2:"
+";i:79;s:11:"</script>
+";i:80;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:81;s:2:"
+";i:82;s:9:"</head>
+";i:83;s:8:"<body>
+";i:84;s:40:"<div class="container" id="container">
+";i:85;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:86;s:6:"<tr>
+";i:87;s:46:"<td style="width:166px;vertical-align:top;">
+";i:88;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:89;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:90;s:38:"<g:plusone size="small"></g:plusone>
+";i:91;s:2:"
+";i:92;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:93;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:94;s:6:"<ul>
+";i:95;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:96;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:97;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:98;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:99;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:100;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:101;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:102;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:103;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:104;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:105;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:106;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:107;s:7:"</ul>
+";i:108;s:8:"</div>
+";i:109;s:2:"
+";i:110;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:111;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:112;s:2:"
+";i:113;s:185:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','MissConception');">send request</button><hr/></div>
+";i:114;s:2:"
+";i:115;s:326:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="MissConception" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:116;s:2:"
+";i:117;s:51:"<div style="font-size:small;text-align:center;" >
+";i:118;s:30:"Find recent edits by troper:
+";i:119;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:120;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:121;s:8:"</div>
+";i:122;s:7:"<hr/>
+";i:123;s:7:"<ul>	
+";i:124;s:4:"		
+";i:125;s:7:"<hr/>
+";i:126;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:127;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:128;s:63:"		<input type="hidden" name="title" value="MissConception" />
+";i:129;s:54:"		This article needs some moderator assistance with:
+";i:130;s:9:"		<br/>
+";i:131;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:132;s:9:"		<br/>
+";i:133;s:108:"		<span style="color:chocolate;">Note:</span> This page has already been marked for mature audiences.<br/>
+";i:134;s:34:"		<p style="text-align:center;">
+";i:135;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:136;s:8:"		</p>
+";i:137;s:34:"		<p style="text-align:center;">
+";i:138;s:48:"			<input type="submit" value="send report" />
+";i:139;s:8:"		</p>
+";i:140;s:11:"		</form>
+";i:141;s:7:"<hr/>
+";i:142;s:6:"<ul>
+";i:143;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:144;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:145;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:146;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:147;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:148;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:149;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:150;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:151;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:152;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:153;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:154;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:155;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:156;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:157;s:143:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.MissConception'>Referral Count for This Page</a></li>
+";i:158;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:159;s:118:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=MissConception'>Article Relationships</a></li> -->
+";i:160;s:104:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.MissConception'>Folderize</a></li>
+";i:161;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:162;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:163;s:7:"</ul>
+";i:164;s:8:"	<hr/>
+";i:165;s:6:"<ul>
+";i:166;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:167;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:168;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:169;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:170;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:171;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:172;s:7:"</ul>
+";i:173;s:7:"<hr/>
+";i:174;s:2:"
+";i:175;s:8:"</div>
+";i:176;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:177;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:178;s:8:"		<ul>
+";i:179;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:180;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:181;s:9:"		</ul>
+";i:182;s:8:"</div>
+";i:183;s:10:"<center>
+";i:184;s:34:"		<div style="margin-top:4px;">	
+";i:185;s:6:"			 
+";i:186;s:49:"<!-- Casale Media: 160x600, 120x600 (Tower) -->
+";i:187;s:33:"<script type="text/javascript">
+";i:188;s:32:"var CasaleArgs = new Object();
+";i:189;s:25:"CasaleArgs.version = 2;
+";i:190;s:29:"CasaleArgs.adUnits = "5,3";
+";i:191;s:31:"CasaleArgs.casaleID = 120256;
+";i:192;s:11:"</script>
+";i:193;s:88:"<script type="text/javascript" src="http://js.casalemedia.com/casaleJTag.js"></script>
+";i:194;s:24:"<!-- DO NOT MODIFY -->
+";i:195;s:2:"
+";i:196;s:11:"		</div>	
+";i:197;s:10:"		<div>	
+";i:198;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:199;s:6:"		 	
+";i:200;s:4:"		
+";i:201;s:4:"		
+";i:202;s:10:"		</div>
+";i:203;s:108:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MissConception">Main</a><br/>
+";i:204;s:9:"		<div>
+";i:205;s:10:"		</div>
+";i:206;s:36:"		<div style="font-size:x-small;">
+";i:207;s:11:"				<hr/>
+";i:208;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:209;s:14:"				<p> </p>
+";i:210;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:211;s:13:"				<p></p>
+";i:212;s:11:"				<ul >
+";i:213;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:214;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:215;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:216;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:217;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:219;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:220;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:221;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:222;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:223;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:224;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:225;s:11:"				</li>
+";i:226;s:11:"				</ul>
+";i:227;s:13:"				<p></p>
+";i:228;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:229;s:13:"				<p></p>
+";i:230;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:231;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:232;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:233;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:234;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:235;s:6:"				
+";i:236;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:237;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:238;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:239;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:240;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:241;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:242;s:6:"				
+";i:243;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:244;s:16:"				</li></ul>
+";i:245;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:246;s:13:"				<p></p>
+";i:247;s:11:"				<ul >
+";i:248;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:249;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:250;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:251;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:252;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:253;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:254;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:255;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:256;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:257;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:258;s:6:"				
+";i:259;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:260;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:261;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:262;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:263;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:264;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:265;s:6:"				
+";i:266;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:267;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:268;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:269;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:270;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:271;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:272;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:273;s:11:"				</li>
+";i:274;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:275;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:276;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:277;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:278;s:6:"				
+";i:279;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:280;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:281;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:282;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:283;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:284;s:16:"				</li></ul>
+";i:285;s:6:"				
+";i:286;s:13:"				<p></p>
+";i:287;s:39:"				<strong>Other Categories</strong>
+";i:288;s:13:"				<p></p>
+";i:289;s:10:"				<ul>
+";i:290;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:291;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:292;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:293;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:294;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:295;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:296;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:297;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:298;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:299;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:300;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:301;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:302;s:11:"				</ul>
+";i:303;s:11:"		</div>	
+";i:304;s:11:"</center>
+";i:305;s:2:"
+";i:306;s:30:"</div> <!-- wikileftpage -->
+";i:307;s:7:"</td>
+";i:308;s:20:"<td id='wikibody'>
+";i:309;s:2:"
+";i:310;s:21:"<!--PageTitleFmt-->
+";i:311;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:312;s:12:"    		<tr>
+";i:313;s:38:"    		<td id="wikicmds" align="top">
+";i:314;s:8:"    		
+";i:315;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:316;s:45:"    				<tr style="vertical-align:middle;">
+";i:317;s:31:"    					<td align="center" >
+";i:318;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:319;s:16:"    					</td>
+";i:320;s:15:"    				<td >
+";i:321;s:37:"    					<div style="width:400px;">
+";i:322;s:28:"                  <center>
+";i:323;s:27:"                  <table>
+";i:324;s:24:"                  <tr>
+";i:325;s:24:"                  <td>
+";i:326;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:327;s:27:"                    <div>
+";i:328;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:329;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:330;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:331;s:64:"                      <input type="text" name="q" size="31" />
+";i:332;s:28:"                    </div>
+";i:333;s:27:"                  </form>
+";i:334;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:335;s:25:"                  </td>
+";i:336;s:24:"                  <td>
+";i:337;s:46:"                  <div class="buttonframe" >
+";i:338;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:339;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:340;s:26:"                  </div>
+";i:341;s:25:"                  </div
+";i:342;s:25:"                  </td>
+";i:343;s:25:"                  </tr>
+";i:344;s:28:"                  </table>
+";i:345;s:29:"                  </center>
+";i:346;s:17:"    					</div>
+";i:347;s:15:"    				</td>
+";i:348;s:15:"    				</tr>
+";i:349;s:16:"    		</table>
+";i:350;s:8:"    		
+";i:351;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:352;s:10:"    				
+";i:353;s:27:"    				<tr valign="top">
+";i:354;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:355;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:356;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:357;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:358;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:359;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:360;s:15:"    				</tr>
+";i:361;s:10:"    				
+";i:362;s:10:"    				
+";i:363;s:8:"    		
+";i:364;s:16:"    		</table>
+";i:365;s:8:"    		
+";i:366;s:28:"    		<div id="wikilogo" >
+";i:367;s:16:"    		<center>
+";i:368;s:2:"
+";i:369;s:22:"<!-- leaderboard -->
+";i:370;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:371;s:33:"<script type='text/javascript'>
+";i:372;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:373;s:11:"</script>
+";i:374;s:8:"</div>
+";i:375;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:376;s:28:"    					<tr valign="top">
+";i:377;s:224:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'MissConception');" autocomplete="off"  style="width:50px;"><option> </option><option value="Main">Main</option></select></td>
+";i:378;s:269:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MissConception?action=source" >source</a></div></div></td>
+";i:379;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:380;s:270:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.MissConception">history</a></div></div></td>
+";i:381;s:272:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MissConception?action=edit'> edit page</a></div></div></td>
+";i:382;s:268:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/MissConception" >related</a></div></div></td>
+";i:383;s:38:"    							<td valign="middle"></td>
+";i:384;s:16:"    					</tr>
+";i:385;s:18:"    				</table>
+";i:386;s:10:"    				
+";i:387;s:35:"    				<div id="watchmsg"></div>
+";i:388;s:18:"    			</center>
+";i:389;s:13:"    		</td>
+";i:390;s:12:"     </tr>
+";i:391;s:6:"    
+";i:392;s:11:"    	<tr>
+";i:393;s:39:"    		<td id="wikititle" colspan="2">
+";i:394;s:40:"    				<div class="namespacebuttons">
+";i:395;s:720:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments"  style="border-width:2px;border-color:silver;margin-right:2px;" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.MissConception" >&nbsp;Discussion </a></li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=MissConception" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/MissConception" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:396;s:16:"    				</div>
+";i:397;s:26:"    				<!--RepairBug-->
+";i:398;s:10:"    				
+";i:399;s:34:"    				<div class='pagetitle'> 
+";i:400;s:42:"    						  <span>Miss Conception</span>
+";i:401;s:16:"    				</div>
+";i:402;s:11:"    				 
+";i:403;s:13:"    		</td>
+";i:404;s:12:"    	</tr>
+";i:405;s:10:"</table>
+";i:406;s:2:"
+";i:407;s:16:"<!--PageText-->
+";i:408;s:20:"<div id='wikitext'>
+";i:409;s:683:"<div class='indent'><strong>Calvin:</strong> Dad, how do people make babies? <br /><strong>Dad:</strong> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LiesToChildren' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LiesToChildren'>Most people just go to Sears, buy the kit, and follow the assembly instructions</a>. <br /><strong>Calvin:</strong> I came from <strong>Sears??</strong> <br /><strong>Dad:</strong> No, <em>you</em> were <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WellDoneSonGuy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WellDoneSonGuy'>a blue light special at K-Mart, almost as good, and a lot cheaper.</a>
+";i:410;s:225:"<div class='indent'>&#8212; <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicStrip/CalvinAndHobbes' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicStrip/CalvinAndHobbes'>Calvin And Hobbes</a></em>
+";i:411;s:142:"</div></div><p></p>A character has received information that is rather inaccurate regarding where babies come from. This occurs in two forms.
+";i:412;s:24:"<p></p><h2> Type I</h2>
+";i:413;s:1409:"<p></p>A character, typically young, or a bit of a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDitz' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDitz'>ditz</a> if older, worries they are or might be pregnant or that they have or might have gotten someone else pregnant. The only problem is that they haven't actually engaged in sex. Perhaps they failed their biology class (or never took one, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TeenPregnancy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TeenPregnancy'>or at least haven't gotten to that unit yet</a>) and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheIngenue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheIngenue'>did not know</a> that what they did could not result in anything more than a salty after-taste. Maybe they were raised very puritanically and think you can get babies from kissing, or maybe they just believe that anything with what sounds like "sex" (like "saxophone") in the title is equally likely to get you pregnant. For comic effect it could be a little girl whose parents chose their metaphors poorly during <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheTalk' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheTalk'>The Talk</a> and thinks you can get pregnant from bee stings or flower pollen.
+";i:414;s:25:"<p></p><h2> Type II</h2>
+";i:415;s:1749:"<p></p>A character actually is pregnant or got someone pregnant but is surprised or shocked because they believe they couldn't have because of some Old Wives' Tale (well, more like a Young Maiden's tale; the Old Wives <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CloserToEarth' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CloserToEarth'>tend to be more knowledgeable</a> in these matters) such as "You're OK if you do it standing up" or "You won't get pregnant your first time" or "Do some jumping jacks and take some aspirin." Sometimes played for comedy, sometimes played for drama, sometimes played for angst, sometimes the Old Wives themselves might show up in the script casting <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AllOfTheOtherReindeer' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AllOfTheOtherReindeer'>looks of disapproval</a> about her lack of knowledge about one of the most basic points of womanhood. This Old Wife/Miss Conception dynamic could be part of a larger <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CloserToEarth' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CloserToEarth'>Closer to Earth</a>/<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VirginityMakesYouStupid' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VirginityMakesYouStupid'>Virginity Makes You Stupid</a> comparison. Aside from this angle, guys in this mess don't get much in the way of a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DoubleStandard' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DoubleStandard'>Double Standard</a>, but more focus may be made on the fact that they "got a girl in trouble."
+";i:416;s:1139:"<p></p>Not to be confused with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ButICantBePregnant' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ButICantBePregnant'>But I Can't Be Pregnant!</a>, where there is normally a really good reason they shouldn't get pregnant (vasectomy, hostile uterus, slow sperm, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MisterSeahorse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MisterSeahorse'>being male</a>), while <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ButWeUsedACondom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ButWeUsedACondom'>But We Used a Condom</a> can be related in two ways: either the users didn't know the basics of how to use a condom, or didn't know about the lack of 100% effectiveness of condoms (although in truth this is normally due to the former). The trope can also be used to justify the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawOfInverseFertility' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawOfInverseFertility'>Law of Inverse Fertility</a>.
+";i:417;s:14:"<p></p><hr />
+";i:418;s:18:"<h1>Examples</h1>
+";i:419;s:122:"<p></p><div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:420;s:23:"<p></p><h2>Type I</h2>
+";i:421;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp;Advertising&nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:422;s:319:"<ul ><li> In a recent Super Bowl ad, a father is explaining to the young son that there is a planet where all babies come from and their journey takes nine months to get to Earth. When the boy starts saying that one of his friends told him that babies are made when mommies and daddies get... PLAY "Wheels on the Bus!"
+";i:423;s:17:"</li></ul></div>
+";i:424;s:193:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp;Anime &amp; Manga&nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:425;s:332:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/LightNovel/AriaTheScarletAmmo' title='http://tvtropes.org/pmwiki/pmwiki.php/LightNovel/AriaTheScarletAmmo'>Aria The Scarlet Ammo</a></em>, Aria's father apparently told her that she would get pregnant if she kissed, which leads to this in episode 6:
+";i:426;s:194:"<div class='indent'><strong>Aria:</strong> We did kiss but it's okay, I didn't get pregnant! <br />(<em>later</em>) <br /><strong>Aria:</strong> ... daddy said I would get pregnant if I kissed.
+";i:427;s:588:"</div></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/YakitateJapan' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/YakitateJapan'>Yakitate!! Japan</a></em> has a rare example of the first use involving a male: Kai Suwabara, a genius when it comes to swordsmanship and bread-making, is apparently a complete dunce when it comes to biology, as he was easily led to believe that he had impregnated his girlfriend just by hugging her. He then yells at her to stop hugging him so that she will not get MORE pregnant. He really is absolutely clueless.
+";i:428;s:17:"</li></ul></div>
+";i:429;s:201:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp;Films &#8212; Live-Action&nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:430;s:838:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Apocalypto' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Apocalypto'>Apocalypto</a></em> has a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FunnyBackgroundEvent' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FunnyBackgroundEvent'>background gag</a> where, just before everything goes to hell, Jaguar Paw's brother is complaining that he still hasn't managed to impregnate his wife, even though they have sex constantly. Fed up with the complaints, his father gives him a "fertility herb" to rub on his privates just before the act. Thirty seconds later, the brother runs out of his tent in pain and dunks his burning genitals in water. His wife follows... and starts drinking water to quench her burning <em>mouth.</em>
+";i:431;s:480:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Mermaids' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Mermaids'>Mermaids</a></em>, a 1990 film starring <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Cher' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Cher'>Cher</a>. The older daughter Charlotte thought she could get pregnant just by kissing a guy. She went to a gynaecologist. Embarrassment in spades ensued.
+";i:432;s:402:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/NowAndThen' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/NowAndThen'>Now And Then</a></em>. The girls have a conversation where at first this seems to the case. Especially believable due to Chrissy's mother, who is either a sexaphobe or just overly concerned about her daughter growing up and learning about sex.
+";i:433;s:575:"<div class='indent'><strong>Teeny:</strong> Have you ever been French kissed? <br /><strong>Chrissy:</strong> Are you kidding? I don't want to get pregnant. <br /><strong>Roberta:</strong> You can't get pregnant from kissing. <br /><strong>Chrissy:</strong> I know that, beetle brain. But, it's common knowledge, if you tongue kiss a boy, he automatically thinks you'll do the deed with him. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AManIsAlwaysEager' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AManIsAlwaysEager'>It's the male curse</a>.
+";i:434;s:23:"</div></li></ul></div>
+";i:435;s:184:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp;Folklore&nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:436;s:457:"<ul ><li> An urban legend that varies from region to region describes a couple who went to their doctor because they were having trouble conceiving. The misunderstanding often comes down to them doing it wrong, or even not at all. This is invariably the result of a prudish religious and/or political environment which has left them (hilariously) ignorant. There is an overlap with Real Life, of course, as with Maoist China during the Cultural Revolution.
+";i:437;s:17:"</li></ul></div>
+";i:438;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp;Literature&nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:439;s:302:"<ul ><li> <em>The Bonesetter's Daughter</em>. Eleven-year-old Ruth is unclear on many things relating to sex, including the specific bodily fluid necessary for conception. So when she sits down on a toilet seat immediately after her male neighbor used it and didn't aim well, she fears she's pregnant.
+";i:440;s:707:"</li><li> <em>Carnal Crimes of Cremorne</em>, a ribald Edwardian novel. Caroline's maid is terrified she might be pregnant after performing oral sex on a man. After a brief <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AuthorFilibuster' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AuthorFilibuster'>Author Filibuster</a> on the need to provide decent sex education to the lower classes, Caroline informs the girl as to the truth of the matter. The girl is so grateful that she engages in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GirlOnGirlIsHot' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GirlOnGirlIsHot'>lesbian sex with her mistress</a>.
+";i:441;s:693:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/CatchTwentyTwo' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/CatchTwentyTwo'>Catch-22</a></em>. The doctor shows up with a black eye and explains it came from explaining something to a patient who demanded to know why his wife wasn't pregnant yet, claiming they'd been having sex every night. After some conversation he got the man to show him with a pair of dolls just what, exactly, they were doing every night. And had to explain as tactfully as possible why that might not be getting her pregnant. (For rather unclear reasons, the husband later came back and hit the doctor in the face.)
+";i:442;s:597:"</li><li> <em>The Duke and I</em>. Daphne wants kids, but her new husband doesn't. He's pulling out before ejaculation, but as far as she knows (because her mother neglected to give her <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheTalk' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheTalk'>The Talk</a>) they're trying to make a baby. Since pulling out isn't a reliable method of contraception (although recent studies rate it as only slightly less effective than normal, not perfect, condom use), there's a bit of crossover with the second type of this as well.
+";i:443;s:774:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheJoyLuckClub' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheJoyLuckClub'>The Joy Luck Club</a></em> has one of the mothers, Lindo, revealing through backstory that her first husband in China was unable to get her pregnant. While his mother, her mother-in-law, eager for a lot of grandchildren, accuses her of "spilling his seed," it's revealed that it's because they haven't actually had sex. This is because the husband is very young, bare minimum to be having children, and isn't emotionally ready for it yet. Used further when Lindo uses the fact that the maid is pregnant to say that the maid is the proper wife for her husband: <em>she's</em> carrying their baby.
+";i:444;s:930:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheThornBirds' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheThornBirds'>The Thorn Birds</a></em>: Meggie thinks she's dying because because she's been "bleeding from her bottom" once a month for several months. Poor Father Ralph has to explain to her that she's having her period, all the while suppressing his anger at Fee, Meggie's mother, for being so neglectful of her daughter that she's failed to explain this to her. During that same conversation, he asks her if she knows where babies come from and she cheerfully declares, "You wish for them and they grow!". She's in for quite an unpleasant surprise on her wedding night... <br /><br />The movie improves on this slightly by having her know about sex (having grown up on a farm, she's witnessed the animal behavior), but is still shocked at how painful her first experience is.
+";i:445;s:760:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Discworld' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Discworld'>Discworld</a></em>: In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/EqualRites' title='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/EqualRites'>Equal Rites</a></em>, Granny Weatherwax becomes worried she may have to have <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheTalk' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheTalk'>The Talk</a> with Esk, as the young girl has grown up around livestock and knows how they are bred, yet appears to remain unaware that this could have anything to do with <em>human</em> behavior.
+";i:446;s:749:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheEyesOfTheDragon' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheEyesOfTheDragon'>The Eyes Of The Dragon</a></em>, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ParalyzingFearOfSexuality' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ParalyzingFearOfSexuality'>somewhat sex-phobic</a> king Roland marries a much younger woman, Sasha; on their wedding night, he undresses and she asks what "that" is. The narration notes that she says it in just the right way to console Roland that she's even less experienced than he is, while a slightly different tone might have sounded mocking and made him self-conscious.
+";i:447;s:17:"</li></ul></div>
+";i:448;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp;Live-Action TV&nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:449;s:211:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/ABitOfFryAndLaurie' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/ABitOfFryAndLaurie'>A Bit of Fry and Laurie</a></em>
+";i:450;s:951:"<ul ><li> A sketch has Fry as the headmaster of a school and Laurie as Mr. Smear, an ultra-strait-laced parent outraged that his young son had been taught "gutter language" and "lies" about human reproduction in biology class &#8212; specifically, that "sexual intercourse can bring about pregnancy in the adult female," which he claims is "nothing more than a disgusting rumor put about by trendy young people in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSixties' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSixties'>The Sixties</a>." The baffled headmaster gently points out that Mr. Smear must have had sex with Mrs. Smear at some point to produce little Michael; Mr. Smear is mortally offended and says that Michael is his son "in the normal way," which, when pressed, he describes as getting married, buying a house and some furniture, and just waiting for a bit, making sure to eat three hot meals a day.
+";i:451;s:567:"</li></ul><div class='indent'><strong>Fry:</strong> Mmm. And Michael just sort of... popped up, did he? <br /><strong>Laurie:</strong> Yes, well of course it's a few years ago now, but I think one day he was... just there. <br /><strong>Fry:</strong> And at no stage did you and Mrs. Smear engage in any act of sexual intimacy? <br /><strong>Laurie:</strong> Yes, it's very hard for you to believe, isn't it? It's very hard for you to believe that there are still some of us who can bring a child into this world without recourse to cannabis and government handouts!
+";i:452;s:156:"</div><ul ><li> Inverted in a sketch with a stuffy father (Fry) asking his son (Laurie) if he was aware of the facts of life before his impending marriage.
+";i:453;s:558:"</li></ul><div class='indent'><strong>Fry:</strong> Now, I haven't raised this subject with you before, Rufus, but, erm... have you ever wondered how you came to be born? <br /><strong>Laurie:</strong> Well, I just sort of assumed, pater, you know, that one day you put your penis inside Mama's vagina and inseminated her ovaries. <br /><strong>Fry:</strong> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LiesToChildren' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LiesToChildren'>Yes, that is what we told you, isn't it...</a>
+";i:454;s:260:"</div><dl ><dt></dt><dd> It turns out that the real process <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProductPlacement' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProductPlacement'>has a lot to do with Tidyman's Carpets</a>.
+";i:455;s:295:"</dd></dl><ul ><li> In one of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VoxPops' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VoxPops'>Vox Pops</a>, a man indignantly reports that he and his wife had their first child on the NHS and had to wait nine months.
+";i:456;s:866:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Friends' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Friends'>Friends</a></em>. Monica and Chandler are going to adopt from a woman who is still pregnant with the child. They inquire about the father who she reveals is one of two choices: one golden boy and one jail hound who murdered his own father with a shovel. They (especially Chandler) worry about the father-murderer choice until Monica discovers that the act she committed with him was <em>not</em> something that could get you pregnant. We never find out what it actually is she did but from Chandler's reaction we guess it could be another explanation for the nickname "Shovelly Joe". Chandler asks Monica if it was the thing they rarely do or the thing they never do. It was the thing they never do.
+";i:457;s:164:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Glee' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Glee'>Glee</a></em>
+";i:458;s:166:"<ul ><li> Finn believes his girlfriend when she claims he got her pregnant when he ejaculated in a hot tub while they were both clothed (and not touching genitalia).
+";i:459;s:291:"</li><li> In a later episode, Brittany believes she is definitely pregnant. Her boyfriend, Artie, worries because they have had sex. However, the reason Brittany believes she is pregnant is because she saw a stork build a nest outside her window. All was well, for Brittany is a known fool.
+";i:460;s:752:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/GoodTimes' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/GoodTimes'>Good Times</a></em>. A girl in Penny's 6th grade class is pregnant. When Penny asks Wilona what is wrong with her friend (said friend is hugely showing), Wilona tells her that her friend has stomach mumps and that Penny should not play with her anymore because it's contagious. Florida is upset by this and implores Wilona to have <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheTalk' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheTalk'>The Talk</a> with Penny so that she won't be misinformed about sex and possibly become pregnant like her friend.
+";i:461;s:295:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/HappyDays' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/HappyDays'>Happy Days</a></em>. One episode features a girl who thought she was pregnant after necking with her boyfriend while wearing a bikini.
+";i:462;s:280:"</li><li> <em><a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/GimmeABreak' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/GimmeABreak'>Gimme A Break</a></em>: Youngest daughter Samantha thinks she's pregnant after she gets her first kiss from a boy.
+";i:463;s:438:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheNanny' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheNanny'>The Nanny</a></em>. Youngest child Grace thought she was pregnant due to Fran describing a soap opera character who was pregnant: they "slept together" (Grace and her male friend both took a nap in the same room), Grace was "late" (they had missed a playdate because of the nap).
+";i:464;s:408:"</li><li> <em>Victoria Wood: As Seen on TV</em>. A gag similar to the "Fry and Laurie" one, (although not taken to the same level of surreality) appears in a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Mockumentary' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Mockumentary'>Mockumentary</a> set at a hospital interviews a couple who were asking a doctor about having a child.
+";i:465;s:367:"<div class='indent'><strong>Wife:</strong> We didn't get one. Said it'd take nine months or somethin'. And the things they wanted us to do! <br /><strong>Husband:</strong> Sections of intercost, or something. <br /><strong>Wife:</strong> Sounds 'orrible. <br /><strong>Interviewer:</strong> Well, everybody does it, you know. <br /><strong>Wife:</strong> They don't!
+";i:466;s:393:"</div></li></ul><dl ><dt></dt><dd> Although earlier in the same sketch, when told test tube babies are conceived in a test tube, her reaction was "We'd never both fit in." <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PingPongNaivete' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PingPongNaivete'>Ping Pong Naïveté</a>, but a fairly consistent level of stupidity.
+";i:467;s:17:"</dd></dl></div>
+";i:468;s:183:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp;Theater&nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:469;s:577:"<ul ><li> <em>L'École des femmes</em> (<em>The School for Wives</em>) by the 17th century playwright <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/Moliere' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/Moliere'>Molière</a>. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WifeHusbandry' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WifeHusbandry'>The old Arnolphe plans to marry his ward Agnès</a>, whom he brought up to be be too innocent to make him a cuckold. As a result, the seventeen-year-old future bride is:
+";i:470;s:107:"<div class='indent'><em>...so innocent and so sincere <br />She asks if women have babies by the ear.</em>
+";i:471;s:23:"</div></li></ul></div>
+";i:472;s:189:"<p></p><div class="folderlabel" onclick="togglefolder('folder7');">&nbsp;&nbsp;&nbsp;&nbsp;Visual Novels&nbsp;</div><div id="folder7" class="folder" isfolder="true" style="display:block;">
+";i:473;s:417:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/CLANNAD' title='http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/CLANNAD'>CLANNAD</a></em>. Kappei refuses to go through with a life-saving operation, so his girlfriend Ryou tries to coerce him by claiming that she's pregnant with his child... until Kappei points out that they haven't fulfilled the necessary prerequisites.
+";i:474;s:17:"</li></ul></div>
+";i:475;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder8');">&nbsp;&nbsp;&nbsp;&nbsp;Web Comics&nbsp;</div><div id="folder8" class="folder" isfolder="true" style="display:block;">
+";i:476;s:935:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/Achewood' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/Achewood'>Achewood</a></em>. An early story arc involves Phillipe getting "married" to a flower after Lie Bot tricks him into thinking he made it pregnant by touching it (and everyone else apparently goes along with it <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ForTheLulz' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ForTheLulz'>For the Lulz</a>). Possibly a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShoutOut' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShoutOut'>Shout Out</a> to the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/KingOfTheHill' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/KingOfTheHill'>King of the Hill</a></em> episode mentioned below.
+";i:477;s:448:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/QuestionableContent' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/QuestionableContent'>Questionable Content</a></em>: Hannelore worries that she might be pregnant and suffering from morning sickness, despite being disgusted by the idea of sex. She's paranoid enough to believe that someone may have artificially inseminated her without her knowledge.
+";i:478;s:17:"</li></ul></div>
+";i:479;s:188:"<p></p><div class="folderlabel" onclick="togglefolder('folder9');">&nbsp;&nbsp;&nbsp;&nbsp;Web Original&nbsp;</div><div id="folder9" class="folder" isfolder="true" style="display:block;">
+";i:480;s:408:"<ul ><li> At least one <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Website/DarwinAwards' title='http://tvtropes.org/pmwiki/pmwiki.php/Website/DarwinAwards'>Darwin Awards</a> Honorable Mention has gone to a young couple who didn't know the proper mechanics and had to have them explained by a fertility doctor. They'd been having plenty of sex, just not the sort that leads to pregnancy.
+";i:481;s:17:"</li></ul></div>
+";i:482;s:195:"<p></p><div class="folderlabel" onclick="togglefolder('folder10');">&nbsp;&nbsp;&nbsp;&nbsp;Western Animation&nbsp;</div><div id="folder10" class="folder" isfolder="true" style="display:block;">
+";i:483;s:1415:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AmericanDad' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AmericanDad'>American Dad</a></em>. The episode "Deacon Stan, Jesus Man" played with this. Steve gets caught holding hands with his crush, Betsy, by her parents who tell her "hand holding leads to kissing which can get you pregnant". Later in the episode, Steve gives Roger CPR and wakes up the next morning <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MisterSeahorse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MisterSeahorse'>pregnant</a>. Roger, being an alien, as well as one of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AmbiguousGender' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AmbiguousGender'>Ambiguous Gender</a>, reveals that his species reproduces through mouth to mouth contact, and he accidentally <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FaceFullOfAlienWingWong' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FaceFullOfAlienWingWong'>put his spawn into Steve</a>. Later, Steve kisses his crush, Betsy, the daughter of Stan's rival, Chuck White. The next morning he wakes up no longer pregnant. It turns out he transferred the spawn to her, and she's now pregnant (and convinced that kissing is how people normally get pregnant).
+";i:484;s:904:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DrawnTogether' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DrawnTogether'>Drawn Together</a></em>. Conniving bitch Toot convinces Princess Clara she's fallen pregnant because the next thing after <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TrueLovesKiss' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TrueLovesKiss'>True Love's Kiss</a> is children. Clara submits to a tumble or three down the stairs of the "M.C. Escher room" before Foxxy Love explains to her how human biology works. Even worse, Clara had been kissed by <em>another woman</em>. Talk about <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VirginityMakesYouStupid' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VirginityMakesYouStupid'>Virginity Makes You Stupid</a>.
+";i:485;s:1293:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/KingOfTheHill' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/KingOfTheHill'>King of the Hill</a></em>. In season 3 episode 14, "The Wedding of Bobby Hill", Bobby and Luanne have an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EscalatingWar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EscalatingWar'>Escalating War</a> of pranks that culminates in Bobby replacing Luanne's birth control pills with candy, and Luanne then tricking him into believing that this alone made her pregnant and that <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShotgunWedding' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShotgunWedding'>he must now marry her</a>. Hank and Peggy apparently go along with this to teach Bobby a lesson... and <span class="spoiler" title="you can set spoilers visible by default on your profile" >then trick <em>Luanne</em> into thinking the marriage is actually legally valid, to teach <em>her</em> a lesson too</span>. They can be <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheChessmaster' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheChessmaster'>quite sneaky</a> sometimes.
+";i:486;s:206:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheSimpsons' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheSimpsons'>The Simpsons</a></em>
+";i:487;s:305:"<ul ><li> In one episode, Bart thinks he has gotten a girl pregnant by kissing and holding her hand at the same time, a case of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PingPongNaivete' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PingPongNaivete'>Ping Pong Naïveté</a>.
+";i:488;s:201:"</li><li> A deleted scene from an episode where Lisa gets a crush on Nelson has her daydreaming about them being married with a baby. Nelson presents it to her and says, "Our love created it somehow."
+";i:489;s:27:"</li></ul></li></ul></div>
+";i:490;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder11');">&nbsp;&nbsp;&nbsp;&nbsp;Real Life&nbsp;</div><div id="folder11" class="folder" isfolder="true" style="display:block;">
+";i:491;s:209:"<ul ><li> Henry VIII based his divorce from his fourth wife partly on the grounds of non-consummation. She was confused by this because he did give her a kiss goodnight and she thought that was how it worked.
+";i:492;s:240:"</li><li> Some children will make up their own explanations for how babies are made based on the limited knowledge they have of such matters, some of which are astonishingly complete &#8212; albeit totally wrong, in many if not most cases.
+";i:493;s:273:"</li><li> Sometimes a little knowledge is a dangerous thing. Such misconceptions have persisted and will probably continue to persist into adulthood for as long as there are people who either aren't good at listening, or aren't told about it (properly) in the first place.
+";i:494;s:314:"</li><li> In his biography, Tom Sullivan reported being in the junior high and fearing he got a girl pregnant after dancing with her and "getting funny feelings". After talking it over during confession, the amused priest assured him that all he had felt was the perfectly normal sensation of getting an erection.
+";i:495;s:17:"</li></ul></div>
+";i:496;s:24:"<p></p><h2>Type II</h2>
+";i:497;s:189:"<p></p><div class="folderlabel" onclick="togglefolder('folder12');">&nbsp;&nbsp;&nbsp;&nbsp;Comic Books&nbsp;</div><div id="folder12" class="folder" isfolder="true" style="display:block;">
+";i:498;s:766:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/TheSandman' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/TheSandman'>The Sandman</a></em>. The story arc, "A Game of You", Hazel got pregnant after having sex standing up, though she thought she wouldn't. Somewhat <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JustifiedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JustifiedTrope'>Justified</a> in that she's a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ButchLesbian' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ButchLesbian'>Butch Lesbian</a>, and hadn't had sex with a man before. She also thought a pregnancy test would involve killing a rabbit.
+";i:499;s:261:"</li><li> The "you can't get pregnant your first time" myth came up in <em>Troublemakers</em>. After Christine discovers this isn't true, she goes to a doctor friend to get checked out and this ultimately leads to her discovering that she isn't human any more.
+";i:500;s:17:"</li></ul></div>
+";i:501;s:189:"<p></p><div class="folderlabel" onclick="togglefolder('folder13');">&nbsp;&nbsp;&nbsp;&nbsp;Fairy Tales&nbsp;</div><div id="folder13" class="folder" isfolder="true" style="display:block;">
+";i:502;s:763:"<ul ><li> Ever wonder why Rapunzel made such a stupid slip of the tongue and happened to mention <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrinceCharming' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrinceCharming'>Prince Charming</a> while talking to Mother Gothel (the witch) in the Grimm Brothers' version? In the original story, her slip of the tongue was a bit subtler: "Mother Gothel, why do you suppose it is my clothes are so tight and they don't fit me anymore?" The trope's rather justified in this case, as she'd been locked up in a tower and quite literally needed to get out more. Note also that even in the Grimms' version, she later gives birth to twins, which certainly were <em>not</em> brought in by the stork.
+";i:503;s:17:"</li></ul></div>
+";i:504;s:203:"<p></p><div class="folderlabel" onclick="togglefolder('folder14');">&nbsp;&nbsp;&nbsp;&nbsp;Films &#8212; Live-Action&nbsp;</div><div id="folder14" class="folder" isfolder="true" style="display:block;">
+";i:505;s:734:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayedForLaughs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayedForLaughs'>Played for Laughs</a> in the Spanish film <em><a class='urllink' href='http://www.imdb.com/title/tt0066746/'>Adiós, Cigüeña, Adiós<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a></em>, in which Arturo manages to get Paloma pregnant from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheirFirstTime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheirFirstTime'>Their First Time</a>. Paloma's somewhat older and wiser friend Mamen is the one who breaks the news to him:
+";i:506;s:439:"<div class='indent'><strong>Arturo:</strong> Pero, ¿cómo es posible? ["But how is that possible?"] <br /><strong>Mamen:</strong> ¿Cómo es posible? Y cuando os quedasteis solos en la cabaña, ¿qué? ["How is it possible? When you two stayed out there alone with each other in the cabin, how else?"] <br /><strong>Arturo:</strong> ¿Solo por aquello? ["Just because of that?"] <br /><strong>Mamen:</strong> ¡Anda claro! ["Well, <em>duh!</em>"]
+";i:507;s:23:"</div></li></ul></div>
+";i:508;s:183:"<p></p><div class="folderlabel" onclick="togglefolder('folder15');">&nbsp;&nbsp;&nbsp;&nbsp;Jokes&nbsp;</div><div id="folder15" class="folder" isfolder="true" style="display:block;">
+";i:509;s:495:"<ul ><li> There is an old joke about an old lady who house calls a veterinarian to inspect her female cat. She says that the cat suddenly became pregnant, despite never being allowed any contact with males. While the doctor inspects her, a large male cat suddenly enters the room. The doctor says "What are surprised at, exactly? Here, you've got a tomcat living with you." The lady looks at him in horror and says: "You should be <em>ashamed</em>, doctor. That's her <strong>brother</strong>!"
+";i:510;s:17:"</li></ul></div>
+";i:511;s:188:"<p></p><div class="folderlabel" onclick="togglefolder('folder16');">&nbsp;&nbsp;&nbsp;&nbsp;Literature&nbsp;</div><div id="folder16" class="folder" isfolder="true" style="display:block;">
+";i:512;s:110:"<ul ><li> <em>A Dangerous Fortune</em> by Ken Follett's. Happens with Maisie Robinson "It was just one f*ck!"
+";i:513;s:496:"</li><li> <em>Murdering Ministers</em> by Alan Beechy. A thirteen-year-old girl whose highly religious parents never taught her about reproduction falls pregnant when she lets a close friend have sex with her, since he seemed so keen on it. Having a vague notion that "babies are a gift from God to a man and a woman", she concludes that her pregnancy is God's way of telling her she should be with her youth minister whom she adores. A number of misunderstandings ensue when she tells him this.
+";i:514;s:353:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheSharingKnife' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheSharingKnife'>The Sharing Knife</a></em>. Sunny tells Fawn this. She doesn't know if he was lying to get in her pants or if he actually believed it, but either way it's a costly mistake.
+";i:515;s:419:"<div class='indent'><strong>Fawn:</strong> He did say a girl couldn't be got with child the first time. <br /><strong>Dag:</strong> And you believed this? You, a country girl? <br /><strong>Fawn:</strong> I <em>said</em> I was stupid about it. I thought maybe people were different than heifers. I thought maybe Sunny knew more than me. He could hardly know less. It's not as if anybody talked about it. To me, I mean.
+";i:516;s:335:"</div></li><li> Cara in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/SwordOfTruth' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/SwordOfTruth'>Sword of Truth</a></em>, mentions a teen who believed that she became pregnant because Darken Rahl gave her a flower and did some magic on it.
+";i:517;s:1473:"</li><li> Almost <em>everybody</em> in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/EarthsChildren' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/EarthsChildren'>Earths Children</a></em> do not know about the sex/pregnancy connection. The Clan thinks that every month a totem from a female and a totem from a nearby male will fight, and if the female totem looses, the female will get pregnant. The Others believe the Earth Mother blesses females with babies. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MarySue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MarySue'>Ayla</a> is the only person who connects sex with babies. More justified than, well, pretty much every other unique discovery or technological advancement Ayla is solely responsible for; she's the only female character we meet who's spent a prolonged period totally isolated from male company, or in fact any human or Neanderthal company at all for that matter, and eventually she starts to wonder why she hasn't become pregnant. More specifically, she was brought up by the Clan with the idea that periods are from a woman's totem being injured in fighting, but not having been defeated, and she wonders why she has them still despite not having a man nearby whose totem could fight hers. She also spends more time observing animals than anyone else did, and noticed that all the female animals who gave birth had had sex first.
+";i:518;s:447:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Discworld' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Discworld'>Discworld</a></em>: Nanny Ogg knows <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DumbIsGood' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DumbIsGood'>a very nice couple</a> who managed to have several children before figuring out how they happened.
+";i:519;s:17:"</li></ul></div>
+";i:520;s:192:"<p></p><div class="folderlabel" onclick="togglefolder('folder17');">&nbsp;&nbsp;&nbsp;&nbsp;Live-Action TV&nbsp;</div><div id="folder17" class="folder" isfolder="true" style="display:block;">
+";i:521;s:535:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/AllInTheFamily' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/AllInTheFamily'>All In The Family</a></em>/<em>Archie Bunker's Place</em>. A <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VerySpecialEpisode' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VerySpecialEpisode'>Very Special Episode</a> had one of Stephanie's friends get pregnant. She thought that she couldn't get pregnant because it was her first time.
+";i:522;s:292:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Carnivale' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Carnivale'>Carnivale</a></em>. Libby tells Sophie that she can't get pregnant after her first time. She doesn't, but she certainly could have.
+";i:523;s:400:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Clueless' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Clueless'>Clueless</a></em>. There is an episode where the one-episode character, a tutor for the regulars, gets pregnant in such a situation. It's even brought up that while this girl was smart about school-things, she didn't have a clue about real life.
+";i:524;s:208:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/DegrassiJuniorHigh' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/DegrassiJuniorHigh'>Degrassi Junior High</a></em>
+";i:525;s:81:"<ul ><li> Spike thought she couldn't get pregnant her first time. She was wrong.
+";i:526;s:272:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/DegrassiTheNextGeneration' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/DegrassiTheNextGeneration'>Degrassi The Next Generation</a></em> also had this happen, this time to Manny.
+";i:527;s:198:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/That70sShow' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/That70sShow'>That '70s Show</a></em>
+";i:528;s:502:"<ul ><li> Jackie discovers she is pregnant, but she thought you couldn't get pregnant for 8 days after your period. Though, as Donna points out, she's not actually sure whether it's eight days after the <em>first</em> day of the period or eight days after the <em>last</em> day. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SubvertedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SubvertedTrope'>Subverted</a> in that it turns out she's not actually pregnant anyway.
+";i:529;s:378:"</li><li> A similar scenario appears in a later season when Kelso gets Brooke pregnant, that uses the "If you do it standing up myth." However, rather than you can't get pregnant, it's that the baby won't be a girl, according to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDitz' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDitz'>Kelso</a>.
+";i:530;s:171:"</li><li> Kelso also points out in an early episode that he likes dating Catholic School girls because they haven't had sex ed so they don't know what <em>not to do</em>.
+";i:531;s:1051:"</li></ul></li><li> The first episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheVicarOfDibley' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheVicarOfDibley'>The Vicar Of Dibley</a></em>, where Alice is pregnant with her and husband Hugo Horton's first child, she mentions that she can't be pregnant because "the hamster didn't turn blue". To her credit the title vicar lampshades it by saying, "I don't think I'm familiar with that particular pregnancy test."<span class="notelabel" onclick="togglenote('note099o8');"><sup>note&nbsp;</sup></span><span id="note099o8" class="inlinefolder" isnote="true" onclick="togglenote('note099o8');" style="cursor:pointer;font-size:smaller;display:none;">Apparently it's a traditional pregnancy test in Dibley. The woman urinates on a hamster, and if it turns blue she's pregnant. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FridgeLogic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FridgeLogic'>Make of that what you will.</a></span>
+";i:532;s:17:"</li></ul></div>
+";i:533;s:189:"<p></p><div class="folderlabel" onclick="togglefolder('folder18');">&nbsp;&nbsp;&nbsp;&nbsp;Print Media&nbsp;</div><div id="folder18" class="folder" isfolder="true" style="display:block;">
+";i:534;s:581:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Magazine/WeeklyWorldNews' title='http://tvtropes.org/pmwiki/pmwiki.php/Magazine/WeeklyWorldNews'>Weekly World News</a></em>. A story from that escaped into the wild as an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UrbanLegend' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UrbanLegend'>Urban Legend</a>: A woman sues the maker of spermicidal jelly after she gets pregnant. Then it turns out that she had used the product by <em>putting it on crackers and eating it</em>.
+";i:535;s:401:"<ul ><li> Referenced (but inverted) in an episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/House' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/House'>House</a></em>. A woman comes to him complaining of itching and smelling bad "down there." It turns out she had been using jelly... but not <em>spermicidal</em> jelly, which gave her a bacterial infection.
+";i:536;s:357:"</li></ul></li><li> An article on Urban Myths on Fertility in Chile: "I use the Chinese calendar: You won't get pregnant if you only have sex when you are 'Closed'." <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FacePalm' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FacePalm'>"Open" was when she was likely to be bleeding.</a>
+";i:537;s:17:"</li></ul></div>
+";i:538;s:185:"<p></p><div class="folderlabel" onclick="togglefolder('folder19');">&nbsp;&nbsp;&nbsp;&nbsp;Theater&nbsp;</div><div id="folder19" class="folder" isfolder="true" style="display:block;">
+";i:539;s:459:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpringAwakening' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpringAwakening'>Spring Awakening</a></em>. 14-year-old Wendla's mother tells her that, in order to have a child, she must simply love her husband with her whole heart. She is later shocked to find herself pregnant as a result of having sex with her friend, Melchior. After all, Melchior is not her husband!
+";i:540;s:17:"</li></ul></div>
+";i:541;s:188:"<p></p><div class="folderlabel" onclick="togglefolder('folder20');">&nbsp;&nbsp;&nbsp;&nbsp;Web Comics&nbsp;</div><div id="folder20" class="folder" isfolder="true" style="display:block;">
+";i:542;s:428:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/TheOrderOfTheStick' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/TheOrderOfTheStick'>The Order of the Stick</a></em>. A... <a class='urllink' href='http://www.giantitp.com/comics/oots0501.html'>divine example:<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>
+";i:543;s:594:"<div class='indent'><strong><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BoisterousBruiser' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BoisterousBruiser'>Thor</a>:</strong> It's not my fault! She never told me she was a <strong>fertility</strong> goddess! <br /><strong><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker'>Loki</a>:</strong> She has flowers in her hair and bluebirds singing around her head. Who did you think she was, the bringer of pestilence?
+";i:544;s:493:"</div></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/SomethingPositive' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/SomethingPositive'>Something Positive</a></em>. Mike is shocked when Tamara gets pregnant, since "I always pull out before I come!" Cue the rest of the cast yelling at him for his stupidity. Withdrawal is not the worst form of birth control for a couple in a committed relationship, but it's definitely not foolproof, either.
+";i:545;s:17:"</li></ul></div>
+";i:546;s:14:"<p></p><hr />
+";i:547;s:2517:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MamasBabyPapasMaybe">Mama's Baby, Papa's Maybe</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PregnancyTropes">Pregnancy Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MistakenForPregnant">Mistaken for Pregnant</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MilitaryBrat">Military Brat</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Youngsters">Youngsters</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MouthyKid">Mouthy Kid</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MisguidedMissile">Misguided Missile</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/JustForPun">Just for Pun</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MobileSuitHuman">Mobile Suit Human</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MinorCrimeRevealsMajorPlot">Minor Crime Reveals Major Plot</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots">Plots</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MissionFromGod">Mission from God</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MillsAndBoonProse">Mills and Boon Prose</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SexTropes">Sex Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheModestOrgasm">The Modest Orgasm</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:548;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:549;s:10:"<p> </p>
+";i:550;s:10:"<center>
+";i:551;s:2:"
+";i:552;s:24:"<!-- med rectangle -->
+";i:553;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:554;s:33:"<script type='text/javascript'>
+";i:555;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:556;s:11:"</script>
+";i:557;s:8:"</div>
+";i:558;s:2:"
+";i:559;s:11:"</center>
+";i:560;s:24:"</td><!-- wikibody -->
+";i:561;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:562;s:7:"</td>
+";i:563;s:7:"</tr>
+";i:564;s:10:"</table>
+";i:565;s:22:"<!--PageFooterFmt-->
+";i:566;s:77:"<div class="alt_title" style="font-size:x-small;text-align:center;" ></div>
+";i:567;s:10:"<center>
+";i:568;s:44:"<table style="width:606px;margin:0 auto;">
+";i:569;s:7:"	<tr>
+";i:570;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:571;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:572;s:263:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MissConception?action=edit'> edit page</a></div></div></td>
+";i:573;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:574;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:575;s:8:"	</tr>
+";i:576;s:10:"</table>
+";i:577;s:11:"</center>
+";i:578;s:21:"<div id='wikifoot'>
+";i:579;s:27:"    <div class='footnav'>
+";i:580;s:2:"
+";i:581;s:14:"			 <center>
+";i:582;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:583;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:584;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:585;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:586;s:15:"				</center>
+";i:587;s:2:"
+";i:588;s:29:"    </div><!-- wikifoot -->
+";i:589;s:23:"<!--/PageFooterFmt-->
+";i:590;s:12:"49830<br/>
+";i:591;s:3:"1
+";i:592;s:8:"</div>
+";i:593;s:26:"</div><!-- container -->
+";i:594;s:2:"
+";i:595;s:9:"</body>
+";i:596;s:21:"<!--ScriptInsert-->
+";i:597;s:9:"</html>
+";}}

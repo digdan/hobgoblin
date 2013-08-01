@@ -1,0 +1,592 @@
+a:2:{i:0;i:1377889300;i:1;a:591:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:78:"<title>Misfit Mobilization Moment - Television Tropes &amp; Idioms  </title>
+";i:5;s:144:"<meta name="Description" content="The Misfit Mobilization Moment trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:2:"
+";i:25;s:10:"</style>
+";i:26;s:2:"
+";i:27;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:28;s:33:"<script type="text/javascript">
+";i:29;s:26:"  var _gaq = _gaq || [];
+";i:30;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:31;s:34:"  _gaq.push(['_trackPageview']);
+";i:32;s:2:"
+";i:33;s:17:"  (function() {
+";i:34;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:35;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:36;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:37;s:9:"  })();
+";i:38;s:2:"
+";i:39;s:32:"	function subpage(sel, title){
+";i:40;s:4:"		
+";i:41;s:40:"		var namespce = ""+getselection(sel);
+";i:42;s:34:"		if(namespce.trim()=="")return;
+";i:43;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:44;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:45;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:46;s:29:"		window.location.href=url;
+";i:47;s:4:"	}
+";i:48;s:32:"	function p5(groupname,title){
+";i:49;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:50;s:4:"	}
+";i:51;s:27:"	function togglenote(id){
+";i:52;s:23:"		var ele=object(id);
+";i:53;s:34:"		var state = ele.style.display;
+";i:54;s:49:"		if(state=='none') ele.style.display='inline';
+";i:55;s:48:"		if(state=='inline')ele.style.display='none';
+";i:56;s:4:"	}
+";i:57;s:35:"	var googletag = googletag || {};
+";i:58;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:59;s:16:"	(function() {
+";i:60;s:47:"	var gads = document.createElement('script');
+";i:61;s:21:"	gads.async = true;
+";i:62;s:33:"	gads.type = 'text/javascript';
+";i:63;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:64;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:65;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:66;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:67;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:68;s:8:"	})();
+";i:69;s:2:"
+";i:70;s:34:"	googletag.cmd.push(function() {
+";i:71;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:73;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:74;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:75;s:45:"		googletag.pubads().enableSingleRequest();
+";i:76;s:31:"		googletag.enableServices();
+";i:77;s:6:"	});
+";i:78;s:2:"
+";i:79;s:11:"</script>
+";i:80;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:81;s:2:"
+";i:82;s:9:"</head>
+";i:83;s:8:"<body>
+";i:84;s:40:"<div class="container" id="container">
+";i:85;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:86;s:6:"<tr>
+";i:87;s:46:"<td style="width:166px;vertical-align:top;">
+";i:88;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:89;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:90;s:38:"<g:plusone size="small"></g:plusone>
+";i:91;s:2:"
+";i:92;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:93;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:94;s:6:"<ul>
+";i:95;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:96;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:97;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:98;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:99;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:100;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:101;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:102;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:103;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:104;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:105;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:106;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:107;s:7:"</ul>
+";i:108;s:8:"</div>
+";i:109;s:2:"
+";i:110;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:111;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:112;s:2:"
+";i:113;s:195:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','MisfitMobilizationMoment');">send request</button><hr/></div>
+";i:114;s:2:"
+";i:115;s:336:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="MisfitMobilizationMoment" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:116;s:2:"
+";i:117;s:51:"<div style="font-size:small;text-align:center;" >
+";i:118;s:30:"Find recent edits by troper:
+";i:119;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:120;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:121;s:8:"</div>
+";i:122;s:7:"<hr/>
+";i:123;s:7:"<ul>	
+";i:124;s:4:"		
+";i:125;s:7:"<hr/>
+";i:126;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:127;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:128;s:73:"		<input type="hidden" name="title" value="MisfitMobilizationMoment" />
+";i:129;s:54:"		This article needs some moderator assistance with:
+";i:130;s:9:"		<br/>
+";i:131;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:132;s:9:"		<br/>
+";i:133;s:4:"		
+";i:134;s:34:"		<p style="text-align:center;">
+";i:135;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:136;s:8:"		</p>
+";i:137;s:34:"		<p style="text-align:center;">
+";i:138;s:48:"			<input type="submit" value="send report" />
+";i:139;s:8:"		</p>
+";i:140;s:11:"		</form>
+";i:141;s:7:"<hr/>
+";i:142;s:6:"<ul>
+";i:143;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:144;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:145;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:146;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:147;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:148;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:149;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:150;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:151;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:152;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:153;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:154;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:155;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:156;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:157;s:153:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.MisfitMobilizationMoment'>Referral Count for This Page</a></li>
+";i:158;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:159;s:128:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=MisfitMobilizationMoment'>Article Relationships</a></li> -->
+";i:160;s:114:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.MisfitMobilizationMoment'>Folderize</a></li>
+";i:161;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:162;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:163;s:7:"</ul>
+";i:164;s:8:"	<hr/>
+";i:165;s:6:"<ul>
+";i:166;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:167;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:168;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:169;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:170;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:171;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:172;s:7:"</ul>
+";i:173;s:7:"<hr/>
+";i:174;s:2:"
+";i:175;s:8:"</div>
+";i:176;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:177;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:178;s:8:"		<ul>
+";i:179;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:180;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:181;s:9:"		</ul>
+";i:182;s:8:"</div>
+";i:183;s:10:"<center>
+";i:184;s:34:"		<div style="margin-top:4px;">	
+";i:185;s:5:"			
+";i:186;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:187;s:33:"<script type='text/javascript'>
+";i:188;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:189;s:109:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/MisfitMobilizationMoment");
+";i:190;s:11:"</script>
+";i:191;s:8:"</div>
+";i:192;s:2:"
+";i:193;s:11:"		</div>	
+";i:194;s:10:"		<div>	
+";i:195;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:196;s:6:"		 	
+";i:197;s:4:"		
+";i:198;s:4:"		
+";i:199;s:10:"		</div>
+";i:200;s:320:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/MisfitMobilizationMoment">Laconic</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MisfitMobilizationMoment">Main</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/PlayingWith/MisfitMobilizationMoment">PlayingWith</a><br/>
+";i:201;s:9:"		<div>
+";i:202;s:10:"		</div>
+";i:203;s:36:"		<div style="font-size:x-small;">
+";i:204;s:11:"				<hr/>
+";i:205;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:206;s:14:"				<p> </p>
+";i:207;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:208;s:13:"				<p></p>
+";i:209;s:11:"				<ul >
+";i:210;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:211;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:212;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:213;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:214;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:215;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:216;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:217;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:219;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:220;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:221;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:222;s:11:"				</li>
+";i:223;s:11:"				</ul>
+";i:224;s:13:"				<p></p>
+";i:225;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:226;s:13:"				<p></p>
+";i:227;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:228;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:229;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:230;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:231;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:232;s:6:"				
+";i:233;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:234;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:235;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:236;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:237;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:238;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:239;s:6:"				
+";i:240;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:241;s:16:"				</li></ul>
+";i:242;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:243;s:13:"				<p></p>
+";i:244;s:11:"				<ul >
+";i:245;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:246;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:247;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:248;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:249;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:250;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:251;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:252;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:253;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:254;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:255;s:6:"				
+";i:256;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:257;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:258;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:259;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:260;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:261;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:262;s:6:"				
+";i:263;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:264;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:265;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:266;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:268;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:269;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:270;s:11:"				</li>
+";i:271;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:272;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:273;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:274;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:275;s:6:"				
+";i:276;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:278;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:279;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:280;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:281;s:16:"				</li></ul>
+";i:282;s:6:"				
+";i:283;s:13:"				<p></p>
+";i:284;s:39:"				<strong>Other Categories</strong>
+";i:285;s:13:"				<p></p>
+";i:286;s:10:"				<ul>
+";i:287;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:288;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:289;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:290;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:291;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:292;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:293;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:294;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:295;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:296;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:297;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:298;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:299;s:11:"				</ul>
+";i:300;s:11:"		</div>	
+";i:301;s:11:"</center>
+";i:302;s:2:"
+";i:303;s:30:"</div> <!-- wikileftpage -->
+";i:304;s:7:"</td>
+";i:305;s:20:"<td id='wikibody'>
+";i:306;s:2:"
+";i:307;s:21:"<!--PageTitleFmt-->
+";i:308;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:309;s:12:"    		<tr>
+";i:310;s:38:"    		<td id="wikicmds" align="top">
+";i:311;s:8:"    		
+";i:312;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:313;s:45:"    				<tr style="vertical-align:middle;">
+";i:314;s:31:"    					<td align="center" >
+";i:315;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:316;s:16:"    					</td>
+";i:317;s:15:"    				<td >
+";i:318;s:37:"    					<div style="width:400px;">
+";i:319;s:28:"                  <center>
+";i:320;s:27:"                  <table>
+";i:321;s:24:"                  <tr>
+";i:322;s:24:"                  <td>
+";i:323;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:324;s:27:"                    <div>
+";i:325;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:326;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:327;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:328;s:64:"                      <input type="text" name="q" size="31" />
+";i:329;s:28:"                    </div>
+";i:330;s:27:"                  </form>
+";i:331;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:332;s:25:"                  </td>
+";i:333;s:24:"                  <td>
+";i:334;s:46:"                  <div class="buttonframe" >
+";i:335;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:336;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:337;s:26:"                  </div>
+";i:338;s:25:"                  </div
+";i:339;s:25:"                  </td>
+";i:340;s:25:"                  </tr>
+";i:341;s:28:"                  </table>
+";i:342;s:29:"                  </center>
+";i:343;s:17:"    					</div>
+";i:344;s:15:"    				</td>
+";i:345;s:15:"    				</tr>
+";i:346;s:16:"    		</table>
+";i:347;s:8:"    		
+";i:348;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:349;s:10:"    				
+";i:350;s:27:"    				<tr valign="top">
+";i:351;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:352;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:353;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:354;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:355;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:356;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:357;s:15:"    				</tr>
+";i:358;s:10:"    				
+";i:359;s:10:"    				
+";i:360;s:8:"    		
+";i:361;s:16:"    		</table>
+";i:362;s:8:"    		
+";i:363;s:28:"    		<div id="wikilogo" >
+";i:364;s:16:"    		<center>
+";i:365;s:2:"
+";i:366;s:22:"<!-- leaderboard -->
+";i:367;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:368;s:33:"<script type='text/javascript'>
+";i:369;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:370;s:11:"</script>
+";i:371;s:8:"</div>
+";i:372;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:373;s:28:"    					<tr valign="top">
+";i:374;s:322:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'MisfitMobilizationMoment');" autocomplete="off"  style="width:50px;"><option> </option><option value="Laconic">Laconic</option><option value="Main">Main</option><option value="PlayingWith">PlayingWith</option></select></td>
+";i:375;s:279:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MisfitMobilizationMoment?action=source" >source</a></div></div></td>
+";i:376;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:377;s:280:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.MisfitMobilizationMoment">history</a></div></div></td>
+";i:378;s:282:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MisfitMobilizationMoment?action=edit'> edit page</a></div></div></td>
+";i:379;s:278:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/MisfitMobilizationMoment" >related</a></div></div></td>
+";i:380;s:38:"    							<td valign="middle"></td>
+";i:381;s:16:"    					</tr>
+";i:382;s:18:"    				</table>
+";i:383;s:10:"    				
+";i:384;s:35:"    				<div id="watchmsg"></div>
+";i:385;s:18:"    			</center>
+";i:386;s:13:"    		</td>
+";i:387;s:12:"     </tr>
+";i:388;s:6:"    
+";i:389;s:11:"    	<tr>
+";i:390;s:39:"    		<td id="wikititle" colspan="2">
+";i:391;s:40:"    				<div class="namespacebuttons">
+";i:392;s:1154:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.MisfitMobilizationMoment" >&nbsp;Discussion </a></li> <li class="namespace_li PlayingWith" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/PlayingWith/MisfitMobilizationMoment" class="textcolor">&nbsp;Playing&nbsp;With&nbsp;</a> </li> <li class="namespace_li Laconic" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/MisfitMobilizationMoment" class="textcolor">&nbsp;Laconic&nbsp;</a> </li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=MisfitMobilizationMoment" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/MisfitMobilizationMoment" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:393;s:16:"    				</div>
+";i:394;s:26:"    				<!--RepairBug-->
+";i:395;s:10:"    				
+";i:396;s:34:"    				<div class='pagetitle'> 
+";i:397;s:53:"    						  <span>Misfit Mobilization Moment</span>
+";i:398;s:16:"    				</div>
+";i:399;s:11:"    				 
+";i:400;s:13:"    		</td>
+";i:401;s:12:"    	</tr>
+";i:402;s:10:"</table>
+";i:403;s:2:"
+";i:404;s:16:"<!--PageText-->
+";i:405;s:20:"<div id='wikitext'>
+";i:406;s:337:"<div class="quoteright" style="width:350px;" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/WallE' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/WallE'><img src='http://static.tvtropes.org/pmwiki/pub/images/WALLE-robots-charge.jpg' class='embeddedimage' border='0' alt='' /></a></div>
+";i:407;s:231:"<div class="acaptionright" style="width:350px;" >Axiom-bots! Transform into <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadAss' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadAss'>BADASS!</a> </div>
+";i:408;s:2239:"<p></p>In almost any movie or novel with a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RagtagBunchOfMisfits' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RagtagBunchOfMisfits'>Ragtag Bunch of Misfits</a> or an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OddCouple' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OddCouple'>Odd Couple</a>, there will come a time (usually during the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkestHour' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkestHour'>Darkest Hour</a>) when they transform from a dysfunctional group of losers into a well-oiled machine. Perhaps <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheHero'>The Hero</a> or the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Leader' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Leader'>Leader</a> makes a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RousingSpeech' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RousingSpeech'>Rousing Speech</a> that rallies the troops, or the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a> has sufficiently scared everyone to stop <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AHouseDivided' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AHouseDivided'>bickering</a> and finally <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TrueCompanions' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TrueCompanions'>come together</a>. Despite their past differences and overall ineptitude, when the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MisfitMobilizationMoment' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MisfitMobilizationMoment'>Misfit Mobilization Moment</a> is reached, the members will immediately become an unstoppable <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassCrew' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassCrew'>Badass Crew</a>.
+";i:409;s:467:"<p></p>Will often lead to a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigDamnHeroes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigDamnHeroes'>Big Damn Heroes</a> moment. If done properly, this will go down in fandom history as a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMomentOfAwesome' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMomentOfAwesome'>Crowning Moment of Awesome</a>.
+";i:410;s:789:"<p></p>Visual works will usually pair this with a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThemeMusicPowerUp' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThemeMusicPowerUp'>Theme Music Power-Up</a> or crowd-pleasing <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Fanfare' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Fanfare'>Fanfare</a>, along with an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ATeamMontage' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ATeamMontage'>A-Team Montage</a> or similar <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HarbingerOfAsskicking' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HarbingerOfAsskicking'>Harbinger of Asskicking</a>.
+";i:411;s:342:"<p></p>For identification purposes, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MisfitMobilizationMoment' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MisfitMobilizationMoment'>Misfit Mobilization Moment</a> is the point when the protagonists stop hindering each other and begin working as a cohesive unit.
+";i:412;s:404:"<p></p><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MiracleRally' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MiracleRally'>Miracle Rally</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DownToTheLastPlay' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DownToTheLastPlay'>Down To The Last Play</a> are similar tropes for sports-based works.
+";i:413;s:873:"<p></p>Contrast with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LetsGetDangerous' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LetsGetDangerous'>Let's Get Dangerous</a>, where characters who were <em>already</em> skilled finally get to demonstrate their expertise. Also see <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GondorCallsForAid' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GondorCallsForAid'>Gondor Calls for Aid</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ImprovisedTraining' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ImprovisedTraining'>Improvised Training</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TeethClenchedTeamwork' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TeethClenchedTeamwork'>Teeth-Clenched Teamwork</a>.
+";i:414;s:14:"<p></p><hr />
+";i:415;s:19:"<h2>Examples:</h2>
+";i:416;s:122:"<p></p><div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:417;s:193:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp;Anime &amp; Manga&nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:418;s:1032:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/BlackLagoon' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/BlackLagoon'>Black Lagoon</a></em>, in both the Greenback Jane arc, and the Baille de la meurte. Let's face it, the fact that you can get a group of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AxCrazy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AxCrazy'>Ax Crazy</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BloodKnight' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BloodKnight'>Blood Knights</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PsychoForHire' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PsychoForHire'>Psychos For Hire</a> in the same room and have them trying to kill the same opponent counts for this trope. The fact that so many of them live in the same city and have not turned the entire city into a battlefield is a tribute to the presiding criminal orders.
+";i:419;s:1367:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadmanWonderland' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadmanWonderland'>Deadman Wonderland</a></em>, <em>everyone</em> gets this in <span class="spoiler" title="you can set spoilers visible by default on your profile" > chapter 31</span>. (You have to remember that this group consists of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BloodKnight' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BloodKnight'>Senji</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PsychoForHire' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PsychoForHire'>Minatsuki</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Pyromaniac' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Pyromaniac'>Hitari</a>, and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VillainousCrossdresser' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VillainousCrossdresser'>Chaplin</a>. The fact that they hadn't killed each other or got seriously side-tracked before they even got to Ganta is a tribute to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterDevelopment' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterDevelopment'>Character Development</a>).
+";i:420;s:420:"<ul ><li> More specifically, in the next few chapters, Chaplin and Minatsuki get their own, <span class="spoiler" title="you can set spoilers visible by default on your profile" > where they work seamlessly together to beat up a forgery.</span>. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrazyAwesome' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrazyAwesome'>Crazy Awesome</a> indeed.
+";i:421;s:398:"</li></ul></li><li> Occurs in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HetaliaBloodbath2010' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HetaliaBloodbath2010'>Hetalia Bloodbath 2010</a></em> with Iceland, Turkey, Germany, Hungary, England, Cuba, and Canada. In the end, the <em>entire world</em> gets motivated to work together in order to solve the mystery.
+";i:422;s:1805:"</li><li> Seen in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KaiketsuZorori' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KaiketsuZorori'>Kaiketsu Zorori</a></em>. When <span class="spoiler" title="you can set spoilers visible by default on your profile" >the world's about to end</span>, Zorori is quickly surrounded by several of his allies and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EnemyMine' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EnemyMine'>a few of his enemies</a> to assist in his plan for <span class="spoiler" title="you can set spoilers visible by default on your profile" >saving Earth</span>. Among the assembled: <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheRival' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheRival'>Gaon</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AllGhoulsSchool' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AllGhoulsSchool'>Youkai-sensei and every monster that's appeared thus far</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CorruptCorporateExecutive' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CorruptCorporateExecutive'>Duke Bururu</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FunctionalMagic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FunctionalMagic'>Nelly, Milly, and Roger</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IdolSinger' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IdolSinger'>the Moo Moo Girls</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AndZoidberg' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AndZoidberg'>and Tiger with his band of fake magicians</a>.
+";i:423;s:615:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NodameCantabile' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NodameCantabile'>Nodame Cantabile</a></em>, the S Orchestra is made of a bunch of misfit musicians led by a perfectionist <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StraightMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StraightMan'>Straight Man</a> conductor who drills into them to be more serious. But during the representation, he gives them the signal to let go and be their exuberant self... and it is <em>awesome.</em>
+";i:424;s:530:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnegaiMyMelody' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnegaiMyMelody'>Onegai My Melody</a></em>, during the season finale, the ragtag bunch of youngsters join forces to defeat the Spirit of Dark Power. Even Kuromi the resident <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiVillain' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiVillain'>Anti-Villain</a> joins, and they get a wardrobe makeover.
+";i:425;s:382:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnePiece' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnePiece'>One Piece</a></em>, the Straw Hats' <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PowerWalk' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PowerWalk'>Power Walk</a> to Arlong's base of operations.
+";i:426;s:86:"<ul ><li> Luffy's escape from Impel Down (with many former villains) also classifies.
+";i:427;s:756:"</li></ul></li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TwentiethCenturyBoys' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TwentiethCenturyBoys'>20th Century Boys</a></em>, when the heroes, who're all just <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionSurvivor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionSurvivor'>Action Survivors</a>, set off to <span class="spoiler" title="you can set spoilers visible by default on your profile" >take down the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a> Friend's huge mech which is currently ripping Tokyo to pieces</span>.
+";i:428;s:17:"</li></ul></div>
+";i:429;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp;Comic Books&nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:430;s:1304:"<ul ><li> Happens in issue #79 of Marvel's <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Transformers' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Transformers'>Transformers</a></em> comic book series. Spike Witwicky, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MentalFusion' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MentalFusion'>mentally fused</a> with the Autobot Fortress Maximus, goes to Canada to stop a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnstoppableRage' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnstoppableRage'>crazed, rampaging Galvatron</a>. The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MisfitMobilizationMoment' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MisfitMobilizationMoment'>Misfit Mobilization Moment</a> occurs when the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IJustWantToBeNormal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IJustWantToBeNormal'>war-weary</a> Spike <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCantFightFate' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCantFightFate'>accepts his fate</a> and coordinates with Fortress Maximus to win the fight.
+";i:431;s:298:"</li><li> This is the whole point of the comic relief Legion of Substitute Heroes from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/LegionOfSuper-Heroes' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/LegionOfSuper-Heroes'>Legion of Super-Heroes</a>.</em>
+";i:432;s:465:"</li><li> Done <strong>very</strong> bluntly <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RuleOfFunny' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RuleOfFunny'>for laughs</a> in issue #12 of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Nextwave' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Nextwave'>Nextwave</a></em>, after the team has spent the entire time insulting and arguing with each other:
+";i:433;s:157:"<div class='indent'>"You people will by God act like a team, or at least like people who know each other, or I'll incinerate the bunch of you here and now."
+";i:434;s:23:"</div></li></ul></div>
+";i:435;s:199:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp;Films &#8212; Animation&nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:436;s:195:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/Pixar' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/Pixar'>Pixar</a> <strong>loves</strong> this trope:
+";i:437;s:381:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/ToyStory' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/ToyStory'>Toy Story</a></em>, it's when <span class="spoiler" title="you can set spoilers visible by default on your profile" >Woody and Buzz work together to escape Syd's yard and chase the moving van.</span>
+";i:438;s:180:"<ul ><li> Alternatively, <span class="spoiler" title="you can set spoilers visible by default on your profile" >Woody rallying Syd's misfit toys to rebel and freak him out.</span>
+";i:439;s:312:"</li></ul></li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/ABugsLife' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/ABugsLife'>A Bugs Life</a></em>, Flick's defiance of Hopper's beating emboldens the ant colony to fight off the grasshopper gang.
+";i:440;s:62:"<ul ><li> Which, incidentally, Hopper predicted would happen.
+";i:441;s:386:"</li></ul></li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/ToyStory2' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/ToyStory2'>Toy Story 2</a></em>, it begins when <span class="spoiler" title="you can set spoilers visible by default on your profile" >the toys hijack the Pizza Planet truck to chase Al and Woody.</span>
+";i:442;s:392:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/FindingNemo' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/FindingNemo'>Finding Nemo</a></em>, it's when <span class="spoiler" title="you can set spoilers visible by default on your profile" >Marlin, Dory, and Nemo organize the school of grouper fish to escape the net.</span>
+";i:443;s:544:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheIncredibles' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheIncredibles'>The Incredibles</a></em>, it's when the Parrs band together against Syndrome's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Mooks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Mooks'>Mooks</a> on the island base. Doubly impressive when you remember the kids have started being super-heroes just <em>ten minutes ago.</em>
+";i:444;s:476:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Ratatouille' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Ratatouille'>Ratatouille</a></em>, it's when <span class="spoiler" title="you can set spoilers visible by default on your profile" >Remy's dad rallies the rat colony to replace the kitchen staff, who then proceed to cook dinner for a restaurant full of patrons and incapacitate two nosy humans.</span>
+";i:445;s:481:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/WallE' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/WallE'>WALL•E</a></em> (pictured above), it's when <span class="spoiler" title="you can set spoilers visible by default on your profile" >WALL•E, EVE, the defective robots, and the Captain all pull together to defeat AUTO's machinations and place the plant in the Holo-detector, as seen in the page image.</span>
+";i:446;s:223:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/DreamWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/DreamWorks'>Dream Works</a> also loves this trope, it turns out.
+";i:447;s:352:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Shrek' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Shrek'>Shrek</a> 2</em>, it's when the fairy tale characters work together to rescue Shrek, Donkey, and Puss-In-Boots, who then charge the castle to rescue Fiona from Prince Charming.
+";i:448;s:722:"</li><li> In Shrek 3, it's when the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EverythingsBetterWithPrincesses' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EverythingsBetterWithPrincesses'>Fairy Tale Princesses</a> band together. While princesses aren't generally misfits, they definitely aren't badass either, until Snow White <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePowerOfRock' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePowerOfRock'>starts singing</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMomentOfAwesome' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMomentOfAwesome'>Led Zeppelin</a>...
+";i:449;s:411:"</li><li> The monsters of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MonstersVsAliens' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MonstersVsAliens'>Monsters vs. Aliens</a></em> have this when they infiltrate Gallaxhar's ship to rescue Susan <span class="spoiler" title="you can set spoilers visible by default on your profile" >who then rescues them soon afterward</span>.
+";i:450;s:890:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/HowToTrainYourDragon' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/HowToTrainYourDragon'>How to Train Your Dragon</a></em> has Hiccup and his classmates mount their dragons and swoop in <span class="spoiler" title="you can set spoilers visible by default on your profile" >to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigDamnHeroes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigDamnHeroes'>save Stoick and Gobber from the Red Death.</a> The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMomentOfHeartwarming' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMomentOfHeartwarming'>Crowning Moment of Heartwarming</a> between Hiccup and his dad when they do should pretty much speak for itself.</span>
+";i:451;s:468:"</li></ul><div class='indent'><strong>Hiccup:</strong> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IronicEcho' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IronicEcho'>We're Vikings. It's an occupational hazard.</a> <br /><strong>Stoick:</strong> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WellDoneSonGuy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WellDoneSonGuy'>I am proud... to call you my son.</a>
+";i:452;s:531:"</div></li><li> Happens in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Disney/Mulan' title='http://tvtropes.org/pmwiki/pmwiki.php/Disney/Mulan'>Mulan</a></em> when Mulan and her squad infiltrate the Imperial Palace... in <em>drag.</em> Earlier, a smaller version of this happens as part of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TrainingMontage' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TrainingMontage'>Training Montage</a> set to "I'll Make a Man Out of You".
+";i:453;s:358:"</li><li> Happens in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Disney/Tangled' title='http://tvtropes.org/pmwiki/pmwiki.php/Disney/Tangled'>Tangled</a></em> when <span class="spoiler" title="you can set spoilers visible by default on your profile" >Maximus the stallion recruits the Pub Thugs to bust out Flynn from prison.</span>
+";i:454;s:17:"</li></ul></div>
+";i:455;s:201:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp;Films &#8212; Live-Action&nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:456;s:299:"<ul ><li> In <em>The Devil's Brigade</em>, it's when the American hard cases (who have been baiting the Canadian elites from the very beginning) and the Canadians (who have been looking down their noses at the Americans as roughneck clods) join together to trounce the lumberjacks in the bar brawl.
+";i:457;s:264:"</li><li> The tournament montage when Team Shaolin defeats all of their opponents in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShaolinSoccer' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShaolinSoccer'>Shaolin Soccer</a></em>.
+";i:458;s:632:"</li><li> Happens in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/MysteryMen' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/MysteryMen'>Mystery Men</a></em> right before their attack, thanks to the single most <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RousingSpeech' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RousingSpeech'>Rousing Speech</a> ever made ... <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OverlyNarrowSuperlative' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OverlyNarrowSuperlative'>that had to do with a sandwich</a>.
+";i:459;s:257:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheDirtyDozen' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheDirtyDozen'>The Dirty Dozen</a></em>, it's when Col. Breed tries to have one of the Dozen dry-shaved.
+";i:460;s:340:"</li><li> In the movie <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/MajorLeague' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/MajorLeague'>Major League</a></em>, it happens when the players discover that the team owner is counting on them losing so that she can move the ball club from Cleveland to Miami.
+";i:461;s:268:"</li><li> Happens in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RushHour' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RushHour'>Rush Hour</a></em> when Carter goes to the airport and convinces Lee to return to the kidnapping case.
+";i:462;s:688:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/GalaxyQuest' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/GalaxyQuest'>Galaxy Quest</a></em>, this occurs when the actors of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowWithinAShow' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowWithinAShow'>show-within-a-show</a> escape from Sarris' guards and then stop his effort to destroy the Thermians, even recruiting <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AscendedFanboy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AscendedFanboy'>Brandon and his friends</a> in the process.
+";i:463;s:432:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/DodgeballATrueUnderdogStory' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/DodgeballATrueUnderdogStory'>DodgeBall: A True Underdog Story</a></em>: Patch's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TrainingFromHell' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TrainingFromHell'>Training from Hell</a> sequence.
+";i:464;s:272:"</li><li> Happens in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/SkyHigh' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/SkyHigh'>Sky High</a></em> when Will, Layla, Warren, and the sidekicks fight Royal Pain's invasion during Homecoming.
+";i:465;s:108:"</li><li> <em>The Fish That Saved Pittsburg</em>. Which is an astrology basketball movie, believe it or not
+";i:466;s:381:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Stripes' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Stripes'>Stripes</a></em> has Bill Murray give a rousing speech to his platoon that drags them out of their depression to the point where, out-of-uniform, dirty, and unshaven, they still impress the brass enough to get a plum assignment.
+";i:467;s:499:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Serenity' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Serenity'>Serenity</a></em> it's the "No more running. I aim to misbehave" speech. Simon and Jayne even share a drink during it. Doubles as a <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMomentOfAwesome' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMomentOfAwesome'>Crowning Moment of Awesome</a></em>
+";i:468;s:1352:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RedCliff' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RedCliff'>Red Cliff</a></em> pulls off a spectacular moment when Zhou Yu and Zhuge Liang are convinced they're hopelessly outnumbered. Sun Quan reveals <span class="spoiler" title="you can set spoilers visible by default on your profile" >their allies from Shu had only pretended to defect to lull the enemy into a false sense of security. Cue the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigDamnHeroes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigDamnHeroes'>Big Damn Heroes</a> reappearance of Liu Bei, Zhang Fei, Guan Yu and Zhao Yun fully prepared to kick ass and take names</span>. From there, <em>every</em> major character proceeds to contribute a necessary element of the staggeringly epic battle that follows, including Zhou Yu's wife and Sun Quan's sister. It's worth noting that while most of these characters are traditionally seen as heroes, the movie has up until this point presented them as either too old and feeble, too young and inexperienced, and/or too suspicious of each other's motives to succeed (in comparison to the well-oiled machine of the opposing force), so "misfit" mobilization would apply to this particular interpretation of the story.
+";i:469;s:561:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PiratesOfTheCaribbean' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PiratesOfTheCaribbean'>Pirates of the Caribbean</a></em> had an awesome moment in At World's End, after Elizabeth's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RousingSpeech' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RousingSpeech'>Rousing Speech</a>, drives all the pirate crews to truly fight for their way of life. They raise their banners and prepare for the fight.
+";i:470;s:284:"</li><li> Occurs in both <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeuceBigalow' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeuceBigalow'>Deuce Bigalow</a></em> movies at the climax, involving all the Abhorrent Admirers (less so in the second).
+";i:471;s:707:"</li><li> <em>Any Given Sunday</em> has the pre-game before the playoff game in Dallas. The Miami Sharks football team up to that point, has been a bunch of egotistical, arrogant, and flat-out psychotic douchebags. But before the game, Coach D'Amato delivers a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RousingSpeech' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RousingSpeech'>Rousing Speech</a> (he is played by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlPacino' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlPacino'>Al Pacino</a>, after all) where-in he simply reminds these players of their shared commitment to being the better team.
+";i:472;s:199:"</li><li> Done twice in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Machete' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Machete'>Machete</a></em> by The Network.
+";i:473;s:408:"</li><li> Subverted in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/AnimalHouse' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/AnimalHouse'>Animal House</a></em>, when Bluto gives a speech with numerous historical inaccuracies, and fails to rouse his fraternity brothers, who have given up. Finally, though, they do listen to him and create an incredibly funny end sequence.
+";i:474;s:81:"<div class='indent'>"Was it over when the Germans bombed Pearl Harbor? Hell no!"
+";i:475;s:217:"</div></li><li> The climax of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/MysteryTeam' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/MysteryTeam'>Mystery Team</a></em>, to an extent.
+";i:476;s:609:"</li><li> At the climax of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AttackOfTheKillerTomatoes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AttackOfTheKillerTomatoes'>Attack of the Killer Tomatoes!</a></em>, Wilbur gathers a mob, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RagTagBunchOfMisfits' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RagTagBunchOfMisfits'>made up of the only people too crazy to evacuate when the tomatoes attacked,</a> to fight the tomatoes. The credits actually list them as "Every screwball in San Diego County."
+";i:477;s:962:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheAvengers' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheAvengers'>The Avengers</a></em>, <span class="spoiler" title="you can set spoilers visible by default on your profile" > Coulson's death</span> was what finally brought the team together. Thor saw <span class="spoiler" title="you can set spoilers visible by default on your profile" > Coulson being stabbed</span> as he watched helplessly. Tony knew <span class="spoiler" title="you can set spoilers visible by default on your profile" > Coulson the longest.</span> Cap gets motivated from <span class="spoiler" title="you can set spoilers visible by default on your profile" > the blood-stained trading cards Coulson eagerly wanted him to sign.</span> Black Widow and Hawkeye were <span class="spoiler" title="you can set spoilers visible by default on your profile" > longtime comrades with Coulson</span>.
+";i:478;s:17:"</li></ul></div>
+";i:479;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp;Literature&nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:480;s:327:"<ul ><li> Happens in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/MenAtArms' title='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/MenAtArms'>Men-At-Arms</a></em> during the attack on Lord Vetinari, as the ethnically-diverse-by-decree Watch put aside their differences to catch the assassin.
+";i:481;s:410:"<ul ><li> Similarly, this happens in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/NightWatch' title='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/NightWatch'>Night Watch</a></em> after John Keel <span class="spoiler" title="you can set spoilers visible by default on your profile" >who's actually Sam Vimes</span> mobilizes the Watch against the growing riots in the city.
+";i:482;s:329:"<ul ><li> And yet again in <em>Discworld/Thud</em> with the marshalling of the specials, who in this case include Vimes' own butler, the head of the thieves guild (and two body-guards), the Unseen University librarian and a (to Vimes' mind) slightly-too-keen clacks operator. This is on top of the virtually all-inclusive Watch.
+";i:483;s:428:"</li></ul></li><li> And twice in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/ReaperMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/ReaperMan'>Reaper Man</a></em>, once when Windle Poons organises the the undead to investigate the "shop", and once when Ridcully organises the Wizards to rescue Windle Poons, although any time the wizards work together couple be seen as an example.
+";i:484;s:312:"</li></ul></li><li> In Robert Asprin's <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PhulesCompany' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PhulesCompany'>Phule's Company</a></em>, it's the first time the company beats the "confidence course" (read that "obstacle course").
+";i:485;s:352:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HarryPotterAndTheDeathlyHallows' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HarryPotterAndTheDeathlyHallows'>Harry Potter and the Deathly Hallows</a></em>, Kreacher leads the house-elves employed at Hogwarts into battle against the Death Eaters.
+";i:486;s:838:"<ul ><li> There's an earlier one in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HarryPotterAndTheOrderOfThePhoenix' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HarryPotterAndTheOrderOfThePhoenix'>Order of the Phoenix</a></em>. Harry, Ron, and Hermione are already-mobilized misfits, but they're joined by Neville (who <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TookALevelInBadass' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TookALevelInBadass'>Took a Level in Badass</a>); Ginny, who up to that point was nearly an extra and only Ron's little sister; and Luna, Hogwarts' own <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Cloudcuckoolander' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Cloudcuckoolander'>Cloudcuckoolander</a>.
+";i:487;s:221:"</li><li> The whole final battle is this for the good-guys: Order of the Phoenix, Dumbledore's Army, teachers and staff of Hogwarts, Grawp-the-giant, thestrals and hippogriffs, centaurs, house-elves, and probably others.
+";i:488;s:336:"</li></ul></li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/XWingSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/XWingSeries'>Wraith Squadron</a></em>, this happens to the Wraiths when Trigit's forces find Folor Base, and is cinched by how they get out of the trap in the Doldrums system.
+";i:489;s:394:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheTraitorGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheTraitorGame'>The Traitor Game</a></em>, it occurs when Michael and Francis finally get around to <span class="spoiler" title="you can set spoilers visible by default on your profile" >get their revenge against Shipley.</span>
+";i:490;s:17:"</li></ul></div>
+";i:491;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp;Live Action TV&nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:492;s:629:"<ul ><li> Shows up in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Chuck' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Chuck'>Chuck</a></em>: in "Chuck Versus the Tooth", there's a scene involving former CIA agents in an insane asylum showing that they still got the stuff. <span class="spoiler" title="you can set spoilers visible by default on your profile" >Subverted as the enemy agent <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhyDontYaJustShootHim' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhyDontYaJustShootHim'>simply tranqs them all</a></span>.
+";i:493;s:366:"<ul ><li> "Chuck Versus the Subway/Chuck Versus the Ring, Part II" has <span class="spoiler" title="you can set spoilers visible by default on your profile" >Ellie, shaken from witnessing her father's murder and Chuck's abduction, getting Awesome and Morgan to help her run a Pincer movement on the van holding Team Bartowski captive <em>and succeeding</em>.</span>
+";i:494;s:903:"</li></ul></li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Community' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Community'>Community</a></em> episode <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Recap/CommunityS2E24ForAFewPaintballsMore' title='http://tvtropes.org/pmwiki/pmwiki.php/Recap/CommunityS2E24ForAFewPaintballsMore'>"For a Few Paintballs More"</a> (part two of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PaintballEpisode' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PaintballEpisode'>paintball</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SeasonFinale' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SeasonFinale'>finale</a>), the study group and the rest of the Greendale students mobilise into a badass paintball army in order to beat City College
+";i:495;s:342:"</li><li> Happens in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho'>Doctor Who</a></em> during the finale episode <em>Stolen Earth</em> when just about every companion of the last five years comes together in a united plan to contact him.
+";i:496;s:210:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DreamHigh' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DreamHigh'>Dream High</a></em> does this with the fake showcase.
+";i:497;s:1574:"</li><li> In one episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Farscape' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Farscape'>Farscape</a></em>, the crew of Moya rob a bank to buy Dargo's son out of slavery. The main villain Scorpius has beaten them to it and is holding D'Argo's son hostage and will only release him if they give him Crichton. What do they do? They take the money from the depository and hire all the mercenaries, bounty-hunters and pirates which had been the villains of previous episodes to help them rescue him. Unfortunately, the mercenaries are either under new management, suffering debilitating health problems, on the run, or have found religion in the intervening months; even after clearing these difficulties up, it's discovered that the stolen money has been booby-trapped, leaving Moya badly burned and her crew poor all over again. At that point, Crichton gives up and surrenders to Scorpius, leaving the his friends with D'Argo's son but not much else. The mercenaries are on the point of leaving when Aeryn finally performs the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MisfitMobilizationMoment' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MisfitMobilizationMoment'>Misfit Mobilization Moment</a> by pointing out that Scorpius is using the bank as a base of operations, and offering them whatever they can find there as payment. Unfortunately, though the crew manages to escape relatively unharmed, all but one of the mercenaries are killed in the attack.
+";i:498;s:210:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Glee' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Glee'>Glee</a></em> in the pilot as they sing "Don't Stop Believing."
+";i:499;s:1079:"<ul ><li> However as the club expands and the group becomes more detatched through their cliques, a major moment happens in the penultimate season 1 episode. Rachel is devastated and humiliated by being egged by their rivals, particularly as they're led by her ex-boyfriend. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JerkJock' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JerkJock'>Jerk Jock</a> Puck of all people rallies to her aid and gathers all the strong men in the group to help him. To add to the awesome, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CampGay' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CampGay'>Camp Gay</a> Kurt and the disabled Artie also try to help. Later the whole club bands together to do the one thing their rivals can't: perform a funk dancer number (it makes sense in context). It really signified them as <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TrueCompanions' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TrueCompanions'>True Companions</a>.
+";i:500;s:1746:"</li></ul></li><li> Subverted, parodied, and generally dismantled in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Misfits' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Misfits'>Misfits</a></em>, particularly in the season 1 finale when it looks like the three remaining members of the highly dysfunctional <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FiveManBand' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FiveManBand'>Five-Man Band</a> are <em>finally</em> putting aside their differences and doing something pro-active to save the others - the scene even features a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LockAndLoadMontage' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LockAndLoadMontage'>Lock and Load Montage</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMusicOfAwesome' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMusicOfAwesome'>Crowning Music of Awesome</a> and a slow-motion <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PowerWalk' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PowerWalk'>Power Walk</a>. Unfortunately, things start falling apart after about a minute and a half. Their plan is <em>stupid</em> and poorly executed and it fails miserably. Two members of the group are forced to leave the third behind, and then start squabbling amongst themselves until one storms off in rage, leaving the other in mortal danger. <span class="spoiler" title="you can set spoilers visible by default on your profile" > The last remaining group member does actually save the day, but only really through dumb luck, and at <em>great</em> personal cost.</span>
+";i:501;s:533:"<ul ><li> Also averted with Nathan's ultimate <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PatrickStewartSpeech' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PatrickStewartSpeech'>Patrick Stewart Speech</a>, which - while being an undisputed <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMomentOfAwesome' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMomentOfAwesome'>Crowning Moment of Awesome</a> from the audience's perspective - has no effect whatsoever.
+";i:502;s:873:"</li><li> Finally put into action in season 3 episode 4 when <span class="spoiler" title="you can set spoilers visible by default on your profile" > the timeline had been changed so that the Nazis won. They were forcing Seth, the power dealer to take powers from other people and put them into soldiers from their ranks. Curtis, Kelly, and the two Rudys save Seth by ambushing the jeep that was transporting Seth by wearing Hitler masks and shooting while unseen from the trees. When Seth gets recaptured and Curtis and Rudy captured along with him, Kelly goes to save them by herself. She takes Shaun, a Nazi officer hostage and runs into Alisha and Simon. Their reaction? "You need a hand?"</span> Granted, it didn't go as smoothly as planned, but hey... they still did pretty well considering who they were up against and technically they still managed to save the day.
+";i:503;s:397:"</li></ul></li><li> Played in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/WizardsOfWaverlyPlace' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/WizardsOfWaverlyPlace'>Wizards Of Waverly Place</a></em> with Justin's delinquent class in "Everything's Rosie For Justin", when they do their wand drill. Subverted in that they all fail, because Rosie has no magic.
+";i:504;s:367:"<ul ><li> Also, that they all passed, because Rosie was never a wizard, and the rest of Justin's class knew what they were doing. This doubles as yet another <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AssPull' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AssPull'>Ass Pull</a> to keep Justin and Alex behind in the wizard competition.
+";i:505;s:27:"</li></ul></li></ul></div>
+";i:506;s:183:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp;Theater&nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:507;s:269:"<ul ><li> Done via song in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AVeryPotterSequel' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AVeryPotterSequel'>A Very Potter Sequel</a></em>, where "Voldemort is Going Down" is one of these.
+";i:508;s:342:"</li><li> The musical version of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Shrek' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Shrek'>Shrek</a></em> has the song "Freak Flag", in which all of the fairy-tale creatures dumped in Shrek's swamp decide to mobilize against Farquaad after Shrek kicks them out.
+";i:509;s:17:"</li></ul></div>
+";i:510;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder7');">&nbsp;&nbsp;&nbsp;&nbsp;Video Games&nbsp;</div><div id="folder7" class="folder" isfolder="true" style="display:block;">
+";i:511;s:2536:"<ul ><li> The goal of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MassEffect2' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MassEffect2'>Mass Effect 2</a></em> is for Shepard to organize a group consisting of a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WellIntentionedExtremist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WellIntentionedExtremist'>Well-Intentioned Extremist</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadlyDoctor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadlyDoctor'>Deadly Doctor</a>, a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkActionGirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkActionGirl'>Dark Action Girl</a>/borderline <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PersonOfMassDestruction' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PersonOfMassDestruction'>Person of Mass Destruction</a>, a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperPrototype' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperPrototype'>Super Prototype</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheBerserker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheBerserker'>Berserker</a>, a dying <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HitmanWithAHeart' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HitmanWithAHeart'>Hitman with a Heart</a>, an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IllGirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IllGirl'>Ill Girl</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WrenchWench' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WrenchWench'>Wrench Wench</a>, a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightTemplar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightTemplar'>Knight Templar</a>, and several others with the help of a pro-human terrorist organization for a suicide mission in order to save humanity. You do specific missions helping each member of your team to earn their loyalty. Once they're all loyal, then you've got Mobilized Misfits, but no specific Moment ...until the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RousingSpeech' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RousingSpeech'>Rousing Speech</a> at the beginning of the Suicide Mission.
+";i:512;s:109:"<ul ><li> There are also several instances where Shepard has to get two people to resolve their differences.
+";i:513;s:448:"</li></ul></li><li> For the final mission of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AceCombat' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AceCombat'>Ace Combat</a> 5, Wardog squadron prepares to attack the stronghold of the true enemy - alone. Hundreds of fighters from both warring countries converge on them, and they prepare to go down fighting. The fighters weren't there to attack them, but to join them.
+";i:514;s:711:"</li><li> Performed offscreen in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FalloutNewVegas' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FalloutNewVegas'>Fallout New Vegas</a></em>. If you assist the Misfits in their sidequest, the effects of them banding together are summarized in the ending montage. Of course, the effects vary depending on how you helped them (giving them all a good pep talk/training session will make them successful. Giving them all <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PsychoSerum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PsychoSerum'>Psycho</a>/helping them cheat on their test... Not so much).
+";i:515;s:17:"</li></ul></div>
+";i:516;s:185:"<p></p><div class="folderlabel" onclick="togglefolder('folder8');">&nbsp;&nbsp;&nbsp;&nbsp;Webcomics&nbsp;</div><div id="folder8" class="folder" isfolder="true" style="display:block;">
+";i:517;s:208:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProblemSleuth' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProblemSleuth'>"POSE AS A TEAM, 'CAUSE SHIT JUST GOT REAL"</a>
+";i:518;s:449:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/GunnerkriggCourt' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/GunnerkriggCourt'>Gunnerkrigg Court</a></em>, in "Residential", when the Queslett students band together to find out where their classmates have been disappearing to&#8212;and to get some payback on the ones kidnapping them&#8212;following a plan devised by the normally-asocial Antimony.
+";i:519;s:478:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/ElectricWonderland' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/ElectricWonderland'>Electric Wonderland</a></em> has one in "Inevitable Christmas Adventure," as NJ, Shroomy, Aerynn, and Beatrice all head to the Cyber Middle East to rescue Trawn, and two in "LuLo," as the entire NFP staff rushes to investigate the bombing of the mall and later reports on the discovered suspect.
+";i:520;s:668:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WebComic/CommanderKitty' title='http://tvtropes.org/pmwiki/pmwiki.php/WebComic/CommanderKitty'>Commander Kitty</a></em>, after spending the entire comic as a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicWannabe' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicWannabe'>Heroic Wannabe</a>, <a class='urllink' href='http://www.commanderkitty.com/2012/03/18/cks-epiphaly/'>CK finally gets to live up to the name Commander Kitty<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>.
+";i:521;s:17:"</li></ul></div>
+";i:522;s:188:"<p></p><div class="folderlabel" onclick="togglefolder('folder9');">&nbsp;&nbsp;&nbsp;&nbsp;Web Original&nbsp;</div><div id="folder9" class="folder" isfolder="true" style="display:block;">
+";i:523;s:370:"<ul ><li> In "Ayla and the Birthday Brawl" of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhateleyUniverse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhateleyUniverse'>Whateley Universe</a>, when the Vindicators, in a hostage crisis simulation, fail miserably, lose their leader, and then have to band together to stop the villain.
+";i:524;s:935:"</li><li> In the conclusion of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Machinima/RedVsBlue' title='http://tvtropes.org/pmwiki/pmwiki.php/Machinima/RedVsBlue'>Red vs. Blue</a>: Revelation</em>, the two titular teams finally come together and willingly work together as a cohesive unit to take down the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a>. They still fight about as well as a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RagtagBunchOfMisfits' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RagtagBunchOfMisfits'>Ragtag Bunch of Misfits</a> would, but manage to make it work because <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TrueCompanions' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TrueCompanions'>they know each other so well</a>.
+";i:525;s:1170:"</li><li> That moment during the Crimefighters campaign in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GlobalGuardiansPBEMUniverse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GlobalGuardiansPBEMUniverse'>Global Guardians PBEM Universe</a></em>, where the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CloudCuckoolander' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CloudCuckoolander'>Lunatic-With-a-Heart-of-Gold</a> Mister Easter manages to rally the titular team (all of whom are D-List heroes who fit snugly in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatKindOfLamePowerIsHeartAnyway' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatKindOfLamePowerIsHeartAnyway'>What Kind of Lame Power Is Heart, Anyway?</a> club) to oppose the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a> and win the day. <a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AndItWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AndItWorks'>And It Works</a>.
+";i:526;s:17:"</li></ul></div>
+";i:527;s:195:"<p></p><div class="folderlabel" onclick="togglefolder('folder10');">&nbsp;&nbsp;&nbsp;&nbsp;Western Animation&nbsp;</div><div id="folder10" class="folder" isfolder="true" style="display:block;">
+";i:528;s:338:"<ul ><li> The final battle against the Brotherhood of Evil in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TeenTitans' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TeenTitans'>Teen Titans</a></em>. With everyone else captured, Beast Boy leads a bunch of D-listers to rescue them.
+";i:529;s:241:"<ul ><li> Prior to that, after the Titans East suffered a rocky start in their very first fight together (as they spent more time fighting <em>each other</em>), Cyborg took charge and helped them stop quarreling and start gelling as a team.
+";i:530;s:574:"</li></ul></li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Futurama' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Futurama'>Futurama</a></em> movie <em>Bender's Big Score</em>, this happens in the climactic battle against the scammers when Hermes' head is plugged directly into the battlegrid. Cue <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThemeMusicPowerUp' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThemeMusicPowerUp'>Theme Music Power-Up</a> and much ass-kicking.
+";i:531;s:407:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayedForLaughs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayedForLaughs'>Played for Laughs</a> in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SouthPark' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SouthPark'>South Park</a></em> episode "Freak Strike".
+";i:532;s:480:"</li><li> In The Substitute Autobots in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TransformersAnimated' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TransformersAnimated'>Transformers Animated</a></em>, consisting of <span class="spoiler" title="you can set spoilers visible by default on your profile" > Scrapper, Snarl, Wreck-Gar, and Sari.</span> They're not hugely effective and none of them are technically Autobots, but dangit they try.
+";i:533;s:405:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SpongebobSquarepants' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SpongebobSquarepants'>Spongebob Squarepants</a></em> - <em>Band Geeks</em>: Spongebob rallies Squidward's marching band. He does so by getting the band to <em>pretend</em> that Squidward has helped each of them individually.
+";i:534;s:388:"</li><li> The plot of the TDA special of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TotalDramaIsland' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TotalDramaIsland'>Total Drama Island</a></em>. It's oddly satisfying to see all of the show's contestants overcome their differences and come together... To bring down <em>another</em> show's contestants.
+";i:535;s:365:"</li><li> All of the non-powered Leaguers against the unstoppable, invulnerable, General Eiling in "Patriot Act" (the "Seven Soldiers of Victory" episode) on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JusticeLeagueUnlimited' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JusticeLeagueUnlimited'>Justice League Unlimited</a>.</em>
+";i:536;s:458:"</li><li> A <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealLife' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealLife'>Real Life</a> example occurred for <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Daria' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Daria'>Daria</a></em> &#8212; the web petition for the fandom's quest for DVDs of the series. It eventually reached over 30,000 signatures.
+";i:537;s:485:"</li><li> The protagonists of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MyLittlePonyFriendshipIsMagic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MyLittlePonyFriendshipIsMagic'>My Little Pony: Friendship is Magic</a></em> - a librarian, a fashion designer, a weather manager, a vetrinarian, a farmer and a party planner - are hardly your first choice when you want to stop a mad goddess of the night, but they were the only ones who volunteered.
+";i:538;s:17:"</li></ul></div>
+";i:539;s:14:"<p></p><hr />
+";i:540;s:4683:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MinionMaracas">Minion Maracas</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes">Action Adventure Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MissionBriefing">Mission Briefing</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/AvengersAssemble">Avengers Assemble</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheIndexTeam">The Index Team</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/NoOneGetsLeftBehind">No One Gets Left Behind</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MutualMasquerade">Mutual Masquerade</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MoreThanMeetsTheEye">More than Meets the Eye</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MoreDeadlyThanTheMale">More Deadly Than The Male</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/LoonyFriendsImproveYourPersonality">Loony Friends Improve Your Personality</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/FriendshipTropes">Friendship Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/OddFriendship">Odd Friendship</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MirandaRights">Miranda Rights</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices">Narrative Devices</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MistakenForBadass">Mistaken for Badass</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryGambit">Memory Gambit</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/JustInTime">Just in Time</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MobileMenace">Mobile Menace</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MilitarySchool">Military School</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MilitaryAndWarfareTropes">Military and Warfare Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MisguidedMissile">Misguided Missile</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MiseryBuildsCharacter">Misery Builds Character</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes">Characterization Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MisterBig">Mister Big</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MischiefMakingMonkey">Mischief Making Monkey</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/AddedAlliterativeAppeal">Added Alliterative Appeal</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MisguidedMissile">Misguided Missile</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:541;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:542;s:10:"<p> </p>
+";i:543;s:10:"<center>
+";i:544;s:2:"
+";i:545;s:24:"<!-- med rectangle -->
+";i:546;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:547;s:33:"<script type='text/javascript'>
+";i:548;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:549;s:11:"</script>
+";i:550;s:8:"</div>
+";i:551;s:2:"
+";i:552;s:11:"</center>
+";i:553;s:24:"</td><!-- wikibody -->
+";i:554;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:555;s:7:"</td>
+";i:556;s:7:"</tr>
+";i:557;s:10:"</table>
+";i:558;s:22:"<!--PageFooterFmt-->
+";i:559;s:77:"<div class="alt_title" style="font-size:x-small;text-align:center;" ></div>
+";i:560;s:10:"<center>
+";i:561;s:44:"<table style="width:606px;margin:0 auto;">
+";i:562;s:7:"	<tr>
+";i:563;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:564;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:565;s:273:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MisfitMobilizationMoment?action=edit'> edit page</a></div></div></td>
+";i:566;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:567;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:568;s:8:"	</tr>
+";i:569;s:10:"</table>
+";i:570;s:11:"</center>
+";i:571;s:21:"<div id='wikifoot'>
+";i:572;s:27:"    <div class='footnav'>
+";i:573;s:2:"
+";i:574;s:14:"			 <center>
+";i:575;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:576;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:577;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:578;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:579;s:15:"				</center>
+";i:580;s:2:"
+";i:581;s:29:"    </div><!-- wikifoot -->
+";i:582;s:23:"<!--/PageFooterFmt-->
+";i:583;s:12:"60952<br/>
+";i:584;s:3:"4
+";i:585;s:8:"</div>
+";i:586;s:26:"</div><!-- container -->
+";i:587;s:2:"
+";i:588;s:9:"</body>
+";i:589;s:21:"<!--ScriptInsert-->
+";i:590;s:9:"</html>
+";}}

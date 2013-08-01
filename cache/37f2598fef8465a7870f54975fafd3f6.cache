@@ -1,0 +1,537 @@
+a:2:{i:0;i:1377936785;i:1;a:536:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:64:"<title>Suicide Pact - Television Tropes &amp; Idioms  </title>
+";i:5;s:130:"<meta name="Description" content="The Suicide Pact trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:2:"
+";i:25;s:10:"</style>
+";i:26;s:2:"
+";i:27;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:28;s:33:"<script type="text/javascript">
+";i:29;s:26:"  var _gaq = _gaq || [];
+";i:30;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:31;s:34:"  _gaq.push(['_trackPageview']);
+";i:32;s:2:"
+";i:33;s:17:"  (function() {
+";i:34;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:35;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:36;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:37;s:9:"  })();
+";i:38;s:2:"
+";i:39;s:32:"	function subpage(sel, title){
+";i:40;s:4:"		
+";i:41;s:40:"		var namespce = ""+getselection(sel);
+";i:42;s:34:"		if(namespce.trim()=="")return;
+";i:43;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:44;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:45;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:46;s:29:"		window.location.href=url;
+";i:47;s:4:"	}
+";i:48;s:32:"	function p5(groupname,title){
+";i:49;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:50;s:4:"	}
+";i:51;s:27:"	function togglenote(id){
+";i:52;s:23:"		var ele=object(id);
+";i:53;s:34:"		var state = ele.style.display;
+";i:54;s:49:"		if(state=='none') ele.style.display='inline';
+";i:55;s:48:"		if(state=='inline')ele.style.display='none';
+";i:56;s:4:"	}
+";i:57;s:35:"	var googletag = googletag || {};
+";i:58;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:59;s:16:"	(function() {
+";i:60;s:47:"	var gads = document.createElement('script');
+";i:61;s:21:"	gads.async = true;
+";i:62;s:33:"	gads.type = 'text/javascript';
+";i:63;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:64;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:65;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:66;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:67;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:68;s:8:"	})();
+";i:69;s:2:"
+";i:70;s:34:"	googletag.cmd.push(function() {
+";i:71;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:73;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:74;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:75;s:45:"		googletag.pubads().enableSingleRequest();
+";i:76;s:31:"		googletag.enableServices();
+";i:77;s:6:"	});
+";i:78;s:2:"
+";i:79;s:11:"</script>
+";i:80;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:81;s:2:"
+";i:82;s:9:"</head>
+";i:83;s:8:"<body>
+";i:84;s:40:"<div class="container" id="container">
+";i:85;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:86;s:6:"<tr>
+";i:87;s:46:"<td style="width:166px;vertical-align:top;">
+";i:88;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:89;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:90;s:38:"<g:plusone size="small"></g:plusone>
+";i:91;s:2:"
+";i:92;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:93;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:94;s:6:"<ul>
+";i:95;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:96;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:97;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:98;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:99;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:100;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:101;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:102;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:103;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:104;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:105;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:106;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:107;s:7:"</ul>
+";i:108;s:8:"</div>
+";i:109;s:2:"
+";i:110;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:111;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:112;s:2:"
+";i:113;s:182:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','SuicidePact');">send request</button><hr/></div>
+";i:114;s:2:"
+";i:115;s:323:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="SuicidePact" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:116;s:2:"
+";i:117;s:51:"<div style="font-size:small;text-align:center;" >
+";i:118;s:30:"Find recent edits by troper:
+";i:119;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:120;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:121;s:8:"</div>
+";i:122;s:7:"<hr/>
+";i:123;s:7:"<ul>	
+";i:124;s:4:"		
+";i:125;s:7:"<hr/>
+";i:126;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:127;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:128;s:60:"		<input type="hidden" name="title" value="SuicidePact" />
+";i:129;s:54:"		This article needs some moderator assistance with:
+";i:130;s:9:"		<br/>
+";i:131;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:132;s:9:"		<br/>
+";i:133;s:4:"		
+";i:134;s:34:"		<p style="text-align:center;">
+";i:135;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:136;s:8:"		</p>
+";i:137;s:34:"		<p style="text-align:center;">
+";i:138;s:48:"			<input type="submit" value="send report" />
+";i:139;s:8:"		</p>
+";i:140;s:11:"		</form>
+";i:141;s:7:"<hr/>
+";i:142;s:6:"<ul>
+";i:143;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:144;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:145;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:146;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:147;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:148;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:149;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:150;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:151;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:152;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:153;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:154;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:155;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:156;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:157;s:140:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.SuicidePact'>Referral Count for This Page</a></li>
+";i:158;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:159;s:115:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=SuicidePact'>Article Relationships</a></li> -->
+";i:160;s:101:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.SuicidePact'>Folderize</a></li>
+";i:161;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:162;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:163;s:7:"</ul>
+";i:164;s:8:"	<hr/>
+";i:165;s:6:"<ul>
+";i:166;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:167;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:168;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:169;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:170;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:171;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:172;s:7:"</ul>
+";i:173;s:7:"<hr/>
+";i:174;s:2:"
+";i:175;s:8:"</div>
+";i:176;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:177;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:178;s:8:"		<ul>
+";i:179;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:180;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:181;s:9:"		</ul>
+";i:182;s:8:"</div>
+";i:183;s:10:"<center>
+";i:184;s:34:"		<div style="margin-top:4px;">	
+";i:185;s:5:"			
+";i:186;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:187;s:33:"<script type='text/javascript'>
+";i:188;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:189;s:96:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/SuicidePact");
+";i:190;s:11:"</script>
+";i:191;s:8:"</div>
+";i:192;s:2:"
+";i:193;s:11:"		</div>	
+";i:194;s:10:"		<div>	
+";i:195;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:196;s:6:"		 	
+";i:197;s:4:"		
+";i:198;s:4:"		
+";i:199;s:10:"		</div>
+";i:200;s:105:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SuicidePact">Main</a><br/>
+";i:201;s:9:"		<div>
+";i:202;s:10:"		</div>
+";i:203;s:36:"		<div style="font-size:x-small;">
+";i:204;s:11:"				<hr/>
+";i:205;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:206;s:14:"				<p> </p>
+";i:207;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:208;s:13:"				<p></p>
+";i:209;s:11:"				<ul >
+";i:210;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:211;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:212;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:213;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:214;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:215;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:216;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:217;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:219;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:220;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:221;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:222;s:11:"				</li>
+";i:223;s:11:"				</ul>
+";i:224;s:13:"				<p></p>
+";i:225;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:226;s:13:"				<p></p>
+";i:227;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:228;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:229;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:230;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:231;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:232;s:6:"				
+";i:233;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:234;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:235;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:236;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:237;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:238;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:239;s:6:"				
+";i:240;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:241;s:16:"				</li></ul>
+";i:242;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:243;s:13:"				<p></p>
+";i:244;s:11:"				<ul >
+";i:245;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:246;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:247;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:248;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:249;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:250;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:251;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:252;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:253;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:254;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:255;s:6:"				
+";i:256;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:257;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:258;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:259;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:260;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:261;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:262;s:6:"				
+";i:263;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:264;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:265;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:266;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:268;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:269;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:270;s:11:"				</li>
+";i:271;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:272;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:273;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:274;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:275;s:6:"				
+";i:276;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:278;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:279;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:280;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:281;s:16:"				</li></ul>
+";i:282;s:6:"				
+";i:283;s:13:"				<p></p>
+";i:284;s:39:"				<strong>Other Categories</strong>
+";i:285;s:13:"				<p></p>
+";i:286;s:10:"				<ul>
+";i:287;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:288;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:289;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:290;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:291;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:292;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:293;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:294;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:295;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:296;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:297;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:298;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:299;s:11:"				</ul>
+";i:300;s:11:"		</div>	
+";i:301;s:11:"</center>
+";i:302;s:2:"
+";i:303;s:30:"</div> <!-- wikileftpage -->
+";i:304;s:7:"</td>
+";i:305;s:20:"<td id='wikibody'>
+";i:306;s:2:"
+";i:307;s:21:"<!--PageTitleFmt-->
+";i:308;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:309;s:12:"    		<tr>
+";i:310;s:38:"    		<td id="wikicmds" align="top">
+";i:311;s:8:"    		
+";i:312;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:313;s:45:"    				<tr style="vertical-align:middle;">
+";i:314;s:31:"    					<td align="center" >
+";i:315;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:316;s:16:"    					</td>
+";i:317;s:15:"    				<td >
+";i:318;s:37:"    					<div style="width:400px;">
+";i:319;s:28:"                  <center>
+";i:320;s:27:"                  <table>
+";i:321;s:24:"                  <tr>
+";i:322;s:24:"                  <td>
+";i:323;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:324;s:27:"                    <div>
+";i:325;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:326;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:327;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:328;s:64:"                      <input type="text" name="q" size="31" />
+";i:329;s:28:"                    </div>
+";i:330;s:27:"                  </form>
+";i:331;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:332;s:25:"                  </td>
+";i:333;s:24:"                  <td>
+";i:334;s:46:"                  <div class="buttonframe" >
+";i:335;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:336;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:337;s:26:"                  </div>
+";i:338;s:25:"                  </div
+";i:339;s:25:"                  </td>
+";i:340;s:25:"                  </tr>
+";i:341;s:28:"                  </table>
+";i:342;s:29:"                  </center>
+";i:343;s:17:"    					</div>
+";i:344;s:15:"    				</td>
+";i:345;s:15:"    				</tr>
+";i:346;s:16:"    		</table>
+";i:347;s:8:"    		
+";i:348;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:349;s:10:"    				
+";i:350;s:27:"    				<tr valign="top">
+";i:351;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:352;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:353;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:354;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:355;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:356;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:357;s:15:"    				</tr>
+";i:358;s:10:"    				
+";i:359;s:10:"    				
+";i:360;s:8:"    		
+";i:361;s:16:"    		</table>
+";i:362;s:8:"    		
+";i:363;s:28:"    		<div id="wikilogo" >
+";i:364;s:16:"    		<center>
+";i:365;s:2:"
+";i:366;s:22:"<!-- leaderboard -->
+";i:367;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:368;s:33:"<script type='text/javascript'>
+";i:369;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:370;s:11:"</script>
+";i:371;s:8:"</div>
+";i:372;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:373;s:28:"    					<tr valign="top">
+";i:374;s:221:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'SuicidePact');" autocomplete="off"  style="width:50px;"><option> </option><option value="Main">Main</option></select></td>
+";i:375;s:266:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SuicidePact?action=source" >source</a></div></div></td>
+";i:376;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:377;s:267:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.SuicidePact">history</a></div></div></td>
+";i:378;s:269:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuicidePact?action=edit'> edit page</a></div></div></td>
+";i:379;s:265:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/SuicidePact" >related</a></div></div></td>
+";i:380;s:38:"    							<td valign="middle"></td>
+";i:381;s:16:"    					</tr>
+";i:382;s:18:"    				</table>
+";i:383;s:10:"    				
+";i:384;s:35:"    				<div id="watchmsg"></div>
+";i:385;s:18:"    			</center>
+";i:386;s:13:"    		</td>
+";i:387;s:12:"     </tr>
+";i:388;s:6:"    
+";i:389;s:11:"    	<tr>
+";i:390;s:39:"    		<td id="wikititle" colspan="2">
+";i:391;s:40:"    				<div class="namespacebuttons">
+";i:392;s:647:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.SuicidePact" >&nbsp;Discussion </a></li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=SuicidePact" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/SuicidePact" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:393;s:16:"    				</div>
+";i:394;s:26:"    				<!--RepairBug-->
+";i:395;s:10:"    				
+";i:396;s:34:"    				<div class='pagetitle'> 
+";i:397;s:39:"    						  <span>Suicide Pact</span>
+";i:398;s:16:"    				</div>
+";i:399;s:11:"    				 
+";i:400;s:13:"    		</td>
+";i:401;s:12:"    	</tr>
+";i:402;s:10:"</table>
+";i:403;s:2:"
+";i:404;s:16:"<!--PageText-->
+";i:405;s:20:"<div id='wikitext'>
+";i:406;s:795:"Suicide pacts are when two or more people all decide to kill themselves at the same time, based upon a pre-determined plan that determines how, where, and when. They're different from mass suicides (such as when 960 Jews killed themselves rather than submit to being captured by the Romans at Masada back in 73 AD) because generally only a handful of people are involved; similarly, they differ from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Cult' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Cult'>cult suicides</a> because there's no dogmatic reason for the suicide itself. Suicide pacts, rather, usually involve small groups of people (such as married or romantic partners, family members, or friends) whose motivations are intensely personal and individual.
+";i:407;s:192:"<p></p>Compare <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DrivenToSuicide' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DrivenToSuicide'>Driven to Suicide</a>.
+";i:408;s:224:"<p></p>This is a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTrope'>Death Trope</a>, so expect <strong>UNMARKED SPOILERS!</strong>
+";i:409;s:14:"<p></p><hr />
+";i:410;s:19:"<h2>Examples:</h2>
+";i:411;s:329:"<p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Manga' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Manga'>Manga</a></span>
+";i:412;s:466:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WelcomeToTheNHK' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WelcomeToTheNHK'>Welcome to the NHK</a></em> featured a group that went to a remote island to throw themselves off a cliff to their death, but eventually one of them hesitated at last second, resulting everyone reconsidering their reasons, and finally giving up on the thought, after their loved ones also show up.
+";i:413;s:484:"<ul ><li> There's also an interesting variation at the end where <span class="spoiler" title="you can set spoilers visible by default on your profile" >Satou and Misaki make each other promise they will not commit suicide without each other, so that neither will end up doing so.</span> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItMakesSenseInContext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItMakesSenseInContext'>It Makes Sense in Context</a>.
+";i:414;s:225:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/ParanoiaAgent' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/ParanoiaAgent'>Paranoia Agent</a></em>: "Happy Family Planning"
+";i:415;s:240:"</li><li> The second episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SayonaraZetsubouSensei' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SayonaraZetsubouSensei'>Sayonara, Zetsubou-Sensei</a></em>.
+";i:416;s:906:"</li><li> The first chapter of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KurosagiCorpseDeliveryService' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KurosagiCorpseDeliveryService'>Kurosagi Corpse Delivery Service</a></em> has the main characters find the corpse of a man who killed himself as part of one of these. His wish is to be reunited with his lover, the other member of the pact. Turns out she was an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IdolSinger' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IdolSinger'>Idol Singer</a> who killed herself along with him when her father forced them to break up, and daddy's pulling a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MummiesAtTheDinnerTable' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MummiesAtTheDinnerTable'>Mummies at the Dinner Table</a>.
+";i:417;s:738:"</li><li> The second episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Durarara' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Durarara'>Durarara!!</a></em> features one of these made over the internet, though unbeknownst to poor <span class="spoiler" title="you can set spoilers visible by default on your profile" > Rio Kamichika</span> it's really <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Troll' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Troll'>Izaya</a> setting her up <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ForTheLulz' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ForTheLulz'>For the Lulz</a>. Yeah, Izaya is an asshole.
+";i:418;s:415:"<ul ><li> In the manga he does the same, except he meets two girls at a karoke bar &#8212; And then drugs their drinks and insinuates that he's going to murder them and stuff their corpses into suitcases as they're succumbing to the effects of the drug. He wasn't actually planning to kill them (he had Celty deliver the unconscious girls to their homes afterwards), but it was an incredibly dick move nonetheless.
+";i:419;s:1457:"</li></ul></li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MiraiNikki' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MiraiNikki'>Mirai Nikki</a></em> Yuno and Yukkii, being the last two contestants left in the game, decide on a suicide pact as neither wants to become God and live in a world without the other, although this will mean the destruction of the universe. <span class="spoiler" title="you can set spoilers visible by default on your profile" > However, before they can go through with it, Yukkii discovers that Yuno is actually Yuno from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateUniverse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateUniverse'>a parallel universe</a>; as in this universe, she and her world's Yukkii were the last two left in the game and decided on a suicide pact. Things went wrong and Yuno survived, leaving her as winner of the game and the new God of Time and Space; since she couldn't resurrect her world's Yukkii, she instead used her powers to create this universe, killed this world's version of herself and took her place in the game, in order to be with Yukkii once again. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Yandere' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Yandere'>She then plans to murder Yukkii and do the whole thing all over again just to be with him some more.</a></span>
+";i:420;s:578:"</li><li> <span class="spoiler" title="you can set spoilers visible by default on your profile" >Akira Otobe of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateUniverse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateUniverse'>Yoigoshi-hen</a></span> of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HigurashiNoNakuKoroNi' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HigurashiNoNakuKoroNi'>Higurashi no Naku Koro ni</a></em> made one of these. He chickened out. The other members of the group didn't.
+";i:421;s:266:"</li><li> Used in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MPDPsycho' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MPDPsycho'>MPD Psycho</a></em>, with the mass suicide of Lucy Monostone and his fanatical followers in a church.
+";i:422;s:776:"</li><li> <span class="spoiler" title="you can set spoilers visible by default on your profile" >Rei and Fukiko</span> from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OniisamaE' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OniisamaE'>Oniisama e...</a></em> create one as children to end their lives before the world can corrupt them, which fails and creates the rift between them through the rest of the series. At some point, <span class="spoiler" title="you can set spoilers visible by default on your profile" > Rei is very feverish and overloaded with drugs... and tries to kill herself and Nanako, the girl who's in love with her, under the belief that Nanako is Fukiko; Nanako manages to stop her, and Rei collapses in tears. </span>
+";i:423;s:526:"</li><li> A variation occurs in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GunslingerGirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GunslingerGirl'>Gunslinger Girl</a></em> when the fratello of Jose and Henrietta vow to, instead of killing themselves to keep from falling into enemy hands, to kill <em>each other</em>. <span class="spoiler" title="you can set spoilers visible by default on your profile" > They eventually do, after a berserk Henrietta accidentally shoots Jose.</span>
+";i:424;s:943:"</li><li> A few different variations pop up in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoneWolfAndCub' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoneWolfAndCub'>Lone Wolf and Cub</a>,</em> most especially with members of the Kurokuwa ninja clan. After Ogami manages to kill his way through the entire active duty list of the Kurokuwa, Retsudo bullies a group of <em>retired</em> Kurokuwa into going after him. They each individually assess him in disguise, sizing him up more accurately than any assassin before them had bothered to do. They discuss it, and conclude that they had a chance at succeeding despite Ogami's prowess and multitude of hidden weapons. But they can't shake one nagging thought: that Ogami and Daigoro are around the age of the children and grandchildren that the ninja life had denied them. In the end they link hands and walk into the sea as a group, never to be seen again.
+";i:425;s:117:"</li><li> The whole point of <em>Jisatsu Circle</em> (Suicide Circle), which is based on the movie of the same name.
+";i:426;s:195:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FanFic'>Fan Fic</a></span>
+";i:427;s:566:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Fanfic/SouthParkMonogatari' title='http://tvtropes.org/pmwiki/pmwiki.php/Fanfic/SouthParkMonogatari'>South Park Monogatari</a></em>, Stan and Kyle try to abide by this by jumping off of the bridge where Kenny drowned in the episode "The Tooth Fairy's Tats 2000" when Stan's parents argued too often and when Kyle's pushed him too hard to study. It's thwarted because A. new student Hiromi (known from then on as Nekagi) saves Kyle, and B. the water was too shallow when Stan fell in.
+";i:428;s:544:"</li><li> After Mikuo tries unsuccessfully to commit suicide alone in <a class='urllink' href='http://www.fanfiction.net/s/5346699/1/'>this<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Vocaloid' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Vocaloid'>Vocaloid</a> fanfic, he and Akaito form one. They never go through with it though, as it's implied by the end that they no longer want to die.
+";i:429;s:188:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a></span>
+";i:430;s:138:"<ul ><li> The Korean horror movie <em>A Blood Pledge</em> revolves around a four-person suicide pact in which two people are still alive.
+";i:431;s:297:"</li><li> In the film <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuicideClub' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuicideClub'>Suicide Club</a></em>, 54 schoolgirls leap in front of a subway train all at once. The rest of the film is figuring out why.
+";i:432;s:260:"</li><li> Subverted in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Heathers' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Heathers'>Heathers</a></em>, in that what looks like a huge suicide pact is actually a case of murder.
+";i:433;s:352:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Aliens' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Aliens'>Aliens</a></em>. Ripley and Corporal Hicks agree to kill each other rather than be used for hosts by the aliens. Which doesn't happen, though two other soldiers blow themselves up rather than be taken.
+";i:434;s:433:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/AllTheBoysLoveMandyLane' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/AllTheBoysLoveMandyLane'>All the Boys Love Mandy Lane</a></em>, Mandy and Emmet enter one of these, killing a number of their classmates and intending to kill each other in order to get themselves immortalized in pop culture. However, Mandy backs out at the last minute.
+";i:435;s:475:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Sightseers' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Sightseers'>Sightseers</a></em>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OutlawCouple' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OutlawCouple'>Outlaw Couple</a> Chris and Tina decide to go out on a high by jumping from a scenic railway bridge. However, Tina backs out at the last second.
+";i:436;s:282:"</li><li> <em>Operation Daybreak</em> (1975). The last two remaining members of the SOE group that assassinated Reinhard Heydrich, pinned down in a church basement that's being flooded with water, shoot each other rather than face capture and torture by the Nazi occupation forces.
+";i:437;s:206:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a></span>
+";i:438;s:725:"<ul ><li> The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JodiPicoult' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JodiPicoult'>Jodi Picoult</a> novel <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePact' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePact'>The Pact</a></em> (and the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LifetimeMovieOfTheWeek' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LifetimeMovieOfTheWeek'>Lifetime Movie of the Week</a> adaptation) is built around a suicide pact that apparently goes wrong. The girl ends up dead. The guy survives, only to be put on trial for contributing to the girl's death.
+";i:439;s:1016:"</li><li> In <a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ArtoPaasilinna' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ArtoPaasilinna'>Arto Paasilinna</a>'s book <em>Hurmaava joukkoitsemurha</em> ("A Charming Mass Suicide") two men who by coincidence run into each other when both are about to commit suicide instead organize a mass suicide for people who don't want to live longer - they will drive a bus off North Cape. They reason a carefully organized and planned suicide will make everyone involved look better in retrospect. The authorities disagree, and the people gathered take a long way to North Cape. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HilarityEnsues' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HilarityEnsues'>Hilarity Ensues</a> - really, but with Paasilinna's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BlackComedy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BlackComedy'>usual macabre wit</a>.
+";i:440;s:385:"</li><li> In a novelization of the original <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Doom' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Doom'>Doom</a></em> series two people became fused together at the skull deep in enemy territory, apparently the result of some gruesome experiment. Left to suffer, the two carried out a suicide pact.
+";i:441;s:114:"</li><li> At the end of <em>Double Indemnity</em>, the main couple apparently does this after they are found out.
+";i:442;s:225:"</li><li> The Lisbon sisters in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheVirginSuicides' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheVirginSuicides'>TheVirginSuicides</a>.
+";i:443;s:214:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LiveActionTV' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LiveActionTV'>Live-Action TV</a></span>
+";i:444;s:171:"<ul ><li> At least one episode of <strike> CSI</strike> <em>every forensic investigation drama series ever</em> has revolved around the plot of a suicide pact gone wrong.
+";i:445;s:424:"<ul ><li> One episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/ColdCase' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/ColdCase'>Cold Case</a></em> had two high school students decide to do this. One of the guys backs out, as his life starts to get better, while the other gets upset and ends up accidentally pushing his friend off of a bridge and gets charged with manslaughter.
+";i:446;s:402:"</li></ul></li><li> An episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CSINewYork' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CSINewYork'>CSI: New York</a></em> has a group of terminally ill patients all giving themselves their ideal death. One of them doesn't go through with it, but I can't remember if they prosecute her for her part in the other deaths.
+";i:447;s:680:"<ul ><li> There was also an episode where two teenage circus performers who were <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StarCrossedLovers' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StarCrossedLovers'>Star-Crossed Lovers</a> make one. The boy, who was a contortionist, stuffed himself in a box just like in his act, but in a way that made him suffocate. The girl, who was a trapeze artist, was about to jump off a swinging bar and not let her dad catch her...but she changed her mind, realising that she had a lot more to live for. The whole case was investigated after the girl discovers her boyfriends body and buries the box at the beach.
+";i:448;s:492:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/BattlestarGalacticaReimagined' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/BattlestarGalacticaReimagined'>Battlestar Galactica</a></em>. In "Lay Down Your Burdens" when the Cylons have them pinned down, Kara and Anders agree to kill each other rather than be captured, and be sent to the Cylon breeding farms (which Kara had already experienced). Fortunately the Cylons withdraw instead.
+";i:449;s:704:"</li><li> The <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/StargateAtlantis' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/StargateAtlantis'>Stargate Atlantis</a></em> episode, "Childhood's End" has the team find a village of kids and young adults who have agreed to kill themselves upon hitting age 25 in a perceived effort to keep The Wraith from "harvesting" the community. The team learns this is needless as the Wraith were kept because of a powering dampening field which was running out of power soon and the sacrifices were thought necessary in the beginning to accommodate the field's limits and they eventually convince the villagers to stop this practice.
+";i:450;s:213:"</li><li> In an episode of Law &amp; Order: Criminal Intent a man is lured into a car that he thinks will take him to some party when all the others know they are going to park on railroad tracks and go together.
+";i:451;s:582:"</li><li> A suicide pact (rather, a murder/suicide pact) is what drives the season 6 Christmas episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheX-Files' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheX-Files'>The X-Files</a></em>. Two ghosts who were victims of a muder/suicide pact try to get Mulder and Scully to re-enact it in a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HauntedHouse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HauntedHouse'>Haunted House</a> on Christmas Eve. It almost works.
+";i:452;s:438:"</li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Supernatural' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Supernatural'>Supernatural</a></em> episode "Croatoan" (Season 2) Dean enters this with Sam when he refuses to kill or abandon his brother despite the fact that Sam has been exposed to the Croatoan virus. Defused by the fact that Sam turns out to be immune to the demonic virus.
+";i:453;s:191:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Music' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Music'>Music</a></span>
+";i:454;s:71:"<ul ><li> The song "Here in Heaven" by Sparks features a suicide pact:
+";i:455;s:64:"<div class='indent'> <em>Juliet, you broke our little pact</em>
+";i:456;s:66:"</div><div class='indent'> <em>Juliet, I'm never coming back</em>
+";i:457;s:66:"</div><div class='indent'> <em>Up here in Heaven without you</em>
+";i:458;s:72:"</div><div class='indent'> <em>It is Hell knowing that your health</em>
+";i:459;s:83:"</div><div class='indent'> <em>Will keep you out of here for many, many years</em>
+";i:460;s:226:"</div></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ParentheticalGirls' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ParentheticalGirls'>Parenthetical Girls</a> has "The Four Platitudes"
+";i:461;s:76:"<div class='indent'> "resigned to take our lives by the age of twenty-five"
+";i:462;s:152:"</div></li><li> The Therapy? song <em>Little Tongues First</em> plays with this (as well as naming the album) with the line "Suicide pact - you first".
+";i:463;s:464:"</li><li> Though the deeper meaning is anyone's guess, the lyrics of the song "Lie, Lie, Lie" by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SystemOfADown' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SystemOfADown'>System of a Down</a>'s Serj Tankian paint a picture of the narrator feigning a suicide pact with his girlfriend but then letting go of her at the last second and happily watching her plummet off the cliff on her own.
+";i:464;s:197:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theatre' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theatre'>Theatre</a></span>
+";i:465;s:121:"<ul ><li> The two lovers in the opera <em>A Village Romeo and Juilet</em> by Frederick Delius sink themselves in a boat.
+";i:466;s:257:"</li><li> The Cantonese opera <em>Princess Chang-Ping</em> (<em>Dai Nui Fa</em>). Chang-Ping, the exiled daughter of the last Ming-dynasty Emperor, drinks poison with her new husband after settling the political negotiation with the new Munchauian Emperor.
+";i:467;s:207:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGames'>Video Games</a></span>
+";i:468;s:228:"<ul ><li> This was abused by Dahlia Hawthorne in the third <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AceAttorney' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AceAttorney'>Ace Attorney</a> game.
+";i:469;s:204:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WebComics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WebComics'>Web Comics</a></span>
+";i:470;s:930:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Sonichu' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Sonichu'>Sonichu</a></em> does this in issue 10. When the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AuthorAvatar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AuthorAvatar'>Author Avatar</a> pulls a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePowerOfRock' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePowerOfRock'>The Power of Rock</a> to destroy a building, two trolls left behind (due to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ValuesDissonance' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ValuesDissonance'>making fun of said person and being homosexual</a>) decide leaping down an elevator shaft is a whole lot better than letting him kill them and hold hands on the way down.
+";i:471;s:201:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealLife' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealLife'>Real Life</a></span>
+";i:472;s:513:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AdolfHitler' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AdolfHitler'>Adolf Hitler</a> and Eva Braun made a pact to take cyanide together in a locked room as the Allies were marching into Berlin. Supposedly as a final act of cowardice, Hitler shot himself in the temple after taking the cyanide in order to spare himself the rather painful and grotesque death cyanide poisoning brings. With the only bullet on hand. Sorry Eva.
+";i:473;s:84:"<ul ><li> Could have been a cultural thing. Men shot themselves, women took poison.
+";i:474;s:307:"<ul ><li> Plus, if <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Downfall' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Downfall'>Downfall</a></em> is to be believed, he only took the cyanide in case his Parkinson's prevented him from shooting himself in the head properly.
+";i:475;s:145:"</li><li> Joseph Goebbels had a dentist inject his six children with cyanide, and then he and his wife went to the garden and killed themselves.
+";i:476;s:163:"</li></ul></li></ul></li><li> Inseparable East Village artists Theresa Duncan and Jeremy Blake killed themselves because they believed they were being persecuted.
+";i:477;s:342:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/House' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/House'>House</a></em> star Hugh Laurie has admitted that he and a friend made a suicide pact when they were 18 to kill themselves shortly before their 40th birthdays. Neither went through with it.
+";i:478;s:234:"</li><li> Subversion: Japanese serial killer Hiroshi Maeue lured victims by forging bogus suicide pacts with them, suggesting burning charcoal in a sealed car as a method of exit, only to suffocate his victims with his hands instead.
+";i:479;s:367:"</li><li> When Australia was a penal colony, conditions were so poor that some prisoners would enter a variation on the pact: One prisoner would kill the other, and then <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuicideByCop' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuicideByCop'>allow himself to be executed</a> for the murder.
+";i:480;s:920:"</li><li> Fairly early in the Jewish War of 66-70 AD, the Jewish commander Josephus and forty men escaped the siege of Jotapata and hid in a cave. Once discovered, they formed a suicide pact, drawing (presumably numbered) lots and having each man kill the third one down the list from himself. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ImplausibleDeniability' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ImplausibleDeniability'>According to his own account of the incident</a>, Josephus survived by luck, talking the second to last man out of killing him and then defecting to the Romans. The <a class='urllink' href='http://en.wikipedia.org/wiki/Josephus_problem'>Josephus Problem<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> in mathematics is derived from the cynical presumption that he rigged the contest.
+";i:481;s:200:"</li><li> Sadly, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth in Television</a>.
+";i:482;s:385:"</li><li> One of the theories about the <a class='urllink' href='http://en.wikipedia.org/wiki/Mayerling_Incident'>Mayerling Incident<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>, with Imperial Crown Prince Rudolf of Habsburg and his mistress Maria Vetsera. Historians still don't reach an agreement about it.
+";i:483;s:450:"</li><li> In the last days of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WorldWarTwo' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WorldWarTwo'>World War II</a>, the German Generals <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeterosexualLifePartners' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeterosexualLifePartners'>Wilhelm Burgdorf and Hans Krebs</a> committed suicide together.
+";i:484;s:24:"</li></ul><p></p><hr />
+";i:485;s:1516:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SuicideNotMurder">Suicide Not Murder</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ChoosingDeath">Choosing Death</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TagTeamSuicide">Tag Team Suicide</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SuicideNotMurder">Suicide Not Murder</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes">Death Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperDrowningSkills">Super Drowning Skills</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/StutterStop">Stutter Stop</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes">Characterization Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperOCD">Super OCD</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:486;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:487;s:10:"<p> </p>
+";i:488;s:10:"<center>
+";i:489;s:2:"
+";i:490;s:24:"<!-- med rectangle -->
+";i:491;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:492;s:33:"<script type='text/javascript'>
+";i:493;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:494;s:11:"</script>
+";i:495;s:8:"</div>
+";i:496;s:2:"
+";i:497;s:11:"</center>
+";i:498;s:24:"</td><!-- wikibody -->
+";i:499;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:500;s:7:"</td>
+";i:501;s:7:"</tr>
+";i:502;s:10:"</table>
+";i:503;s:22:"<!--PageFooterFmt-->
+";i:504;s:77:"<div class="alt_title" style="font-size:x-small;text-align:center;" ></div>
+";i:505;s:10:"<center>
+";i:506;s:44:"<table style="width:606px;margin:0 auto;">
+";i:507;s:7:"	<tr>
+";i:508;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:509;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:510;s:260:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuicidePact?action=edit'> edit page</a></div></div></td>
+";i:511;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:512;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:513;s:8:"	</tr>
+";i:514;s:10:"</table>
+";i:515;s:11:"</center>
+";i:516;s:21:"<div id='wikifoot'>
+";i:517;s:27:"    <div class='footnav'>
+";i:518;s:2:"
+";i:519;s:14:"			 <center>
+";i:520;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:521;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:522;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:523;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:524;s:15:"				</center>
+";i:525;s:2:"
+";i:526;s:29:"    </div><!-- wikifoot -->
+";i:527;s:23:"<!--/PageFooterFmt-->
+";i:528;s:12:"28434<br/>
+";i:529;s:3:"3
+";i:530;s:8:"</div>
+";i:531;s:26:"</div><!-- container -->
+";i:532;s:2:"
+";i:533;s:9:"</body>
+";i:534;s:21:"<!--ScriptInsert-->
+";i:535;s:9:"</html>
+";}}

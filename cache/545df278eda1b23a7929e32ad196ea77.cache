@@ -1,0 +1,735 @@
+a:2:{i:0;i:1377889791;i:1;a:734:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:63:"<title>Thememobile - Television Tropes &amp; Idioms  </title>
+";i:5;s:129:"<meta name="Description" content="The Thememobile trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:10:"</style>
+";i:25;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:26;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:27;s:33:"<script type="text/javascript">
+";i:28;s:26:"  var _gaq = _gaq || [];
+";i:29;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:30;s:34:"  _gaq.push(['_trackPageview']);
+";i:31;s:2:"
+";i:32;s:17:"  (function() {
+";i:33;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:34;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:35;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:36;s:9:"  })();
+";i:37;s:2:"
+";i:38;s:32:"	function subpage(sel, title){
+";i:39;s:4:"		
+";i:40;s:40:"		var namespce = ""+getselection(sel);
+";i:41;s:34:"		if(namespce.trim()=="")return;
+";i:42;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:43;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:44;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:45;s:29:"		window.location.href=url;
+";i:46;s:4:"	}
+";i:47;s:32:"	function p5(groupname,title){
+";i:48;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:49;s:4:"	}
+";i:50;s:27:"	function togglenote(id){
+";i:51;s:23:"		var ele=object(id);
+";i:52;s:34:"		var state = ele.style.display;
+";i:53;s:49:"		if(state=='none') ele.style.display='inline';
+";i:54;s:48:"		if(state=='inline')ele.style.display='none';
+";i:55;s:4:"	}
+";i:56;s:35:"	var googletag = googletag || {};
+";i:57;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:58;s:16:"	(function() {
+";i:59;s:47:"	var gads = document.createElement('script');
+";i:60;s:21:"	gads.async = true;
+";i:61;s:33:"	gads.type = 'text/javascript';
+";i:62;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:63;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:64;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:65;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:66;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:67;s:8:"	})();
+";i:68;s:2:"
+";i:69;s:34:"	googletag.cmd.push(function() {
+";i:70;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:71;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:73;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:74;s:45:"		googletag.pubads().enableSingleRequest();
+";i:75;s:31:"		googletag.enableServices();
+";i:76;s:6:"	});
+";i:77;s:2:"
+";i:78;s:11:"</script>
+";i:79;s:2:"
+";i:80;s:9:"</head>
+";i:81;s:8:"<body>
+";i:82;s:40:"<div class="container" id="container">
+";i:83;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:84;s:6:"<tr>
+";i:85;s:46:"<td style="width:166px;vertical-align:top;">
+";i:86;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:87;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:88;s:38:"<g:plusone size="small"></g:plusone>
+";i:89;s:2:"
+";i:90;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:91;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:92;s:6:"<ul>
+";i:93;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:94;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:95;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:96;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:97;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:98;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:99;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:100;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:101;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:102;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:103;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:104;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:105;s:7:"</ul>
+";i:106;s:8:"</div>
+";i:107;s:2:"
+";i:108;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:109;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:110;s:2:"
+";i:111;s:182:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','Thememobile');">send request</button><hr/></div>
+";i:112;s:2:"
+";i:113;s:323:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="Thememobile" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:114;s:2:"
+";i:115;s:51:"<div style="font-size:small;text-align:center;" >
+";i:116;s:30:"Find recent edits by troper:
+";i:117;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:118;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:119;s:8:"</div>
+";i:120;s:7:"<hr/>
+";i:121;s:7:"<ul>	
+";i:122;s:4:"		
+";i:123;s:7:"<hr/>
+";i:124;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:125;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:126;s:60:"		<input type="hidden" name="title" value="Thememobile" />
+";i:127;s:54:"		This article needs some moderator assistance with:
+";i:128;s:9:"		<br/>
+";i:129;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:130;s:9:"		<br/>
+";i:131;s:4:"		
+";i:132;s:34:"		<p style="text-align:center;">
+";i:133;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:134;s:8:"		</p>
+";i:135;s:34:"		<p style="text-align:center;">
+";i:136;s:48:"			<input type="submit" value="send report" />
+";i:137;s:8:"		</p>
+";i:138;s:11:"		</form>
+";i:139;s:7:"<hr/>
+";i:140;s:6:"<ul>
+";i:141;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:142;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:143;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:144;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:145;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:146;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:147;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:148;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:149;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:150;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:151;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:152;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:153;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:154;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:155;s:140:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.Thememobile'>Referral Count for This Page</a></li>
+";i:156;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:157;s:115:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=Thememobile'>Article Relationships</a></li> -->
+";i:158;s:101:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.Thememobile'>Folderize</a></li>
+";i:159;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:160;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:161;s:7:"</ul>
+";i:162;s:8:"	<hr/>
+";i:163;s:6:"<ul>
+";i:164;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:165;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:166;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:167;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:168;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:169;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:170;s:7:"</ul>
+";i:171;s:7:"<hr/>
+";i:172;s:2:"
+";i:173;s:8:"</div>
+";i:174;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:175;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:176;s:8:"		<ul>
+";i:177;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:178;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:179;s:9:"		</ul>
+";i:180;s:8:"</div>
+";i:181;s:10:"<center>
+";i:182;s:34:"		<div style="margin-top:4px;">	
+";i:183;s:5:"			
+";i:184;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:185;s:33:"<script type='text/javascript'>
+";i:186;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:187;s:96:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/Thememobile");
+";i:188;s:11:"</script>
+";i:189;s:8:"</div>
+";i:190;s:2:"
+";i:191;s:11:"		</div>	
+";i:192;s:10:"		<div>	
+";i:193;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:194;s:6:"		 	
+";i:195;s:4:"		
+";i:196;s:4:"		
+";i:197;s:10:"		</div>
+";i:198;s:271:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Thememobile">Main</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Quotes/Thememobile">Quotes</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/TropeCo/Thememobile">TropeCo</a><br/>
+";i:199;s:9:"		<div>
+";i:200;s:10:"		</div>
+";i:201;s:36:"		<div style="font-size:x-small;">
+";i:202;s:11:"				<hr/>
+";i:203;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:204;s:14:"				<p> </p>
+";i:205;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:206;s:13:"				<p></p>
+";i:207;s:11:"				<ul >
+";i:208;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:209;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:210;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:211;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:212;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:213;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:214;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:215;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:216;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:217;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:219;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:220;s:11:"				</li>
+";i:221;s:11:"				</ul>
+";i:222;s:13:"				<p></p>
+";i:223;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:224;s:13:"				<p></p>
+";i:225;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:226;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:227;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:228;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:229;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:230;s:6:"				
+";i:231;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:232;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:233;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:234;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:235;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:236;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:237;s:6:"				
+";i:238;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:239;s:16:"				</li></ul>
+";i:240;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:241;s:13:"				<p></p>
+";i:242;s:11:"				<ul >
+";i:243;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:244;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:245;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:246;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:247;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:248;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:249;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:250;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:251;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:252;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:253;s:6:"				
+";i:254;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:255;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:256;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:257;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:258;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:259;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:260;s:6:"				
+";i:261;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:262;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:263;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:264;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:265;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:266;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:268;s:11:"				</li>
+";i:269;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:270;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:271;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:272;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:273;s:6:"				
+";i:274;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:275;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:276;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:278;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:279;s:16:"				</li></ul>
+";i:280;s:6:"				
+";i:281;s:13:"				<p></p>
+";i:282;s:39:"				<strong>Other Categories</strong>
+";i:283;s:13:"				<p></p>
+";i:284;s:10:"				<ul>
+";i:285;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:286;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:287;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:288;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:289;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:290;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:291;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:292;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:293;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:294;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:295;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:296;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:297;s:11:"				</ul>
+";i:298;s:11:"		</div>	
+";i:299;s:11:"</center>
+";i:300;s:2:"
+";i:301;s:30:"</div> <!-- wikileftpage -->
+";i:302;s:7:"</td>
+";i:303;s:20:"<td id='wikibody'>
+";i:304;s:2:"
+";i:305;s:21:"<!--PageTitleFmt-->
+";i:306;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:307;s:12:"    		<tr>
+";i:308;s:38:"    		<td id="wikicmds" align="top">
+";i:309;s:8:"    		
+";i:310;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:311;s:45:"    				<tr style="vertical-align:middle;">
+";i:312;s:31:"    					<td align="center" >
+";i:313;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:314;s:16:"    					</td>
+";i:315;s:15:"    				<td >
+";i:316;s:37:"    					<div style="width:400px;">
+";i:317;s:28:"                  <center>
+";i:318;s:27:"                  <table>
+";i:319;s:24:"                  <tr>
+";i:320;s:24:"                  <td>
+";i:321;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:322;s:27:"                    <div>
+";i:323;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:324;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:325;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:326;s:64:"                      <input type="text" name="q" size="31" />
+";i:327;s:28:"                    </div>
+";i:328;s:27:"                  </form>
+";i:329;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:330;s:25:"                  </td>
+";i:331;s:24:"                  <td>
+";i:332;s:46:"                  <div class="buttonframe" >
+";i:333;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:334;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:335;s:26:"                  </div>
+";i:336;s:25:"                  </div
+";i:337;s:25:"                  </td>
+";i:338;s:25:"                  </tr>
+";i:339;s:28:"                  </table>
+";i:340;s:29:"                  </center>
+";i:341;s:17:"    					</div>
+";i:342;s:15:"    				</td>
+";i:343;s:15:"    				</tr>
+";i:344;s:16:"    		</table>
+";i:345;s:8:"    		
+";i:346;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:347;s:10:"    				
+";i:348;s:27:"    				<tr valign="top">
+";i:349;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:350;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:351;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:352;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:353;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:354;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:355;s:15:"    				</tr>
+";i:356;s:10:"    				
+";i:357;s:10:"    				
+";i:358;s:8:"    		
+";i:359;s:16:"    		</table>
+";i:360;s:8:"    		
+";i:361;s:28:"    		<div id="wikilogo" >
+";i:362;s:16:"    		<center>
+";i:363;s:2:"
+";i:364;s:22:"<!-- leaderboard -->
+";i:365;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:366;s:33:"<script type='text/javascript'>
+";i:367;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:368;s:11:"</script>
+";i:369;s:8:"</div>
+";i:370;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:371;s:28:"    					<tr valign="top">
+";i:372;s:299:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'Thememobile');" autocomplete="off"  style="width:50px;"><option> </option><option value="Main">Main</option><option value="Quotes">Quotes</option><option value="TropeCo">TropeCo</option></select></td>
+";i:373;s:266:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Thememobile?action=source" >source</a></div></div></td>
+";i:374;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:375;s:267:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.Thememobile">history</a></div></div></td>
+";i:376;s:269:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Thememobile?action=edit'> edit page</a></div></div></td>
+";i:377;s:265:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/Thememobile" >related</a></div></div></td>
+";i:378;s:38:"    							<td valign="middle"></td>
+";i:379;s:16:"    					</tr>
+";i:380;s:18:"    				</table>
+";i:381;s:10:"    				
+";i:382;s:35:"    				<div id="watchmsg"></div>
+";i:383;s:18:"    			</center>
+";i:384;s:13:"    		</td>
+";i:385;s:12:"     </tr>
+";i:386;s:6:"    
+";i:387;s:11:"    	<tr>
+";i:388;s:39:"    		<td id="wikititle" colspan="2">
+";i:389;s:40:"    				<div class="namespacebuttons">
+";i:390;s:920:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments"  style="border-width:2px;border-color:silver;margin-right:2px;" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.Thememobile" >&nbsp;Discussion </a></li> <li class="namespace_li Quotes" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Quotes/Thememobile" class="textcolor">&nbsp;Quotes&nbsp;</a> </li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=Thememobile" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/Thememobile" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:391;s:16:"    				</div>
+";i:392;s:26:"    				<!--RepairBug-->
+";i:393;s:10:"    				
+";i:394;s:34:"    				<div class='pagetitle'> 
+";i:395;s:38:"    						  <span>Thememobile</span>
+";i:396;s:16:"    				</div>
+";i:397;s:11:"    				 
+";i:398;s:13:"    		</td>
+";i:399;s:12:"    	</tr>
+";i:400;s:10:"</table>
+";i:401;s:2:"
+";i:402;s:16:"<!--PageText-->
+";i:403;s:20:"<div id='wikitext'>
+";i:404;s:346:"<div class="quoteright" style="width:330px;" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/TheIncredibleHulk' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/TheIncredibleHulk'><img src='http://static.tvtropes.org/pmwiki/pub/images/hulkcycle_330_3268.jpg' class='embeddedimage' border='0' alt='' /></a></div>
+";i:405;s:276:"<div class="acaptionright" style="width:330px;" >Look, if it bugs you, then <em>you</em> tell him he can't have a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolBike' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolBike'>Hulk-cycle</a>!</div>
+";i:406;s:208:"<div class='indent'><em>"<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ToTheBatNoun' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ToTheBatNoun'>To the Batmobile</a>, Robin!"</em>
+";i:407;s:196:"<div class='indent'>&#8212; <strong><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Batman' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Batman'>Batman</a></strong>
+";i:408;s:20:"</div></div><p></p>
+";i:409;s:537:"<p></p>Sometimes, a character's theme goes beyond wearing his underwear on the outside. These are <em>vehicles</em> that follow a costumed character's theme; they may resemble the costume, or extend the idea behind the character. Regardless, these conveyances are recognizably a part of the individual's <em>leitmotif</em> (not to mention the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MerchandiseDriven' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MerchandiseDriven'>show's merchandising campaign</a>).
+";i:410;s:711:"<p></p>This trope doesn't necessarily include <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SignatureTeamTransport' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SignatureTeamTransport'>''iconic'' vehicles.</a> While the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/X-Men' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/X-Men'>X-Men</a>'s Blackbird is identifiable by fans, it doesn't continue their visual theme, and it wouldn't be recognized by someone who wasn't familiar with it. A good determiner is to ask yourself, "If I saw this for the first time on the street, how likely would I be to identify it as belonging to &lt;character&gt;?".
+";i:411;s:831:"<p></p>Most of the time a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolCar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolCar'>Cool Car</a>. For a specific type of Thememobile, see <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Faceship' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Faceship'>Faceship</a>. Not to be confused with the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IncrediblyLamePun' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IncrediblyLamePun'>Pope Mobile</a>, although it is an example of this trope. May overlap with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SignatureTeamTransport' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SignatureTeamTransport'>Signature Team Transport</a>.
+";i:412;s:316:"<p></p>Due to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheProblemWithPenIsland' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheProblemWithPenIsland'>The Problem with Pen Island</a>, this trope can either be pronounced "theme-mobile" or "the me-mobile." Make of that what you will.
+";i:413;s:7:"<hr />
+";i:414;s:18:"<h2>Examples</h2>
+";i:415;s:122:"<p></p><div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:416;s:193:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp;Anime &amp; Manga&nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:417;s:713:"<ul ><li> The Yukari-mobile in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/AzumangaDaioh' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/AzumangaDaioh'>Azumanga Daioh</a></em>. An old, beat-up (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DrivesLikeCrazy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DrivesLikeCrazy'>Gee, I wonder why</a>) Toyota <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AllegedCar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AllegedCar'>Alleged Car</a> that actually belongs to her parents. The mere <em>mention</em> of that car is enough to scare the everlasting fuck out of poor Chiyo-chan.
+";i:418;s:437:"<ul ><li> When reminded about the Yukari-mobile, Chiyo undergoes <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ColorFailure' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ColorFailure'>Color Failure</a></em> and starts muttering "... please stop... Yukari-sensei, please stop... please stop... please be more careful... I'm sorry... no, we're going to die... the old man, the old man... RUN!" to herself.
+";i:419;s:217:"</li></ul></li><li> Speed and the Mach 5, in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/SpeedRacer' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/SpeedRacer'>Speed Racer</a></em>.
+";i:420;s:184:"</li><li> The Lions, from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoLion' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoLion'>Go Lion</a></em>.
+";i:421;s:217:"</li><li> The motorcycles from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DoubleDragon' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DoubleDragon'>Double Dragon</a></em>.
+";i:422;s:178:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/CodeGeass' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/CodeGeass'>Code Geass</a></em>
+";i:423;s:330:"<ul ><li> They don't call them ZeroFrames, but Zero has had three Knightmares whose colour schemes were made to fit his theme, and when <span class="spoiler" title="you can set spoilers visible by default on your profile" >Suzaku becomes the Knight Of Zero, siding with Lelouch, the Lancelot was promptly given a makeover.</span>
+";i:424;s:216:"<ul ><li> Only the first Knightmare Frame Zero used was repainted from base colours, since it was a custom version of a generic model. Zero's Burai was given a dark purple, and fitted with a set of golden oni horns.
+";i:425;s:236:"</li><li> In a slightly closer example, the Shinkiro was in the correct colours, and it's model number was "Type-0". This is <em>after</em> the completion of Type-1 through to Type-5, so this is a clear attempt to reference this trope.
+";i:426;s:259:"</li><li> While the Lancelot was given a makeover, the Lancelot Albion was in the same colours as it always way. The rebuilt Lancelot, however, got a horrible pink colour scheme to go with it's new pilot, C.C. Just seeing it was enough to make viewers stare.
+";i:427;s:645:"</li></ul></li><li> Zero's second Knightmare, the Gawain, fits him just about perfectly: it's painted his personal colors (black, maroon, and gold), has a sinister appearance, can be piloted by two people (allowing his partner C.C. to back up his weak piloting skills), and its flight pack and advanced computer system let it perform excellent recon. The thing is, it wasn't made for him at all, but was just a random Britannian test type. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ContrivedCoincidence' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ContrivedCoincidence'>Contrived Coincidence</a> at its finest.
+";i:428;s:169:"<ul ><li> Well, other than Zero being a random Britannian prince, but painting a Knightmare black and gold is pretty much a big sign that says "intended for the enemy".
+";i:429;s:602:"</li></ul></li><li> In general, a lot of units are painted in a style fitting of their pilot. Kallen's Burai and Glasgow, for the short amount of time she had them, were painted in red. The only red units in the series, I should point out. C.C. went and painted an Akatsuki in pink, and went the extra mile in having a Lancelot painted in pink. Cornelia's Gloucester is painted the same colour as her hair, and has a cape to boot, and the Glaston Knight's wear visors that look like Gloucester masks. It wasn't quite a given, but any unusually painted unit could be narrowed down to one or two pilots.
+";i:430;s:282:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/YuGiOh' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/YuGiOh'>Yu-Gi-Oh!</a></em> has Kaiba's Blue Eyes White Jet. Oh, and the Blue Eyes White Train. As hilarious as they sound, yes.
+";i:431;s:231:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WebVideo/YuGiOhTheAbridgedSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/WebVideo/YuGiOhTheAbridgedSeries'>Yu Gi Oh The Abridged Series</a> </em>
+";i:432;s:89:"</li></ul><div class='indent'>"To the Mokubamobile!" <br />"There isn't a Mokubamobile!"
+";i:433;s:910:"</div></li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/PantyAndStockingWithGarterbelt' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/PantyAndStockingWithGarterbelt'>Panty &amp; Stocking with Garterbelt</a></em>, the demon girls SUV-limousine applies far more than the angels' pink Hummer. It's a ride fitting a pair of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AbsurdlyPowerfulStudentCouncil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AbsurdlyPowerfulStudentCouncil'>insanely powerful</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlphaBitch' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlphaBitch'>Alpha Bitch</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionGirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionGirl'>ActionGirls</a> with too much money.
+";i:434;s:248:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/DokiDokiPrecure' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/DokiDokiPrecure'>DokiDoki! Precure</a></em> has Alice/Cure Rosetta's bright fuchsia limousine.
+";i:435;s:17:"</li></ul></div>
+";i:436;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp;Comic Books&nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:437;s:200:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Batman' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Batman'>Batman</a> has <em>many</em> such vehicles:
+";i:438;s:388:"<ul ><li> The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolCar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolCar'>Batmobile</a>, in its many variations, is of course, Batman's car, and the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeNamer' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeNamer'>Trope Namer</a>.
+";i:439;s:231:"</li><li> The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolPlane' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolPlane'>Batplane</a> or (for "flying wing" versions) Batwing: fixed-wing aircraft.
+";i:440;s:47:"</li><li> The Batcopter: rotary-wing aircraft.
+";i:441;s:191:"</li><li> The Whirly-Bat: also a rotary-wing aircraft, but unlike the Batcopter, a very small one-man (or <em>maybe</em> two) vehicle that can fit in the trunk of the Batmobile if necessary.
+";i:442;s:167:"</li><li> The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolBoat' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolBoat'>Batboat</a>.
+";i:443;s:41:"</li><li> The Bat-Submersible or Batsub.
+";i:444;s:208:"</li><li> In some versions, there's even a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HumongousMecha' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HumongousMecha'>Batmech</a>.
+";i:445;s:390:"<ul ><li> An interesting note about all of these is that Batman doesn't necessarily always call any of them by their "bat-names" in present-day comics, usually just saying "The Car", when he <em>does</em> call them by the Batnames, it's likely that the ridiculousness of this will be lampshaded by saying somebody like Robin, Alfred or a member of the Justice League came up with the name.
+";i:446;s:79:"</li></ul></li></ul></li><li> Batman's villains frequently follow his example:
+";i:447;s:244:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/SelfDemonstrating/TheJoker' title='http://tvtropes.org/pmwiki/pmwiki.php/SelfDemonstrating/TheJoker'>The Joker</a> often has his own Jokermobile and even a Jokercopter.
+";i:448;s:56:"</li><li> The Penguin often has a customized limousine.
+";i:449;s:215:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/Catwoman' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/Catwoman'>Catwoman</a> had the Kitty Car and later the Catillac.
+";i:450;s:522:"</li><li> Killer Moth had the Mothmobile. Which actually <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItMakesSenseInContext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItMakesSenseInContext'>makes more sense than you might think</a>, as Killer Moth intentionally styled himself as Batman's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilCounterpart' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilCounterpart'>Evil Counterpart</a> - a "Batman for crooks."
+";i:451;s:753:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhateverHappenedToTheCapedCrusader' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhateverHappenedToTheCapedCrusader'>Whatever Happened to The Caped Crusader?</a></em>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/SelfDemonstrating/TheJoker' title='http://tvtropes.org/pmwiki/pmwiki.php/SelfDemonstrating/TheJoker'>The Joker</a>, Two-Face, AND <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/Catwoman' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/Catwoman'>Catwoman</a> have these. Others probably do as well, given the slightly... odd... nature of the piece, however these are the only ones we're shown.
+";i:452;s:151:"<ul ><li> The Jokermobile actually has some basis in continuity, first appearing in Batman #37 way back in 1946! There was even a toy made in the 50s.
+";i:453;s:404:"</li></ul></li><li> Catman has also acquired a Catmobile, as seen in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SecretSix' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SecretSix'>Secret Six</a></em>. He drives it while insisting any similarities between his name and costume and Batman are strictly coincidental. He also had a Catamaran in his Silver Age appearances.
+";i:454;s:80:"</li></ul></li><li> The other half of the Dynamic Duo has had its own examples:
+";i:455;s:291:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NightWing' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NightWing'>Dick Grayson's</a> Robin had a motorbike which had his colours, and was emblazoned with Rs, but was never actually called the Robin-Cycle.
+";i:456;s:428:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/RobinSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/RobinSeries'>Tim Drake</a> had a car in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Robin' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Robin'>Robin</a> colours (he had a provisional license because of his dad's disability) called the Redbird.
+";i:457;s:248:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Comicbook/GhostRider' title='http://tvtropes.org/pmwiki/pmwiki.php/Comicbook/GhostRider'>Ghost Rider</a>'s motorcycle, often with its own skull-shaped windshield.
+";i:458;s:390:"</li><li> "Archie" <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolAirship' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolAirship'>the Owlship</a>, the conveyance of Nite Owl II from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/Watchmen' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/Watchmen'>Watchmen</a></em>.
+";i:459;s:378:"<ul ><li> Which is of course the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainErsatz' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainErsatz'>Ersatz Mobile</a> for the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BlueBeetle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BlueBeetle'>Blue Beetle</a>'s "Bug".
+";i:460;s:1202:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spider-Man' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spider-Man'>Spider-Man</a>'s Spider-Mobile was introduced, both <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InUniverse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InUniverse'>In-Universe</a> and in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealLife' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealLife'>Real Life</a>, as part of a corporate deal (with a car company and a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MerchandiseDriven' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MerchandiseDriven'>toy company</a>, respectively.) In a lovely bit of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WriterRevolt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WriterRevolt'>Writer Revolt</a>, Spidey, being like many lifelong New Yorkers an untrained driver, accidentally drives it into the East River almost as soon as he gets it. It's shown up once or twice since then and Spidey is still embarrassed about the whole ordeal.
+";i:461;s:903:"</li><li> You wouldn't think <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Superman' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Superman'>Superman</a> would need such a thing, but he had a Supermobile. Created, like the Spider-Mobile, as a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MerchandiseDriven' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MerchandiseDriven'>toy tie-in</a>, the Supermobile did have some practical uses. Driving it, Superman could still be active in ordinarily hostile environments (e.g., in the presence of Kryptonite or a red sun.) <a class='urllink' href='http://www.toplessrobot.com/justicejogger.jpg'>The Justice Jogger<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a><small>&#9674;</small> is a bit more difficult to justify, admittedly.
+";i:462;s:375:"<ul ><li> An episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanTheBraveAndTheBold' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanTheBraveAndTheBold'>Batman The Brave And The Bold</a></em> featured Lex Luthor piloting something very similar to the Supermobile, but with his own logo and color scheme.
+";i:463;s:292:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GreenArrow' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GreenArrow'>Green Arrow</a> used to have an Arrow Car, an Arrow Plane, and versions of just about everything <em>else</em> that Batman had.
+";i:464;s:109:"<div class='indent'><strong>Batman:</strong> Good lord man, didn't you ever have an original idea back then?
+";i:465;s:674:"</div></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/FantasticFour' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/FantasticFour'>Fantastic Four</a></em> had the Fantasticar, in several variants. In early adventures, the FF had the original "flying bathtub" model, then a second, more streamlined and versatile one that can split into four separate planes, and the Pogo Plane (based on a real aircraft) for longer trips than the Fantasticar could take. All have the team's big <strong>4</strong> logo. The "flying bathtub" is so iconic that it's still associated with the name despite having been retired back in issue #12!
+";i:466;s:219:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoonKnight' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoonKnight'>Moon Knight</a> has a Mooncopter that resembles a crescent moon.
+";i:467;s:582:"</li><li> The "Jet Pack Pets" comics in <em>Disney Adventures</em> magazine once introduced a vehicle for them. Not only are they <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TalkingAnimal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TalkingAnimal'>Talking Animals</a></em>, but they have <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ExactlyWhatItSaysOnTheTin' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ExactlyWhatItSaysOnTheTin'>jetpacks</a>. They manage to find a use for it, however... <em>the drive-thru</em>.
+";i:468;s:1042:"</li><li> Although <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainAmerica' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainAmerica'>Captain America</a>'s comics vehicles aren't usually visually distinctive (but see Film, below), his also <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WearingAFlagOnyourHead' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WearingAFlagOnyourHead'>patriotic-themed</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeelFaceTurn' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeelFaceTurn'>foe-turned-ally</a> Battlestar has a red-white-and-blue Star Car. In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UltimateMarvel' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UltimateMarvel'>Ultimate Marvel</a></em> continuity, he uses a Captain America Tank for about three panels before the Hulk tears it apart. It is also stated that he has his own toyline of similarly themed vehicles.
+";i:469;s:128:"<ul ><li> Sometimes when Cap is riding his motorcycle, he will place his shield at the front which slightly invokes this trope.
+";i:470;s:255:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Brainiac' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Brainiac'>Brainiac</a> has a starship shaped like his own head, with metal tentacles hanging underneath.
+";i:471;s:987:"</li><li> Unusually for a "cosmic" villain, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Thanos' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Thanos'>Thanos</a> once had a helicopter &#8212; <a class='urllink' href='http://www.the-isb.com/?p=76'>with his name on it<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>!'<span class="notelabel" onclick="togglenote('note0lvmm');"><sup>note&nbsp;</sup></span><span id="note0lvmm" class="inlinefolder" isnote="true" onclick="togglenote('note0lvmm');" style="cursor:pointer;font-size:smaller;display:none;">Spidey Super Stories #39</span> (Granted, it was the "Easy Reader" kids' comic made in conjunction with <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheElectricCompany' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheElectricCompany'>The Electric Company</a></em> and not in continuity, but still....)
+";i:472;s:202:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Comicbook/TheAvengers' title='http://tvtropes.org/pmwiki/pmwiki.php/Comicbook/TheAvengers'>The Avengers</a> have the Quinjets:
+";i:473;s:633:"<ul ><li> The Quinjets were introduced as small, fast passenger jets that take the heroes where they need to be. The name is an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ArtifactTitle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ArtifactTitle'>Artifact Title</a>; they were introduced when the team had only five members. For a while, their teammate <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Hawkeye' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Hawkeye'>Hawkeye</a> had his own sky-cycle which was soon manufactured into multiple cycles for all non-flying members.
+";i:474;s:986:"</li><li> The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GreatLakesAvengers' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GreatLakesAvengers'>Great Lakes Avengers</a>, with a significantly lower budget, had "Quin-Jetta" &#8212; a Volkswagen Jetta with "GLA" painted on the doors. Later, after getting the benefits of government sanction, a garage was shown with all sorts of things, like Big Bertha's Bouncing Buggy and Flatman's Flatamaran. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SquirrelGirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SquirrelGirl'>Squirrel Girl</a> ends up in the Squirrel-a-Gig, an autogyro with a definite squirrel motif that's based on the Bat-Whirlygig mentioned above. (Makes you wonder what Mr Immortal would have &#8212; perhaps a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TopGear' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TopGear'>Toyota Hilux?</a>)
+";i:475;s:450:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NemesisTheWarlock' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NemesisTheWarlock'>Nemesis the Warlock</a> has a spacecraft called a Blitzspear that looks just like his head... or rather, a <em>head</em> that looks like his vehicle. Yes, the artist had already designed the vehicle when he got down to thinking what the Warlock's face should look like...
+";i:476;s:905:"<ul ><li> A later issue informs us that it's actually a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LivingShip' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LivingShip'>Living Ship</a>, a species of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GiantFlyer' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GiantFlyer'>Giant Flyers</a> that young males of his race must capture and forcibly domesticate as a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RiteOfPassage' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RiteOfPassage'>Rite of Passage</a> before they're given extensive <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BioAugmentation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BioAugmentation'>Bio-Augmentation</a> to make them spaceworthy. <em>Nemesis</em> is that sort of comic.
+";i:477;s:190:"</li></ul></li><li> The Black Knight usually rides a winged horse named Aragorn, but he once had a flying motorcycle he called his "atomic steed" so it would fit in with his "knight" thing.
+";i:478;s:484:"</li><li> The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/X-Men' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/X-Men'>X-Men</a> had the Blackbird, a jet (based on the <a class='urllink' href='http://en.wikipedia.org/wiki/Lockheed_SR-71_Blackbird'>Lockheed SR71 Blackbird<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>)that was eventually equipped with alien technology.
+";i:479;s:413:"</li><li> Like their 1987 cartoon counterparts, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Comicbook/TeenageMutantNinjaTurtlesAdventures' title='http://tvtropes.org/pmwiki/pmwiki.php/Comicbook/TeenageMutantNinjaTurtlesAdventures'>Archie Comics' Teenage Mutant Ninja Turtles</a> featured the Turtle Van, Turtle Blimp, and basically any other vehicle in the toylines/cartoons at the time.
+";i:480;s:258:"</li><li> For a while, even <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePunisher' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePunisher'>The Punisher</a> had his own van which was decked out with guns and a sonic cannon.
+";i:481;s:622:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IronMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IronMan'>Iron Man</a> has had a few of these over the years, despite having several suits of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoweredArmour' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoweredArmour'>Powered Armour</a> catering for any and all environments. Although spending ridiculous amounts of money on somethiung that would be more use for showing off than actual crimefighting in practice would be wholly in-character for Tony Stark.
+";i:482;s:17:"</li></ul></div>
+";i:483;s:199:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp;Films &#8212; Animation&nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:484;s:240:"<ul ><li> The Incredimobile seen at the very beginning of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheIncredibles' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheIncredibles'>The Incredibles</a></em>.
+";i:485;s:17:"</li></ul></div>
+";i:486;s:201:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp;Films &#8212; Live-Action&nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:487;s:69:"<ul ><li> The original Batman movies had many of these, as expected.
+";i:488;s:198:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Batman' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Batman'>Batman</a></em> had the Batmobile and Bat-Wing.
+";i:489;s:297:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/BatmanReturns' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/BatmanReturns'>Batman Returns</a></em> had a slightly different Batmobile and the unusual Bat Jetsleigh. The Penguin rode in a giant floating duck.
+";i:490;s:294:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/BatmanForever' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/BatmanForever'>Batman Forever</a></em> saw yet another Batmobile, the return of the Bat-Wing, and the new Batboat, which doubled as a submarine.
+";i:491;s:443:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/BatmanAndRobin' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/BatmanAndRobin'>Batman &amp; Robin</a></em> had the most thus far: Batman had a more streamlined, single-seat Batmobile while Robin had his own cycle. Mr. Freeze, meanwhile, had his own tank complete with ice-canon. Batgirl also had her own motorcycle. Oh, also, Batman has a Bat-Credit Card.
+";i:492;s:212:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheDarkKnightSaga' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheDarkKnightSaga'>The Dark Knight Saga</a></em>
+";i:493;s:74:"<ul ><li> The Tumbler serves as the Nolanverse's answer to the Batmobile.
+";i:494;s:317:"</li><li> "Incidentally, the Lamborghini is much more subtle..." This is a subtle in-joke. The particular model of Lamborghini Bruce Wayne drives is the Murcielago. Guess what "murcielago" translates to in English? <span class="spoiler" title="you can set spoilers visible by default on your profile" >the bat</span>
+";i:495;s:422:"</li><li> They still threw the "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolBike' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolBike'>Batpod</a>" out there but it strangely didn't seem out of place. Maybe <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MichaelCaine' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MichaelCaine'>Michael Caine</a> can do that.
+";i:496;s:95:"</li><li> The third installment sees a flying version of the Tumbler, similar to the Bat-Wing.
+";i:497;s:228:"</li></ul></li><li> The Gnomemobile from the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WaltDisney' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WaltDisney'>Walt Disney</a> film of the same name.
+";i:498;s:401:"</li><li> The Pussy Wagon, as seen in all of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/QuentinTarantino' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/QuentinTarantino'>Quentin Tarantino</a>'s films since <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KillBill' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KillBill'>Kill Bill</a></em>.
+";i:499;s:351:"<ul ><li> And also in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LadyGaga' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LadyGaga'>Lady Gaga</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Beyonce' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Beyonce'>Beyoncé</a>'s "Telephone" video.
+";i:500;s:211:"</li><li> And is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/QuentinTarantino' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/QuentinTarantino'>Quentin Tarantino</a>'s daily driver.
+";i:501;s:207:"</li></ul></li><li> Ecto-1 from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Ghostbusters' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Ghostbusters'>Ghostbusters</a></em>.
+";i:502;s:357:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeuceBigalowEuropeanGigolo' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeuceBigalowEuropeanGigolo'>Deuce Bigalow European Gigolo</a></em> has a "pimp boat" complete with hydraulics and spinnaz. Yes. You heard that right. <em>A boat with hydraulics and spinnaz</em>.
+";i:503;s:189:"</li><li> <a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PeeWeeHerman' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PeeWeeHerman'>Pee Wee Herman</a>'s bicycle.
+";i:504;s:296:"</li><li> The TV Movie adaptation of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainAmerica' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainAmerica'>Captain America</a> gave him a stars-and-stripes motorcycle, with the clear shield forming the windscreen.
+";i:505;s:428:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/MysteryScienceTheater3000' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/MysteryScienceTheater3000'>Mystery Science Theater 3000</a></em> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMovie' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMovie'>The Movie</a>: "Into the Weenie-mobile! Weenie-man away!"
+";i:506;s:672:"</li><li> The first <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AustinPowers' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AustinPowers'>Austin Powers</a></em> movie has an easily identifiable Jaguar E-Type convertible painted to look like a Union Jack with a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VanityLicensePlate' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VanityLicensePlate'>Vanity License Plate</a> reading SWINGER: the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IncrediblyLamePun' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IncrediblyLamePun'>Shaguar</a>.
+";i:507;s:175:"</li><li> From <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Orgazmo' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Orgazmo'>Orgazmo</a></em>:
+";i:508;s:89:"<div class='indent'>"Quick! To the Orgazmobile!" <br />"What?" <br />"My Buick Century!"
+";i:509;s:211:"</div></li><li> The Mirthmobile from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WaynesWorld' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WaynesWorld'>Wayne's World</a></em>.
+";i:510;s:649:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheBluesBrothers' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheBluesBrothers'>The Blues Brothers</a></em> mention the former Bluesmobile, which was a Cadillac that Elwood traded in for a microphone (a fair trade, we're told). The replacement Bluesmobile seen in the movie was a former police car that at first appears to be <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAllegedCar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAllegedCar'>The Alleged Car</a>, but endures more abuse than any automobile reasonably should.
+";i:511;s:323:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Blade' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Blade'>Blade</a> had his own car that was decked out with a few tricks. It was affectionately referred to by the crew as "the Blademobile". The name was never actually used in the film.
+";i:512;s:17:"</li></ul></div>
+";i:513;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp;Literature&nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:514;s:691:"<ul ><li> One of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StephaniePlum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StephaniePlum'>Stephanie Plum</a>'s first cars (that the reader is shown) is a beat-up deal with "pussy" sprayed on the side. The pussymobile, as she called it, set the trend for her <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EveryCarIsAPinto' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EveryCarIsAPinto'>various vehicles</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAllegedCar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAllegedCar'>of questionable quality</a>.
+";i:515;s:17:"</li></ul></div>
+";i:516;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp;Live-Action TV&nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:517;s:267:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Batman' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Batman'>Batman</a></em>: "Quickly, Robin! To the Batmobile!". Once Batgirl entered the show, she was given a motorcycle.
+";i:518;s:291:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMovie' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMovie'>The Movie</a> version introduced the Bat-copter and Bat-boat. Meanwhile, the Penguin and the rest of the villains had their own penguin sub.
+";i:519;s:693:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperSentai' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperSentai'>Super Sentai</a></em> / <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/PowerRangers' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/PowerRangers'>Power Rangers</a></em> and their Zords. As well as their motorcycles and the occasional car / flying transport / ATV/ <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBadassRig' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBadassRig'>mack truck</a></em> (most of these were added in the PR versions).
+";i:520;s:180:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho'>Doctor Who</a></em>
+";i:521;s:320:"<ul ><li> Hmmm... An anachronistic British police box on the cliffs of the planet Peladon... <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeAndRelativeDimensionsInSpace' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeAndRelativeDimensionsInSpace'>Who could that possibly belong to?</a>
+";i:522;s:470:"</li><li> The Third Doctor had Bessie, a 1910's vintage car that he hyped up with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InertialDampening' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InertialDampening'>Inertial Dampening</a>, a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HandyRemoteControl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HandyRemoteControl'>Handy Remote Control</a> and other goodies.
+";i:523;s:212:"</li><li> And then he had the Whomobile, a futuristic <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FlyingCar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FlyingCar'>Flying Car</a>.
+";i:524;s:494:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Torchwood' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Torchwood'>Torchwood</a></em> has cars with their logo on the side, especially notable as they're supposed to be a secret organisation. The organization itself is not secret, more or less the entire population of Cardiff knows they <em>exist</em>, but only the highest-ranking government officials actually know what they <em>do</em>.
+";i:525;s:375:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer'>Buffy the Vampire Slayer</a></em>/<em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Angel' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Angel'>Angel</a></em>
+";i:526;s:714:"<ul ><li> Spike refers to Angel's car as "The Angelmobile" in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Angel' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Angel'>Angel</a></em> while making fun of the title character <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMomentOfFunny' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMomentOfFunny'>"Quickly, to the Angel-Mobile. Away!"</a> The scene can be see <a class='urllink' href='http://www.youtube.com/watch?v=SwKZT332JSs&amp;feature=related'>here<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> (for now).
+";i:527;s:237:"</li><li> Incidentally, Spike himself, as well as Giles, are other Buffyverse characters with highly distinctive vehicles that seem descriptive of their personalities. They follow the trope, although they don't get that much screentime.
+";i:528;s:107:"</li><li> Most notable is Gunn's truck, which has stakes and other vampire slaying weapons attached to it.
+";i:529;s:469:"</li><li> Giles' convertible, too. Spike describes it as "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MidlifeCrisisCar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MidlifeCrisisCar'>A mid-life crisis vehicle</a> &#8212; <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMomentOfFunny' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMomentOfFunny'>something long, red, and shaped like a penis</a>."
+";i:530;s:494:"</li></ul></li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SidAndMartyKrofftProductions' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SidAndMartyKrofftProductions'>Sid and Marty Krofft Productions</a>' <em><a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ElectraWomanAndDynaGirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ElectraWomanAndDynaGirl'>Electra Woman And Dyna Girl</a></em>, the duo of course have an "Electracar".
+";i:531;s:181:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MythBusters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MythBusters'>MythBusters</a></em>
+";i:532;s:261:"<ul ><li> Whenever the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MythBusters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MythBusters'>MythBusters</a> have a myth which involves a car, it is invariably called the "Mythmobile".
+";i:533;s:124:"</li><li> Boats tend to get called the "<em>Myth-tanic X</em>", where <em>X</em> is a number increased with every new boat.
+";i:534;s:151:"</li><li> In their "Demolition Derby Special", they had the Mythbus. Which was destroyed when it tipped over at the end of testing a bus-related myth.
+";i:535;s:304:"</li><li> They had <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ICallItVera' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ICallItVera'>Earl the Cadillac</a> for a while. Then they dropped it from a crane, because they had promised to destroy it when it was donated to them.
+";i:536;s:303:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Heroes' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Heroes'>Heroes</a></em>: Somewhat parodied with the Ando-Cycle &#8212; Which we see in maybe two episodes before it's seldom ever mentioned again.
+";i:537;s:516:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/KnightRider' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/KnightRider'>Knight Rider</a></em> plays with this, as one of the main characters is a car, and is one of the most distinctive icons of the series. Unless you're in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GermansLoveDavidHasselhoff' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GermansLoveDavidHasselhoff'>Germany</a>, of course.
+";i:538;s:449:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Automan' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Automan'>Automan</a></em> had Cursor create all manner of Auto-whatever vehicles, covered with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TronLines' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TronLines'>Tron Lines</a> of the same blue-glowy effect as the man himself.
+";i:539;s:265:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheYoungOnes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheYoungOnes'>The Young Ones</a></em>: Vyvyan's Ford Anglia with flames down the side and a leg stuck on the bonnet.
+";i:540;s:396:"</li><li> Played with on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Frasier' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Frasier'>Frasier</a></em>. Frasier wants to be Corkmaster at his wine club (basically the president). Roz pokes fun at this absurd title by treating it like a superhero alias, saying that "If you win, I'd love a ride in the Cork-mobile."
+";i:541;s:409:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KamenRider' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KamenRider'>Kamen Riders</a>, as the second part of their name implies, have some sort of mount, most often a motorcycle. The Heisei era went to greater lengths to make the bikes more visually similar to the Riders, with some even having various forms to correspond.
+";i:542;s:438:"<ul ><li> Taken to the extreme with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KamenRiderDouble' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KamenRiderDouble'>Kamen Rider Accel</a>, who actually <em>turns into a motorcycle!</em> Incidentally, he also owns a "normal" motorcycle that could easily serve as a Thememobile, but is disqualified due to the fact that he only uses it when he's in civilian form.
+";i:543;s:427:"</li></ul></li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MichaelMoore' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MichaelMoore'>Michael Moore</a>'s show, <em>The Awful Truth</em>, there was the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ExactlyWhatItSaysOnTheTin' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ExactlyWhatItSaysOnTheTin'>SODOMobile</a>.
+";i:544;s:270:"</li><li> On <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Seinfeld' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Seinfeld'>Seinfeld</a></em>, when Kramer and Newman rush out of the apartment together, Jerry quips, "To the Idiotmobile!"
+";i:545;s:257:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMonkees' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMonkees'>The Monkees</a> rode around in a radically customized Pontiac GTO called, naturally, the Monkeemobile.
+";i:546;s:17:"</li></ul></div>
+";i:547;s:189:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp;Pro Wrestling&nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:548;s:537:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Wrestling/WWE' title='http://tvtropes.org/pmwiki/pmwiki.php/Wrestling/WWE'>WWE</a>'s resident <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WrestlingDoesntPay' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WrestlingDoesntPay'>wrestling</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperHero'>Super Hero</a>, The Hurricane, has his Hurri-cycle.
+";i:549;s:721:"<ul ><li> Over time, many other WWE stars would have a trademark vehicle that they'd drive down to the arena. From Eddie Guerrero's low riders up until Alberto Del Rio coming out in a random extremely expensive car, not to mention the dozen or so wrestlers who had ridden a motorcycle down to the ring. The ones that were consistent each time included JBL's white limo, complete with Texas longhorns on the hood and a license plate that had JBL's logo on it, Stone Cold Steve Austin's ATV that he rode around while as Sheriff of RAW, adorned with cute little "3:16" flags, and Chavo Guerrero Jr. as Kerwin White had what was nicknamed by fans as "The Whitemobile", a plain white golf cart with his initials on the front.
+";i:550;s:27:"</li></ul></li></ul></div>
+";i:551;s:188:"<p></p><div class="folderlabel" onclick="togglefolder('folder7');">&nbsp;&nbsp;&nbsp;&nbsp;Puppet Shows&nbsp;</div><div id="folder7" class="folder" isfolder="true" style="display:block;">
+";i:552;s:185:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SesameStreet' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SesameStreet'>Sesame Street</a></em>
+";i:553;s:44:"<ul ><li> Oscar the Grouch's Sloppy Jalopy.
+";i:554;s:267:"</li><li> <em>Follow That Bird</em> gives Count von Count <a class='urllink' href='http://muppet.wikia.com/wiki/The_Countmobile'>the Countmobile<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>.
+";i:555;s:249:"</li></ul></li><li> Roland Rat's Ratmobile (also seen in his superhero identity of Ratman). Although it actually more fits the design ethos of his sidekick Kevin the Gerbil, being a bright pink Ford Anglia with "RATMOBILE" written across the sides.
+";i:556;s:150:"<ul ><li> The comic strip version of Roland's Ratman persona has a Ratmobile that better fits the trope, being a drag racer shaped like his own head.
+";i:557;s:27:"</li></ul></li></ul></div>
+";i:558;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder8');">&nbsp;&nbsp;&nbsp;&nbsp;Tabletop Games&nbsp;</div><div id="folder8" class="folder" isfolder="true" style="display:block;">
+";i:559;s:233:"<ul ><li> You can get these in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MutantsAndMasterminds' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MutantsAndMasterminds'>Mutants & Masterminds</a></em>.
+";i:560;s:328:"</li><li> And you can <em>build</em> them in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/GeniusTheTransgression' title='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/GeniusTheTransgression'>Genius The Transgression</a></em>, although it's quite likely to have some unfortunate quirks.
+";i:561;s:17:"</li></ul></div>
+";i:562;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder9');">&nbsp;&nbsp;&nbsp;&nbsp;Theme Parks&nbsp;</div><div id="folder9" class="folder" isfolder="true" style="display:block;">
+";i:563;s:424:"<ul ><li> The <em>Disney Stars and Motorcars Parade</em> at <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DisneyThemeParks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DisneyThemeParks'>Hollywood Studios</a> features several <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Disney' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Disney'>Disney</a> stars in themed cars.
+";i:564;s:17:"</li></ul></div>
+";i:565;s:182:"<p></p><div class="folderlabel" onclick="togglefolder('folder10');">&nbsp;&nbsp;&nbsp;&nbsp;Toys&nbsp;</div><div id="folder10" class="folder" isfolder="true" style="display:block;">
+";i:566;s:170:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Barbie' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Barbie'>Barbie</a>'s Dream Car.
+";i:567;s:553:"</li><li> <em>Any</em> superhero action figure eventually acquires a vehicle of some sort, whether or not he has one in the source material. So, even though <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpiderMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpiderMan'>Spider Man</a> has trouble making his rent, he can still afford his own spider-themed VTOL fighter jet. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FlatWhat' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FlatWhat'>What</a>?
+";i:568;s:470:"<ul ><li> Rather infamously, a <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/JusticeLeague' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/JusticeLeague'>Justice League</a></em> action figure of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Comicbook/TheFlash' title='http://tvtropes.org/pmwiki/pmwiki.php/Comicbook/TheFlash'>The Flash</a>, who can run faster than light, came with a motorcycle.
+";i:569;s:320:"</li><li> There was also a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Daredevil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Daredevil'>Daredevil</a> figure with a motorcycle at some point. Although he has been shown to be capable of driving in emergencies, Daredevil is <em>blind</em>.
+";i:570;s:27:"</li></ul></li></ul></div>
+";i:571;s:189:"<p></p><div class="folderlabel" onclick="togglefolder('folder11');">&nbsp;&nbsp;&nbsp;&nbsp;Video Games&nbsp;</div><div id="folder11" class="folder" isfolder="true" style="display:block;">
+";i:572;s:314:"<ul ><li> The vehicles in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MarioKart' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MarioKart'>Mario Kart</a>: Double Dash!!</em> and subsequent games, which tend to stretch the "kart" aspect of <em>Mario Kart</em> a bit much.
+";i:573;s:61:"<ul ><li> Who doesn't love driving a Kart shaped like Yoshi?
+";i:574;s:120:"<ul ><li> Or an egg? A tank? An airplane? A shooting star? The lower half of a robot with a big wheel between his legs?
+";i:575;s:432:"</li></ul></li><li> While we're at it, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SuperMarioWorld' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SuperMarioWorld'>Bowser's Koopa Clown Car</a> (actually a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HellishCopter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HellishCopter'>copter</a>) is also worth mentioning.
+";i:576;s:134:"<ul ><li> Mario Kart DS one-ups the Clown Car, with The Hurricane, a Clown Car-shaped Airplane/Car (too bad it doesn't actually fly).
+";i:577;s:272:"</li></ul></li><li> The Starshroom in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SuperMarioGalaxy' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SuperMarioGalaxy'>Super Mario Galaxy</a></em>, and Spaceship Mario in the sequel.
+";i:578;s:484:"</li></ul></li><li> The Edelweiss, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolTank' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolTank'>Cool Tank</a> from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ValkyriaChronicles' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ValkyriaChronicles'>Valkyria Chronicles</a></em> is shown a few times carrying various members of Squad 7 for long distance travel.
+";i:579;s:219:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/GrandTheftAuto' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/GrandTheftAuto'>Grand Theft Auto</a></em> series examples:
+";i:580;s:543:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewAgeRetroHippie' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewAgeRetroHippie'>The Truth's</a> "Mothership" (a repainted camper van). <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/GrandTheftAutoSanAndreas' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/GrandTheftAutoSanAndreas'>San Andreas</a></em> has other character-unique vehicles, but for the most part they're only distinguished by a unique license plate.
+";i:581;s:528:"</li><li> Lance Vance from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/GrandTheftAutoViceCity' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/GrandTheftAutoViceCity'>Vice City</a></em> had the white Lamborghini to go with his suit. White Lamborghinis are not especially rare in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealLife' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealLife'>Real Life</a>, in the game, Lance was the only person to have one.
+";i:582;s:465:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessorLayton' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessorLayton'>Professor Layton</a>'s Laytonmobile is specifically designed to accommodate him and his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NiceHat' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NiceHat'>hat</a>. It also shares the color scheme of the Professor's hat.
+";i:583;s:292:"</li><li> The <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Battletoads' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Battletoads'>Battletoads</a></em> games have the S.S. Vulture (which is shaped a lot like Professor T. Bird) and the Battlecopter.
+";i:584;s:377:"</li><li> One of the expansions for <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheSims' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheSims'>The Sims</a> 3</em> introduces the Motive Mobile, a Lifetime Reward that lets your Sim commute to their job in a vehicle that keeps their needs from dropping on their way to and from work.
+";i:585;s:341:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SaintsRowTheThird' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SaintsRowTheThird'>Saints Row The Third</a> brings us the GatMobile, which is a big purple van with a <em>giant</em> Johnny Gat head on the front. The cigar is also a functional flamethrower.
+";i:586;s:241:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SegaSuperstars' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SegaSuperstars'>Sonic &amp; Sega All-Stars Racing</a></em> has Sonic's blue car.
+";i:587;s:17:"</li></ul></div>
+";i:588;s:188:"<p></p><div class="folderlabel" onclick="togglefolder('folder12');">&nbsp;&nbsp;&nbsp;&nbsp;Web Comics&nbsp;</div><div id="folder12" class="folder" isfolder="true" style="display:block;">
+";i:589;s:396:"<ul ><li> From <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TerrorIsland' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TerrorIsland'>Terror Island</a></em>: <a class='urllink' href='http://terrorisland.net/strips/289.html'>The waitermobile.<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>
+";i:590;s:634:"</li><li> Mr. Mighty from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EverydayHeroes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EverydayHeroes'>Everyday Heroes</a></em> parodies this with the <a class='urllink' href='http://www.webcomicsnation.com/eddurd/everydayheroes/series.php?view=single&amp;ID=76616'>Mighty-Mobile<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>... which, being a minor-league hero, <span class="spoiler" title="you can set spoilers visible by default on your profile" > he can only dream of</span>.
+";i:591;s:334:"</li><li> The Vespavenger from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/QuestionableContent' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/QuestionableContent'>Questionable Content</a></em> is a rare example of a character named for their mode of transportation, rather than the other way around.
+";i:592;s:222:"</li><li> The Whoremobile from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProblemSleuth' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProblemSleuth'>Problem Sleuth</a></em>. No, really.
+";i:593;s:488:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/LadySpectraAndSparky' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/LadySpectraAndSparky'>Lady Spectra And Sparky</a></em> drive around in the <a class='urllink' href='http://www.webcomicsnation.com/jkcarrier/ladyspectra/series.php?view=single&amp;ID=172738'>Prismobile.<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>
+";i:594;s:17:"</li></ul></div>
+";i:595;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder13');">&nbsp;&nbsp;&nbsp;&nbsp;Web Original&nbsp;</div><div id="folder13" class="folder" isfolder="true" style="display:block;">
+";i:596;s:513:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Englishman' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Englishman'>Englishman</a></em> has the Bentmobile (a Bentley whose name is purely <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InnocentInnuendo' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InnocentInnuendo'>Innocent Innuendo</a>, as Englishman is unaware of the negative connotations) and in an earlier episode the "Helicoptermobile".
+";i:597;s:653:"</li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GlobalGuardiansPBEMUniverse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GlobalGuardiansPBEMUniverse'>Global Guardians PBEM Universe</a></em>, Battlecat rides a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolBike' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolBike'>Cool Bike</a> called the Battlecycle. The Nightwatchman drives a midnight-black <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolCar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolCar'>Cool Car</a> called the Nightmobile.
+";i:598;s:388:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WebVideo/HitlerRants' title='http://tvtropes.org/pmwiki/pmwiki.php/WebVideo/HitlerRants'>Introducing, the</a> <a class='urllink' href='http://www.youtube.com/watch?v=WjanqQ0ANxY'>FegelMobile<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>!
+";i:599;s:17:"</li></ul></div>
+";i:600;s:195:"<p></p><div class="folderlabel" onclick="togglefolder('folder14');">&nbsp;&nbsp;&nbsp;&nbsp;Western Animation&nbsp;</div><div id="folder14" class="folder" isfolder="true" style="display:block;">
+";i:601;s:333:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheBatman' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheBatman'>The Batman</a></em> briefly shows Green Arrow flying his Arrow Plane across Gotham. Good thing because he and Batman needed to split up to save the day.
+";i:602;s:283:"</li><li> As <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SpongebobSquarepants' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SpongebobSquarepants'>Spongebob Squarepants</a> tells us, you don't need a license to drive a sandwich.
+";i:603;s:83:"<ul ><li> Mermaidman and Barnacle Boy have an invisible Boatmobile, as it happens.
+";i:604;s:823:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TeenTitans' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TeenTitans'>Teen Titans</a></em>: Cyborg and the T-Car. Not to mention the giant T-shaped Titans Tower and the T-Sub which <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpaceIsAnOcean' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpaceIsAnOcean'>doubles as a spaceship</a>. Also, in an episode there was a road race of all the villians plus Robin, where they all had theme vehicles, such as Mad Mod driving a car shaped like <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMomentOfFunny' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMomentOfFunny'>Big Ben clocktower</a>
+";i:605;s:200:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/FamilyGuy' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/FamilyGuy'>Family Guy</a></em>
+";i:606;s:212:"<ul ><li> Parodied in an episode where Peter shouts "To the Petercopter!" and rushes to his Peter-shaped helicopter, which crashes on Joe's lawn. He does the same thing later with his zeppelin, the Hinden-Peter.
+";i:607;s:74:"</li></ul><div class='indent'>"How can you <em>afford</em> these things?"
+";i:608;s:435:"</div><ul ><li> An earlier episode had "To the <a class='urllink' href='http://en.wikipedia.org/wiki/Popemobile'>Popemobile<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>", complete with cheesy <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/AdamWest' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/AdamWest'>Adam West</a> music.
+";i:609;s:225:"</li></ul></li><li> The Phooeymobile from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HongKongPhooey' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HongKongPhooey'>Hong Kong Phooey</a></em>.
+";i:610;s:509:"</li><li> In one episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/PhineasAndFerb' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/PhineasAndFerb'>Phineas And Ferb</a></em>, Dr. Doofenshmirtz had a monster truck shaped like his own head and regularly uses a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolAirship' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolAirship'>Cool Airship</a> with his name on the side.
+";i:611;s:338:"<ul ><li> Also appears by name in another episode. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItsAllAboutMe' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItsAllAboutMe'>Professor Poofinplotz</a> travels in a ten foot replica of her own head mounted on mechanical spider legs, aptly dubbed her "Me Mobile".
+";i:612;s:341:"</li><li> The episode "Bee Story" reveals that Poofinplotz has a similar vehicle, the "Myself-icopter". Now it's only a matter of time before she gets a third vehicle that <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThemeNaming' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThemeNaming'>starts with "I"</a>...
+";i:613;s:644:"</li></ul></li><li> Parodied in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Freakazoid' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Freakazoid'>Freakazoid!</a>!</em> with the Freakmobile. Freakazoid <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoFourthWall' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoFourthWall'>stated outright</a> that it only existed for merchandising, despite the fact that he had superspeed and clearly did not need it. One episode even had toy executives insisting that he use the Freakmobile for a car chase when he was keeping up just fine on foot.
+";i:614;s:502:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DarkwingDuck' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DarkwingDuck'>Darkwing Duck</a></em> has his plane, the Thunderquack, and his bike (with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolSidecar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolSidecar'>sidecar</a>), the Ratcatcher, both very duck-themed and keeping with his overall color scheme.
+";i:615;s:355:"</li><li> The <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TeenageMutantNinjaTurtles1987' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TeenageMutantNinjaTurtles1987'>Teenage Mutant Ninja Turtles</a></em> had the Turtlevan (called the Party Wagon in the toy line), Turtle Blimp, and probably more.
+";i:616;s:506:"<ul ><li> The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TeenageMutantNinjaTurtles2003' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TeenageMutantNinjaTurtles2003'>noughties series</a> featured the Battle Shell, which was basically the Turtlevan with a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkerAndEdgier' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkerAndEdgier'>Darker and Edgier</a> name and appearance.
+";i:617;s:163:"</li><li> In the futuristic <em>Fast Forward</em> season the Hover Shell was a Battle Shell that could fly as well as eject the cockpit as its own ground vehicle.
+";i:618;s:84:"</li><li> Also the Cheapskates, basically motorized skateboards built by Donatello.
+";i:619;s:382:"</li></ul></li><li> A special mention for the Duocar... the <span class="spoiler" title="you can set spoilers visible by default on your profile" >penis-and-scrotum-shaped</span> car of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SaturdayNightLive' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SaturdayNightLive'>The Ambiguously Gay Duo</a></em>.
+";i:620;s:221:"</li><li> The Falconcar from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DynomuttDogWonder' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DynomuttDogWonder'>Dynomutt Dog Wonder</a></em>.
+";i:621;s:412:"</li><li> The Ranger Plane from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/ChipNDaleRescueRangers' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/ChipNDaleRescueRangers'>Chip N Dale Rescue Rangers</a></em>. At least that one. There's also at least one Ranger Mobile, the Ranger Wing, the Ranger Rocket, and a number of rides not named after the Rangers.
+";i:622;s:264:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WackyRaces' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WackyRaces'>Wacky Races</a></em> is entirely about improbably-themed vehicles, each fitting with their owners to a T.
+";i:623;s:337:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TeamoSupremo' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TeamoSupremo'>Teamo Supremo</a></em> would have one, as shown by Paulson about to unveil it to them in the series premiere, but they don't get to use it because they're too young to drive.
+";i:624;s:469:"</li><li> Arguably, Optimus Prime (or any other sufficiently well-known <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Transformers' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Transformers'>Transformer</a>), but instead of driving his signature vehicle, he <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TransformingMecha' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TransformingMecha'>transforms into it</a>.
+";i:625;s:809:"<ul ><li> However, the Action Master toyline had non-transforming figures with transformation-capable accessories. Optimus Prime's was a giant, cannon-laden truck called <a class='urllink' href='http://tfwiki.net/wiki/Armored_Convoy'>Armored Convoy<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FridgeLogic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FridgeLogic'>What street you're supposed to drive</a> that thing on remains unknown, though it'd be just the right size for <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TransformersCybertron' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TransformersCybertron'>Gigantion</a>.
+";i:626;s:211:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePowerpuffGirls' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePowerpuffGirls'>The Powerpuff Girls</a></em>
+";i:627;s:368:"<ul ><li> An episode has the team trying alternate identities, and Blossom becomes a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainAmerica' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainAmerica'>Captain America</a> wannabe with a patriotic themed car &#8212; which promptly gets stuck in a traffic jam on the way to a rescue.
+";i:628;s:336:"</li><li> Later episodes featored the Powerpuff Dynamo, a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HumongousMecha' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HumongousMecha'>Humongous Mecha</a> that looked like a giant Powerpuff Girl with aspects of all three. It was more trouble than it was worth.
+";i:629;s:795:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JusticeLeague' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JusticeLeague'>Justice League</a></em> features <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheFlash' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheFlash'>The Flashmobile</a>, which is actually just a pimped-out van he bought with endorsement money he made appearing in commercials. As <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GreenLantern' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GreenLantern'>Green Lantern</a> points out, it's completely ridiculous. Somewhat justified, though, considering its real purpose isn't getting around... at least not in that sense...
+";i:630;s:411:"<div class='indent'><strong><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GreenLantern' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GreenLantern'>Green Lantern</a></strong>: Why do you need a van... <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Radar/JusticeLeague' title='http://tvtropes.org/pmwiki/pmwiki.php/Radar/JusticeLeague'>wait, I don't wanna know.</a>
+";i:631;s:604:"</div></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SwatKats' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SwatKats'>Swat Kats</a></em>: The Turbokat is at <em>least</em> as well known as the flight suits for the Swat Kats. The other bigger vehicles (the Turbomole, the Hoverkat, and the unnamed amphibious sub/tank used for a short time in one episode) all had the same basic paint scheme, as did the jet skis. The other smaller vehicles (The Cyclotron and Sandkat) had the same color scheme as their flight suits. All of them qualify.
+";i:632;s:972:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanTheBraveAndTheBold' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanTheBraveAndTheBold'>Batman The Brave And The Bold</a></em> has all the usual Bat-vehicles (including a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TransformingMecha' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TransformingMecha'>Transforming Mecha</a> Batmobile), as well as <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GreenArrow' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GreenArrow'>Green Arrow</a>'s Arrow-Car and Arrow Plane, and the Robin-Cycle. And, in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WackyRacing' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WackyRacing'>Wacky Racing</a> episode, the Jokermobile, Kitty-Car, Huntress-Cycle, Gentleman Ghost's hearse, and so on.
+";i:633;s:520:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InspectorGadget' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InspectorGadget'>Inspector Gadget</a> has the Gadgetmobile, complete with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CatchPhrase' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CatchPhrase'>Catch Phrase</a> (and lever) activation of its own gadgets. Doctor Claw, naturally, drove/flew/sailed the Madmobile, liberally decked with the MAD logo.
+";i:634;s:388:"</li><li> Parodied in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JohnnyBravo' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JohnnyBravo'>Johnny Bravo</a></em>, where <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/AdamWest' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/AdamWest'>Adam West</a> drives the Adamwestmobile.
+";i:635;s:242:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/YinYangYo' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/YinYangYo'>Yin Yang Yo</a>! parodies this trope in one (hilarious) ocassion:
+";i:636;s:62:"<div class='indent'><strong>Yang</strong>: To the Foo-mobile!
+";i:637;s:85:"</div><div class='indent'><strong>Yin</strong>: Uhm... We don't have a Foo-mobile...
+";i:638;s:74:"</div><div class='indent'><strong>Yang</strong>: To the dirty public bus!
+";i:639;s:188:"</div></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSimpsons' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSimpsons'>The Simpsons</a></em>
+";i:640;s:99:"<ul ><li> Homer suggests the family get "to the Simpsonmobile!" to rescue Selma from Sideshow Bob.
+";i:641;s:316:"</li><li> There is also the episode where Homer salvaged the remains of a sugar truck and the massive pile of sugar attracts every bee in Springfield. When the beekeepers notice this, one proclaims, "To the beemobile!" to which his colleague asks, "You mean your Chevy?". After a beat, he responds "yes" in deadpan.
+";i:642;s:447:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BeverlyHillsTeens' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BeverlyHillsTeens'>Beverly Hills Teens</a></em> Larke's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolCar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolCar'>Pink Ferrari</a>, the diamond stretch limo, The Rockmobile, and the Woody, to name a few.
+";i:643;s:544:"</li><li> In a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ClockPunk' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ClockPunk'>Clock Punk</a> variant, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Wakfu' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Wakfu'>Wakfu</a></em>'s Justice Knight has the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolTrain' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolTrain'>Justice Train</a>.
+";i:644;s:351:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Batfink' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Batfink'>Batfink</a> and his sidekick Karate drive <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PunnyName' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PunnyName'>the Battillac</a>.
+";i:645;s:310:"</li><li> A few of them in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainPlanetAndThePlaneteers' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainPlanetAndThePlaneteers'>Captain Planet and the Planeteers</a></em>. The Geo-cruiser and the Geo-copter were two of them.
+";i:646;s:205:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolMcCool' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolMcCool'>Cool McCool</a> drove (what else?) the Coolmobile.
+";i:647;s:251:"</li><li> The Mystery Machine on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ScoobyDoo' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ScoobyDoo'>Scooby-Doo</a></em> has become as iconic as the Scooby gang themselves.
+";i:648;s:566:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/ScoobyDooAndTheReluctantWerewolf' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/ScoobyDooAndTheReluctantWerewolf'>Scooby Doo And The Reluctant Werewolf</a></em>, all of the Halloween monsters hanging out with Dracula have a race car themed after themselves, with the weird exception of the Werewolf Wagon, which bears no similarity to anything werewolf-related (though one could argue that as a light yellow Beetle, it vaguely resembles a full moon).
+";i:649;s:80:"</li></ul><div class='indent'> "And here comes the Mummy, in his Mummy-Mobile!"
+";i:650;s:457:"</div></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DanVs' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DanVs'>Dan Vs</a></em> features the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DepartmentOfRedundancyDepartment' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DepartmentOfRedundancyDepartment'>Carmobile</a>. A later episode refers to it as the Danmobile.
+";i:651;s:312:"</li><li> In one episode of Challenge of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperFriends' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperFriends'>Super Friends</a>, Batman had a <em>bat rocket.</em> Which he flew to the <em>moon.</em> In under <em>one minute.</em>
+";i:652;s:390:"</li><li> In the debut episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheFlintstones' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheFlintstones'>The Flintstones</a></em>, Barney invents a flying device that catches Fred's attention. Barney wants to call it "the Barney-Copter," but Fred christens it the episode's title, "The Flintstone Flyer."
+";i:653;s:1006:"</li><li> At the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanTheAnimatedSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanTheAnimatedSeries'>Batman The Animated Series</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Recap/BatmanTheAnimatedSeriesTheClockKing' title='http://tvtropes.org/pmwiki/pmwiki.php/Recap/BatmanTheAnimatedSeriesTheClockKing'>episode The Clock King</a> this trope is Deconstructed, instead of the Batmobile, Batman travels through Gotham into Bruce Wayne’s limousine. This episode is a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreDeconstruction' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreDeconstruction'>Genre Deconstruction</a>: <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FridgeLogic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FridgeLogic'>Batman wouldn't stop fighting crime only because he can't TravelCool</a>.
+";i:654;s:17:"</li></ul></div>
+";i:655;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder15');">&nbsp;&nbsp;&nbsp;&nbsp;Real Life&nbsp;</div><div id="folder15" class="folder" isfolder="true" style="display:block;">
+";i:656;s:213:"<ul ><li> The <a class='urllink' href='http://en.wikipedia.org/wiki/Popemobile'>Popemobile<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>.
+";i:657;s:254:"</li><li> <a class='urllink' href='http://en.wikipedia.org/wiki/File:OurDog.jpg'>The Oscar Meyer Weinermobile.<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a><small>&#9674;</small>
+";i:658;s:479:"<ul ><li> And its <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainErsatz' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainErsatz'>Captain Ersatz</a>, <a class='urllink' href='http://hoboken411.com/wp-content/uploads/2007/07/star-ledger-munchmobile-pizza-hoboken-hoboken411-24.JPG'>the Munchmobile<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a><small>&#9674;</small>.
+";i:659;s:302:"</li><li> The Outspan Fruit Juice company got in on the act over in the UK with <a class='urllink' href='http://www.thisbrighton.co.uk/culture-hcvs-outspan.htm'>the Outspan Orange<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>.
+";i:660;s:35:"</li></ul></li><li> Air Force One.
+";i:661;s:88:"<ul ><li> It helps that it has "President Of The United States" written down the sides.
+";i:662;s:76:"</li><li> Similarly, Marine One and "Cadillac One" (The Presidential Limo).
+";i:663;s:880:"</li><li> Technically, Air Force One, Marine One etc are simply the radio callsigns for any vehicle that the President happens to be travelling in at the time. Air Force One can be any US Air-Force aircraft the president happens to be travelling in. Marine One is any US Marine Corps aircraft. Cadillac One is any ground vehicle, and so on. The ACTUAL vehicles with the real name (not callsign) of "Air Force One" or "Marine One" are also valid, and refer to the vehicles specially modified for the President, but are never called that over the radio unless the president is actually travelling in them. (Air traffic control takes this rule to ridiculous extremes: when Richard Nixon resigned, the call sign of his Boeing actually changed from "Air Force One" to "SAM 27000" in mid-flight, something that never happens ordinarily because it would be an administrative nightmare.)
+";i:664;s:257:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Music/IronMaiden' title='http://tvtropes.org/pmwiki/pmwiki.php/Music/IronMaiden'>Iron Maiden</a> travels in a a modified Boeing 757-200 flown by the lead singer, named Ed Force One.
+";i:665;s:530:"</li><li> <a class='urllink' href='http://en.wikipedia.org/wiki/Presidential_state_car_(United_States)'>Cadillac One AKA "The Beast"<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>. Unlike the previous limo, it is not a stretched and armoured DTS, or even an production vehicle. It uses a Chevy Kodiac commercial truck chassis, engine and driveline, Cadillac Escalade body panels, headlights, door mirrors and door handles, and STS tail and reverse lights.
+";i:666;s:270:"</li></ul></li><li> The <a class='urllink' href='http://en.wikipedia.org/wiki/File:TOYOTA_ist_Pikachu_Car.jpg'>Pikachu mobile<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a><small>&#9674;</small>.
+";i:667;s:86:"<ul ><li> There's a New Beetle version of that, as well as a Lugia-themed PT Cruiser.
+";i:668;s:273:"</li></ul></li><li> Red Bull uses special Red Bull cars (complete with giant imitation can on top/on the trunk) in numerous countries, including but not limited to the US, Australia, Slovakia, Hungary and the Netherlands. Their purpose is usually to hand out free samples.
+";i:669;s:554:"<ul ><li> In a few countries, <strong>the</strong> Red Bull Car is a Mk 1 (BMW) <a class='urllink' href='http://www.toddsmods.com/blog/archives/redbull-thumb.jpg'>Mini<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a><small>&#9674;</small>. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FridgeBrilliance' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FridgeBrilliance'>Which may be an allusion to te fact Red Bull packs a mighty punch in a small can</a>.
+";i:670;s:158:"<ul ><li> More competitors are using this approach. Monster energy drinks uses a "Monster Truck", a themed pickup with a large audio installation for events.
+";i:671;s:203:"</li></ul></li></ul></li><li> The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WheelOfFortune' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WheelOfFortune'>Wheelmobile</a>.
+";i:672;s:553:"</li><li> Do we count <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/RedDwarf' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/RedDwarf'>Carbug</a>? Its first appearance, if you don't count the online previews, was actually in real life, in public. Also, <a class='urllink' href='http://www.reddwarf.co.uk/news/2009/10/30/carbug-goes-to-lucky-bidder'>there's actually someone driving about in it now...<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>
+";i:673;s:38:"</li><li> No mention of Hitler's car?
+";i:674;s:192:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSimpsons' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSimpsons'>With the built in flamethrower?</a>
+";i:675;s:282:"</li></ul></li><li> The <a class='urllink' href='http://news.whoviannet.co.uk/wp-content/uploads/2010/03/doctor-who-tour-bus.jpg'>Who Bus<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a><small>&#9674;</small>.
+";i:676;s:408:"</li><li> Google's fleet of <a class='urllink' href='http://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Google_Street_View_Car_in_Villa-Lobos_Park_in_S%C3%A3o_Paulo.jpg/800px-Google_Street_View_Car_in_Villa-Lobos_Park_in_S%C3%A3o_Paulo.jpg'>Street View cars<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a><small>&#9674;</small>.
+";i:677;s:47:"</li><li> There is also the Geeksquad beetles.
+";i:678;s:63:"</li><li> The Girls Gone Wild Bus. And let's leave it at that.
+";i:679;s:68:"</li><li> We can't forget the many libraries that have bookmobiles.
+";i:680;s:395:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RichardFeynman' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RichardFeynman'>Richard Feynman</a>'s <a class='urllink' href='http://www.fotuva.org/online/frameload.htm?/online/van.htm'>van<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>.
+";i:681;s:17:"</li></ul></div>
+";i:682;s:14:"<p></p><hr />
+";i:683;s:3221:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SlimeSnailsAndMutantTails">Slime Snails And Mutant Tails</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ToyTropes">Toy Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TonkaTough">Tonka Tough</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a class="twikilink" href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TandemParasite" title="http://tvtropes.org/pmwiki/pmwiki.php/Main/TandemParasite">Tandem Parasite</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/VehicleIndex">Vehicle Index</a></td><td class="trail_right" path="true"><a class="twikilink" href="http://tvtropes.org/pmwiki/pmwiki.php/Main/UndersideRide" title="http://tvtropes.org/pmwiki/pmwiki.php/Main/UndersideRide">Underside Ride</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SwissArmySuperpower">Swiss Army Superpower</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperheroTropes">Superhero Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Trainstopping">Trainstopping</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TankGoodness">Tank Goodness</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TravelCool">Travel Cool</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TooImportantToWalk">Too Important To Walk</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheTaxi">The Taxi</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MotorVehicleTropes">Motor Vehicle Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ToyotaTripwire">Toyota Tripwire</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMagazineRule">The Magazine Rule</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes">Characterization Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMoralityMortalityEquation">The Morality Mortality Equation</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:684;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:685;s:10:"<p> </p>
+";i:686;s:10:"<center>
+";i:687;s:2:"
+";i:688;s:24:"<!-- med rectangle -->
+";i:689;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:690;s:33:"<script type='text/javascript'>
+";i:691;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:692;s:11:"</script>
+";i:693;s:8:"</div>
+";i:694;s:2:"
+";i:695;s:11:"</center>
+";i:696;s:24:"</td><!-- wikibody -->
+";i:697;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:698;s:7:"</td>
+";i:699;s:7:"</tr>
+";i:700;s:10:"</table>
+";i:701;s:22:"<!--PageFooterFmt-->
+";i:702;s:161:"<div class="alt_title" style="font-size:x-small;text-align:center;" ><b>alternative title(s):</b> Matching Vehicle; Tropemobile; Character Themed Vehicle</div>
+";i:703;s:10:"<center>
+";i:704;s:44:"<table style="width:606px;margin:0 auto;">
+";i:705;s:7:"	<tr>
+";i:706;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:707;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:708;s:260:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Thememobile?action=edit'> edit page</a></div></div></td>
+";i:709;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:710;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:711;s:8:"	</tr>
+";i:712;s:10:"</table>
+";i:713;s:11:"</center>
+";i:714;s:21:"<div id='wikifoot'>
+";i:715;s:27:"    <div class='footnav'>
+";i:716;s:2:"
+";i:717;s:14:"			 <center>
+";i:718;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:719;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:720;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:721;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:722;s:15:"				</center>
+";i:723;s:2:"
+";i:724;s:29:"    </div><!-- wikifoot -->
+";i:725;s:23:"<!--/PageFooterFmt-->
+";i:726;s:12:"88729<br/>
+";i:727;s:4:"30
+";i:728;s:8:"</div>
+";i:729;s:26:"</div><!-- container -->
+";i:730;s:2:"
+";i:731;s:9:"</body>
+";i:732;s:21:"<!--ScriptInsert-->
+";i:733;s:9:"</html>
+";}}

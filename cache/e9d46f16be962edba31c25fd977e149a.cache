@@ -1,0 +1,538 @@
+a:2:{i:0;i:1377888350;i:1;a:537:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:63:"<title>Phone Booth - Television Tropes &amp; Idioms  </title>
+";i:5;s:129:"<meta name="Description" content="The Phone Booth trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:2:"
+";i:25;s:10:"</style>
+";i:26;s:2:"
+";i:27;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:28;s:33:"<script type="text/javascript">
+";i:29;s:26:"  var _gaq = _gaq || [];
+";i:30;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:31;s:34:"  _gaq.push(['_trackPageview']);
+";i:32;s:2:"
+";i:33;s:17:"  (function() {
+";i:34;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:35;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:36;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:37;s:9:"  })();
+";i:38;s:2:"
+";i:39;s:32:"	function subpage(sel, title){
+";i:40;s:4:"		
+";i:41;s:40:"		var namespce = ""+getselection(sel);
+";i:42;s:34:"		if(namespce.trim()=="")return;
+";i:43;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:44;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:45;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:46;s:29:"		window.location.href=url;
+";i:47;s:4:"	}
+";i:48;s:32:"	function p5(groupname,title){
+";i:49;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:50;s:4:"	}
+";i:51;s:27:"	function togglenote(id){
+";i:52;s:23:"		var ele=object(id);
+";i:53;s:34:"		var state = ele.style.display;
+";i:54;s:49:"		if(state=='none') ele.style.display='inline';
+";i:55;s:48:"		if(state=='inline')ele.style.display='none';
+";i:56;s:4:"	}
+";i:57;s:35:"	var googletag = googletag || {};
+";i:58;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:59;s:16:"	(function() {
+";i:60;s:47:"	var gads = document.createElement('script');
+";i:61;s:21:"	gads.async = true;
+";i:62;s:33:"	gads.type = 'text/javascript';
+";i:63;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:64;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:65;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:66;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:67;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:68;s:8:"	})();
+";i:69;s:2:"
+";i:70;s:34:"	googletag.cmd.push(function() {
+";i:71;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:73;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:74;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:75;s:45:"		googletag.pubads().enableSingleRequest();
+";i:76;s:31:"		googletag.enableServices();
+";i:77;s:6:"	});
+";i:78;s:2:"
+";i:79;s:11:"</script>
+";i:80;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:81;s:2:"
+";i:82;s:9:"</head>
+";i:83;s:8:"<body>
+";i:84;s:40:"<div class="container" id="container">
+";i:85;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:86;s:6:"<tr>
+";i:87;s:46:"<td style="width:166px;vertical-align:top;">
+";i:88;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:89;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:90;s:38:"<g:plusone size="small"></g:plusone>
+";i:91;s:2:"
+";i:92;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:93;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:94;s:6:"<ul>
+";i:95;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:96;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:97;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:98;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:99;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:100;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:101;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:102;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:103;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:104;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:105;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:106;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:107;s:7:"</ul>
+";i:108;s:8:"</div>
+";i:109;s:2:"
+";i:110;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:111;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:112;s:2:"
+";i:113;s:181:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','PhoneBooth');">send request</button><hr/></div>
+";i:114;s:2:"
+";i:115;s:322:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="PhoneBooth" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:116;s:2:"
+";i:117;s:51:"<div style="font-size:small;text-align:center;" >
+";i:118;s:30:"Find recent edits by troper:
+";i:119;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:120;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:121;s:8:"</div>
+";i:122;s:7:"<hr/>
+";i:123;s:7:"<ul>	
+";i:124;s:4:"		
+";i:125;s:7:"<hr/>
+";i:126;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:127;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:128;s:59:"		<input type="hidden" name="title" value="PhoneBooth" />
+";i:129;s:54:"		This article needs some moderator assistance with:
+";i:130;s:9:"		<br/>
+";i:131;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:132;s:9:"		<br/>
+";i:133;s:4:"		
+";i:134;s:34:"		<p style="text-align:center;">
+";i:135;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:136;s:8:"		</p>
+";i:137;s:34:"		<p style="text-align:center;">
+";i:138;s:48:"			<input type="submit" value="send report" />
+";i:139;s:8:"		</p>
+";i:140;s:11:"		</form>
+";i:141;s:7:"<hr/>
+";i:142;s:6:"<ul>
+";i:143;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:144;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:145;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:146;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:147;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:148;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:149;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:150;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:151;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:152;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:153;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:154;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:155;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:156;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:157;s:139:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.PhoneBooth'>Referral Count for This Page</a></li>
+";i:158;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:159;s:114:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=PhoneBooth'>Article Relationships</a></li> -->
+";i:160;s:100:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.PhoneBooth'>Folderize</a></li>
+";i:161;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:162;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:163;s:7:"</ul>
+";i:164;s:8:"	<hr/>
+";i:165;s:6:"<ul>
+";i:166;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:167;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:168;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:169;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:170;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:171;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:172;s:7:"</ul>
+";i:173;s:7:"<hr/>
+";i:174;s:2:"
+";i:175;s:8:"</div>
+";i:176;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:177;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:178;s:8:"		<ul>
+";i:179;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:180;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:181;s:9:"		</ul>
+";i:182;s:8:"</div>
+";i:183;s:10:"<center>
+";i:184;s:34:"		<div style="margin-top:4px;">	
+";i:185;s:5:"			
+";i:186;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:187;s:33:"<script type='text/javascript'>
+";i:188;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:189;s:95:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/PhoneBooth");
+";i:190;s:11:"</script>
+";i:191;s:8:"</div>
+";i:192;s:2:"
+";i:193;s:11:"		</div>	
+";i:194;s:10:"		<div>	
+";i:195;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:196;s:6:"		 	
+";i:197;s:4:"		
+";i:198;s:4:"		
+";i:199;s:10:"		</div>
+";i:200;s:509:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Film/PhoneBooth">Film</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Headscatchers/PhoneBooth">Headscatchers</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PhoneBooth">Main</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Trivia/PhoneBooth">Trivia</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/WMG/PhoneBooth">WMG</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/YMMV/PhoneBooth">YMMV</a><br/>
+";i:201;s:9:"		<div>
+";i:202;s:10:"		</div>
+";i:203;s:36:"		<div style="font-size:x-small;">
+";i:204;s:11:"				<hr/>
+";i:205;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:206;s:14:"				<p> </p>
+";i:207;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:208;s:13:"				<p></p>
+";i:209;s:11:"				<ul >
+";i:210;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:211;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:212;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:213;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:214;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:215;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:216;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:217;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:219;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:220;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:221;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:222;s:11:"				</li>
+";i:223;s:11:"				</ul>
+";i:224;s:13:"				<p></p>
+";i:225;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:226;s:13:"				<p></p>
+";i:227;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:228;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:229;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:230;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:231;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:232;s:6:"				
+";i:233;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:234;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:235;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:236;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:237;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:238;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:239;s:6:"				
+";i:240;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:241;s:16:"				</li></ul>
+";i:242;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:243;s:13:"				<p></p>
+";i:244;s:11:"				<ul >
+";i:245;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:246;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:247;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:248;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:249;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:250;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:251;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:252;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:253;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:254;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:255;s:6:"				
+";i:256;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:257;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:258;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:259;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:260;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:261;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:262;s:6:"				
+";i:263;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:264;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:265;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:266;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:268;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:269;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:270;s:11:"				</li>
+";i:271;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:272;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:273;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:274;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:275;s:6:"				
+";i:276;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:278;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:279;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:280;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:281;s:16:"				</li></ul>
+";i:282;s:6:"				
+";i:283;s:13:"				<p></p>
+";i:284;s:39:"				<strong>Other Categories</strong>
+";i:285;s:13:"				<p></p>
+";i:286;s:10:"				<ul>
+";i:287;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:288;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:289;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:290;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:291;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:292;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:293;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:294;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:295;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:296;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:297;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:298;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:299;s:11:"				</ul>
+";i:300;s:11:"		</div>	
+";i:301;s:11:"</center>
+";i:302;s:2:"
+";i:303;s:30:"</div> <!-- wikileftpage -->
+";i:304;s:7:"</td>
+";i:305;s:20:"<td id='wikibody'>
+";i:306;s:2:"
+";i:307;s:21:"<!--PageTitleFmt-->
+";i:308;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:309;s:12:"    		<tr>
+";i:310;s:38:"    		<td id="wikicmds" align="top">
+";i:311;s:8:"    		
+";i:312;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:313;s:45:"    				<tr style="vertical-align:middle;">
+";i:314;s:31:"    					<td align="center" >
+";i:315;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:316;s:16:"    					</td>
+";i:317;s:15:"    				<td >
+";i:318;s:37:"    					<div style="width:400px;">
+";i:319;s:28:"                  <center>
+";i:320;s:27:"                  <table>
+";i:321;s:24:"                  <tr>
+";i:322;s:24:"                  <td>
+";i:323;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:324;s:27:"                    <div>
+";i:325;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:326;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:327;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:328;s:64:"                      <input type="text" name="q" size="31" />
+";i:329;s:28:"                    </div>
+";i:330;s:27:"                  </form>
+";i:331;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:332;s:25:"                  </td>
+";i:333;s:24:"                  <td>
+";i:334;s:46:"                  <div class="buttonframe" >
+";i:335;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:336;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:337;s:26:"                  </div>
+";i:338;s:25:"                  </div
+";i:339;s:25:"                  </td>
+";i:340;s:25:"                  </tr>
+";i:341;s:28:"                  </table>
+";i:342;s:29:"                  </center>
+";i:343;s:17:"    					</div>
+";i:344;s:15:"    				</td>
+";i:345;s:15:"    				</tr>
+";i:346;s:16:"    		</table>
+";i:347;s:8:"    		
+";i:348;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:349;s:10:"    				
+";i:350;s:27:"    				<tr valign="top">
+";i:351;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:352;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:353;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:354;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:355;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:356;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:357;s:15:"    				</tr>
+";i:358;s:10:"    				
+";i:359;s:10:"    				
+";i:360;s:8:"    		
+";i:361;s:16:"    		</table>
+";i:362;s:8:"    		
+";i:363;s:28:"    		<div id="wikilogo" >
+";i:364;s:16:"    		<center>
+";i:365;s:2:"
+";i:366;s:22:"<!-- leaderboard -->
+";i:367;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:368;s:33:"<script type='text/javascript'>
+";i:369;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:370;s:11:"</script>
+";i:371;s:8:"</div>
+";i:372;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:373;s:28:"    					<tr valign="top">
+";i:374;s:410:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'PhoneBooth');" autocomplete="off"  style="width:50px;"><option> </option><option value="Film">Film</option><option value="Headscatchers">Headscatchers</option><option value="Main">Main</option><option value="Trivia">Trivia</option><option value="WMG">WMG</option><option value="YMMV">YMMV</option></select></td>
+";i:375;s:265:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PhoneBooth?action=source" >source</a></div></div></td>
+";i:376;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:377;s:266:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.PhoneBooth">history</a></div></div></td>
+";i:378;s:268:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PhoneBooth?action=edit'> edit page</a></div></div></td>
+";i:379;s:264:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/PhoneBooth" >related</a></div></div></td>
+";i:380;s:38:"    							<td valign="middle"></td>
+";i:381;s:16:"    					</tr>
+";i:382;s:18:"    				</table>
+";i:383;s:10:"    				
+";i:384;s:35:"    				<div id="watchmsg"></div>
+";i:385;s:18:"    			</center>
+";i:386;s:13:"    		</td>
+";i:387;s:12:"     </tr>
+";i:388;s:6:"    
+";i:389;s:11:"    	<tr>
+";i:390;s:39:"    		<td id="wikititle" colspan="2">
+";i:391;s:40:"    				<div class="namespacebuttons">
+";i:392;s:1317:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments"  style="border-width:2px;border-color:silver;margin-right:2px;" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.PhoneBooth" >&nbsp;Discussion </a></li> <li class="namespace_li WMG" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/WMG/PhoneBooth" class="textcolor">&nbsp;WMG&nbsp;</a> </li> <li class="namespace_li Trivia" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Trivia/PhoneBooth" class="textcolor">&nbsp;Trivia&nbsp;</a> </li> <li class="namespace_li Film" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Film/PhoneBooth" class="textcolor">&nbsp;Film&nbsp;</a> </li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=PhoneBooth" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/PhoneBooth" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:393;s:16:"    				</div>
+";i:394;s:26:"    				<!--RepairBug-->
+";i:395;s:10:"    				
+";i:396;s:34:"    				<div class='pagetitle'> 
+";i:397;s:38:"    						  <span>Phone Booth</span>
+";i:398;s:16:"    				</div>
+";i:399;s:11:"    				 
+";i:400;s:13:"    		</td>
+";i:401;s:12:"    	</tr>
+";i:402;s:10:"</table>
+";i:403;s:2:"
+";i:404;s:16:"<!--PageText-->
+";i:405;s:20:"<div id='wikitext'>
+";i:406;s:1:"
+";i:407;s:1:"
+";i:408;s:1:"
+";i:409;s:172:"<div class="quoteright" style="width:187px;" ><img src='http://static.tvtropes.org/pmwiki/pub/images/Phone_booth_6889.jpg' class='embeddedimage' border='0' alt='' /></div>
+";i:410;s:297:"<p></p><div class='indent'><em>"Ok suicide booth, give me your best shot. Electrocution please, side order of poison... Helloooo? Kill me you stupid machine! What the... 'local calls fifty cents'!? It's a street corner telephone parlor! Oh, what kind of horrible, suicide-free time is this?"</em>
+";i:411;s:233:"<div class='indent'>&#8212;<em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Futurama' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Futurama'>Futurama</a>: Bender's Big Score</em>
+";i:412;s:719:"</div></div><p></p>A Phone Booth is a tiny closet, often outdoors and usually with one or more glass-paned walls, designed to contain a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PayPhone' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PayPhone'>Pay Phone</a>. Even before cell phones took over, they were being replaced by the more space-efficient standalone pay phones. Today they are almost entirely <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeBreaker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeBreaker'>gone</a>, although the booths themselves are seeing a resurgence in upscale theaters and restaurants to reduce public cell phone chatter.
+";i:413;s:641:"<p></p>In Britain, there are still a fair few phone boxes around (Maybe a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho'>certain show</a> keeps them in style?), although the traditional Red Telephone Box is an increasingly rare sight outside of central London, where many have been preserved - perhaps to enable Tourists to take a photograph <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EstablishingShot' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EstablishingShot'>proving that they really are in London</a>.
+";i:414;s:267:"<p></p>In addition to the tropes associated with the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PayPhone' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PayPhone'>Pay Phone</a>, there are a number associated with the Phone Booth itself.
+";i:415;s:450:"<p></p><ul ><li> In fiction the Phone Booth has often been used as a changing room, most notably by Superman. In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealLife' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealLife'>Real Life</a> the aforementioned glass-paned walls would make this problematic. (In the early days of Superman, phone booths usually only had glass in the door &#8212; and frosted glass, at that.)
+";i:416;s:509:"<ul ><li> It's also <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JustifiedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JustifiedTrope'>justified</a> because Superman's alter-ego is a reporter. In just about every movie of the time, a reporter on the scene would duck into a nearby phone booth and call the editor or someone else at the paper's HQ. So, people would see Clark Kent jump into a booth and assume he's making a call, when he's actually changing into Superman.
+";i:417;s:293:"</li></ul></li><li> In an earlier era, a popular pastime among the young was to see how many folks could be simultaneously fit in a Phone Booth. This would seem to be dangerous due to the glass-paned walls. In modern days, you will still occasionally see people trying this with port-o-johns.
+";i:418;s:402:"<ul ><li> A photo shoot in cycle five of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/AmericasNextTopModel' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/AmericasNextTopModel'>America's Next Top Model</a></em> had a photo shoot in which all six remaining girls had to stand in a single phone booth wearing only galoshes and newspapers (and, ostensibly, underwear).
+";i:419;s:355:"</li></ul></li><li> A secret door or even elevator might be disguised as a phone booth, for example in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheManFromUNCLE' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheManFromUNCLE'>The Man From UNCLE</a></em>. The glass-paned walls might be troublesome for the secrecy here.
+";i:420;s:236:"<ul ><li> Spoofed in the very last seconds of the theme sequence of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/GetSmart' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/GetSmart'>Get Smart</a></em>.
+";i:421;s:152:"</li></ul></li><li> A common horror movie trope is for the victim to be trapped by an assailant in a Phone Booth. Did we mention the glass-paned walls?
+";i:422;s:538:"</li><li> And of course, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DisconnectedByDeath' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DisconnectedByDeath'>phone booths are an ideal place for murders</a>, as the booth's close quarters make for little room to dodge and no place to run. Plus, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OverlyLongGag' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OverlyLongGag'>glass-paned walls</a> make it easier for the shooter to aim.
+";i:423;s:24:"</li></ul><p></p><hr />
+";i:424;s:19:"<h2>Examples:</h2>
+";i:425;s:329:"<p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Manga' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Manga'>Manga</a></span>
+";i:426;s:690:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/FullmetalAlchemist' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/FullmetalAlchemist'>Fullmetal Alchemist</a></em>, Hughes <span class="spoiler" title="you can set spoilers visible by default on your profile" > is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DisconnectedByDeath' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DisconnectedByDeath'>murdered in a phone booth</a> by Envy</span>, as he tries to share his discovery that <span class="spoiler" title="you can set spoilers visible by default on your profile" >Homunculi have infiltrated the military</span>.
+";i:427;s:655:"</li><li> Rosette uses a payphone in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChronoCrusade' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChronoCrusade'>Chrono Crusade</a></em>. Since it's set in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheRoaringTwenties' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheRoaringTwenties'>The Roaring Twenties</a>, this isn't too odd...except that Chrono and Rosette actually have some sort of special phone on their ammo box that works somewhat like a modern-day cellphone, and it's never explained why she didn't use that phone in the first place.
+";i:428;s:417:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/HigurashiNoNakuKoroNi' title='http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/HigurashiNoNakuKoroNi'>Higurashi No Naku Koro Ni</a></em>, Keiichi <span class="spoiler" title="you can set spoilers visible by default on your profile" > commits suicide in a phone booth while under the effects of Hinamizawa syndrome.</span>
+";i:429;s:318:"</li><li> In the first part of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FiveCentimetersPerSecond' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FiveCentimetersPerSecond'>5 Centimeters per Second</a></em>, which takes place in the early '90s, Akari calls Takaki from a phone booth.
+";i:430;s:207:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBooks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBooks'>Comic Books</a></span>
+";i:431;s:269:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Superman' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Superman'>Superman</a> has actually lampshaded the disappearance of traditional phone booths in at least one incident.
+";i:432;s:372:"<ul ><li> In the movie (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/SuperMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/SuperMan'>the 1978 one</a>) Christopher Reeve looks for a phone booth to change into Superman, but he finds a standalone pay phone instead. He winds up using revolving doors instead (you have to see it to understand).
+";i:433;s:604:"</li><li> Actually (and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommonKnowledge' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommonKnowledge'>Common Knowledge</a> to the contrary), Supes has <a class='urllink' href='http://www.supermanhomepage.com/other/other.php?topic=phonebooth'>hardly ever used a phone booth for this purpose<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> in the actual comics. Superman's use of the phone booths most famously, (and iconicly) comes from an old radio show.
+";i:434;s:338:"</li></ul></li><li> In the new <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Comicbook/DialHForHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Comicbook/DialHForHero'>Dial H</a></em> series, the Hero Dial is actually connected to a disused phone booth, meaning Nelson <em>has</em> to transform in a phone booth.
+";i:435;s:188:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a></span>
+";i:436;s:218:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/LolaRennt' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/LolaRennt'>Lola Rennt</a></em> has a long scene inside of a phone booth.
+";i:437;s:409:"</li><li> The movie <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/PhoneBooth' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/PhoneBooth'>Phone Booth</a></em> had its somewhat <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Jerkass' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Jerkass'>Jerkass</a> main character trapped in a Phone Booth by a sniper.
+";i:438;s:519:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/AlfredHitchcock' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/AlfredHitchcock'>Alfred Hitchcock</a>'s film <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheBirds' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheBirds'>The Birds</a></em> features a memorably bloody scene where the heroine takes shelter in a phone booth, which is then battered by kamikaze seagulls. (Those glass walls again...)
+";i:439;s:833:"<ul ><li> Mel Brooks' film <em>High Anxiety</em>, being a spoof of suspense films like <em>The Birds</em>, includes a phone booth scene as a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Homage' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Homage'>Homage</a>. Speaking of glass walls, <span class="spoiler" title="you can set spoilers visible by default on your profile" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragon'>The Dragon</a> attempts to kill the hero while the hero is making a phone call and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KarmicDeath' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KarmicDeath'>winds up impaled</a> on a glass shard from the booth</span>.
+";i:440;s:644:"</li></ul></li><li> The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeMachine' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeMachine'>Time Machine</a> in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BillAndTedsExcellentAdventure' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BillAndTedsExcellentAdventure'>Bill and Ted's Excellent Adventure</a></em> is in the form of a Phone Booth, perhaps as a nod to <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho'>Doctor Who</a></em>.
+";i:441;s:274:"<ul ><li> However, it's not <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BiggerOnTheInside' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BiggerOnTheInside'>Bigger on the Inside</a>, so things get a little tight with all the historical figures.
+";i:442;s:434:"</li></ul></li><li> Terri gets trapped in the Phone Booth while using the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PayPhone' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PayPhone'>Pay Phone</a> to call for help in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/JumpinJackFlash' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/JumpinJackFlash'>Jumpin Jack Flash</a></em>.
+";i:443;s:222:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Duel' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Duel'>Duel</a></em>, Mann just escapes from one before the semi plows into it.
+";i:444;s:162:"</li><li> The Spanish short film <em>La Cabina</em> concerns a man becoming stuck in a phone box. Played for laughs at the beginning. At the end ... not so much.
+";i:445;s:396:"</li><li> Apparently, the phone booth from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LocalHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LocalHero'>Local Hero</a></em> is the one that gets the most phone calls per year in the UK. The location didn't actually have a phone booth when the film was made, but one was later installed as a tourist attraction.
+";i:446;s:256:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheMatrix' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheMatrix'>The Matrix</a></em> ended its opening sequence with Trinity narrowly escaping through one of these.
+";i:447;s:366:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DumbAndDumber' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DumbAndDumber'>Dumb and Dumber</a></em>, one of the mooks makes a long phone call to the villain, but an impatient man outside demands him to get off the phone only to be punched through the glass and knocked out.
+";i:448;s:672:"</li><li> Toward the end of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/ThePresidentsAnalyst' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/ThePresidentsAnalyst'>The President's Analyst</a></em>, Dr. Schaefer gets stuck in one - he waves down a truck, but instead of freeing him they pull up the whole booth, with him trapped inside, replace it with an empty one, and spirit him away <span class="spoiler" title="you can set spoilers visible by default on your profile" >to the headquarters of The Phone Company</span>. Earlier on, one of their booths similarly trapped a pursuing Chinese agent to keep him from getting abducted by them.
+";i:449;s:206:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a></span>
+";i:450;s:384:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HarryPotterAndTheOrderOfThePhoenix' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HarryPotterAndTheOrderOfThePhoenix'>Harry Potter and the Order of the Phoenix</a></em> does the elevator-disguised-as-a-phone-booth shtick. It's used as the visitor's entrance to the Ministry of Magic.
+";i:451;s:60:"<ul ><li> And then they cram six people into it, of course.
+";i:452;s:169:"</li></ul><div class='indent'> <strong>Harry:</strong> Whoever's closest to the receiver, dial six two four four two! <em>(on the phone buttons, this spells MAGIC)</em>
+";i:453;s:222:"</div></li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Live-ActionTV' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Live-ActionTV'>Live-Action TV</a></span>
+";i:454;s:310:"<ul ><li> One episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/AmericasNextTopModel' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/AmericasNextTopModel'>America's Next Top Model</a></em> had the girls do a photo shoot in a phone booth. Naked. With six girls inside.
+";i:455;s:1038:"</li><li> The "Police Call Box" disguise of the TARDIS in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho'>Doctor Who</a></em> is essentially a Phone Booth skin. The disappearance of Police Call Boxes from the natural environment has made this something of a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeBreaker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeBreaker'>Trope Breaker</a> in recent years, especially since fans presumably would not take kindly to having the TARDIS "unstuck" from its Call Box form. For <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Hammerspace' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Hammerspace'>obvious</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BiggerOnTheInside' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BiggerOnTheInside'>reasons</a>, the TARDIS "Phone Booth" lacks glass-paned windows.
+";i:456;s:741:"<ul ><li> This has actually been <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging'>lampshaded</a> a few times in the new series. Given a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HandWave' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HandWave'>Hand Wave</a> by the mention of a device that makes people ignore it- that and the Doctor's a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JustifiedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JustifiedTrope'>time traveller</a>. It's not like it's fit in just about anywhere he's parked it since his first trip to Earth.
+";i:457;s:315:"</li><li> The 6th Doctor did <em>try</em> and fix the Chameleon Circuit at one point, but the results were equally if not more conspicuous; at one point it turned into a fairground organ. He seems to have given up and put it back the way it was at some point. The Master's TARDIS never seemed to have this problem.
+";i:458;s:221:"<ul ><li> Some notable examples of police boxes that are still standing in the street are in Edinburgh, where a couple of police phone boxes have been converted into coffee kiosks. They seem to be pretty popular as well.
+";i:459;s:397:"</li></ul></li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/GetSmart' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/GetSmart'>Get Smart</a></em> used the Phone-Booth-as-an-elevator trick in its opening credits. Of course, the phone booth was behind several serious-looking and presumably locked doors, which made the disguise a bit unnecessary.
+";i:460;s:185:"<ul ><li> There was also an episode with a phone booth that was rigged to fill with water, drowning the person inside. (The door was locked from the outside while the water poured in.)
+";i:461;s:389:"</li></ul></li><li> A <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NotTheNineOClockNews' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NotTheNineOClockNews'>Not the Nine O'Clock News</a></em> sketch involves someone engaged in the anti-social habit of urinating in a phone box ... before revealing that the queue of people behind him have the same intent.
+";i:462;s:656:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/ElleryQueen' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/ElleryQueen'>Ellery Queen</a></em>: The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VictimOfTheWeek' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VictimOfTheWeek'>Victim of the Week</a> in "The Adventure of Auld Lang Syne" is murdered in a phone booth. Stabbed in the throat, he attempts to use the phone to leave a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DyingClue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DyingClue'>Dying Clue</a>.
+";i:463;s:191:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Music' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Music'>Music</a></span>
+";i:464;s:250:"<ul ><li> The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Superman' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Superman'>Superman</a> connection is mentioned in The Spin Doctors' song "Jimmy Olson's Blues":
+";i:465;s:111:"<div class='indent'>"It's got me up the wall and through the roof, <br />Lois and Clark in a telephone booth."
+";i:466;s:228:"</div></li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewspaperComics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewspaperComics'>Newspaper Comics</a></span>
+";i:467;s:411:"<ul ><li> The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OntologicalMystery' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OntologicalMystery'>Ontological Mystery</a> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Fleep' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Fleep'>Fleep</a></em> is about a man trapped in a phone booth buried in concrete.
+";i:468;s:207:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGames'>Video Games</a></span>
+";i:469;s:378:"<ul ><li> <em>Escape the Phone Booth</em>, a <a class='urllink' href='http://www.dabontv.com/game605.html'>flash puzzle game<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> where you wake trapped inside a phone booth. You have to try and find your way out with what few items you have on you or can find.
+";i:470;s:685:"</li><li> The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InteractiveFiction' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InteractiveFiction'>Interactive Fiction</a> game <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PickUpThePhoneBoothAndDie' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PickUpThePhoneBoothAndDie'>Pick Up The Phone Booth And Die</a></em>, and its spinoff <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PickUpThePhoneBoothAndAisle' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PickUpThePhoneBoothAndAisle'>Pick Up The Phone Booth And Aisle</a></em>.
+";i:471;s:238:"<ul ><li> The former has only two commands it will accept: "Pick up phone booth", which kills you, <span class="spoiler" title="you can set spoilers visible by default on your profile" >and "Push phone booth", which wins the game</span>.
+";i:472;s:214:"</li></ul></li><li> In <em>The Lost Crown</em>, Nigel has to use a phone booth to contact anyone outside Saxton, as he didn't bring his cell and the phone in his rented cottage is <strike> broken</strike> haunted.
+";i:473;s:746:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MassEffect3' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MassEffect3'>Mass Effect 3</a>, The penultimate levels are set in London. Despite the fact that it's half-past the future<span class="tiptag" onclick="toggleinline(this);" ><u>*</u><div class="inlinefolder" style="display:none;" > and completely ignoring the fact absolutely everyone has an Omni-Tool, a portable computer that can make phone calls</div></span>, there are plenty of the iconic red British Telecom phone boxes (see the page image if you are somehow unfamiliar with them) in the background detail... more, in fact, than you would see almost anywhere in the real London today.
+";i:474;s:204:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WebComics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WebComics'>Web Comics</a></span>
+";i:475;s:715:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/ElGoonishShive' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/ElGoonishShive'>El Goonish Shive</a></em> mentions this trope for the purposes of illustrating that Elliot's knowledge of super heroes came almost entirely from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PopCultureOsmosis' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PopCultureOsmosis'>Pop Culture Osmosis</a> <a class='urllink' href='http://egscomics.com/?date=2010-10-20'>here<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> (first panel text box).
+";i:476;s:225:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WesternAnimation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WesternAnimation'>Western Animation</a></span>
+";i:477;s:462:"<ul ><li> The entrance to Section 13 in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/JackieChanAdventures' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/JackieChanAdventures'>Jackie Chan Adventures</a></em> is through a phone booth that serves as an elevator, although it appears there is an easier way in through the stairs. For the most part it does work in concealing the location of the instillation.
+";i:478;s:281:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TeenageMutantNinjaTurtles' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TeenageMutantNinjaTurtles'>Teenage Mutant Ninja Turtles</a></em> animated series, that's how they access to their lair.
+";i:479;s:366:"</li><li> An episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Futurama' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Futurama'>Futurama</a></em> reveals that phone booths start making a comeback in 3010 AD; Hermes Conrad is happy to learn this, as it means he no longer has to lug a cellphone around.
+";i:480;s:82:"<ul ><li> It is also important not to confuse a phone booth with a suicide booth.
+";i:481;s:305:"</li></ul></li><li> Shoeshine Boy uses a phone booth to transform into <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Underdog' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Underdog'>Underdog</a>. During the transformation, the booth suddenly explodes.
+";i:482;s:201:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealLife' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealLife'>Real Life</a></span>
+";i:483;s:21:"<ul ><li> Well, duh.
+";i:484;s:317:"</li><li> The Safe House, a spy-themed restaurant in Milwaukee, has a themed phone booth where guests can <span class="spoiler" title="you can set spoilers visible by default on your profile" > choose from a selection of background noises while placing a call, the better to deceive listeners espionage-style</span>.
+";i:485;s:24:"</li></ul><p></p><hr />
+";i:486;s:1491:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PayPhone">Pay Phone</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PhoneTropes">Phone Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PhoneaholicTeenager">Phoneaholic Teenager</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PhlebotinumBattery">Phlebotinum Battery</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices">Narrative Devices</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PinocchioSyndrome">Pinocchio Syndrome</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PeopleZoo">People Zoo</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings">Settings</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PhysicalHeaven">Physical Heaven</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:487;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:488;s:10:"<p> </p>
+";i:489;s:10:"<center>
+";i:490;s:2:"
+";i:491;s:24:"<!-- med rectangle -->
+";i:492;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:493;s:33:"<script type='text/javascript'>
+";i:494;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:495;s:11:"</script>
+";i:496;s:8:"</div>
+";i:497;s:2:"
+";i:498;s:11:"</center>
+";i:499;s:24:"</td><!-- wikibody -->
+";i:500;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:501;s:7:"</td>
+";i:502;s:7:"</tr>
+";i:503;s:10:"</table>
+";i:504;s:22:"<!--PageFooterFmt-->
+";i:505;s:77:"<div class="alt_title" style="font-size:x-small;text-align:center;" ></div>
+";i:506;s:10:"<center>
+";i:507;s:44:"<table style="width:606px;margin:0 auto;">
+";i:508;s:7:"	<tr>
+";i:509;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:510;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:511;s:259:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PhoneBooth?action=edit'> edit page</a></div></div></td>
+";i:512;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:513;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:514;s:8:"	</tr>
+";i:515;s:10:"</table>
+";i:516;s:11:"</center>
+";i:517;s:21:"<div id='wikifoot'>
+";i:518;s:27:"    <div class='footnav'>
+";i:519;s:2:"
+";i:520;s:14:"			 <center>
+";i:521;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:522;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:523;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:524;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:525;s:15:"				</center>
+";i:526;s:2:"
+";i:527;s:29:"    </div><!-- wikifoot -->
+";i:528;s:23:"<!--/PageFooterFmt-->
+";i:529;s:12:"27256<br/>
+";i:530;s:3:"1
+";i:531;s:8:"</div>
+";i:532;s:26:"</div><!-- container -->
+";i:533;s:2:"
+";i:534;s:9:"</body>
+";i:535;s:21:"<!--ScriptInsert-->
+";i:536;s:9:"</html>
+";}}

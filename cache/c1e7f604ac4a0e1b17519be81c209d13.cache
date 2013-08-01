@@ -1,0 +1,597 @@
+a:2:{i:0;i:1377935084;i:1;a:596:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:69:"<title>Video Game Genres - Television Tropes &amp; Idioms  </title>
+";i:5;s:88:"<meta name="Description" content="An index page listing Video Game Genres content." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:10:"</style>
+";i:25;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:26;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:27;s:33:"<script type="text/javascript">
+";i:28;s:26:"  var _gaq = _gaq || [];
+";i:29;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:30;s:34:"  _gaq.push(['_trackPageview']);
+";i:31;s:2:"
+";i:32;s:17:"  (function() {
+";i:33;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:34;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:35;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:36;s:9:"  })();
+";i:37;s:2:"
+";i:38;s:32:"	function subpage(sel, title){
+";i:39;s:4:"		
+";i:40;s:40:"		var namespce = ""+getselection(sel);
+";i:41;s:34:"		if(namespce.trim()=="")return;
+";i:42;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:43;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:44;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:45;s:29:"		window.location.href=url;
+";i:46;s:4:"	}
+";i:47;s:32:"	function p5(groupname,title){
+";i:48;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:49;s:4:"	}
+";i:50;s:27:"	function togglenote(id){
+";i:51;s:23:"		var ele=object(id);
+";i:52;s:34:"		var state = ele.style.display;
+";i:53;s:49:"		if(state=='none') ele.style.display='inline';
+";i:54;s:48:"		if(state=='inline')ele.style.display='none';
+";i:55;s:4:"	}
+";i:56;s:35:"	var googletag = googletag || {};
+";i:57;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:58;s:16:"	(function() {
+";i:59;s:47:"	var gads = document.createElement('script');
+";i:60;s:21:"	gads.async = true;
+";i:61;s:33:"	gads.type = 'text/javascript';
+";i:62;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:63;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:64;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:65;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:66;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:67;s:8:"	})();
+";i:68;s:2:"
+";i:69;s:34:"	googletag.cmd.push(function() {
+";i:70;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:71;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:73;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:74;s:45:"		googletag.pubads().enableSingleRequest();
+";i:75;s:31:"		googletag.enableServices();
+";i:76;s:6:"	});
+";i:77;s:2:"
+";i:78;s:11:"</script>
+";i:79;s:2:"
+";i:80;s:9:"</head>
+";i:81;s:8:"<body>
+";i:82;s:40:"<div class="container" id="container">
+";i:83;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:84;s:6:"<tr>
+";i:85;s:46:"<td style="width:166px;vertical-align:top;">
+";i:86;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:87;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:88;s:38:"<g:plusone size="small"></g:plusone>
+";i:89;s:2:"
+";i:90;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:91;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:92;s:6:"<ul>
+";i:93;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:94;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:95;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:96;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:97;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:98;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:99;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:100;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:101;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:102;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:103;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:104;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:105;s:7:"</ul>
+";i:106;s:8:"</div>
+";i:107;s:2:"
+";i:108;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:109;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:110;s:2:"
+";i:111;s:186:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','VideoGameGenres');">send request</button><hr/></div>
+";i:112;s:2:"
+";i:113;s:327:"<ul><li style="text-align:center;">Page Type: index<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="VideoGameGenres" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:114;s:2:"
+";i:115;s:51:"<div style="font-size:small;text-align:center;" >
+";i:116;s:30:"Find recent edits by troper:
+";i:117;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:118;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:119;s:8:"</div>
+";i:120;s:7:"<hr/>
+";i:121;s:7:"<ul>	
+";i:122;s:4:"		
+";i:123;s:7:"<hr/>
+";i:124;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:125;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:126;s:64:"		<input type="hidden" name="title" value="VideoGameGenres" />
+";i:127;s:54:"		This article needs some moderator assistance with:
+";i:128;s:9:"		<br/>
+";i:129;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:130;s:9:"		<br/>
+";i:131;s:4:"		
+";i:132;s:34:"		<p style="text-align:center;">
+";i:133;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:134;s:8:"		</p>
+";i:135;s:34:"		<p style="text-align:center;">
+";i:136;s:48:"			<input type="submit" value="send report" />
+";i:137;s:8:"		</p>
+";i:138;s:11:"		</form>
+";i:139;s:7:"<hr/>
+";i:140;s:6:"<ul>
+";i:141;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:142;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:143;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:144;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:145;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:146;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:147;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:148;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:149;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:150;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:151;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:152;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:153;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:154;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:155;s:144:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.VideoGameGenres'>Referral Count for This Page</a></li>
+";i:156;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:157;s:119:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=VideoGameGenres'>Article Relationships</a></li> -->
+";i:158;s:105:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.VideoGameGenres'>Folderize</a></li>
+";i:159;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:160;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:161;s:7:"</ul>
+";i:162;s:8:"	<hr/>
+";i:163;s:6:"<ul>
+";i:164;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:165;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:166;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:167;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:168;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:169;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:170;s:7:"</ul>
+";i:171;s:7:"<hr/>
+";i:172;s:2:"
+";i:173;s:8:"</div>
+";i:174;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:175;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:176;s:8:"		<ul>
+";i:177;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:178;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:179;s:9:"		</ul>
+";i:180;s:8:"</div>
+";i:181;s:10:"<center>
+";i:182;s:34:"		<div style="margin-top:4px;">	
+";i:183;s:5:"			
+";i:184;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:185;s:33:"<script type='text/javascript'>
+";i:186;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:187;s:120:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/VideoGameGenres?from=Main.VideoGame");
+";i:188;s:11:"</script>
+";i:189;s:8:"</div>
+";i:190;s:2:"
+";i:191;s:11:"		</div>	
+";i:192;s:10:"		<div>	
+";i:193;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:194;s:6:"		 	
+";i:195;s:4:"		
+";i:196;s:4:"		
+";i:197;s:10:"		</div>
+";i:198;s:219:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/BetterThanItSounds/VideoGameGenres">BetterThanItSounds</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGameGenres">Main</a><br/>
+";i:199;s:9:"		<div>
+";i:200;s:10:"		</div>
+";i:201;s:36:"		<div style="font-size:x-small;">
+";i:202;s:11:"				<hr/>
+";i:203;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:204;s:14:"				<p> </p>
+";i:205;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:206;s:13:"				<p></p>
+";i:207;s:11:"				<ul >
+";i:208;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:209;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:210;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:211;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:212;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:213;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:214;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:215;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:216;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:217;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:219;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:220;s:11:"				</li>
+";i:221;s:11:"				</ul>
+";i:222;s:13:"				<p></p>
+";i:223;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:224;s:13:"				<p></p>
+";i:225;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:226;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:227;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:228;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:229;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:230;s:6:"				
+";i:231;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:232;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:233;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:234;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:235;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:236;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:237;s:6:"				
+";i:238;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:239;s:16:"				</li></ul>
+";i:240;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:241;s:13:"				<p></p>
+";i:242;s:11:"				<ul >
+";i:243;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:244;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:245;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:246;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:247;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:248;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:249;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:250;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:251;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:252;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:253;s:6:"				
+";i:254;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:255;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:256;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:257;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:258;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:259;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:260;s:6:"				
+";i:261;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:262;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:263;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:264;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:265;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:266;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:268;s:11:"				</li>
+";i:269;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:270;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:271;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:272;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:273;s:6:"				
+";i:274;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:275;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:276;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:278;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:279;s:16:"				</li></ul>
+";i:280;s:6:"				
+";i:281;s:13:"				<p></p>
+";i:282;s:39:"				<strong>Other Categories</strong>
+";i:283;s:13:"				<p></p>
+";i:284;s:10:"				<ul>
+";i:285;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:286;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:287;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:288;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:289;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:290;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:291;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:292;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:293;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:294;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:295;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:296;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:297;s:11:"				</ul>
+";i:298;s:11:"		</div>	
+";i:299;s:11:"</center>
+";i:300;s:2:"
+";i:301;s:30:"</div> <!-- wikileftpage -->
+";i:302;s:7:"</td>
+";i:303;s:20:"<td id='wikibody'>
+";i:304;s:2:"
+";i:305;s:21:"<!--PageTitleFmt-->
+";i:306;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:307;s:12:"    		<tr>
+";i:308;s:38:"    		<td id="wikicmds" align="top">
+";i:309;s:8:"    		
+";i:310;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:311;s:45:"    				<tr style="vertical-align:middle;">
+";i:312;s:31:"    					<td align="center" >
+";i:313;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:314;s:16:"    					</td>
+";i:315;s:15:"    				<td >
+";i:316;s:37:"    					<div style="width:400px;">
+";i:317;s:28:"                  <center>
+";i:318;s:27:"                  <table>
+";i:319;s:24:"                  <tr>
+";i:320;s:24:"                  <td>
+";i:321;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:322;s:27:"                    <div>
+";i:323;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:324;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:325;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:326;s:64:"                      <input type="text" name="q" size="31" />
+";i:327;s:28:"                    </div>
+";i:328;s:27:"                  </form>
+";i:329;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:330;s:25:"                  </td>
+";i:331;s:24:"                  <td>
+";i:332;s:46:"                  <div class="buttonframe" >
+";i:333;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:334;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:335;s:26:"                  </div>
+";i:336;s:25:"                  </div
+";i:337;s:25:"                  </td>
+";i:338;s:25:"                  </tr>
+";i:339;s:28:"                  </table>
+";i:340;s:29:"                  </center>
+";i:341;s:17:"    					</div>
+";i:342;s:15:"    				</td>
+";i:343;s:15:"    				</tr>
+";i:344;s:16:"    		</table>
+";i:345;s:8:"    		
+";i:346;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:347;s:10:"    				
+";i:348;s:27:"    				<tr valign="top">
+";i:349;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:350;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:351;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:352;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:353;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:354;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:355;s:15:"    				</tr>
+";i:356;s:10:"    				
+";i:357;s:10:"    				
+";i:358;s:8:"    		
+";i:359;s:16:"    		</table>
+";i:360;s:8:"    		
+";i:361;s:28:"    		<div id="wikilogo" >
+";i:362;s:16:"    		<center>
+";i:363;s:2:"
+";i:364;s:22:"<!-- leaderboard -->
+";i:365;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:366;s:33:"<script type='text/javascript'>
+";i:367;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:368;s:11:"</script>
+";i:369;s:8:"</div>
+";i:370;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:371;s:28:"    					<tr valign="top">
+";i:372;s:287:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'VideoGameGenres');" autocomplete="off"  style="width:50px;"><option> </option><option value="BetterThanItSounds">BetterThanItSounds</option><option value="Main">Main</option></select></td>
+";i:373;s:270:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGameGenres?action=source" >source</a></div></div></td>
+";i:374;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:375;s:271:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.VideoGameGenres">history</a></div></div></td>
+";i:376;s:273:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGameGenres?action=edit'> edit page</a></div></div></td>
+";i:377;s:269:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/VideoGameGenres" >related</a></div></div></td>
+";i:378;s:38:"    							<td valign="middle"></td>
+";i:379;s:16:"    					</tr>
+";i:380;s:18:"    				</table>
+";i:381;s:10:"    				
+";i:382;s:35:"    				<div id="watchmsg"></div>
+";i:383;s:18:"    			</center>
+";i:384;s:13:"    		</td>
+";i:385;s:12:"     </tr>
+";i:386;s:6:"    
+";i:387;s:11:"    	<tr>
+";i:388;s:39:"    		<td id="wikititle" colspan="2">
+";i:389;s:40:"    				<div class="namespacebuttons">
+";i:390;s:360:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.VideoGameGenres" >&nbsp;Discussion </a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/VideoGameGenres" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:391;s:16:"    				</div>
+";i:392;s:26:"    				<!--RepairBug-->
+";i:393;s:10:"    				
+";i:394;s:34:"    				<div class='pagetitle'> 
+";i:395;s:100:"    						  <span>Video Game Genres</span><span style="font-size:50%;"><br/>aka: Video Game</span>
+";i:396;s:16:"    				</div>
+";i:397;s:11:"    				 
+";i:398;s:13:"    		</td>
+";i:399;s:12:"    	</tr>
+";i:400;s:10:"</table>
+";i:401;s:2:"
+";i:402;s:16:"<!--PageText-->
+";i:403;s:20:"<div id='wikitext'>
+";i:404;s:70:"<div class='indent'><em>Video games are my favorite video games.</em>
+";i:405;s:254:"<div class='indent'>&#8212; <em><a class='urllink' href='http://www.supermegacomics.com/index.php?i=123'>Super Mega Comics #123<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a></em>
+";i:406;s:352:"</div></div><p></p>Genre, as applied to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGameTropes'>Video Games</a>, customarily describes the style of gameplay rather than that of the story or setting as in other media. Many games mix and match among them.
+";i:407;s:632:"<p></p>It is also possible to move from one gameplay style to another within the same game, e.g. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MiniGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MiniGame'>Mini-Game</a>s, vehicle sequences within action games, etc. These gameplay changes can sometimes be <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnexpectedGameplayChange' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnexpectedGameplayChange'>unnecessary or unwanted</a>, especially if the game transitions between them jarringly with poor integration between them.
+";i:408;s:509:"<p></p>Notable games in each genre can be found on the individual pages. Note that many games can and should be in multiple genres, as the lines can often get blurred, or games can <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameplayRoulette' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameplayRoulette'>incorporate elements of more than one genre</a>. If you have a new game to add, put it in every genre you think it belongs! There are other, more thorough, game databases.
+";i:409;s:14:"<p></p><hr />
+";i:410;s:64:"<h2>These are the genres a Videogame can be classified as:</h2>
+";i:411;s:281:"<p></p><ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FourX' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FourX'>4X</a> (4X): A game that has four simple goals, which are eXplore, eXpand, eXploit and eXterminate. Sub-genre of a Strategy Game.
+";i:412;s:261:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventure' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventure'>Action Adventure</a>: A game that combines parts from Adventure Games and Action Games together.
+";i:413;s:210:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionGame'>Action Game</a>: A game that is primarily about combat.
+";i:414;s:290:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionRPG' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionRPG'>Action RPG</a>: A game that combines parts from Role Playing Games and Action Adventure Games together. Sub-genre of a Role-playing Game.
+";i:415;s:301:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AdventureGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AdventureGame'>Adventure Game</a>: A game that is about puzzle-solving, exploration, and narrative, and a relative (or total) absence of randomized combat.
+";i:416;s:380:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ArcadeGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ArcadeGame'>Arcade Game</a>: A game that is a dedicated machine that requires coins to operate. In genre terms, a session of the game can be played in a few minutes, typically involving fast action, and can be learned while it is played.
+";i:417;s:373:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ArtGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ArtGame'>Art Game</a>: A game that has <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DoingItForTheArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DoingItForTheArt'>Doing It for the Art</a> as its motto.
+";i:418;s:304:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ArtilleryGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ArtilleryGame'>Artillery Game</a>: A game that tasks the player with successfully aiming at an opponent with a ballistics trajectory under various conditions.
+";i:419;s:283:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BeatEmUp' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BeatEmUp'>Beat 'em Up</a>: A game that has the player character use their fists against a large group of enemies. Sub-genre of an Action Game.
+";i:420;s:308:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BizarrePuzzleGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BizarrePuzzleGame'>Bizarre Puzzle Game</a>: A Puzzle Game that is so weird and mind-defying that trying to label it with a genre is a puzzle in and of itself.
+";i:421;s:319:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BreakingOut' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BreakingOut'>Breaking Out</a>: A game in which a paddle at the bottom of the screen bounces a ball to destroy blocks, and missing the ball results in the player losing a life.
+";i:422;s:345:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BulletHell' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BulletHell'>Bullet Hell</a>: A vertically scrolling shooter that has every single enemy fire hundreds or thousands of projectiles on-screen at once at the player character, testing their dodging skills.
+";i:423;s:248:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CardBattleGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CardBattleGame'>Card Battle Game</a>: A game in which players brings their own deck of cards to play.
+";i:424;s:249:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CasualVideoGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CasualVideoGame'>Casual Video Game</a>: A game that is easy to learn and relatively simple by design.
+";i:425;s:291:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CinematicPlatformGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CinematicPlatformGame'>Cinematic Platform Game</a>: A Platform Game that portrays itself more realistically. Sub-genre of an Action Game.
+";i:426;s:366:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConstructionAndManagementGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConstructionAndManagementGames'>Construction And Management Games</a>: This type of game focuses on elements like gathering and management of resources, construction, expansion, research and exploration.
+";i:427;s:292:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CuteEmUp' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CuteEmUp'>Cute 'em Up</a>: A Shoot Em Up that casts the enemies as cute things such as kittens, candy, fairies, and so on. Sub-genre of an Action Game.
+";i:428;s:371:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DatingSim' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DatingSim'>Dating Sim</a>: A game in which the player courts at least one potential lover, and the player must keep track of every character's feelings about them and giving out presents, which will feel like a Role Playing Game.
+";i:429;s:232:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DrivingGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DrivingGame'>Driving Game</a>: A game in which the player drives a vehicle of some kind.
+";i:430;s:290:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EasternRPG' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EasternRPG'>Eastern RPG</a>: A usually Japanese game that tends to have a linear plot and a party of pre-defined characters written into said plot.
+";i:431;s:243:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EdutainmentGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EdutainmentGame'>Edutainment Game</a>: A game that educates players as well as entertains them.
+";i:432;s:330:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EliminationPlatformer' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EliminationPlatformer'>Elimination Platformer</a>: A game that requires players to use the concept of jumping from one platform to another to clear the entire level of enemies.
+";i:433;s:272:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EndlessRunningGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EndlessRunningGame'>Endless Running Game</a>: A game about enduring an endless sequence of obstacles as long as possible.
+";i:434;s:239:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Exergaming' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Exergaming'>Exergaming</a>: A game that encourages the player to exercise and to get into shape.
+";i:435;s:406:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FallingBlocks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FallingBlocks'>Falling Blocks</a>: A game in which blocks fall from the top of the screen, requiring the player to move and flip them so that they'll be arranged in a way to make them disappear, and if the blocks reach the top of the screen then the game ends.
+";i:436;s:221:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FantasyVideoGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FantasyVideoGames'>Fantasy Video Games</a>: A game that features magic.
+";i:437;s:243:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FightingGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FightingGame'>Fighting Game</a>: A game that has a martial arts duel. Sub-genre of an Action Game.
+";i:438;s:349:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FirstPersonShooter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FirstPersonShooter'>First-Person Shooter</a> (FPS): A game in which the perspective is through the eyes of the player character, and the action revolves around shooting. Sub-genre of an Action Game.
+";i:439;s:243:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FlightSim' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FlightSim'>Flight Sim</a>: A game in which the player flies an airplane as realistically as possible.
+";i:440;s:580:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FullMotionVideo' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FullMotionVideo'>Full Motion Video</a> (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InteractiveMovie' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InteractiveMovie'>Interactive Movie</a>): A game that is based around video clips, and the player must press buttons at the right time, choose the right sequence of clips, or play other games using the video as a backdrop. Sub-genre of an Adventure Game.
+";i:441;s:313:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HackAndSlash' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HackAndSlash'>Hack and Slash</a>: A game that has the player character wield primitive, close range melee weaponry, and the goal is to kill as many enemies as possible.
+";i:442;s:313:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HiddenObjectGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HiddenObjectGame'>Hidden Object Game</a>: A game in which there is a photorealistic cluttered scene and the player must find and click on a series of objects in it.
+";i:443;s:478:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorizontalScrollingShooter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorizontalScrollingShooter'>Horizontal Scrolling Shooter</a>: A Shoot Em Up game that has a horizontal <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AutoScrollingLevel' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AutoScrollingLevel'>Auto Scrolling Level</a>, that is, to the left or right.
+";i:444;s:280:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorVideoGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorVideoGames'>Horror Video Games</a>: A game that exploits the fears of players to cause anxiety, fear, and ultimately thrills.
+";i:445;s:301:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InteractiveFiction' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InteractiveFiction'>Interactive Fiction</a>: An Adventure Game in which the interaction is almost entirely text-based. Sub-genre of an Adventure Game.
+";i:446;s:333:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LightGunGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LightGunGame'>Light Gun Game</a>: A game in which the player has a pointing device that resembles a gun and points it at the screen to shoot on-screen enemies. Sub-genre of an Action Game.
+";i:447;s:284:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadMarbleMaze' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadMarbleMaze'>Mad Marble Maze</a>: A game in which the player rolls a round object of some kind from the beginning to the end of a level.
+";i:448;s:239:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MascotFighter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MascotFighter'>Mascot Fighter</a>: Ultimate Showdown Of Ultimate Destiny is heavily featured.
+";i:449;s:448:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MassivelyMultiplayerOnlineRolePlayingGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MassivelyMultiplayerOnlineRolePlayingGame'>Massively Multiplayer Online Role Playing Game</a> (MMORPG): A game that has hundreds of players interacting with each other in the same world in real-time, which completing quests and leveling up. Sub-genre of a Role-Playing Game.
+";i:450;s:317:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MatchThreeGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MatchThreeGame'>Match Three Game</a>: A game in which the player must match three objects of similar color/shape/species to eliminate said objects from the playing field.
+";i:451;s:326:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MazeGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MazeGame'>Maze Game</a> : A game that takes place in a maze, and the player must either get from one side of the maze to the other, or clear it of every item that won't kill the player.
+";i:452;s:219:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MechaGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MechaGame'>Mecha Game</a>: A game that focuses on Humongous Mecha for combat.
+";i:453;s:260:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Metroidvania' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Metroidvania'>Metroidvania</a>: A game that combines parts from Adventure Action Games and Platform Games together.
+";i:454;s:288:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MinigameGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MinigameGame'>Minigame Game</a>: A game that has a series of puzzles, challenges and games with very different requirements for defeating them.
+";i:455;s:296:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MiscellaneousGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MiscellaneousGames'>Miscellaneous Games</a>: A page that contains games that nobody could identify the genre of. It really should be cleaned out.
+";i:456;s:237:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MUCK' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MUCK'>MUCK</a>: A Multi-User Text-Oriented Game that emphasizes roleplaying and player intervention.
+";i:457;s:465:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MultiplayerOnlineBattleArena' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MultiplayerOnlineBattleArena'>Multiplayer Online Battle Arena</a> (MOBA): A game that has teams of players competing with each other, typically using the point-and-click interface of a Real Time Strategy; but, unlike RTS games, players control only one Hero Unit instead of a military-industrial complex.
+";i:458;s:436:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MultiUserDungeon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MultiUserDungeon'>Multi User Dungeon</a> (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MUD' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MUD'>MUD</a>) and MOO: An Interactive Fiction that allows multiple (perhaps thousands) players to play at the same time.
+";i:459;s:525:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MUSH' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MUSH'>MUSH</a> (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MultiUserSharedHallucination' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MultiUserSharedHallucination'>Multi User Shared Hallucination</a>): A MUD that is just a series of rooms, with players given the bare minimum of interaction systems and let loose to create and manage their own roleplaying.
+";i:460;s:273:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PartyGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PartyGame'>Party Game</a>: A Minigame Game in which two to four players compete against each other in a boardgame-like environment.
+";i:461;s:319:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Pinball' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Pinball'>Pinball</a>: A game in which the player has a (usually) metal ball in a playfield and the player gets to smash it around using (usually) two moving arms, called flippers.
+";i:462;s:264:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlatformFighter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlatformFighter'>Platform Fighter</a>: A fighting game that has great emphasis on maneuverability on dynamic stages.
+";i:463;s:291:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlatformGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlatformGame'>Platform Game</a> (Platformer): A game that is about leaping over or onto enemy characters and between platforms of varying heights.
+";i:464;s:322:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PointAndClickGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PointAndClickGame'>Point-and-Click Game</a>: A game in which player interacts with the environment by moving the mouse cursor over areas of the screen and clicking on them.
+";i:465;s:261:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PopUpVideoGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PopUpVideoGames'>Pop Up Video Games</a>: A game in which clicking on background items results in cute animations.
+";i:466;s:394:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProgrammingGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProgrammingGame'>Programming Game</a>: A game in which the player has little to no direct control over the game's events, and must set up the solution, then hit a "go" switch to activate the solution and see if it accomplishes the task correctly.
+";i:467;s:262:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PuzzleGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PuzzleGame'>Puzzle Game</a>: A game that requires mental skill as well as, or instead of, dexterity and quick reflexes.
+";i:468;s:263:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PuzzlePlatformer' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PuzzlePlatformer'>Puzzle Platformer</a>: A game that combines parts from Platform Games and Puzzle Games together.
+";i:469;s:276:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RacingGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RacingGame'>Racing Game</a>: A game in which the player drives a vehicle of some kind and races against either other players or time.
+";i:470;s:261:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RailShooter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RailShooter'>Rail Shooter</a>: A game in which the computer controls most of your movement and you control the shots.
+";i:471;s:346:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RaisingSim' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RaisingSim'>Raising Sim</a>: A game in which schedules for a game to process are applied, which in turn affects characters in the game, who then develop 'on their own' without constant user interference.
+";i:472;s:305:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealTimeStrategy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealTimeStrategy'>Real Time Strategy</a> (RTS): A game that focuses on construction and control of a fighting force in battle that takes place in real-time.
+";i:473;s:276:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RhythmGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RhythmGame'>Rhythm Game</a>: A game that will flash commands, and the player has to input the same, synchronized to a beat or melody.
+";i:474;s:992:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Roguelike' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Roguelike'>Roguelike</a>: A game that features <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DungeonCrawling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DungeonCrawling'>Dungeon Crawling</a> with randomly-generated environments randomly stocked from a huge list of monsters and items, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FinalDeath' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FinalDeath'>Final Death</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiGrinding' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiGrinding'>Anti-Grinding</a> and is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NintendoHard' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NintendoHard'>Nintendo Hard</a>. Sub-genre of a Role-Playing Game.
+";i:475;s:492:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RolePlayingGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RolePlayingGame'>Role-Playing Game</a> (RPG) see also <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a> (Tabletop RPG): A game in which the player controls a character or party of characters in a statistically abstracted way.
+";i:476;s:309:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ScienceFictionVideoGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ScienceFictionVideoGames'>Science Fiction Video Games</a>: A game that explores a concept that does not exist at the present time, but it someday might.
+";i:477;s:271:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShootEmUp' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShootEmUp'>Shoot 'em Up</a> (Shmups): A fixed-scrolling shooting game that is not three-dimensional. Sub-genre of an Action Game.
+";i:478;s:250:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SimulationGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SimulationGame'>Simulation Game</a> (Sim): A game that simulates parts of a reality, fictional or real.
+";i:479;s:299:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpaceManagementGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpaceManagementGame'>Space Management Game</a>: A game in which the player must figure out how to make the most out of as little space as possible.
+";i:480;s:231:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsGame'>Sports Game</a>: A game that simulates playing a traditional physical sport.
+";i:481;s:336:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StealthBasedGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StealthBasedGame'>Stealth-Based Game</a>: A game in which the player character is too weak to take enemies head-on and must actively hide from them. Sub-genre of an Action-Adventure Game.
+";i:482;s:284:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StrategyGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StrategyGame'>Strategy Game</a>: A game in which the player's strategical and/or tactical thinking is required in order to achieve victory.
+";i:483;s:280:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StrategyRPG' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StrategyRPG'>Strategy RPG</a> (SRPG): A game that is a Role Playing Game, but it plays like a Turn Based Strategy or Real Time Strategy.
+";i:484;s:362:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SurvivalHorror' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SurvivalHorror'>Survival Horror</a>: A game that features overwhelmed protagonist(s), oppressive atmosphere and a need for careful management of resources (ammo, health, etc.). Sub-genre of an Action-Adventure Game.
+";i:485;s:323:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TeamworkPuzzleGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TeamworkPuzzleGame'>Teamwork Puzzle Game</a>: A game in which the player controls a group of characters, and progress frequently depends on puzzles making use of this fact.
+";i:486;s:324:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThirdPersonShooter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThirdPersonShooter'>Third Person Shooter</a> (3PS/TPS): A game that combines parts of a First Person Shooter, 3D Platform Game and a Beat Em Up. Sub-Genre of an Action Game.
+";i:487;s:311:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeManagementGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeManagementGame'>Time Management Game</a>: A game in which the player must perform task such as serving food and changing baby's diapers as fast as possible.
+";i:488;s:301:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TowerDefense' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TowerDefense'>Tower Defense</a>: A game in which the player defends a building from monsters using other buildings, sometimes with a unit or two as back-up.
+";i:489;s:342:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TurnBasedStrategy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TurnBasedStrategy'>Turn Based Strategy</a> (TBS): A game that is about abstract mechanics of efficiently waging war, exploiting resources and controlling huge groups of combatants all at once.
+";i:490;s:263:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TurnBasedTactics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TurnBasedTactics'>Turn Based Tactics</a>: A game in which the player must control individual soldiers or vehicles.
+";i:491;s:282:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VehicularCombat' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VehicularCombat'>Vehicular Combat</a>: A game that has the player control a normally armed motor vehicle and must destroy all enemies.
+";i:492;s:296:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VerticalScrollingShooter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VerticalScrollingShooter'>Vertical Scrolling Shooter</a>: A Shoot Em Up game that has a vertical Auto Scrolling Level, that is, up or down.
+";i:493;s:259:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WesternRPG' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WesternRPG'>Western RPG</a>: A North American or European game that features a customizable featureless protagonist.
+";i:494;s:259:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WrestlingGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WrestlingGame'>Wrestling Game</a>: A game that simulates Professional Wrestling, with grapples, holds and throws.
+";i:495;s:149:"</li></ul><p></p><h2>There are several modifiers that can be applied to the genre of a game, as a twist on the standard formula. These include:</h2>
+";i:496;s:304:"<p></p><ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AsymmetricMultiplayer' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AsymmetricMultiplayer'>Asymmetric Multiplayer</a>: A multiplayer mode in which different players have totally different roles and capabilities.
+";i:497;s:291:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CompetitiveMultiplayer' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CompetitiveMultiplayer'>Competitive Multiplayer</a>: A multiplayer mode in which players compete against each other as players or teams.
+";i:498;s:299:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoOpMultiplayer' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoOpMultiplayer'>Co-Op Multiplayer</a>: A multiplayer mode in the main game in which every player is on the same team and playing against the computer.
+";i:499;s:548:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FullMotionVideo' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FullMotionVideo'>Full Motion Video</a> (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InteractiveMovie' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InteractiveMovie'>Interactive Movie</a>): A game that is based around video clips, and the player must press buttons at the right time, choose the right sequence of clips, or play other games using the video as a backdrop.
+";i:500;s:323:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameplayRoulette' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameplayRoulette'>Gameplay Roulette</a>: A scenario in which games within a franchise switch from one Video Game Genre to another in an attempt to continue appealing to fans.
+";i:501;s:330:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IsometricProjection' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IsometricProjection'>Isometric Projection</a>: A graphical projection that squishes the vertical axes, thus forcing perpendicular angles to look wider and more three-dimensional.
+";i:502;s:279:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MassiveMultiplayerCrossover' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MassiveMultiplayerCrossover'>Massive Multiplayer Crossover</a>: A Crossover with at least three different continuities.
+";i:503;s:383:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MassivelyMultiplayerOnlineRolePlayingGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MassivelyMultiplayerOnlineRolePlayingGame'>Massively Multiplayer Online</a>: A Role-Playing Game that has hundreds, thousands, or even hundreds of thousands of players all connected to it through the Internet.
+";i:504;s:302:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MetaMultiplayer' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MetaMultiplayer'>Meta Multiplayer</a>: A multiplayer mode in which players are playing their own game at a time, but other players are doing this as well.
+";i:505;s:282:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Minigame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Minigame'>Minigame</a>: A separate game present inside the main game. May or may not be relevant to progressing through the main game itself.
+";i:506;s:274:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MuseumGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MuseumGame'>Museum Game</a>: A game that is primarily about paying tribute to or heavily referencing a franchise or company's past.
+";i:507;s:356:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicPlayerGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicPlayerGame'>Music Player Game</a>: A game in which the levels are generated procedurally from the music you feed it, typically the more intensive and loud the music, the more action you are going to see.
+";i:508;s:262:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WreakingHavok' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WreakingHavok'>Physics Based</a>: A game that is primarily about the developers showing off applications of physics.
+";i:509;s:225:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealTime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealTime'>Real Time</a>: When one minute of gameplay equals one minute in game time.
+";i:510;s:294:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RPGElements' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RPGElements'>RPG Elements</a>: A game that isn't a Role Playing Game, but the player character is gaining experience points and levels like in an RPG.
+";i:511;s:234:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SideView' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SideView'>Side View</a>: A perspective that views all objects from the side and nowhere else.
+";i:512;s:297:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StealthBasedGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StealthBasedGame'>Stealth-Based Game</a>: A game in which the player character is too weak to take enemies head-on and must actively hide from them.
+";i:513;s:450:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TacticalShooter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TacticalShooter'>Tactical Shooter</a>: A game that resembles a First-Person Shooter, but it features realistic magazines, realistically damaging bullets, Squad Controls, Subsystem Damage, cover mechanics, situational awareness aids, mission planning and no jumping allowed. Sub-genre of an Action Game.
+";i:514;s:378:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThreeQuartersView' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThreeQuartersView'>Three Quarters View</a>: A perspective that is a tilted bird's eye view perspective in which both the top and front of an object is seen at the same time, and the vertical axis indicates both height and depth.
+";i:515;s:239:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TopDownView' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TopDownView'>Top Down View</a>: A perspective that views all objects straight and nowhere else.
+";i:516;s:83:"</li><li> Turn-Based: When the player and the computer take turns in making moves.
+";i:517;s:298:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnexpectedGameplayChange' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnexpectedGameplayChange'>Unexpected Gameplay Change</a>: When the genre in a game suddenly changes to a different genre with little warning.
+";i:518;s:276:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGame3DLeap' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGame3DLeap'>3D</a>: When a video game series goes from having two-dimensional sprites to having three-dimensional polygons.
+";i:519;s:440:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VisualNovel' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VisualNovel'>Visual Novel</a>: Even though people equate this with "Dating Sim", they are not the same. Unlike Dating Sims, Visual Novels are more like Adventure Games that allow you to choose your own adventure and get different endings based off of your choices. Sub-genre of an Adventure Game.
+";i:520;s:282:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WideOpenSandbox' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WideOpenSandbox'>Wide Open Sandbox</a>: When the massive open world and optional material outweigh the actual, goal-oriented gameplay.
+";i:521;s:116:"</li></ul><p></p><h2>And also a number of particularly distinctive ways a game can be marketed or categorized:</h2>
+";i:522;s:332:"<p></p><ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AllegedlyFreeGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AllegedlyFreeGame'>Allegedly Free Game</a>: A game that you can play for free, but you will have to pay money to access other game areas or get particular abilities and items.
+";i:523;s:491:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetaTest' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetaTest'>Beta Test</a>: A development version of the game, built to test how the various components of the program interact with one another and the computer. Some developers have an "Open Beta" process, giving access to a pre-release version of the game to the general public (or playtesters selected from a public pool) for more extensive testing.
+";i:524;s:323:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DownloadableContent' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DownloadableContent'>Downloadable Content</a>: Additional, optional content provided by the developer via digital distribution and purchased separately from the main game.
+";i:525;s:306:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EpisodicGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EpisodicGame'>Episodic Game</a>: A game that is divided into separate episodes, and allows for cheaper prices, shorter wait times, and shorter development times.
+";i:526;s:310:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ExpansionPack' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ExpansionPack'>Expansion Pack</a>: Additional content released after the original game that is purchased separately and (usually) requires the original game to run.
+";i:527;s:320:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Freemium' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Freemium'>Freemium</a>: A game that you can play for free, but if you pay premium then you'll get full access to features that you couldn't get for free and remove advertisements.
+";i:528;s:244:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FreewareGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FreewareGames'>Freeware Games</a>: A game that can be downloaded and distributed legally for free.
+";i:529;s:360:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameMod' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameMod'>Game Mod</a>: Third-party modifications applied to an existing game. Can range from cosmetic improvements to additional fan-created content to full-on total conversions that only share an underlying game engine.
+";i:530;s:235:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameModIndex' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameModIndex'>Game Mod Index</a>: This is where you'll find Game Mods listed in one place.
+";i:531;s:216:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HGame'>H-Game</a>: A game that has features sex or heavy fanservice.
+";i:532;s:278:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IndieGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IndieGame'>Indie Game</a>: A game that is developed without the backing of a publishing company, thus making it independently developed.
+";i:533;s:257:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LicensedGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LicensedGame'>Licensed Game</a>: A game based on an existing property, usually a movie, TV series or comic book.
+";i:534;s:280:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Microtransactions' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Microtransactions'>Microtransactions</a>: A game that has individual, one-off payments for accessing additional content in a game.
+";i:535;s:307:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MissionPackSequel' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MissionPackSequel'>Mission Pack Sequel</a>: A sequel with so few changes from its predecessor that it feels more like an Expansion Pack than a "true" sequel.
+";i:536;s:411:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ObviousBeta' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ObviousBeta'>Obvious Beta</a>: An unfinished game (often <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Egregious' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Egregious'>egregiously</a> so) marketed as a finished one, for whatever reason.
+";i:537;s:436:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PerpetualBeta' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PerpetualBeta'>Perpetual Beta</a>: A game which undergoes a long process of bugfixes, tweaks, and rebalancing even after its official release. So named because the developers seem to be "outsourcing" their beta testing to the player base without telling them the game's not really finished.
+";i:538;s:314:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RomanceGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RomanceGame'>Romance Game</a>: A Japanese game in which the primary goal is to establish a romantic relationship between the Player Character and one or more of the NPCs.
+";i:539;s:401:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Shareware' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Shareware'>Shareware</a>: A game that can be played to a certain extent without purchasing it. Buying the game will allow the player to play it to completion, instantly picking up exactly where they left off upon purchase without the need to install anything.
+";i:540;s:300:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Shovelware' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Shovelware'>Shovelware</a>: Software that is normally sold in bundles of several products, but it can refer to lowest-common-denominator software in general.
+";i:541;s:355:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThirtyDayFreeTrial' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThirtyDayFreeTrial'>30-Day Free Trial</a>: Software which you're allowed to use for a fixed, limited amount of time without paying for it. Once that time expires, you must send money to continue using it.
+";i:542;s:283:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGameLongRunners' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGameLongRunners'>Video Game Long Runners</a>: A franchise that has at least six games in its main series and spans ten years.
+";i:543;s:224:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WebGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WebGames'>Web Games</a>: A game is that is played over the web via the web browser.
+";i:544;s:24:"</li></ul><p></p><hr />
+";i:545;s:1511:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowGenres">Show Genres</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Genres">Genres</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ContractualGenreBlindness">Contractual Genre Blindness</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Toys">Toys</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Works">Works</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/WebAnimation">Web Animation</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGameEffectsAndSpells">Video Game Effects and Spells</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes">Videogame Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGameInterfaceElements">Video Game Interface Elements</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:546;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:547;s:10:"<p> </p>
+";i:548;s:10:"<center>
+";i:549;s:2:"
+";i:550;s:24:"<!-- med rectangle -->
+";i:551;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:552;s:33:"<script type='text/javascript'>
+";i:553;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:554;s:11:"</script>
+";i:555;s:8:"</div>
+";i:556;s:2:"
+";i:557;s:11:"</center>
+";i:558;s:24:"</td><!-- wikibody -->
+";i:559;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:560;s:7:"</td>
+";i:561;s:7:"</tr>
+";i:562;s:10:"</table>
+";i:563;s:22:"<!--PageFooterFmt-->
+";i:564;s:149:"<div class="alt_title" style="font-size:x-small;text-align:center;" ><b>alternative title(s):</b> Video Game; Videogames Of Note; Video Games</div>
+";i:565;s:10:"<center>
+";i:566;s:44:"<table style="width:606px;margin:0 auto;">
+";i:567;s:7:"	<tr>
+";i:568;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:569;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:570;s:264:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGameGenres?action=edit'> edit page</a></div></div></td>
+";i:571;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:572;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:573;s:8:"	</tr>
+";i:574;s:10:"</table>
+";i:575;s:11:"</center>
+";i:576;s:21:"<div id='wikifoot'>
+";i:577;s:27:"    <div class='footnav'>
+";i:578;s:2:"
+";i:579;s:14:"			 <center>
+";i:580;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:581;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:582;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:583;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:584;s:15:"				</center>
+";i:585;s:2:"
+";i:586;s:29:"    </div><!-- wikifoot -->
+";i:587;s:23:"<!--/PageFooterFmt-->
+";i:588;s:12:"43558<br/>
+";i:589;s:3:"0
+";i:590;s:8:"</div>
+";i:591;s:26:"</div><!-- container -->
+";i:592;s:2:"
+";i:593;s:9:"</body>
+";i:594;s:21:"<!--ScriptInsert-->
+";i:595;s:9:"</html>
+";}}

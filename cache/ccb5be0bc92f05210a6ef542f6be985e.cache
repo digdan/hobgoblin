@@ -1,0 +1,567 @@
+a:2:{i:0;i:1377888870;i:1;a:566:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:73:"<title>Socially Awkward Hero - Television Tropes &amp; Idioms  </title>
+";i:5;s:139:"<meta name="Description" content="The Socially Awkward Hero trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:10:"</style>
+";i:25;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:26;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:27;s:33:"<script type="text/javascript">
+";i:28;s:26:"  var _gaq = _gaq || [];
+";i:29;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:30;s:34:"  _gaq.push(['_trackPageview']);
+";i:31;s:2:"
+";i:32;s:17:"  (function() {
+";i:33;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:34;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:35;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:36;s:9:"  })();
+";i:37;s:2:"
+";i:38;s:32:"	function subpage(sel, title){
+";i:39;s:4:"		
+";i:40;s:40:"		var namespce = ""+getselection(sel);
+";i:41;s:34:"		if(namespce.trim()=="")return;
+";i:42;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:43;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:44;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:45;s:29:"		window.location.href=url;
+";i:46;s:4:"	}
+";i:47;s:32:"	function p5(groupname,title){
+";i:48;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:49;s:4:"	}
+";i:50;s:27:"	function togglenote(id){
+";i:51;s:23:"		var ele=object(id);
+";i:52;s:34:"		var state = ele.style.display;
+";i:53;s:49:"		if(state=='none') ele.style.display='inline';
+";i:54;s:48:"		if(state=='inline')ele.style.display='none';
+";i:55;s:4:"	}
+";i:56;s:35:"	var googletag = googletag || {};
+";i:57;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:58;s:16:"	(function() {
+";i:59;s:47:"	var gads = document.createElement('script');
+";i:60;s:21:"	gads.async = true;
+";i:61;s:33:"	gads.type = 'text/javascript';
+";i:62;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:63;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:64;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:65;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:66;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:67;s:8:"	})();
+";i:68;s:2:"
+";i:69;s:34:"	googletag.cmd.push(function() {
+";i:70;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:71;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:73;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:74;s:45:"		googletag.pubads().enableSingleRequest();
+";i:75;s:31:"		googletag.enableServices();
+";i:76;s:6:"	});
+";i:77;s:2:"
+";i:78;s:11:"</script>
+";i:79;s:2:"
+";i:80;s:9:"</head>
+";i:81;s:8:"<body>
+";i:82;s:40:"<div class="container" id="container">
+";i:83;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:84;s:6:"<tr>
+";i:85;s:46:"<td style="width:166px;vertical-align:top;">
+";i:86;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:87;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:88;s:38:"<g:plusone size="small"></g:plusone>
+";i:89;s:2:"
+";i:90;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:91;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:92;s:6:"<ul>
+";i:93;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:94;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:95;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:96;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:97;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:98;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:99;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:100;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:101;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:102;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:103;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:104;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:105;s:7:"</ul>
+";i:106;s:8:"</div>
+";i:107;s:2:"
+";i:108;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:109;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:110;s:2:"
+";i:111;s:190:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','SociallyAwkwardHero');">send request</button><hr/></div>
+";i:112;s:2:"
+";i:113;s:331:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="SociallyAwkwardHero" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:114;s:2:"
+";i:115;s:51:"<div style="font-size:small;text-align:center;" >
+";i:116;s:30:"Find recent edits by troper:
+";i:117;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:118;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:119;s:8:"</div>
+";i:120;s:7:"<hr/>
+";i:121;s:7:"<ul>	
+";i:122;s:4:"		
+";i:123;s:7:"<hr/>
+";i:124;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:125;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:126;s:68:"		<input type="hidden" name="title" value="SociallyAwkwardHero" />
+";i:127;s:54:"		This article needs some moderator assistance with:
+";i:128;s:9:"		<br/>
+";i:129;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:130;s:9:"		<br/>
+";i:131;s:4:"		
+";i:132;s:34:"		<p style="text-align:center;">
+";i:133;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:134;s:8:"		</p>
+";i:135;s:34:"		<p style="text-align:center;">
+";i:136;s:48:"			<input type="submit" value="send report" />
+";i:137;s:8:"		</p>
+";i:138;s:11:"		</form>
+";i:139;s:7:"<hr/>
+";i:140;s:6:"<ul>
+";i:141;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:142;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:143;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:144;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:145;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:146;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:147;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:148;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:149;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:150;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:151;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:152;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:153;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:154;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:155;s:148:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.SociallyAwkwardHero'>Referral Count for This Page</a></li>
+";i:156;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:157;s:123:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=SociallyAwkwardHero'>Article Relationships</a></li> -->
+";i:158;s:109:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.SociallyAwkwardHero'>Folderize</a></li>
+";i:159;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:160;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:161;s:7:"</ul>
+";i:162;s:8:"	<hr/>
+";i:163;s:6:"<ul>
+";i:164;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:165;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:166;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:167;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:168;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:169;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:170;s:7:"</ul>
+";i:171;s:7:"<hr/>
+";i:172;s:2:"
+";i:173;s:8:"</div>
+";i:174;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:175;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:176;s:8:"		<ul>
+";i:177;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:178;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:179;s:9:"		</ul>
+";i:180;s:8:"</div>
+";i:181;s:10:"<center>
+";i:182;s:34:"		<div style="margin-top:4px;">	
+";i:183;s:5:"			
+";i:184;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:185;s:33:"<script type='text/javascript'>
+";i:186;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:187;s:104:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/SociallyAwkwardHero");
+";i:188;s:11:"</script>
+";i:189;s:8:"</div>
+";i:190;s:2:"
+";i:191;s:11:"		</div>	
+";i:192;s:10:"		<div>	
+";i:193;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:194;s:6:"		 	
+";i:195;s:4:"		
+";i:196;s:4:"		
+";i:197;s:10:"		</div>
+";i:198;s:205:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/SociallyAwkwardHero">Laconic</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SociallyAwkwardHero">Main</a><br/>
+";i:199;s:9:"		<div>
+";i:200;s:10:"		</div>
+";i:201;s:36:"		<div style="font-size:x-small;">
+";i:202;s:11:"				<hr/>
+";i:203;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:204;s:14:"				<p> </p>
+";i:205;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:206;s:13:"				<p></p>
+";i:207;s:11:"				<ul >
+";i:208;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:209;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:210;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:211;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:212;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:213;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:214;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:215;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:216;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:217;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:219;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:220;s:11:"				</li>
+";i:221;s:11:"				</ul>
+";i:222;s:13:"				<p></p>
+";i:223;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:224;s:13:"				<p></p>
+";i:225;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:226;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:227;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:228;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:229;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:230;s:6:"				
+";i:231;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:232;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:233;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:234;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:235;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:236;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:237;s:6:"				
+";i:238;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:239;s:16:"				</li></ul>
+";i:240;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:241;s:13:"				<p></p>
+";i:242;s:11:"				<ul >
+";i:243;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:244;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:245;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:246;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:247;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:248;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:249;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:250;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:251;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:252;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:253;s:6:"				
+";i:254;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:255;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:256;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:257;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:258;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:259;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:260;s:6:"				
+";i:261;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:262;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:263;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:264;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:265;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:266;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:268;s:11:"				</li>
+";i:269;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:270;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:271;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:272;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:273;s:6:"				
+";i:274;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:275;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:276;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:278;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:279;s:16:"				</li></ul>
+";i:280;s:6:"				
+";i:281;s:13:"				<p></p>
+";i:282;s:39:"				<strong>Other Categories</strong>
+";i:283;s:13:"				<p></p>
+";i:284;s:10:"				<ul>
+";i:285;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:286;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:287;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:288;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:289;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:290;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:291;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:292;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:293;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:294;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:295;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:296;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:297;s:11:"				</ul>
+";i:298;s:11:"		</div>	
+";i:299;s:11:"</center>
+";i:300;s:2:"
+";i:301;s:30:"</div> <!-- wikileftpage -->
+";i:302;s:7:"</td>
+";i:303;s:20:"<td id='wikibody'>
+";i:304;s:2:"
+";i:305;s:21:"<!--PageTitleFmt-->
+";i:306;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:307;s:12:"    		<tr>
+";i:308;s:38:"    		<td id="wikicmds" align="top">
+";i:309;s:8:"    		
+";i:310;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:311;s:45:"    				<tr style="vertical-align:middle;">
+";i:312;s:31:"    					<td align="center" >
+";i:313;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:314;s:16:"    					</td>
+";i:315;s:15:"    				<td >
+";i:316;s:37:"    					<div style="width:400px;">
+";i:317;s:28:"                  <center>
+";i:318;s:27:"                  <table>
+";i:319;s:24:"                  <tr>
+";i:320;s:24:"                  <td>
+";i:321;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:322;s:27:"                    <div>
+";i:323;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:324;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:325;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:326;s:64:"                      <input type="text" name="q" size="31" />
+";i:327;s:28:"                    </div>
+";i:328;s:27:"                  </form>
+";i:329;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:330;s:25:"                  </td>
+";i:331;s:24:"                  <td>
+";i:332;s:46:"                  <div class="buttonframe" >
+";i:333;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:334;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:335;s:26:"                  </div>
+";i:336;s:25:"                  </div
+";i:337;s:25:"                  </td>
+";i:338;s:25:"                  </tr>
+";i:339;s:28:"                  </table>
+";i:340;s:29:"                  </center>
+";i:341;s:17:"    					</div>
+";i:342;s:15:"    				</td>
+";i:343;s:15:"    				</tr>
+";i:344;s:16:"    		</table>
+";i:345;s:8:"    		
+";i:346;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:347;s:10:"    				
+";i:348;s:27:"    				<tr valign="top">
+";i:349;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:350;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:351;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:352;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:353;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:354;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:355;s:15:"    				</tr>
+";i:356;s:10:"    				
+";i:357;s:10:"    				
+";i:358;s:8:"    		
+";i:359;s:16:"    		</table>
+";i:360;s:8:"    		
+";i:361;s:28:"    		<div id="wikilogo" >
+";i:362;s:16:"    		<center>
+";i:363;s:2:"
+";i:364;s:22:"<!-- leaderboard -->
+";i:365;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:366;s:33:"<script type='text/javascript'>
+";i:367;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:368;s:11:"</script>
+";i:369;s:8:"</div>
+";i:370;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:371;s:28:"    					<tr valign="top">
+";i:372;s:269:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'SociallyAwkwardHero');" autocomplete="off"  style="width:50px;"><option> </option><option value="Laconic">Laconic</option><option value="Main">Main</option></select></td>
+";i:373;s:274:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SociallyAwkwardHero?action=source" >source</a></div></div></td>
+";i:374;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:375;s:275:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.SociallyAwkwardHero">history</a></div></div></td>
+";i:376;s:277:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SociallyAwkwardHero?action=edit'> edit page</a></div></div></td>
+";i:377;s:273:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/SociallyAwkwardHero" >related</a></div></div></td>
+";i:378;s:38:"    							<td valign="middle"></td>
+";i:379;s:16:"    					</tr>
+";i:380;s:18:"    				</table>
+";i:381;s:10:"    				
+";i:382;s:35:"    				<div id="watchmsg"></div>
+";i:383;s:18:"    			</center>
+";i:384;s:13:"    		</td>
+";i:385;s:12:"     </tr>
+";i:386;s:6:"    
+";i:387;s:11:"    	<tr>
+";i:388;s:39:"    		<td id="wikititle" colspan="2">
+";i:389;s:40:"    				<div class="namespacebuttons">
+";i:390;s:955:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments"  style="border-width:2px;border-color:silver;margin-right:2px;" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.SociallyAwkwardHero" >&nbsp;Discussion </a></li> <li class="namespace_li Laconic" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/SociallyAwkwardHero" class="textcolor">&nbsp;Laconic&nbsp;</a> </li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=SociallyAwkwardHero" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/SociallyAwkwardHero" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:391;s:16:"    				</div>
+";i:392;s:26:"    				<!--RepairBug-->
+";i:393;s:10:"    				
+";i:394;s:34:"    				<div class='pagetitle'> 
+";i:395;s:48:"    						  <span>Socially Awkward Hero</span>
+";i:396;s:16:"    				</div>
+";i:397;s:11:"    				 
+";i:398;s:13:"    		</td>
+";i:399;s:12:"    	</tr>
+";i:400;s:10:"</table>
+";i:401;s:2:"
+";i:402;s:16:"<!--PageText-->
+";i:403;s:20:"<div id='wikitext'>
+";i:404;s:74:"<div class='indent'><strong>Jake Fischer:</strong> You gotta make a move!
+";i:405;s:80:"</div><div class='indent'><strong>Billy Hodge:</strong> I can't. I get nervous.
+";i:406;s:131:"</div><div class='indent'><strong>Jake Fischer:</strong> You wanna jump outta helicopters, but you're afraid to go talk to a girl?
+";i:407;s:223:"</div><div class='indent'><strong>Billy Hodge:</strong> Uh, pretty much, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BluntYes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BluntYes'>yeah</a>.
+";i:408;s:415:"<div class='indent'>&#8212; <a class='urllink' href='http://www.youtube.com/watch?v=tZy-wcQIsRU#t=1m9s'>This trailer<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> for <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheGuardian' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheGuardian'>The Guardian</a></em>.
+";i:409;s:540:"</div></div><p></p>A Socially Awkward Hero is a heroic character who shows tremendous courage in the face of life-threatening danger... but becomes overwhelmed with knees-knocking fear in ordinary social situations. For such a character, confronting a legion of sociopaths and a chainsaw-wielding maniac is <em>far</em> more preferable to meeting his girlfriend's family or making idle chitchat at a cocktail party. Extremely common in shows for the kid and teen audiences, since viewers of that age often feel socially awkward themselves.
+";i:410;s:449:"<p></p>This is to some extent <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth in Television</a>; studies have shown that social situations can be stressful in the extreme, and that people can prefer death to public embarrassment; but even that being considered, some examples of this seem to be parodies of this concept nonetheless.
+";i:411;s:1172:"<p></p>Often a feature of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DefectiveDetective' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DefectiveDetective'>Defective Detective</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoSocialSkills' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoSocialSkills'>No Social Skills</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AmbiguousDisorder' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AmbiguousDisorder'>Ambiguous Disorder</a>. Compare/Contrast <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThisLoserIsYou' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThisLoserIsYou'>This Loser Is You</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WakeUpGoToSchoolSaveTheWorld' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WakeUpGoToSchoolSaveTheWorld'>Wake Up, Go to School, Save the World</a>. See also <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoSocialSkills' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoSocialSkills'>No Social Skills</a>.
+";i:412;s:14:"<p></p><hr />
+";i:413;s:19:"<h2>Examples:</h2>
+";i:414;s:122:"<p></p><div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:415;s:193:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp;Anime &amp; Manga&nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:416;s:263:"<ul ><li> Sousuke Sagara from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/LightNovel/FullMetalPanic' title='http://tvtropes.org/pmwiki/pmwiki.php/LightNovel/FullMetalPanic'>Full Metal Panic</a></em> is one due to being raised by the KGB.
+";i:417;s:859:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DragonBall' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DragonBall'>Dragon Ball</a></em>'s Goku is an example as well due to being "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RaisedByWolves' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RaisedByWolves'>Raised by Wolves</a>" and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ObliviousToLove' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ObliviousToLove'>Oblivious to Love</a> (Chi Chi pretty much had to pound it into him or else he might had remained single his entire life). Note however that Goku in no way <em>knows</em> that he is socially awkward, is never in the slightest anxious about social situations, and is in fact very extroverted and friendly.
+";i:418;s:177:"<ul ><li> Gohan and Goten are also somewhat socially awkward, but in a completely different way then Goku. They're very friendly, but they're also quite shy (especially Gohan).
+";i:419;s:890:"</li></ul></li><li> Jacuzzi Splot of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/LightNovel/Baccano' title='http://tvtropes.org/pmwiki/pmwiki.php/LightNovel/Baccano'>Baccano</a></em> is prone to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FragileFlower' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FragileFlower'>breaking down into tears</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShrinkingViolet' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShrinkingViolet'>at the mere attempt to introduce himself to new people</a>. Crippling social anxiety, however, doesn't prevent him from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OneManArmy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OneManArmy'>single-handedly raiding eighteen mafia-run speakeasies in one night</a>.
+";i:420;s:590:"</li><li> Miu from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/KenichiTheMightiestDisciple' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/KenichiTheMightiestDisciple'>Kenichi: The Mightiest Disciple</a></em> fits this trope prior to meeting Kenichi. She does well at school, has good skills in housework, and is a fairly decent fighter, but due to her intense training and her social awkwardness (she instinctively hits Kenichi in their first meeting when the latter was approaching behind her while running towards school), she's never had any friends.
+";i:421;s:423:"<ul ><li> Kenichi himself fits this trope somewhat too, as his only real "friend" prior to the start of the series is a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ManipulativeBastard' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ManipulativeBastard'>Manipulative Bastard</a> who will suck up to whoever's the strongest at the time, whether its one of the bullies, or later, Kenichi himself.
+";i:422;s:605:"</li></ul></li><li> Bertholdt Fubar of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/AttackOnTitan' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/AttackOnTitan'>Attack on Titan</a></em> is awkward in social situations, but he's ranked 3rd in his class and an exceptional soldier. <span class="spoiler" title="you can set spoilers visible by default on your profile" >Surprisingly, he turns out to be a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMole' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMole'>villainous</a> example.</span>
+";i:423;s:17:"</li></ul></div>
+";i:424;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp;Comic Books&nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:425;s:1118:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Batman' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Batman'>Batman</a>, at least <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DependingOnTheWriter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DependingOnTheWriter'>as written by Chuck Dixon</a>, doesn't really have a clue how to behave like a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RichIdiotWithNoDayJob' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RichIdiotWithNoDayJob'>Rich Idiot with No Day Job</a> in his civilian identity, and finds hosting a Wayne Foundation party more stressful than taking on the Joker. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GrantMorrison' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GrantMorrison'>Grant Morrison</a>'s <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GrantMorrisonsBatman' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GrantMorrisonsBatman'>take on the character</a> has elements of this as well.
+";i:426;s:300:"</li><li> Samaritan from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/AstroCity' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/AstroCity'>Astro City</a></em> suffers from this when his super-heroic peers maneuver him into a dinner date with Winged Victory.
+";i:427;s:512:"</li><li> When <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spider-Man' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spider-Man'>Spider-Man</a></em> was created, this was a revolutionary concept; a superhero who's an awkward loser in high school. Ironically, he became so popular that this spilled over and became <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeCodifier' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeCodifier'>the norm</a>.
+";i:428;s:914:"</li><li> Marv from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SinCity' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SinCity'>Sin City</a></em> is a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiHero'>Socially Awkward Anti-Hero</a>. Ignoring his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SociopathicHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SociopathicHero'>violent tendencies</a>, even in his more civilized moods, he is socially inept, particularly when it comes to women &#8212; and being ugly as sin didn't really help his case either. This is why he <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AManIsNotAVirgin' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AManIsNotAVirgin'>was a virgin until late in life.</a>
+";i:429;s:363:"<ul ><li> John Hartigan is a lesser example. His scenes with Nancy Callhan are awkward since she is throwing herself at him but he tries to remain celebate since there is a huge age-gap between them. Later, when his narration states "When it comes to consoling a nineteen year old girl, I'm as competent as a palsy victim performing brain surgery with a hammer."
+";i:430;s:851:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ScottPilgrim' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ScottPilgrim'>Scott Pilgrim</a> is this trope. He has shown fighting enemies here and there, being evil ex-boyfriends of Ramona, or mooks, and he's always shown to be a confident, if incompetent, musician in his band. Whenever Stephen Stills <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnceAnEpisode' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnceAnEpisode'>has a nervous breakdown</a>, Kim and Scott always are holding the helm of the band. But put it on talking of his past, or about relationships, or even the future, and his awkwardness gets over the mark, with stutters, avoiding themes and generally being an ADHD kid. He's maturing out of this, of course.
+";i:431;s:282:"<ul ><li> Beyond Scott, most of his friends also have their own problems. Kim Pine is somewhat misanthropic and insecure. Steven Stills suffers from neurosis and is hinted to get himself into mildly abusive relationships. Ramona Flowers has her insecurity regarding her situations.
+";i:432;s:635:"</li></ul></li><li> In a <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/TeenTitans' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/TeenTitans'>Teen Titans</a></em> issue, when Kory and Donna were discussing boyfriend woes, Donna asked Raven for her opinion. Keep in mind, Raven is a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HalfHumanHybrid' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HalfHumanHybrid'>a demon's daughter</a> who was basically raised in isolation, with her main (and almost only) interaction a <em>really</em> old woman. Raven lampshades this:
+";i:433;s:107:"<div class='indent'><strong>Raven:</strong> I... do not know. I-I... am ill at ease with social protocols.
+";i:434;s:23:"</div></li></ul></div>
+";i:435;s:180:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp;Film&nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:436;s:240:"<ul ><li> The page quote is from a coast-guard themed movie called <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheGuardian' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheGuardian'>The Guardian</a></em>.
+";i:437;s:413:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Hancock' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Hancock'>Hancock</a> after years of manic depression, drunkenness, and generally being ostracized by the people he tries to help. Taking the advice given to him to heart, he says "good job" to every cop he sees and asks their permission to save them from a hail of bullets.
+";i:438;s:1184:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Batman' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Batman'>Batman</a> is portrayed as such in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/TimBurton' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/TimBurton'>Tim Burton</a> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Batman' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Batman'>Batman</a></em> movies. In his Bruce Wayne persona, he is noticeably awkward, and unsure how to act in social situations, contrasting with the charismatic <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RichIdiotWithNoDayJob' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RichIdiotWithNoDayJob'>Rich Idiot with No Day Job</a> from the comics, although this IS <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DependingOnTheWriter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DependingOnTheWriter'>Depending on the Writer</a>. During his date with Vicki in the first film, he effectively has to go get Alfred to help him chat her up.
+";i:439;s:272:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheSeaHawk' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheSeaHawk'>The Sea Hawk</a></em>: "Him what's taken whole fleets of Spanish ships, can't say a word to a slip of a girl."
+";i:440;s:1556:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Transformers' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Transformers'>Transformers</a></em>: Ladies and Gentlemen...<em>Sam Witwicky</em>. He has a habit of putting his foot in his mouth, and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MsFanservice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MsFanservice'>the girls</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GiveGeeksAChance' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GiveGeeksAChance'>seem to dig that about him</a>. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WordOfGod' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WordOfGod'>The writers</a> did state their inspiration for Sam's character was basically <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/BackToTheFuture' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/BackToTheFuture'>Marty</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MichaelJFox' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MichaelJFox'>McFly</a>-<em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMomentOfFunny' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMomentOfFunny'>on crack</a></em>. Also helps that Sam is played by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Adorkable' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Adorkable'>Shia LaBeouf</a>.
+";i:441;s:564:"<div class='indent'> <strong><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RiffTrax' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RiffTrax'>Ms. Witwicky:</a></strong> <em>And remember, son: if you meet any girls, make sure to stammer and act as awkwardly as possible around them. Model-hot women inexplicably find that attractive in the movies - it worked for <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SayAnything' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SayAnything'>Lloyd Dobbler</a>! Bye!</em>
+";i:442;s:648:"</div></li><li> Steve Rogers from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainAmericaTheFirstAvenger' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainAmericaTheFirstAvenger'>Captain America: The First Avenger</a></em>, even after receiving the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperSoldier' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperSoldier'>Super Soldier</a> serum. Due to his pre-transformation small statue, Steve was very shy and intimidated by women and his apprehensiveness remains as Captain America, even as women throw themselves at his feet.
+";i:443;s:309:"</li><li> Melvin of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheBigHit' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheBigHit'>The Big Hit</a></em> is this in spades. Shooting up a room full of armed men is easy. Entertaining your in-laws... that makes him chug Maalox.
+";i:444;s:17:"</li></ul></div>
+";i:445;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp;Literature&nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:446;s:203:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Sharpe' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Sharpe'>Sharpe</a>: This is one of his defining characteristics.
+";i:447;s:532:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HarryPotter' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HarryPotter'>Harry Potter</a></em> has a moment of this in book 4: After facing a fierce and dangerous Hungarian Horntail in the first task, he finds himself thinking that "now that he was facing the prospect of asking a girl to the ball, he thought he'd rather have another round with the dragon." (He later manages to pick up <em>two girls</em>, spontaneously, at once.)
+";i:448;s:293:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePaleKing' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePaleKing'>The Pale King</a>, Lane Dean attempts to converse with his fellow IRS employees during his fifteen minute break, and fails miserably.
+";i:449;s:305:"</li><li> Kambili, from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/PurpleHibiscus' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/PurpleHibiscus'>Purple Hibiscus</a></em> can't hold a conversation with girls her own age, even though she desperately wants to.
+";i:450;s:764:"</li><li> Tiffany Aching from the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Discworld' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Discworld'>Discworld</a> books may have bested the Queen of the Elves at age nine in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/TheWeeFreeMen' title='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/TheWeeFreeMen'>The Wee Free Men</a></em>, but in that same book she admits she doesn't always "get" people, and she's quite at sea at her first coven meeting in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/AHatFullOfSky' title='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/AHatFullOfSky'>A Hat Full of Sky</a></em>.
+";i:451;s:345:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DocSavage' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DocSavage'>Doc Savage</a> was raised from birth to be a hero and is both the greatest athlete and intellect on the planet, however, he has no idea how to deal with women. He does better with men, though.
+";i:452;s:339:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JohnCarterOfMars' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JohnCarterOfMars'>John Carter</a> believes in this trope, lamenting how often a man's skill in battle is inversely proportional to his skill with women. He includes himself in this category.
+";i:453;s:515:"</li><li> Harry <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DresdenFiles' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DresdenFiles'>Dresden</a> practically owns this trope. Despite having a crush on Murphy, it took him until the end of Changes to actually broach the topic. That's more than a <em>decade</em> in real-world time. He has a major chivalrous streak that gets him in all kinds of trouble, though he's mostly set it aside. In his own words, he's essentially a magic nerd.
+";i:454;s:197:"<ul ><li> It doesn't help that he hangs out with Thomas Raith. White Court Vampires are actually irresistible, so much that Thomas can't get a muggle job because he keeps getting his bones jumped.
+";i:455;s:34:"</li></ul></li></ul><p></p></div>
+";i:456;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp;Live Action TV&nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:457;s:474:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dexter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dexter'>Dexter</a> doesn't just have trouble relating to people, he DOESN'T relate to people. Though most acquaintances see him as normal enough, for Dexter, maintaining the image of a normal, everyday person with regular emotions and no hidden urge to kidnap, murder, and chop people to bloody bits can be an extremely stressful task.
+";i:458;s:321:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Monk' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Monk'>Monk</a>. He and his psychiatrist get kidnapped, tied to chairs and thrown in a truck, and Monk's upset because the psychiatrist is on his left when he usually sits to his right.
+";i:459;s:190:"</li><li> Gil Grissom on <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CSI' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CSI'>CSI: Crime Scene Investigation</a>
+";i:460;s:176:"</li><li> Temperance Brennan on <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Bones' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Bones'>Bones</a>
+";i:461;s:192:"</li><li> Cal Lightman in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/LieToMe' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/LieToMe'>Lie to Me</a></em>.
+";i:462;s:257:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer'>Buffy the Vampire Slayer</a></em> seemed to do this once a season or so.
+";i:463;s:190:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Angel' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Angel'>Angel</a> was even more socially-awkward.
+";i:464;s:1674:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho'>The Doctor</a>, in his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheNthDoctor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheNthDoctor'>11th incarnation</a>, is outgoing, but still awkward. He occasionally comes across as a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChasteHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChasteHero'>Chaste Hero</a> &#8212; he's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MasterOfTheMixedMessage' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MasterOfTheMixedMessage'>Master of the Mixed Message</a> and basically goes stock-still and squeaky when kissed. When he spent a few days renting a room from an ordinary human, he <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MomentKiller' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MomentKiller'>ruined his landlord's attempt to have a romantic evening with a nice girl</a>, and he started delivering a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KirkSummation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KirkSummation'>huge lecture</a> about <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TechnicalPacifist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TechnicalPacifist'>pacifism</a> when encouraged to "annihilate" the other team in a football(/soccer) game, before embarrassedly realizing he was just being encouraged to defeat them.
+";i:465;s:585:"<ul ><li> Other incarnations have elements of this as well. Sometimes, it's because he's not human. Other times, it's because he's just <em>like</em> that. Usually, he gets by deftly on the few social skills he has. In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Recap/DoctorWhoNSS4E10Midnight' title='http://tvtropes.org/pmwiki/pmwiki.php/Recap/DoctorWhoNSS4E10Midnight'>Midnight</a>, however, they backfire on the Tenth Doctor <span class="spoiler" title="you can set spoilers visible by default on your profile" >in a chilling way that nearly kills him</span>.
+";i:466;s:173:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Seinfeld' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Seinfeld'>Seinfeld</a>
+";i:467;s:281:"<div class='indent'><em>"According to most studies, people's number one fear is public speaking. Number two is death. Death is number two. Does that sound right? This means to the average person, if you go to a funeral, you're better off in the casket than doing the eulogy."</em>
+";i:468;s:180:"</div></li><li> Doctor Gregory <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/House' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/House'>House</a>.
+";i:469;s:343:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/CriminalMinds' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/CriminalMinds'>Criminal Minds</a></em>: Dr. Spencer Reid. He can rattle out an impromptu profile to a dangerous serial killer, but always finds himself stumbling words around a pretty girl.
+";i:470;s:332:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/BurnNotice' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/BurnNotice'>Burn Notice</a></em> has Michel Weston, a man who always knows what to say and do in any life threatening situation, but doesn't know how to deal with friends or family.
+";i:471;s:833:"</li><li> On <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Leverage' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Leverage'>Leverage</a></em> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ClassyCatBurglar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ClassyCatBurglar'>Parker</a> is this, able to jump off a building or do carwheels through a laser security system, she is unable to make smalltalk when she is given jury duty and when she tries to seduce a mark she ends up stabbing him with a fork. She also is unable to admit her feelings for Hardison and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CannotSpitItOut' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CannotSpitItOut'>ends up saying that she has feelings for pretzels.</a>
+";i:472;s:757:"</li><li> Reginald Barclay in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekTheNextGeneration' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekTheNextGeneration'>Star Trek: The Next Generation</a></em> and <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekVoyager' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekVoyager'>Star Trek: Voyager</a></em> saved the Enterprise at least twice and was significantly more helpful to Voyager than the average member of its bridge crew (not that this is a particularly high bar), yet had such social difficulty that an entire episode was dedicated to Geordi trying to arrest his withdrawal into a holographic fantasyland.
+";i:473;s:632:"</li><li> Lt. Colonel John Sheppard and Dr. Rodney McKay of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/StargateAtlantis' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/StargateAtlantis'>Stargate Atlantis</a> would rather pilot an exploding moon (no, really) or rewrite the city's base code from scratch than deal with interpersonal relationships. McKay is pretty upfront about this, but Sheppard's a bit of a surprise, given how charming he comes off to strangers. It makes it all the more impressive when either one makes the effort to let their team know how much their friendship means to them.
+";i:474;s:17:"</li></ul></div>
+";i:475;s:181:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp;Music&nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:476;s:436:"<ul ><li> The protagonist of the Temptations song "Can't Get Next to You" has apparently won the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperpowerLottery' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperpowerLottery'>Superpower Lottery</a> but still can't, well, get next to the girl of his dreams. (Possibly not-quite-an-example as we don't know whether the guy ever uses his powers for heroism.)
+";i:477;s:17:"</li></ul></div>
+";i:478;s:183:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp;Theatre&nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:479;s:278:"<ul ><li> Arthur in the beginning of the Camelot musical, there's even <a class='urllink' href='http://www.youtube.com/watch?v=q6blsCGdDI4'>a song about it<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>!
+";i:480;s:344:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CyranoDeBergerac' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CyranoDeBergerac'>Cyrano de Bergerac</a>. Kill a man in a swordfight to the death while composing a poem about it? It's what he lives for. Admit any kind of romantic affection? Too scary for him.
+";i:481;s:17:"</li></ul></div>
+";i:482;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder7');">&nbsp;&nbsp;&nbsp;&nbsp;Video Games&nbsp;</div><div id="folder7" class="folder" isfolder="true" style="display:block;">
+";i:483;s:522:"<ul ><li> It is an informed aspect of Henry Townshend of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SilentHill4' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SilentHill4'>Silent Hill 4</a></em>. His neighbors think of him as a shut-in, which is why it takes a while for anyone to worry that he hasn't left his apartment in days. (It's up to the player whether Henry is a brave slayer of monsters or runs away from everything he sees, so this trope can be played straight or subverted.)
+";i:484;s:641:"</li><li> Kaede from the <em><a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Sonohana' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Sonohana'>Sonohana</a></em> series is her girlfriend Sara's princely protector, even to the point of having been an active <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BullyHunter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BullyHunter'>Bully Hunter</a> as a little girl. She also has crippling social anxiety that causes any public attention or praise to be nearly unbearable to her; only her love for Sara can get her to charge in and defend her.
+";i:485;s:169:"<ul ><li> It took her until near the end of the second game to remember her childhood with Sara, implying that she acquired that anxiety after Sara's earlier departure.
+";i:486;s:730:"</li></ul></li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Videogame/Borderlands2' title='http://tvtropes.org/pmwiki/pmwiki.php/Videogame/Borderlands2'>Borderlands 2</a></em>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheCaptain' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheCaptain'>Roland</a> has a penchant for the heroic speech and is a good enough leader to have a formidable <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LaResistance' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LaResistance'>army</a> under his command. However, he tends to come off as somewhat socially awkward when communicating on a more personal level.
+";i:487;s:564:"<ul ><li> Especially apparent in the ECHO logs detailing his interactions with his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Badass' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Badass'>Badass</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionGirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionGirl'>Action Girl</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveInterest' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveInterest'>Love Interest</a> Lilith.
+";i:488;s:27:"</li></ul></li></ul></div>
+";i:489;s:185:"<p></p><div class="folderlabel" onclick="togglefolder('folder8');">&nbsp;&nbsp;&nbsp;&nbsp;Webcomics&nbsp;</div><div id="folder8" class="folder" isfolder="true" style="display:block;">
+";i:490;s:398:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/GunnerkriggCourt' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/GunnerkriggCourt'>Gunnerkrigg Court</a></em>: Antimony Carver has elements of this. She'll fearlessly rush off to help someone with a supernatural problem, but she tends to stand around in awkward silence during public social situations.
+";i:491;s:213:"</li><li> Elliot from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/ElGoonishShive' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/ElGoonishShive'>El Goonish Shive</a></em>.
+";i:492;s:729:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/TheBeastLegion' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/TheBeastLegion'>The Beast Legion</a></em>: While joiningg Fyre to defeat the Shadow Minions, Xeus shows just how socially awkward he can get in <a class='urllink' href='http://www.thebeastlegion.com/issue-07-page-29-fire-fried/'>Here<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> and <a class='urllink' href='http://www.thebeastlegion.com/issue-07-page-30-awkward/'>Here<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>.
+";i:493;s:567:"</li><li> And then there's Kimiko Ross of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/DresdenCodak' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/DresdenCodak'>Dresden Codak</a></em>. She is perfectly willing to throw down with time colonists or government conspiracies, but as for social situations, well, just take a look at <a class='urllink' href='http://dresdencodak.com/2007/04/07/rule-110/'>this<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>.
+";i:494;s:17:"</li></ul></div>
+";i:495;s:193:"<p></p><div class="folderlabel" onclick="togglefolder('folder9');">&nbsp;&nbsp;&nbsp;&nbsp;Western Animation&nbsp;</div><div id="folder9" class="folder" isfolder="true" style="display:block;">
+";i:496;s:612:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/KimPossible' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/KimPossible'>Kim Possible</a>. Taking down supervillains comes easy for her. Asking the boy she has a crush on to the school dance is another issue entirely, although she is a popular student and cheerleader. Her sidekick <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ButtMonkey' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ButtMonkey'>Ron</a>, however, is neither, but still has the problem of social awkwardness.
+";i:497;s:387:"</li><li> Robin in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TeenTitans' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TeenTitans'>Teen Titans</a></em> cartoon. In one episode he is forced to accompany a villain's daughter to prom, and is envious of the teammates who are merely tasked with <em>stopping</em> said villain.
+";i:498;s:1144:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AvatarTheLastAirbender' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AvatarTheLastAirbender'>Avatar The Last Airbender</a></em>: Zuko has never had any opportunity to become normally socialized as part of a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigScrewedUpFamily' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigScrewedUpFamily'>Big Screwed-Up Family</a>, but he does improve a bit once he has his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeelFaceTurn' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeelFaceTurn'>Heel Face Turn</a> and joins the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TrueCompanions' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TrueCompanions'>True Companions</a>. Stoic silence serves him in good stead while he's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WalkingTheEarth' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WalkingTheEarth'>Walking the Earth</a> in season two.
+";i:499;s:288:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/MyLittlePonyFriendshipIsMagic' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/MyLittlePonyFriendshipIsMagic'>My Little Pony: Friendship Is Magic</a></em> gives us two examples:
+";i:500;s:560:"<ul ><li> Fluttershy is unafraid to walk right up to manticores or three-headed <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HellHound' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HellHound'>hell hounds</a>, but she's overwhelmed at social gatherings or meeting new ponies. "Hurricane Fluttershy" in particular has Fluttershy afraid to take part in strengthening a tornado by flying along its edges, not because it's a <em>tornado,</em> but because she's worried other ponies will make fun of her if she doesn't fly fast enough.
+";i:501;s:188:"</li><li> Twilight Sparkle as well. Her social anxiety isn't as crippling as Fluttershy's, but it's somewhat telling that Princess Celestia had to <em>order</em> her to make some friends.
+";i:502;s:650:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DannyPhantom' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DannyPhantom'>Danny Phantom</a>. He was already pretty awkward before getting his powers, but especially when he first gets them <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PowerIncontinence' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PowerIncontinence'>he has a hard time controlling them</a> causing him to "randomly" trip or sink into objects, turn his eyes green, and other stuff that might further harm what little reputation he has.
+";i:503;s:17:"</li></ul></div>
+";i:504;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder10');">&nbsp;&nbsp;&nbsp;&nbsp;Real Life&nbsp;</div><div id="folder10" class="folder" isfolder="true" style="display:block;">
+";i:505;s:797:"<ul ><li> Again, arguably <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth in Television</a>. People will be <em>much</em> more afraid of the way their peers will judge them for, say, taking a cab home after leaving a party drunk, than of the <em>life threatening danger</em> of driving their own cars home in that state. Back in the Old Days, a man would rather risk life and limb in a duel with horribly random pistols when challenged, rather than face the <em>public shame</em> and the <em>reputation</em> for cowardice, weakness and unmanliness that would come from doing the sensible thing, i.e. telling the challenger to go screw themselves and simply refusing the challenge.
+";i:506;s:679:"<ul ><li> Quite a few of those examples seem to fall at one particular end of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SortingAlgorithmOfTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SortingAlgorithmOfTropes'>Sliding Scale of Testosterone versus Common Sense</a>. In general though, strong adherence to various social mores is what makes human society work. Guilt and shame have very little purpose for loners, but instead serve to keep an individual working within the confines of a social structure. Also why people who do not experience them are often alarming and dangerous, or powerful and charismatic depending on what they do.
+";i:507;s:655:"<ul ><li> Many studies have shown that the main thing that keeps people working efficiently in dangerous occupations is fear of being rejected by their <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TrueCompanions' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TrueCompanions'>True Companions</a>. That is, a fireman may become a fireman <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NobleProfession' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NobleProfession'>To Save Lives</a>. However when he rushes into a burning building it is most likely for his buddies, not for the people he is rescuing.
+";i:508;s:337:"</li></ul></li></ul></li><li> Apparently <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JohnnyDepp' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JohnnyDepp'>Johnny Depp</a> is like this. He can talk to you for hours as one of his characters, but will shy away from anyone who wants to talk to him personally.
+";i:509;s:223:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/PeterSellers' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/PeterSellers'>Peter Sellers</a> claimed he could be anybody but himself.
+";i:510;s:350:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReginaSpektor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReginaSpektor'>Regina Spektor</a> can perform in front of thousands, but off the stage she can barely muster the courage to speak to you. Her shyness and social awkwardness is very apparent in interviews.
+";i:511;s:310:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FreddieMercury' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FreddieMercury'>Freddie Mercury</a> of all people. One of the most flamboyant entertainers ever to walk the Earth, he was a very shy and reclusive person offstage.
+";i:512;s:402:"</li><li> Caleb West, although not competitive in any way, liked to box, and would spar with anyone. Even if he knew he would get pounded into the ground. He had the same attitude about problems and obstacles in life, except <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CantSpitItOut' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CantSpitItOut'>when it came to women</a>.
+";i:513;s:17:"</li></ul></div>
+";i:514;s:7:"<hr />
+";i:515;s:2540:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/GoodIsNotNice">Good Is Not Nice</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/QuirkyGood">Quirky Good</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CruelMercy">Cruel Mercy</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ShyFingerTwiddling">Shy Finger Twiddling</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ShynessTropes">Shyness Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TeachHimAnger">Teach Him Anger</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SmittenTeenageGirl">Smitten Teenage Girl</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterFlawIndex">Character Flaw Index</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSociopath">The Sociopath</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SocialCircleFiller">Social Circle Filler</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice">Characters as Device</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SoleSurvivingScientist">Sole Surviving Scientist</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SnoopingLittleKid">Snooping Little Kid</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Heroes">Heroes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SummonEverymanHero">Summon Everyman Hero</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:516;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:517;s:10:"<p> </p>
+";i:518;s:10:"<center>
+";i:519;s:2:"
+";i:520;s:24:"<!-- med rectangle -->
+";i:521;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:522;s:33:"<script type='text/javascript'>
+";i:523;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:524;s:11:"</script>
+";i:525;s:8:"</div>
+";i:526;s:2:"
+";i:527;s:11:"</center>
+";i:528;s:24:"</td><!-- wikibody -->
+";i:529;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:530;s:7:"</td>
+";i:531;s:7:"</tr>
+";i:532;s:10:"</table>
+";i:533;s:22:"<!--PageFooterFmt-->
+";i:534;s:77:"<div class="alt_title" style="font-size:x-small;text-align:center;" ></div>
+";i:535;s:10:"<center>
+";i:536;s:44:"<table style="width:606px;margin:0 auto;">
+";i:537;s:7:"	<tr>
+";i:538;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:539;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:540;s:268:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SociallyAwkwardHero?action=edit'> edit page</a></div></div></td>
+";i:541;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:542;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:543;s:8:"	</tr>
+";i:544;s:10:"</table>
+";i:545;s:11:"</center>
+";i:546;s:21:"<div id='wikifoot'>
+";i:547;s:27:"    <div class='footnav'>
+";i:548;s:2:"
+";i:549;s:14:"			 <center>
+";i:550;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:551;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:552;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:553;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:554;s:15:"				</center>
+";i:555;s:2:"
+";i:556;s:29:"    </div><!-- wikifoot -->
+";i:557;s:23:"<!--/PageFooterFmt-->
+";i:558;s:12:"43814<br/>
+";i:559;s:4:"22
+";i:560;s:8:"</div>
+";i:561;s:26:"</div><!-- container -->
+";i:562;s:2:"
+";i:563;s:9:"</body>
+";i:564;s:21:"<!--ScriptInsert-->
+";i:565;s:9:"</html>
+";}}

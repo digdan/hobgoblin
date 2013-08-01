@@ -1,0 +1,560 @@
+a:2:{i:0;i:1377889203;i:1;a:559:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:67:"<title>Conflict Killer - Television Tropes &amp; Idioms  </title>
+";i:5;s:133:"<meta name="Description" content="The Conflict Killer trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:10:"</style>
+";i:25;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:26;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:27;s:33:"<script type="text/javascript">
+";i:28;s:26:"  var _gaq = _gaq || [];
+";i:29;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:30;s:34:"  _gaq.push(['_trackPageview']);
+";i:31;s:2:"
+";i:32;s:17:"  (function() {
+";i:33;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:34;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:35;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:36;s:9:"  })();
+";i:37;s:2:"
+";i:38;s:32:"	function subpage(sel, title){
+";i:39;s:4:"		
+";i:40;s:40:"		var namespce = ""+getselection(sel);
+";i:41;s:34:"		if(namespce.trim()=="")return;
+";i:42;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:43;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:44;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:45;s:29:"		window.location.href=url;
+";i:46;s:4:"	}
+";i:47;s:32:"	function p5(groupname,title){
+";i:48;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:49;s:4:"	}
+";i:50;s:27:"	function togglenote(id){
+";i:51;s:23:"		var ele=object(id);
+";i:52;s:34:"		var state = ele.style.display;
+";i:53;s:49:"		if(state=='none') ele.style.display='inline';
+";i:54;s:48:"		if(state=='inline')ele.style.display='none';
+";i:55;s:4:"	}
+";i:56;s:35:"	var googletag = googletag || {};
+";i:57;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:58;s:16:"	(function() {
+";i:59;s:47:"	var gads = document.createElement('script');
+";i:60;s:21:"	gads.async = true;
+";i:61;s:33:"	gads.type = 'text/javascript';
+";i:62;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:63;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:64;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:65;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:66;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:67;s:8:"	})();
+";i:68;s:2:"
+";i:69;s:34:"	googletag.cmd.push(function() {
+";i:70;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:71;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:73;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:74;s:45:"		googletag.pubads().enableSingleRequest();
+";i:75;s:31:"		googletag.enableServices();
+";i:76;s:6:"	});
+";i:77;s:2:"
+";i:78;s:11:"</script>
+";i:79;s:2:"
+";i:80;s:9:"</head>
+";i:81;s:8:"<body>
+";i:82;s:40:"<div class="container" id="container">
+";i:83;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:84;s:6:"<tr>
+";i:85;s:46:"<td style="width:166px;vertical-align:top;">
+";i:86;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:87;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:88;s:38:"<g:plusone size="small"></g:plusone>
+";i:89;s:2:"
+";i:90;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:91;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:92;s:6:"<ul>
+";i:93;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:94;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:95;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:96;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:97;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:98;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:99;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:100;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:101;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:102;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:103;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:104;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:105;s:7:"</ul>
+";i:106;s:8:"</div>
+";i:107;s:2:"
+";i:108;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:109;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:110;s:2:"
+";i:111;s:185:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','ConflictKiller');">send request</button><hr/></div>
+";i:112;s:2:"
+";i:113;s:326:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="ConflictKiller" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:114;s:2:"
+";i:115;s:51:"<div style="font-size:small;text-align:center;" >
+";i:116;s:30:"Find recent edits by troper:
+";i:117;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:118;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:119;s:8:"</div>
+";i:120;s:7:"<hr/>
+";i:121;s:7:"<ul>	
+";i:122;s:4:"		
+";i:123;s:7:"<hr/>
+";i:124;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:125;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:126;s:63:"		<input type="hidden" name="title" value="ConflictKiller" />
+";i:127;s:54:"		This article needs some moderator assistance with:
+";i:128;s:9:"		<br/>
+";i:129;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:130;s:9:"		<br/>
+";i:131;s:4:"		
+";i:132;s:34:"		<p style="text-align:center;">
+";i:133;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:134;s:8:"		</p>
+";i:135;s:34:"		<p style="text-align:center;">
+";i:136;s:48:"			<input type="submit" value="send report" />
+";i:137;s:8:"		</p>
+";i:138;s:11:"		</form>
+";i:139;s:7:"<hr/>
+";i:140;s:6:"<ul>
+";i:141;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:142;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:143;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:144;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:145;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:146;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:147;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:148;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:149;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:150;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:151;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:152;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:153;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:154;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:155;s:143:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.ConflictKiller'>Referral Count for This Page</a></li>
+";i:156;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:157;s:118:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=ConflictKiller'>Article Relationships</a></li> -->
+";i:158;s:104:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.ConflictKiller'>Folderize</a></li>
+";i:159;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:160;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:161;s:7:"</ul>
+";i:162;s:8:"	<hr/>
+";i:163;s:6:"<ul>
+";i:164;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:165;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:166;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:167;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:168;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:169;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:170;s:7:"</ul>
+";i:171;s:7:"<hr/>
+";i:172;s:2:"
+";i:173;s:8:"</div>
+";i:174;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:175;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:176;s:8:"		<ul>
+";i:177;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:178;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:179;s:9:"		</ul>
+";i:180;s:8:"</div>
+";i:181;s:10:"<center>
+";i:182;s:34:"		<div style="margin-top:4px;">	
+";i:183;s:5:"			
+";i:184;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:185;s:33:"<script type='text/javascript'>
+";i:186;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:187;s:99:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/ConflictKiller");
+";i:188;s:11:"</script>
+";i:189;s:8:"</div>
+";i:190;s:2:"
+";i:191;s:11:"		</div>	
+";i:192;s:10:"		<div>	
+";i:193;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:194;s:6:"		 	
+";i:195;s:4:"		
+";i:196;s:4:"		
+";i:197;s:10:"		</div>
+";i:198;s:280:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/ConflictKiller">Laconic</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ConflictKiller">Main</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Quotes/ConflictKiller">Quotes</a><br/>
+";i:199;s:9:"		<div>
+";i:200;s:10:"		</div>
+";i:201;s:36:"		<div style="font-size:x-small;">
+";i:202;s:11:"				<hr/>
+";i:203;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:204;s:14:"				<p> </p>
+";i:205;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:206;s:13:"				<p></p>
+";i:207;s:11:"				<ul >
+";i:208;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:209;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:210;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:211;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:212;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:213;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:214;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:215;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:216;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:217;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:219;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:220;s:11:"				</li>
+";i:221;s:11:"				</ul>
+";i:222;s:13:"				<p></p>
+";i:223;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:224;s:13:"				<p></p>
+";i:225;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:226;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:227;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:228;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:229;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:230;s:6:"				
+";i:231;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:232;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:233;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:234;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:235;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:236;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:237;s:6:"				
+";i:238;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:239;s:16:"				</li></ul>
+";i:240;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:241;s:13:"				<p></p>
+";i:242;s:11:"				<ul >
+";i:243;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:244;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:245;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:246;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:247;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:248;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:249;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:250;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:251;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:252;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:253;s:6:"				
+";i:254;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:255;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:256;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:257;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:258;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:259;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:260;s:6:"				
+";i:261;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:262;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:263;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:264;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:265;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:266;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:268;s:11:"				</li>
+";i:269;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:270;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:271;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:272;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:273;s:6:"				
+";i:274;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:275;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:276;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:278;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:279;s:16:"				</li></ul>
+";i:280;s:6:"				
+";i:281;s:13:"				<p></p>
+";i:282;s:39:"				<strong>Other Categories</strong>
+";i:283;s:13:"				<p></p>
+";i:284;s:10:"				<ul>
+";i:285;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:286;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:287;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:288;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:289;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:290;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:291;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:292;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:293;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:294;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:295;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:296;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:297;s:11:"				</ul>
+";i:298;s:11:"		</div>	
+";i:299;s:11:"</center>
+";i:300;s:2:"
+";i:301;s:30:"</div> <!-- wikileftpage -->
+";i:302;s:7:"</td>
+";i:303;s:20:"<td id='wikibody'>
+";i:304;s:2:"
+";i:305;s:21:"<!--PageTitleFmt-->
+";i:306;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:307;s:12:"    		<tr>
+";i:308;s:38:"    		<td id="wikicmds" align="top">
+";i:309;s:8:"    		
+";i:310;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:311;s:45:"    				<tr style="vertical-align:middle;">
+";i:312;s:31:"    					<td align="center" >
+";i:313;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:314;s:16:"    					</td>
+";i:315;s:15:"    				<td >
+";i:316;s:37:"    					<div style="width:400px;">
+";i:317;s:28:"                  <center>
+";i:318;s:27:"                  <table>
+";i:319;s:24:"                  <tr>
+";i:320;s:24:"                  <td>
+";i:321;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:322;s:27:"                    <div>
+";i:323;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:324;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:325;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:326;s:64:"                      <input type="text" name="q" size="31" />
+";i:327;s:28:"                    </div>
+";i:328;s:27:"                  </form>
+";i:329;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:330;s:25:"                  </td>
+";i:331;s:24:"                  <td>
+";i:332;s:46:"                  <div class="buttonframe" >
+";i:333;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:334;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:335;s:26:"                  </div>
+";i:336;s:25:"                  </div
+";i:337;s:25:"                  </td>
+";i:338;s:25:"                  </tr>
+";i:339;s:28:"                  </table>
+";i:340;s:29:"                  </center>
+";i:341;s:17:"    					</div>
+";i:342;s:15:"    				</td>
+";i:343;s:15:"    				</tr>
+";i:344;s:16:"    		</table>
+";i:345;s:8:"    		
+";i:346;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:347;s:10:"    				
+";i:348;s:27:"    				<tr valign="top">
+";i:349;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:350;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:351;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:352;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:353;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:354;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:355;s:15:"    				</tr>
+";i:356;s:10:"    				
+";i:357;s:10:"    				
+";i:358;s:8:"    		
+";i:359;s:16:"    		</table>
+";i:360;s:8:"    		
+";i:361;s:28:"    		<div id="wikilogo" >
+";i:362;s:16:"    		<center>
+";i:363;s:2:"
+";i:364;s:22:"<!-- leaderboard -->
+";i:365;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:366;s:33:"<script type='text/javascript'>
+";i:367;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:368;s:11:"</script>
+";i:369;s:8:"</div>
+";i:370;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:371;s:28:"    					<tr valign="top">
+";i:372;s:302:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'ConflictKiller');" autocomplete="off"  style="width:50px;"><option> </option><option value="Laconic">Laconic</option><option value="Main">Main</option><option value="Quotes">Quotes</option></select></td>
+";i:373;s:269:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ConflictKiller?action=source" >source</a></div></div></td>
+";i:374;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:375;s:270:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.ConflictKiller">history</a></div></div></td>
+";i:376;s:272:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConflictKiller?action=edit'> edit page</a></div></div></td>
+";i:377;s:268:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/ConflictKiller" >related</a></div></div></td>
+";i:378;s:38:"    							<td valign="middle"></td>
+";i:379;s:16:"    					</tr>
+";i:380;s:18:"    				</table>
+";i:381;s:10:"    				
+";i:382;s:35:"    				<div id="watchmsg"></div>
+";i:383;s:18:"    			</center>
+";i:384;s:13:"    		</td>
+";i:385;s:12:"     </tr>
+";i:386;s:6:"    
+";i:387;s:11:"    	<tr>
+";i:388;s:39:"    		<td id="wikititle" colspan="2">
+";i:389;s:40:"    				<div class="namespacebuttons">
+";i:390;s:1083:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.ConflictKiller" >&nbsp;Discussion </a></li> <li class="namespace_li Quotes" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Quotes/ConflictKiller" class="textcolor">&nbsp;Quotes&nbsp;</a> </li> <li class="namespace_li Laconic" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/ConflictKiller" class="textcolor">&nbsp;Laconic&nbsp;</a> </li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=ConflictKiller" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/ConflictKiller" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:391;s:16:"    				</div>
+";i:392;s:26:"    				<!--RepairBug-->
+";i:393;s:10:"    				
+";i:394;s:34:"    				<div class='pagetitle'> 
+";i:395;s:42:"    						  <span>Conflict Killer</span>
+";i:396;s:16:"    				</div>
+";i:397;s:11:"    				 
+";i:398;s:13:"    		</td>
+";i:399;s:12:"    	</tr>
+";i:400;s:10:"</table>
+";i:401;s:2:"
+";i:402;s:16:"<!--PageText-->
+";i:403;s:20:"<div id='wikitext'>
+";i:404;s:1599:"You ever watch a show with a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Conflict' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Conflict'>Conflict</a> that suddenly gets derailed by a relatively minor or previously unseen character who suddenly becomes the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a> and derails the conflict you were previously enjoying? That new villain is the Conflict Killer. They come in and replace the existing plot with a completely new conflict, often by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EnemyMine' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EnemyMine'>causing the hero and previous villain to put aside their differences and face the new threat</a>, earning a new respect for each other and frequently <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HalfwayPlotSwitch' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HalfwayPlotSwitch'>never getting back to the conflict we were watching in the first place</a>. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropesAreNotBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropesAreNotBad'>This isn't necessarily negative</a>, however, as sometimes a conflict killer is a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MagnificentBastard' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MagnificentBastard'>Magnificent Bastard</a> who takes the work to another level.
+";i:405;s:304:"<p></p>Distinct from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheManBehindTheMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheManBehindTheMan'>The Man Behind the Man</a> because this villain was either heretofore a minor player or had no previous role in the story.
+";i:406;s:1015:"<p></p>Occasionally overlaps with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWorfEffect' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWorfEffect'>The Worf Effect</a> when the new villain shows off their might and the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SortingAlgorithmOfEvil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SortingAlgorithmOfEvil'>Sorting Algorithm of Evil</a> when the Conflict Killer is clearly more powerful than the previous villain. Sometimes the new villain is conveniently <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShadesOfConflict' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShadesOfConflict'>Black in terms of evil, as opposed to merely Gray</a> like the previous villain, and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadGuysDoTheDirtyWork' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadGuysDoTheDirtyWork'>kills the previous villain off.</a>
+";i:407;s:1310:"<p></p>Compare <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlotTumor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlotTumor'>Plot Tumor</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheyWastedAPerfectlyGoodPlot' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheyWastedAPerfectlyGoodPlot'>They Wasted a Perfectly Good Plot</a>. If this happens in a video game it may result in a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BaitAndSwitchBoss' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BaitAndSwitchBoss'>Bait-and-Switch Boss</a>, but only if said boss is driving the plot. Contrast the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GiantSpaceFleaFromNowhere' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GiantSpaceFleaFromNowhere'>Giant Space Flea from Nowhere</a> that appears with no explanation. If the mystery surrounding him and/or the existing players' ignorance of him are plot points, this is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OutsideContextVillain' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OutsideContextVillain'>Outside Context Villain</a> instead. This is a <strong>spoiler heavy</strong> trope, so read on at your own risk.
+";i:408;s:7:"<hr />
+";i:409;s:19:"<h2>Examples:</h2>
+";i:410;s:122:"<p></p><div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:411;s:191:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp;Anime and Manga&nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:412;s:775:"<ul ><li> The entire premise of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StrikeWitches' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StrikeWitches'>Strike Witches</a></em> for <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WorldWarII' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WorldWarII'>World War II</a>. Instead of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WorldWarII' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WorldWarII'>World War II</a> being fought against each other, it's against the Neuroi <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlienInvasion' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlienInvasion'>Alien Invasion</a>.
+";i:413;s:300:"</li><li> Kyoji Mujo from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Scryed' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Scryed'>Scryed</a></em> managed to take over the story entirely, burying the whole Kazuma vs. Ryuho rivalry <em>until the final episode.</em>
+";i:414;s:724:"</li><li> Same with the Overdevil from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OvermanKingGainer' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OvermanKingGainer'>Overman King Gainer</a></em>. The final scene of the series is practically a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging'>Lampshade Hanging</a>: "er, guys, weren't we supposed to be headed to Yapan instead of dealing with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EldritchAbomination' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EldritchAbomination'>Eldritch Abominations</a>?"
+";i:415;s:469:"</li><li> Piccolo and Son Goku's rivalry in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DragonBallZ' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DragonBallZ'>Dragon Ball Z</a></em> effectively ends when the arrival of Raditz, Nappa, and Vegeta force Piccolo into a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeelFaceTurn' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeelFaceTurn'>Heel Face Turn</a>.
+";i:416;s:87:"<ul ><li> Vegeta later teams up with the heroes to take on Frieza and the Ginyu Force.
+";i:417;s:134:"</li><li> Also, Cell, who was introduced shortly after the androids were introduced, ends up becoming the big bad of the current arc.
+";i:418;s:1009:"</li></ul></li><li> The Water Seven storyline of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/OnePiece' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/OnePiece'>One Piece</a></em> seems to set up Franky as that arc's big bad by having him and his goons beat Usopp to a bloody pulp. The Strawhats vow revenge and tear Franky's henchmen a new one, causing HIM to swear vengeance in turn...it all seems to be leading up to a big showdown between Franky and Luffy, until the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhamEpisode' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhamEpisode'>Wham Episode</a> which turns the plot on its head leaves our heroes with much, much bigger problems to worry about. Franky does a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeelFaceTurn' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeelFaceTurn'>Heel Face Turn</a> and proves to be far more interesting as a good guy, anyway.
+";i:419;s:778:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MahouSenseiNegima' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MahouSenseiNegima'>Mahou Sensei Negima!</a></em>, this is how Tertium treats the <span class="spoiler" title="you can set spoilers visible by default on your profile" >other Fates, tell them that upstarts who show up out of nowhere to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheOnlyOneAllowedToDefeatYou' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheOnlyOneAllowedToDefeatYou'>steal his prey</a> is grating on his nerves</span>. An unusual villainous example since to the heroes, this doesn't make a lick of difference, they're still fighting for their lives against impossible odds.
+";i:420;s:1459:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AliveTheFinalEvolution' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AliveTheFinalEvolution'>Alive The Final Evolution</a></em>, the three way conflict between the American government, the alien Mitama and her followers, and the protagonists over possession of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AncientArtifact' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AncientArtifact'>"Heart of Akuro"</a> gets derailed near the end by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RivalTurnedEvil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RivalTurnedEvil'>Hirose</a>, who was given the Heart on the assumption that he could be easily manipulated. With the Heart making him the strongest thing on the planet, Hirose <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheUnmasquedWorld' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheUnmasquedWorld'>ignores the secrecy</a> all the other factions were fighting under in favor of single-handedly launching a war against everyone else on the planet. The previous conflict between everyone is put aside in order to stop his attempt to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OmnicidalManiac' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OmnicidalManiac'>commit genocide on all of humanity</a>.
+";i:421;s:17:"</li></ul></div>
+";i:422;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp;Comicbooks&nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:423;s:852:"<ul ><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TransformersGeneration2' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TransformersGeneration2'>Transformers Generation 2</a>, it seems like the coming of the Swarm (hinted by visions Optimus Prime had) will end the conflict between the Autobot-Decepticon Alliance and the Cybertronian Empire, but the trope is averted when Optimus tries to reason with Jhiaxus to work together against the Swarm, since Jhiaxus responds trying to kill Optimus. Besides, after Jhiaxus dies and the menace of the Swarm is over, the Cybertronian Empire still exists at the far reaches of the universe, led by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ManBehindTheMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ManBehindTheMan'>The Liege Maximo</a>.
+";i:424;s:993:"</li><li> The third <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/XForce' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/XForce'>X-Force</a></em> run started out as Wolverine's team of black ops killers taking out the evil Purifiers, but they got sidetracked not once but twice - first, the villain of the <em>Cable</em> series shows up and the team goes on a merry chase through the timestream after him, and second, a minor character from the first story arc goes to work for a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AGodAmI' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AGodAmI'>would-be goddess</a> previously unseen in the series. Both times the Purifiers plot is put on hold, and as a result the threat they pose builds into the next <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BatFamilyCrossover' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BatFamilyCrossover'>Bat Family Crossover</a>.
+";i:425;s:17:"</li></ul></div>
+";i:426;s:183:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp;Fan Fic&nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:427;s:384:"<ul ><li> <span class="spoiler" title="you can set spoilers visible by default on your profile" > Post-reveal Wilhelm Kriegsen</span> from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/DevaSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/DevaSeries'>(On the) Path of Vengeance</a></em>, possibly reprising this role in <em>Endless Waltz</em>.
+";i:428;s:17:"</li></ul></div>
+";i:429;s:180:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp;Film&nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:430;s:526:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheMatrix' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheMatrix'>The Matrix</a></em> movies the conflict between the machines and humans is derailed by the resurrection of Agent Smith who becomes the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a> <strike>despite</strike> because of Neo deleting him at the end of the first movie.
+";i:431;s:289:"<ul ><li> Then again, the ultimate result of this is for a solution to be found for the original conflict, not to just push it aside. The plot around Smith is just another thread in the conflict of humans versus machines; the happy ending is all about the latter being (sort of) resolved.
+";i:432;s:409:"</li></ul></li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChangingLanes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChangingLanes'>Changing Lanes</a></em>, the two man rivalry between Ben Affleck and Samuel L. Jackson is put aside when they both decide to go after Sidney Pollack, thus eliminating the violent escalations that defined the movie up to that point.
+";i:433;s:431:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CowboysVersusAliens' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CowboysVersusAliens'>Cowboys Versus Aliens</a></em> begins with a fairly standard Western conflict between a cattle baron and the local law, but gets derailed by the sudden appearance of aliens. The two sides join forces to attack the aliens and renconcile their differences.
+";i:434;s:194:"<ul ><li> Later on, the coalition runs afoul of a Native American tribe and a bandit gang. These conflicts are also killed by alien attacks, and all four factions ultimately end up cooperating.
+";i:435;s:264:"</li></ul></li><li> <em>Hard Rain</em> twists in the third act as <span class="spoiler" title="you can set spoilers visible by default on your profile" >the police force turns on the protagonist and the villain, forcing them to team up in order to survive</span>.
+";i:436;s:17:"</li></ul></div>
+";i:437;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp;Literature&nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:438;s:1817:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheCulture' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheCulture'>The Culture</a> novel <em>Matter</em> replaces the inheritance conflict between the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrincelyYoungMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrincelyYoungMan'>Princely Young Man</a> and the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilChancellor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilChancellor'>Evil Chancellor</a> by having them both be <span class="spoiler" title="you can set spoilers visible by default on your profile" >nuked by some <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SealedEvilInACan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SealedEvilInACan'>world-destroyer</a></span> only slightly implied in setting fluff. Later much of the cast is <span class="spoiler" title="you can set spoilers visible by default on your profile" >killed at the end of the book as they just barely defeat it, without showing the moments directly following.</span> Finally a single page in the epilogue implies how the government restructuring was finally resolved without going into much detail. This keeps with one of the main themes in <em>Matter</em> about inter-galactic politics and interactions between different tech-level species. The inheritance conflict was very important to the people living in the empire, but insignificant to the rest of the galaxy. This sequence was set-up as a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhamEpisode' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhamEpisode'>Wham Episode</a> to show how none of it really Mattered in the end.
+";i:439;s:859:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/IsaacAsimov' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/IsaacAsimov'>Isaac Asimov</a>'s <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Foundation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Foundation'>Foundation</a></em> series has the Second Foundation attempting to shorten the length of time the Empire collapses to a thousand years when "The Mule" arises, derailing the Plan-scheduled civil war by having the Traders and Foundation proper join up against the threat of the Mule<span class="notelabel" onclick="togglenote('note0xztb');"><sup>note&nbsp;</sup></span><span id="note0xztb" class="inlinefolder" isnote="true" onclick="togglenote('note0xztb');" style="cursor:pointer;font-size:smaller;display:none;">And lose</span>.
+";i:440;s:580:"</li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/CodexAlera' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/CodexAlera'>Codex Alera</a></em> series, the <span class="spoiler" title="you can set spoilers visible by default on your profile" >Vord</span> serve as this, allowing a lot of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EnemyMine' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EnemyMine'>Enemy Mine</a> opportunities in the later books due to the cleverness of one of the characters.
+";i:441;s:17:"</li></ul></div>
+";i:442;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp;Live Action TV&nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:443;s:1238:"<ul ><li> In the fourth season of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer'>Buffy the Vampire Slayer</a></em>, <span class="spoiler" title="you can set spoilers visible by default on your profile" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightTemplar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightTemplar'>Knight Templar</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ManipulativeBastard' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ManipulativeBastard'>Manipulative Bastard</a> Maggie Walsh was replaced as the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a> by Frankenstein's Monster Wannabe Adam in the second half of the season, turning an interesting "do the ends justify the means" conflict into an excuse for the heroes to turn into some spirit magic version of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Voltron' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Voltron'>Voltron</a>.</span>
+";i:444;s:471:"<ul ><li> Season 2 did this twice. Season 1 ended with the Anointed One, a sort of Vampire Messiah in a child's body set up as the new <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a>. That was awesomely undone when Spike showed up and started his plans to reassemble The Judge. Spike vs. The Slayer was later taken over when Angelus appeared in the middle of the season.
+";i:445;s:362:"</li><li> Also happens when <span class="spoiler" title="you can set spoilers visible by default on your profile" >Willow goes <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PsychoLesbian' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PsychoLesbian'>Psycho Lesbian</a> and kills Warren</span> in Season 6. Buffy is fond of this trope.
+";i:446;s:265:"</li><li> Happens yet again in season three, with Mr. Trick, a clever vampire crimelord who gave Buffy a great deal of trouble early on in the year, getting abruptly staked by Faith, just in time for her and The Mayor to step in as the real villains of the season.
+";i:447;s:245:"<ul ><li> By then Mr. Trick had already become The Mayor's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dragon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dragon'>Dragon</a>, Faith just replaced him in that role.
+";i:448;s:288:"</li></ul></li></ul></li><li> In the third season of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Deadwood' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Deadwood'>Deadwood</a>, Hearst enters town and forces an uneasy alliance between Bullock and Swearengen.
+";i:449;s:458:"</li><li> Happens in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/StargateSG1' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/StargateSG1'>Stargate SG-1</a></em> when the Replicators start destroying the Goa'uld, suddenly fixing the problem the heroes have been dealing with for the past 8 seasons. This also forces them to work with Ba'al to destroy the Replicators, but they go back to being enemies shortly thereafter.
+";i:450;s:649:"</li><li> Occurs in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/StargateAtlantis' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/StargateAtlantis'>Stargate Atlantis</a></em> when the Replicators start to attack the Wraith by attacking humans (the Wraiths' <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ToServeMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ToServeMan'>food source</a>). Atlantis teams up with Todd and his Wraith to destroy the Replicators, but, as with the SG1 example above, they do resume their regularly scheduled conflict once the Replicators are dealt with.
+";i:451;s:376:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekDeepSpaceNine' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekDeepSpaceNine'>Star Trek: Deep Space Nine</a></em>, the introduction of the Dominion rapidly took over the entire series, spanning the entire rest of the show's run at the expense of most episodic plots.
+";i:452;s:327:"</li><li> Played straight in the final episode of the second season of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekEnterprise' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekEnterprise'>Star Trek: Enterprise</a></em>. The Xindi take over the story for the next full season.
+";i:453;s:1257:"</li><li> This happened a few times in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Lost' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Lost'>Lost</a></em>. Ben Linus's nemesis Charles Widmore brought about an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EnemyMine' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EnemyMine'>Enemy Mine</a> situation with the 815 survivors and the Others. Widmore became the <span class="spoiler" title="you can set spoilers visible by default on your profile" >off island</span> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a> in season 5, which also revisited in detail another faction in conflict with The Others that had only made a few scattered appearances beforehand. A handful of 815 survivors became this faction's enemies in the final stretch of that season while the Linus/Widmore conflict was put on hold until near the end of the sixth and final season. The season 5 finale introduced two characters who had been alluded to for some time, but who had never been portrayed by actors until then, and their conflict became the focus of the final season.
+";i:454;s:671:"</li><li> Season 4 of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrisonBreak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrisonBreak'>Prison Break</a></em> has almost everyone team up against <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OmniscientCouncilOfVagueness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OmniscientCouncilOfVagueness'>The Company</a>. Michael <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging'>lampshades</a> the situation by saying "there's a lot of history in this room".
+";i:455;s:602:"</li><li> Scorpius of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Farscape' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Farscape'>Farscape</a></em>: he shows up near the end of the first season, usurps <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Captain Crais</a> and forces him to run off to the heroes to save his life. Doesn't completely end the conflict, given that Crais and the crew of Moya are still at odds for most of the second season- just for different reasons.
+";i:456;s:580:"</li><li> In the first season of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/HikoninSentaiAkibaranger' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/HikoninSentaiAkibaranger'>Hikonin Sentai Akibaranger</a></em>, the Akibarangers and Malshina work together to resist <span class="spoiler" title="you can set spoilers visible by default on your profile" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ExecutiveMeddling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ExecutiveMeddling'>Executive Meddling</a></span>.
+";i:457;s:17:"</li></ul></div>
+";i:458;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp;Tabletop Games&nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:459;s:1988:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Warhammer40000' title='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Warhammer40000'>Warhammer 40000</a> was originally a conflict between the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChurchMilitant' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChurchMilitant'>Imperium</a>, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LegionsOfHell' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LegionsOfHell'>Forces of Chaos</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OurOrcsAreDifferent' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OurOrcsAreDifferent'>Orks</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OurElvesAreDifferent' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OurElvesAreDifferent'>Eldar</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HordeOfAlienLocusts' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HordeOfAlienLocusts'>Tyranids</a>. Then in the 3rd edition they added two armies, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ForTheEvulz' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ForTheEvulz'>Dark Eldar</a> and the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RobotWar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RobotWar'>Necron</a> and attempted to cram the Necrons in as the new <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a>. Games Workshop also attempted to add the Necrons in as a mysterious, subtle horror, which doesn't always work in a universe about as subtle as being bludgeoned with a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Gwar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Gwar'>Gwar</a> concert.
+";i:460;s:336:"<ul ><li> This said, it has to be taken as a growth from being Warhammer INSPACE! to being it's own work. The game is a far cry from being <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RogueTrader' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RogueTrader'>Rogue Trader</a>. (The original game, not the RPG)
+";i:461;s:353:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BattleTech' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BattleTech'>BattleTech</a></em> at first it was the Inner Sphere against each other, then the Clans come in between them. Then years later the Word of Blake becomes the main opponent for everyone.
+";i:462;s:17:"</li></ul></div>
+";i:463;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder7');">&nbsp;&nbsp;&nbsp;&nbsp;Video Games&nbsp;</div><div id="folder7" class="folder" isfolder="true" style="display:block;">
+";i:464;s:665:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheLegendOfDragoon' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheLegendOfDragoon'>The Legend Of Dragoon</a></em> <span class="spoiler" title="you can set spoilers visible by default on your profile" >The apparent villain is your father, thus giving the characters a great, morally conflicted enemy. Then it turns out your father was being possessed and controlled by the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SealedEvilInACan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SealedEvilInACan'>Sealed Evil in a Can</a>.</span>
+";i:465;s:278:"<ul ><li> <span class="spoiler" title="you can set spoilers visible by default on your profile" >Double duty. That sealed evil, upon revealing himself, hijacks the body of the Virage Embryo in Shana's place, saving Dart and Rose from having to mercy kill her themselves.</span>
+";i:466;s:438:"</li></ul></li><li> Subverted and Lampshaded in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGAme/CommandAndConquerTiberiumWars' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGAme/CommandAndConquerTiberiumWars'>Command And Conquer Tiberium Wars</a></em> with the introduction of the Scrin, who note that the two factions (Nod and GDI) are continuing to fight each other while battling the Scrin invasion.
+";i:467;s:551:"</li><li> Martinez in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/GrandTheftAutoViceCityStories' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/GrandTheftAutoViceCityStories'>Grand Theft Auto Vice City Stories</a></em> is an annoying example, where he interrupts the plot near the end, thinking that the player is the same nobody he pushed around in the beginning, despite the player at this point having taken out Martinez' boss' boss' bosses, and can buy and sell his entire racket millions of times over.
+";i:468;s:837:"</li><li> Arkham from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DevilMayCry' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DevilMayCry'>Devil May Cry</a> 3</em>, even though the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RivalsTeamUp' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RivalsTeamUp'>brothers teaming up</a> was one of the series' (many) <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMomentOfAwesomeVideogames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMomentOfAwesomeVideogames'>Crowning Moments Of Awesome</a>. Vergil later <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging'>Lampshaded it</a>:
+";i:469;s:138:"<div class='indent'><strong>Vergil</strong>: Well, you don't possibly believe that <em>he</em> deserves to be our main event, now do you?
+";i:470;s:816:"</div></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/StarOceanTillTheEndOfTime' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/StarOceanTillTheEndOfTime'>Star Ocean Till The End Of Time</a></em>. Fayt is stranded on a backwater fantasy planet with no way off, and the main conflict is a fairly standard fantasy world war between religious matriarchy Aquaria and hostile, warlike Airyglyph, until <span class="spoiler" title="you can set spoilers visible by default on your profile" >the plot from the beginning catches up to him, and the space fleet that attacked the planet he was previously on comes to the backwater fantasy planet to attack it. The two countries realize they have to join forces, and Airyglyph as a country is revealed to be not that bad.</span>
+";i:471;s:319:"</li><li> Jie Revorse in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/StarOcean1' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/StarOcean1'>Star Ocean 1</a></em> for SNES/SFC. In the PSP remake, this is much better handled and explained and he no longer comes out of nowhere.
+";i:472;s:564:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/JakIIRenegade' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/JakIIRenegade'>Jak II Renegade</a></em>, the main villain at the start is set up as baron Praxis, who Jak has sworn to get revenge on. They fight twice, but the Baron is never really defeated. Near the end, he is killed by the real <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a>, the metal head lord.
+";i:473;s:1033:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyVI' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyVI'>Final Fantasy VI</a></em> spends the first half of the game focusing on the conflict between <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEmpire' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEmpire'>The Empire</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LaResistance' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LaResistance'>the Returners</a>, before Kefka, formerly <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragon'>The Dragon</a>, reveals that he has his own apocalyptic ambitions. The Emperor belatedly tries to stop him, but Kefka proceeds to settle the the conflict by destroying both sides, along with most of the world, and setting the stage for a final showdown with him instead.
+";i:474;s:1589:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyVII' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyVII'>Final Fantasy VII</a></em> would go on to use much the same plot structure. The first part of the game seems to be a struggle between <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LaResistance' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LaResistance'>La Résistance</a> and an evil <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MegaCorp' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MegaCorp'>Mega Corp</a>. Once Sephiroth shows up and goes on a killing spree through Shinra's headquarters, though, the story quickly switches tracks and he becomes the new <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a>. The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CorruptCorporateExecutive' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CorruptCorporateExecutive'>Corrupt Corporate Executive</a> even went on to pull a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeelFaceTurn' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeelFaceTurn'>Heel Face Turn</a> in the spinoff games, due to Sephiroth being so much more evil <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvenEvilHasStandards' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvenEvilHasStandards'>in comparision</a>.
+";i:475;s:888:"<ul ><li> Although it flip flops a bit. Initially Shinra is still an issue as you continue to track Sephiroth down while trying to throw them off you up until you leave the continent they are based out of, at which point they drop out of the story for a good long while barring an occasional Turk encounter. However when your party finally catches up to Sephiroth Shinra reappears again, revealing that they were tracking him as well and only stopped attacking because they had a spy in your party and therefore were marking both your progress. After this Sephiroth seals himself into the final dungeon and begins his plan to destroy the world, which will take awhile so Shinra is now the main villains again for the rest of that disc until their final defeat (and the death of the members pushing for the attack of the party the most) at which point Sephiroth becomes the villain again.
+";i:476;s:927:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyX' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyX'>Final Fantasy X</a></em> seems like a straightforward pilgrimage to gather all the Aeons and defeat the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a> Sin. At least until Maester Seymour goes right off the rails midway through the game and you find out that he's been an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OmnicidalManiac' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OmnicidalManiac'>Omnicidal Maniac</a> all along who wants to take over Sin and use it to destroy Spira. Getting back to the matter at hand and finishing Sin off seems almost like an afterthought once Seymour's finally out of the way.
+";i:477;s:549:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TalesOfVesperia' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TalesOfVesperia'>Tales Of Vesperia</a></em>. One word: "Adephagos." Turned a perfectly good ethical conflict into a "stop the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightTemplar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightTemplar'>Knight Templar</a> and the big bad monster thing" race with a final dungeon that came out of nowhere.
+";i:478;s:277:"<ul ><li> Maybe. Though it should be noted that a major theme of the game is that peoples choices have consequences; someone has to deal with them, even if you don't. It could be argued that the last third of the game is dealing with the consequences that others did not face.
+";i:479;s:1151:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/FateStayNight' title='http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/FateStayNight'>Fate/stay night</a></em> has several over the course of its three storylines. First, in the Fate route, Gilgamesh takes out Caster during Caster's sudden attack on the heroes' base and establishes himself as the new villain (he actually turns out to be <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragon'>The Dragon</a>). Then, in UBW, Archer takes out... Caster... when she's about to kill them. And then... Gilgamesh kills him shortly afterward when it turns out that Archer may not be all that bad. Finally, in Heaven's Feel, the Shadow and True Assassin practically ruins the whole Grail War by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DroppedABridgeOnHim' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DroppedABridgeOnHim'>dropping bridges on all the Servants except Rider</a>. The one that the heroes first discover? <em>Caster</em>.
+";i:480;s:489:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FireEmblemTellius' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FireEmblemTellius'>Fire Emblem: Radiant Dawn</a></em>, Part 3 is a war embroiling most of the known world, stopped short by the awakening of a god. It had been foreshadowed since the previous game that such a war would cause this to happen, and comes right in time since the player controls both sides of the old conflict.
+";i:481;s:325:"</li><li> The beginning of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SuperMarioRPG' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SuperMarioRPG'>Super Mario RPG</a></em>, where instead of a normal "Mario defeats Bowser" story, the two rivals join forces to defeat a giant sword.
+";i:482;s:350:"<ul ><li> All three <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MarioAndLuigi' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MarioAndLuigi'>Mario And Luigi</a></em> games begin with Mario battling Bowser in Peach's Castle to stop him from kidnapping her, just before they find out about the true villains.
+";i:483;s:2042:"</li></ul></li><li> Early in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Videogame/ClashAtDemonhead' title='http://tvtropes.org/pmwiki/pmwiki.php/Videogame/ClashAtDemonhead'>Clash At Demonhead</a></em>, you have an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FinalBossPreview' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FinalBossPreview'>inconclusive fight</a> with Tom Guycot, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>apparent boss of the terrorist organization you're trying to defeat</a>. About halfway through the game during a seemingly-unimportant sidequest, the player character is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NiceJobBreakingItHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NiceJobBreakingItHero'>tricked into releasing a demon</a>. Said demon promptly <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HopelessBossFight' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HopelessBossFight'>clobbers him</a> and kills Guycot, forcing the player to go on a quest for a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SwordOfPlotAdvancement' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SwordOfPlotAdvancement'>magic sword</a> to kill the demon. You'd think the demon would then take over the plot, but in a weird subversion, you just kill it with the sword, <span class="spoiler" title="you can set spoilers visible by default on your profile" > destroy it's eggs,</span> then go right back to fighting terrorists. The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FinalBoss' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FinalBoss'>Final Boss</a> is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheManBehindTheMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheManBehindTheMan'>the guy who was giving Guycot orders</a>.
+";i:484;s:741:"</li><li> The first <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Starcraft' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Starcraft'>Starcraft</a></em> campaign concerns the conflict between <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LaResistance' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LaResistance'>La Résistance</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEmpire' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEmpire'>The Empire</a>. Then the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HordeOfAlienLocusts' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HordeOfAlienLocusts'>Zerg</a> show up.
+";i:485;s:385:"</li><li> This happens in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TeamFortress2' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TeamFortress2'>Team Fortress 2</a></em> quite lirerally. Gray Mann kills his brothers Redmond and Blutarch, effectively ending the RED vs BLU war. BLU and RED end up working together in order to take him down.
+";i:486;s:571:"</li><li> A common phenomenon in many strategy games (particularly of the Four X type) which involve multiple competing sides and a Tech Tree. What happens is that while the more active players expand and compete with each other militarily, a less aggressive faction is able to sit back in their corner of the map and climb the Tech Tree undisturbed. This eventually gives them an unstoppable advantage over the apparently superior competitors when they do join in the fray. Occurs less often in multiplayer games, as humans know to team up and gank the techer early on.
+";i:487;s:484:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnarchyReigns' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnarchyReigns'>Anarchy Reigns</a></em>, <span class="spoiler" title="you can set spoilers visible by default on your profile" >Nikolai</span> serves this purpose as the real <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FinalBoss' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FinalBoss'>Final Boss</a>.
+";i:488;s:17:"</li></ul></div>
+";i:489;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder8');">&nbsp;&nbsp;&nbsp;&nbsp;Web Comics&nbsp;</div><div id="folder8" class="folder" isfolder="true" style="display:block;">
+";i:490;s:580:"<ul ><li> <a class='urllink' href='http://www.drunkduck.com/STICKFODDER/'>Morgan<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> takes over Troy's role as the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a> when the characters' masks start to come off. Because he is hideously disfigured (chemical splash at college), he refuses to allow people to be different and forces people to wear masks like he does.
+";i:491;s:2241:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/EightBitTheater' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/EightBitTheater'>8-Bit Theater</a></em> has what looks like a final conflict brewing between the Light Warriors and the Dark Warriors; but then the Other Warriors show up because they want to kill the Light Warriors too; but <strong>then</strong>, the Fiends show up to kill the Light Warriors as well, so they look like the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bads</a>; but <span><strong>then</strong></span> Black Mage <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anticlimax' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anticlimax'>Anticlimactically</a> absorbs their power for himself which makes it seem as if he is the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a>; but <span><strong>then</strong></span> Sarda reveals himself as the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a>, (although he <em>actually</em> claims that the Light Warriors themselves are the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>BigBads</a>); but <span><em><strong>finally</strong></em></span> Sarda <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PhlebotinumOverload' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PhlebotinumOverload'>blows up due to absorbing too much power</a>, and becomes a portal for Chaos' who is the <strong>actual</strong> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a>. All in all there are five <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConflictKiller' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConflictKiller'>Conflict Killer</a> moments in succession at the end of the comic.
+";i:492;s:716:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/Homestuck' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/Homestuck'>Homestuck</a></em> has <span class="spoiler" title="you can set spoilers visible by default on your profile" >Jack</span>. Usually just <span class="spoiler" title="you can set spoilers visible by default on your profile" >an NPC used as a back-door quest to bypass a difficult fight</span>. In the kids' session <span class="spoiler" title="you can set spoilers visible by default on your profile" >he gets hold of a powerful artifact and goes on a rampage, utterly obliterating the chess-like battle between the kingdoms of Prospit and Derse</span>.
+";i:493;s:488:"<ul ><li> In turn, <span class="spoiler" title="you can set spoilers visible by default on your profile" >Jack Noir</span> is supplanted by <span class="spoiler" title="you can set spoilers visible by default on your profile" >Lord English</span> as the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a>, to the point that one character claims he's old news and barely a threat any longer.
+";i:494;s:27:"</li></ul></li></ul></div>
+";i:495;s:193:"<p></p><div class="folderlabel" onclick="togglefolder('folder9');">&nbsp;&nbsp;&nbsp;&nbsp;Western Animation&nbsp;</div><div id="folder9" class="folder" isfolder="true" style="display:block;">
+";i:496;s:371:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Chaotic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Chaotic'>Chaotic</a></em>'s second season has a fifth tribe, M'arrilians, appear and change the plot from the previous search for the Cothica and fights between the tribes to the tribes working together to fight the new threat.
+";i:497;s:1388:"</li><li> The main conflict of the first season of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AvatarTheLastAirbender' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AvatarTheLastAirbender'>Avatar The Last Airbender</a></em> revolved around <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiVillain' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiVillain'>Prince Zuko</a> following the Gaang around the world trying to capture Aang so that he could return from his exile, accompanied by his uncle Iroh. The second season opens with his sister <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MagnificentBastard' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MagnificentBastard'>Azula</a> (who had previously only be seen in passing during a flashback and recieved a brief mention in the last episode) attempting to arrest the two of them, forcing them to go on the run. Shortly after, Azula encounters Aang by chance and resolves to track him as well. Only one episode has Zuko still trying to capture Aang, and he still has to compete with Azula to do it. A bit more palatable then usual, as the first season had clearly ended on the fact that Zuko and Iroh had become vilified by the Fire Nation, as well as having lost the resources which would let them follow the Gaang.
+";i:498;s:389:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReBoot' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReBoot'>ReBoot</a></em> subverted this. When the Web invades Mainframe Bob and Megabyte are forced to team up. Instead of ending their conflict, Megabyte takes advantage of the situation to get rid of Bob <em>before</em> the Web invasion is over.
+";i:499;s:560:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyGuy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyGuy'>Family Guy</a></em> had a joke poking fun at this. At the beginning of "Brian Griffin's House of Payne," Peter mentions an idea he has for a "Jaws" sequel where the humans and the shark team up to fight an even bigger shark, named "Big Jaws." At the end of the episode, we find out he got it produced, and get to watch the scene introducing the Conflict Killer in question. Not surprisingly, it's awful.
+";i:500;s:331:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TransformersArmada' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TransformersArmada'>Transformers Armada</a></em> at first it was usually the Autobots and the Decepticons fighting over the minicons, then Unicron comes up to attack both side.
+";i:501;s:1401:"</li><li> This occurred at the end of <em>both</em> Seasons 2 and 3 in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JusticeLeagueUnlimited' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JusticeLeagueUnlimited'>Justice League Unlimited</a></em>. In Season 2, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WordOfGod' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WordOfGod'>Word Of God</a> states they couldn't come up with a way of resolving the conflict <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GreyAndGreyMorality' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GreyAndGreyMorality'>between Cadmus and the Justice League</a>, so they <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HijackedByGanon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HijackedByGanon'>revealed that Braniac was controlling Lex Luthor all along</a>. In Season 3, the Conflict Killer is the unexpected revival of Darkseid, forcing an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EnemyMine' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EnemyMine'>Enemy Mine</a> between the League and the (unnamed in series) <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LegionOfDoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LegionOfDoom'>Legion of Doom</a>.
+";i:502;s:17:"</li></ul></div>
+";i:503;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder10');">&nbsp;&nbsp;&nbsp;&nbsp;Real Life&nbsp;</div><div id="folder10" class="folder" isfolder="true" style="display:block;">
+";i:504;s:58:"<ul ><li> The British to the Muslims and Hindus in India.
+";i:505;s:601:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheCrusades' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheCrusades'>1244</a>, the Khawarezmi Turks sacked Jerusalem. They were wandering across the region after having been displaced from their original territory by the Mongols when the Egyptian Sultan decided to hire them to secure the region, and they sacked the then christian-held city on the way. The Mongols did later venture into the area, but whether their raid ever penetrated the city was arguable and even if they did the effect was insignificant.
+";i:506;s:17:"</li></ul></div>
+";i:507;s:14:"<p></p><hr />
+";i:508;s:2038:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ConflictBall">Conflict Ball</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePlotDemandedThisIndex">The Plot Demanded This Index</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaPreservingHandicap">Drama-Preserving Handicap</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheConfidant">The Confidant</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PagesNeedingImages">Pages Needing Images</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ConsummateLiar">Consummate Liar</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CompressedVice">Compressed Vice</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice">Characters as Device</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheConscience">The Conscience</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/YoungConqueror">Young Conqueror</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Villains">Villains</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheConspiracy">The Conspiracy</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:509;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:510;s:10:"<p> </p>
+";i:511;s:10:"<center>
+";i:512;s:2:"
+";i:513;s:24:"<!-- med rectangle -->
+";i:514;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:515;s:33:"<script type='text/javascript'>
+";i:516;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:517;s:11:"</script>
+";i:518;s:8:"</div>
+";i:519;s:2:"
+";i:520;s:11:"</center>
+";i:521;s:24:"</td><!-- wikibody -->
+";i:522;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:523;s:7:"</td>
+";i:524;s:7:"</tr>
+";i:525;s:10:"</table>
+";i:526;s:22:"<!--PageFooterFmt-->
+";i:527;s:77:"<div class="alt_title" style="font-size:x-small;text-align:center;" ></div>
+";i:528;s:10:"<center>
+";i:529;s:44:"<table style="width:606px;margin:0 auto;">
+";i:530;s:7:"	<tr>
+";i:531;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:532;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:533;s:263:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConflictKiller?action=edit'> edit page</a></div></div></td>
+";i:534;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:535;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:536;s:8:"	</tr>
+";i:537;s:10:"</table>
+";i:538;s:11:"</center>
+";i:539;s:21:"<div id='wikifoot'>
+";i:540;s:27:"    <div class='footnav'>
+";i:541;s:2:"
+";i:542;s:14:"			 <center>
+";i:543;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:544;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:545;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:546;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:547;s:15:"				</center>
+";i:548;s:2:"
+";i:549;s:29:"    </div><!-- wikifoot -->
+";i:550;s:23:"<!--/PageFooterFmt-->
+";i:551;s:12:"55975<br/>
+";i:552;s:3:"1
+";i:553;s:8:"</div>
+";i:554;s:26:"</div><!-- container -->
+";i:555;s:2:"
+";i:556;s:9:"</body>
+";i:557;s:21:"<!--ScriptInsert-->
+";i:558;s:9:"</html>
+";}}

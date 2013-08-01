@@ -1,0 +1,550 @@
+a:2:{i:0;i:1377889200;i:1;a:549:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:72:"<title>Man In The Iron Mask - Television Tropes &amp; Idioms  </title>
+";i:5;s:138:"<meta name="Description" content="The Man In The Iron Mask trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:2:"
+";i:25;s:10:"</style>
+";i:26;s:2:"
+";i:27;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:28;s:33:"<script type="text/javascript">
+";i:29;s:26:"  var _gaq = _gaq || [];
+";i:30;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:31;s:34:"  _gaq.push(['_trackPageview']);
+";i:32;s:2:"
+";i:33;s:17:"  (function() {
+";i:34;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:35;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:36;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:37;s:9:"  })();
+";i:38;s:2:"
+";i:39;s:32:"	function subpage(sel, title){
+";i:40;s:4:"		
+";i:41;s:40:"		var namespce = ""+getselection(sel);
+";i:42;s:34:"		if(namespce.trim()=="")return;
+";i:43;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:44;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:45;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:46;s:29:"		window.location.href=url;
+";i:47;s:4:"	}
+";i:48;s:32:"	function p5(groupname,title){
+";i:49;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:50;s:4:"	}
+";i:51;s:27:"	function togglenote(id){
+";i:52;s:23:"		var ele=object(id);
+";i:53;s:34:"		var state = ele.style.display;
+";i:54;s:49:"		if(state=='none') ele.style.display='inline';
+";i:55;s:48:"		if(state=='inline')ele.style.display='none';
+";i:56;s:4:"	}
+";i:57;s:35:"	var googletag = googletag || {};
+";i:58;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:59;s:16:"	(function() {
+";i:60;s:47:"	var gads = document.createElement('script');
+";i:61;s:21:"	gads.async = true;
+";i:62;s:33:"	gads.type = 'text/javascript';
+";i:63;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:64;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:65;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:66;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:67;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:68;s:8:"	})();
+";i:69;s:2:"
+";i:70;s:34:"	googletag.cmd.push(function() {
+";i:71;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:73;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:74;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:75;s:45:"		googletag.pubads().enableSingleRequest();
+";i:76;s:31:"		googletag.enableServices();
+";i:77;s:6:"	});
+";i:78;s:2:"
+";i:79;s:11:"</script>
+";i:80;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:81;s:2:"
+";i:82;s:9:"</head>
+";i:83;s:8:"<body>
+";i:84;s:40:"<div class="container" id="container">
+";i:85;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:86;s:6:"<tr>
+";i:87;s:46:"<td style="width:166px;vertical-align:top;">
+";i:88;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:89;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:90;s:38:"<g:plusone size="small"></g:plusone>
+";i:91;s:2:"
+";i:92;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:93;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:94;s:6:"<ul>
+";i:95;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:96;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:97;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:98;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:99;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:100;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:101;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:102;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:103;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:104;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:105;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:106;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:107;s:7:"</ul>
+";i:108;s:8:"</div>
+";i:109;s:2:"
+";i:110;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:111;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:112;s:2:"
+";i:113;s:187:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','ManInTheIronMask');">send request</button><hr/></div>
+";i:114;s:2:"
+";i:115;s:328:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="ManInTheIronMask" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:116;s:2:"
+";i:117;s:51:"<div style="font-size:small;text-align:center;" >
+";i:118;s:30:"Find recent edits by troper:
+";i:119;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:120;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:121;s:8:"</div>
+";i:122;s:7:"<hr/>
+";i:123;s:7:"<ul>	
+";i:124;s:4:"		
+";i:125;s:7:"<hr/>
+";i:126;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:127;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:128;s:65:"		<input type="hidden" name="title" value="ManInTheIronMask" />
+";i:129;s:54:"		This article needs some moderator assistance with:
+";i:130;s:9:"		<br/>
+";i:131;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:132;s:9:"		<br/>
+";i:133;s:4:"		
+";i:134;s:34:"		<p style="text-align:center;">
+";i:135;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:136;s:8:"		</p>
+";i:137;s:34:"		<p style="text-align:center;">
+";i:138;s:48:"			<input type="submit" value="send report" />
+";i:139;s:8:"		</p>
+";i:140;s:11:"		</form>
+";i:141;s:7:"<hr/>
+";i:142;s:6:"<ul>
+";i:143;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:144;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:145;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:146;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:147;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:148;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:149;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:150;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:151;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:152;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:153;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:154;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:155;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:156;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:157;s:145:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.ManInTheIronMask'>Referral Count for This Page</a></li>
+";i:158;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:159;s:120:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=ManInTheIronMask'>Article Relationships</a></li> -->
+";i:160;s:106:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.ManInTheIronMask'>Folderize</a></li>
+";i:161;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:162;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:163;s:7:"</ul>
+";i:164;s:8:"	<hr/>
+";i:165;s:6:"<ul>
+";i:166;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:167;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:168;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:169;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:170;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:171;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:172;s:7:"</ul>
+";i:173;s:7:"<hr/>
+";i:174;s:2:"
+";i:175;s:8:"</div>
+";i:176;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:177;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:178;s:8:"		<ul>
+";i:179;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:180;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:181;s:9:"		</ul>
+";i:182;s:8:"</div>
+";i:183;s:10:"<center>
+";i:184;s:34:"		<div style="margin-top:4px;">	
+";i:185;s:5:"			
+";i:186;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:187;s:33:"<script type='text/javascript'>
+";i:188;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:189;s:101:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/ManInTheIronMask");
+";i:190;s:11:"</script>
+";i:191;s:8:"</div>
+";i:192;s:2:"
+";i:193;s:11:"		</div>	
+";i:194;s:10:"		<div>	
+";i:195;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:196;s:6:"		 	
+";i:197;s:4:"		
+";i:198;s:4:"		
+";i:199;s:10:"		</div>
+";i:200;s:379:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Film/ManInTheIronMask">Film</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/ManInTheIronMask">Laconic</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ManInTheIronMask">Main</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/PlayingWith/ManInTheIronMask">PlayingWith</a><br/>
+";i:201;s:9:"		<div>
+";i:202;s:10:"		</div>
+";i:203;s:36:"		<div style="font-size:x-small;">
+";i:204;s:11:"				<hr/>
+";i:205;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:206;s:14:"				<p> </p>
+";i:207;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:208;s:13:"				<p></p>
+";i:209;s:11:"				<ul >
+";i:210;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:211;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:212;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:213;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:214;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:215;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:216;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:217;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:219;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:220;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:221;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:222;s:11:"				</li>
+";i:223;s:11:"				</ul>
+";i:224;s:13:"				<p></p>
+";i:225;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:226;s:13:"				<p></p>
+";i:227;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:228;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:229;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:230;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:231;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:232;s:6:"				
+";i:233;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:234;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:235;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:236;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:237;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:238;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:239;s:6:"				
+";i:240;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:241;s:16:"				</li></ul>
+";i:242;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:243;s:13:"				<p></p>
+";i:244;s:11:"				<ul >
+";i:245;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:246;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:247;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:248;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:249;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:250;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:251;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:252;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:253;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:254;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:255;s:6:"				
+";i:256;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:257;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:258;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:259;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:260;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:261;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:262;s:6:"				
+";i:263;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:264;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:265;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:266;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:268;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:269;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:270;s:11:"				</li>
+";i:271;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:272;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:273;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:274;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:275;s:6:"				
+";i:276;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:278;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:279;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:280;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:281;s:16:"				</li></ul>
+";i:282;s:6:"				
+";i:283;s:13:"				<p></p>
+";i:284;s:39:"				<strong>Other Categories</strong>
+";i:285;s:13:"				<p></p>
+";i:286;s:10:"				<ul>
+";i:287;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:288;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:289;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:290;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:291;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:292;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:293;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:294;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:295;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:296;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:297;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:298;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:299;s:11:"				</ul>
+";i:300;s:11:"		</div>	
+";i:301;s:11:"</center>
+";i:302;s:2:"
+";i:303;s:30:"</div> <!-- wikileftpage -->
+";i:304;s:7:"</td>
+";i:305;s:20:"<td id='wikibody'>
+";i:306;s:2:"
+";i:307;s:21:"<!--PageTitleFmt-->
+";i:308;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:309;s:12:"    		<tr>
+";i:310;s:38:"    		<td id="wikicmds" align="top">
+";i:311;s:8:"    		
+";i:312;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:313;s:45:"    				<tr style="vertical-align:middle;">
+";i:314;s:31:"    					<td align="center" >
+";i:315;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:316;s:16:"    					</td>
+";i:317;s:15:"    				<td >
+";i:318;s:37:"    					<div style="width:400px;">
+";i:319;s:28:"                  <center>
+";i:320;s:27:"                  <table>
+";i:321;s:24:"                  <tr>
+";i:322;s:24:"                  <td>
+";i:323;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:324;s:27:"                    <div>
+";i:325;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:326;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:327;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:328;s:64:"                      <input type="text" name="q" size="31" />
+";i:329;s:28:"                    </div>
+";i:330;s:27:"                  </form>
+";i:331;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:332;s:25:"                  </td>
+";i:333;s:24:"                  <td>
+";i:334;s:46:"                  <div class="buttonframe" >
+";i:335;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:336;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:337;s:26:"                  </div>
+";i:338;s:25:"                  </div
+";i:339;s:25:"                  </td>
+";i:340;s:25:"                  </tr>
+";i:341;s:28:"                  </table>
+";i:342;s:29:"                  </center>
+";i:343;s:17:"    					</div>
+";i:344;s:15:"    				</td>
+";i:345;s:15:"    				</tr>
+";i:346;s:16:"    		</table>
+";i:347;s:8:"    		
+";i:348;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:349;s:10:"    				
+";i:350;s:27:"    				<tr valign="top">
+";i:351;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:352;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:353;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:354;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:355;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:356;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:357;s:15:"    				</tr>
+";i:358;s:10:"    				
+";i:359;s:10:"    				
+";i:360;s:8:"    		
+";i:361;s:16:"    		</table>
+";i:362;s:8:"    		
+";i:363;s:28:"    		<div id="wikilogo" >
+";i:364;s:16:"    		<center>
+";i:365;s:2:"
+";i:366;s:22:"<!-- leaderboard -->
+";i:367;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:368;s:33:"<script type='text/javascript'>
+";i:369;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:370;s:11:"</script>
+";i:371;s:8:"</div>
+";i:372;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:373;s:28:"    					<tr valign="top">
+";i:374;s:348:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'ManInTheIronMask');" autocomplete="off"  style="width:50px;"><option> </option><option value="Film">Film</option><option value="Laconic">Laconic</option><option value="Main">Main</option><option value="PlayingWith">PlayingWith</option></select></td>
+";i:375;s:271:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ManInTheIronMask?action=source" >source</a></div></div></td>
+";i:376;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:377;s:272:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.ManInTheIronMask">history</a></div></div></td>
+";i:378;s:274:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ManInTheIronMask?action=edit'> edit page</a></div></div></td>
+";i:379;s:270:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/ManInTheIronMask" >related</a></div></div></td>
+";i:380;s:38:"    							<td valign="middle"></td>
+";i:381;s:16:"    					</tr>
+";i:382;s:18:"    				</table>
+";i:383;s:10:"    				
+";i:384;s:35:"    				<div id="watchmsg"></div>
+";i:385;s:18:"    			</center>
+";i:386;s:13:"    		</td>
+";i:387;s:12:"     </tr>
+";i:388;s:6:"    
+";i:389;s:11:"    	<tr>
+";i:390;s:39:"    		<td id="wikititle" colspan="2">
+";i:391;s:40:"    				<div class="namespacebuttons">
+";i:392;s:1322:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.ManInTheIronMask" >&nbsp;Discussion </a></li> <li class="namespace_li PlayingWith" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/PlayingWith/ManInTheIronMask" class="textcolor">&nbsp;Playing&nbsp;With&nbsp;</a> </li> <li class="namespace_li Film" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Film/ManInTheIronMask" class="textcolor">&nbsp;Film&nbsp;</a> </li> <li class="namespace_li Laconic" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/ManInTheIronMask" class="textcolor">&nbsp;Laconic&nbsp;</a> </li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=ManInTheIronMask" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/ManInTheIronMask" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:393;s:16:"    				</div>
+";i:394;s:26:"    				<!--RepairBug-->
+";i:395;s:10:"    				
+";i:396;s:34:"    				<div class='pagetitle'> 
+";i:397;s:47:"    						  <span>Man In The Iron Mask</span>
+";i:398;s:16:"    				</div>
+";i:399;s:11:"    				 
+";i:400;s:13:"    		</td>
+";i:401;s:12:"    	</tr>
+";i:402;s:10:"</table>
+";i:403;s:2:"
+";i:404;s:16:"<!--PageText-->
+";i:405;s:20:"<div id='wikitext'>
+";i:406;s:164:"<div class="quoteright" style="width:292px;" ><img src='http://static.tvtropes.org/pmwiki/pub/images/Prisoner.JPG' class='embeddedimage' border='0' alt='' /></div>
+";i:407;s:158:"<div class='indent'> <em>My noble half-brother whose throne I usurped will be killed, not kept anonymously imprisoned in a forgotten cell of my dungeon.</em>
+";i:408;s:215:"<div class='indent'> &#8212;<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilOverlordList' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilOverlordList'>Evil Overlord List</a> item #3
+";i:409;s:1204:"</div></div><p></p>So you've <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEvilPrince' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEvilPrince'>usurped your noble brother/half-brother's throne</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheUsurper' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheUsurper'>your control is complete</a>. Seems like the thing to do is to kill him and bury the corpse in a pauper's grave. But you're a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AffablyEvil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AffablyEvil'>nice</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilOverlord' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilOverlord'>Evil Overlord</a>, so you opt simply to throw your brother, the one person who could cast your authority to rule your entire empire into doubt, into prison (or a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LockedAwayInAMonastery' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LockedAwayInAMonastery'>monastery</a>) and forget to tell anyone that he's your brother.
+";i:410;s:545:"<p></p>Of course, the hero discovers that the noble half-brother is still alive and frees him, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RightfulKingReturns' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RightfulKingReturns'>restoring order to the kingdom</a>, making the reader ask "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhyDontYouJustShootHim' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhyDontYouJustShootHim'>Why Don't You Just Shoot Him?</a>" before the hero shows up?
+";i:411;s:446:"<p></p>Sometimes this is justified on the grounds that shedding <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RoyalBlood' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RoyalBlood'>Royal Blood</a> has side-effects, or that the land <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FisherKing' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FisherKing'>will suffer</a> if the rightful king dies.
+";i:412;s:187:"<p></p>The essential criteria for this <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plot' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plot'>Plot</a> trope:
+";i:413;s:56:"<ul ><li> The prisoner is of noble blood; often royalty
+";i:414;s:144:"</li><li> His imprisonment &#8212; quite possibly his very existence &#8212; is a secret hidden from most the guards and/or the people at large
+";i:415;s:96:"</li><li> Releasing the prisoner would put the overlord's reign (or plans to reign) in jeopardy
+";i:416;s:301:"</li></ul><p></p>Contrast <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HiddenBackupPrince' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HiddenBackupPrince'>Hidden Backup Prince</a>, who is a similarly hidden rightful heir, but for protection <em>from</em> their enemies.
+";i:417;s:7:"<hr />
+";i:418;s:19:"<h2>Examples:</h2>
+";i:419;s:122:"<p></p><div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:420;s:191:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp;Anime and Manga&nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:421;s:856:"<ul ><li> This is what the king of the Yellow Kingdom does to his son Len in the manga adaptation of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Mothy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Mothy'>mothy</a>'s <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Vocaloid' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Vocaloid'>Aku no Meshitsukai</a></em> upon hearing the murdered fortuneteller's prophecy that the child born with the birthmark shaped like a splatter of blood will bring ruin to his kingdom. The king declares that Len's twin sister Rin is the only heir who was born that night and imprisons Len in a tower where he remains alone until Rin discovers him years later. Justified in that it's made explicit that killing the prophesied child will also bring ruin to the kingdom.
+";i:422;s:17:"</li></ul></div>
+";i:423;s:182:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp;Comics&nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:424;s:1020:"<ul ><li> In Marvel's <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/GIJoeARealAmericanHeroMarvel' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/GIJoeARealAmericanHeroMarvel'>G.I. Joe</a></em> comic, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PraetorianGuard' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PraetorianGuard'>Crimson Guardsman</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreNumberSix' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreNumberSix'>Fred VII</a> kills the original COBRA Commander and takes his place, concealing his own identity with the mask of CC's battle armour. <span class="spoiler" title="you can set spoilers visible by default on your profile" >The Commander turns out to be <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NotQuiteDead' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NotQuiteDead'>Not Quite Dead</a> and returns the favour.</span>
+";i:425;s:562:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWarlord' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWarlord'>The Warlord</a></em>, Travis Morgan is captured and imprisoned by Deimos while an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IdenticalStranger' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IdenticalStranger'>Identical Stranger</a> usurps his position as Warlord of Skartaris. An iron mask is locked over Morgan's head to prevent his gaolers learning his true identity.
+";i:426;s:17:"</li></ul></div>
+";i:427;s:180:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp;Film&nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:428;s:616:"<ul ><li> <em>The Man In the Iron Mask</em> has had several adaptions. Richard Chamberlain starred in one where the older twin son had been spirited away, for leverage to make the younger one a puppet king, so the younger one was not, in fact, responsible. But he found out and ordered his brother imprisoned with the mask so no one could use it. The older one was rescued and managed to confuse the younger's flunkies so that his brother was sent off for the same fate. <br /> <br />The younger brother was afraid that their being twins meant there might be some connection, so that killing him would be dangerous.
+";i:429;s:272:"<ul ><li> He also thought it would be <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TemptingFate' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TemptingFate'>Tempting Fate</a> to commit regicide, especially of someone who looked just like you.
+";i:430;s:316:"</li></ul></li><li> <em>Le Masque de fer</em> (1962) is a French swashbuckling film. A lighthearted take on the novel, it stars Jean Marais as an old and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LargeHam' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LargeHam'>hammy</a> D'Artagnan.
+";i:431;s:1515:"</li><li> The most recent film <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheManInTheIronMask' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheManInTheIronMask'>(1998)</a> starring <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LeonardoDiCaprio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LeonardoDiCaprio'>Leonardo DiCaprio</a> as the king (Louis) and twin brother (Phillipe). <span class="spoiler" title="you can set spoilers visible by default on your profile" >The movie has the switch between the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilTwin' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilTwin'>Evil Twin</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoodTwin' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoodTwin'>Good Twin</a> succeed.</span> Was notable for massive <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AdaptationDistillation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AdaptationDistillation'>Adaptation Distillation</a>: Louis being more evil than depicted in the novel, and <span class="spoiler" title="you can set spoilers visible by default on your profile" >the twist that D'Artagnan was the real father to the twins</span>. This was also DiCaprio's follow-up movie to <em>Titanic</em> during which legions of fangirls were <em>still</em> swarming to the earlier film in theaters: <em>Iron Mask</em> took second place.
+";i:432;s:295:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Asterix' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Asterix'>Astérix</a> &amp; Obelix Take On Caesar</em>, Julius Caesar is locked in an iron mask and thrown into a dungeon by the traitorous Detritus.
+";i:433;s:475:"</li><li> Although not a male, Snow White herself in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SnowWhiteAndTheHuntsman' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SnowWhiteAndTheHuntsman'>Snow White & the Huntsman</a></em> is arguably this. She is the rightful ruler, since her father was the king, but has been kept imprisoned in a tower by the Queen. When the Queen decides to have Snow White killed, it sets the main plot in motion.
+";i:434;s:520:"</li><li> Another non-male example occurs in <span class="spoiler" title="you can set spoilers visible by default on your profile" > <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WreckItRalph' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WreckItRalph'>Wreck-It Ralph</a>. King Candy usurped the throne of Princess Vanellope von Schweetz by replacing his code with hers. He couldn't out right delete her code, so he turned her into a glitch, leaving her as a prisoner in her own game.</span>
+";i:435;s:729:"<ul ><li> <span class="spoiler" title="you can set spoilers visible by default on your profile" > On top of that, King Candy locked up the memories of everyone in the game, including Vanellope herself, and developed a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FantasticRacism' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FantasticRacism'>Fantastic Racism</a> against her in order to keep her from racing, as her crossing the finish line would cause the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ResetButton' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ResetButton'>game to reset</a>, restoring her rightful place on the throne, and exposing Candy's con.</span>
+";i:436;s:27:"</li></ul></li></ul></div>
+";i:437;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp;Literature&nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:438;s:912:"<ul ><li> Subverted in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SwordOfTruth' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SwordOfTruth'>Sword of Truth</a>; part of the enchantments on the Rahl bloodline make that an unfortunate necessity. Any Rahl who isn't an absurdly powerful wizard is actually a "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiMagic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiMagic'>Pristinely Ungifted</a>" whose propagation threatens the existence of the world. That's not to say that all Rahls kill their children so as to save the rest of their world. Richard runs into most of the survivors over his adventures, with various levels of emotional scarring and insanity, possibly deconstructing this trope by showing what those behind the iron masks would actually be like growing up in their father's country.
+";i:439;s:199:"<ul ><li> <span class="spoiler" title="you can set spoilers visible by default on your profile" > Drefan</span> Rahl thinks he's this, but turns out to be delusional and possibly <em>possessed</em>.
+";i:440;s:410:"</li></ul></li><li> Solzhenitsyn's <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheFirstCircle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheFirstCircle'>The First Circle</a></em> set in a Soviet-era "special prison" features a prisoner kept in isolation and referred to by the other prisoners as "the man in the iron mask", although his actual identity is generally known
+";i:441;s:916:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheThreeMusketeers' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheThreeMusketeers'>The Vicomte De Bragelonne</a></em> by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/AlexandreDumas' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/AlexandreDumas'>Alexandre Dumas</a> <em>père</em> (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeNamers' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeNamers'>Trope Namer</a>), King Louis XIV has a twin brother who is kept in the Bastille &#8212; by their mother, the dowager queen &#8212; to avoid the possibility that he might usurp the throne. To make sure that the guards do not get the wrong idea, the man is placed in a secure part of the prison and forced to wear an iron mask to conceal his identity.
+";i:442;s:149:"<ul ><li> This is based on accounts of a real prisoner in the Bastille (among other prisons) forced to wear a mask. His identity was never revealed.
+";i:443;s:194:"</li><li> This also subverts expectations as <span class="spoiler" title="you can set spoilers visible by default on your profile" > the attempt fails, unlike in all its myriad adaptions</span>
+";i:444;s:657:"</li></ul></li><li> In some versions of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RobinHood' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RobinHood'>Robin Hood</a></em>, John claims to be raising money to free <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RichardTheLionHeart' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RichardTheLionHeart'>King Richard</a> returning from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheCrusades' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheCrusades'>The Crusades</a>, but in reality is using the money to stay in power.
+";i:445;s:416:"</li><li> Played with a bit in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePrisonerOfZenda' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePrisonerOfZenda'>The Prisoner of Zenda</a></em>. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItWasHisSled' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItWasHisSled'>You probably already know this,</a> but:
+";i:446;s:1047:"<ul ><li> <span class="spoiler" title="you can set spoilers visible by default on your profile" >Kidnapping the rightful heir was an act of desperation, as the original plan -drug him and make it look as if he were too drunk to be crowned- suffered a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpannerInTheWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpannerInTheWorks'>Spanner in the Works</a> in the form of a distant relative of the royal family who resembled the heir closely enough to pass as the intended King in the short term. The would-be usurper would have had his brother killed immediately, but that would have made it impossible to depose the ringer without incriminating himself. For the stand-in King's part, acting to rescue the real King would have revealed himself as an imposter, so the situation became a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MexicanStandoff' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MexicanStandoff'>Mexican Standoff</a>.</span>
+";i:447;s:1008:"</li></ul></li><li> Parodied in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Discworld' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Discworld'>Discworld</a> novel <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/TheTruth' title='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/TheTruth'>The Truth</a></em>, which involves a plot to dethrone Lord Vetinari by framing him for a crime using a man who looks just like him. After the plot is thwarted, William De Worde asks Lord Vetinari if he's giving his look-alike this treatment. Vetinari responds that the man is, in fact, alive and now employed by the Guild of Actors, appearing as Vetinari in stage productions and children's parties. William de Worde theorizes that he might occasionally be used as a stand-in for Lord Vetinari when the real one is unavailable for some boring task or posing for an oil painting, but Vetinari just answers that with a characteristic blank look.
+";i:448;s:133:"<ul ><li> On the other hand, for which of the two is being mistaken for the other more dangerous...? Rhetorical question, of course.
+";i:449;s:239:"</li></ul></li><li> <em>The Mage In The Iron Mask</em> (<em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ForgottenRealms' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ForgottenRealms'>Nobles</a></em> series).
+";i:450;s:485:"<ul ><li> Includes a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Lampshading' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Lampshading'>Lampshading</a> of the fact that a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ManInTheIronMask' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ManInTheIronMask'>Man In The Iron Mask</a> would <em>have</em> to be let out of it once in a while to shave, or he'd suffocate on his own beard.
+";i:451;s:791:"</li></ul></li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UrsulaKLeGuin' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UrsulaKLeGuin'>Ursula K. Le Guin</a>'s <em>A Wizard of Earthsea</em>, Ged meets two people alone on a desert island, barely capable of understanding human speech. In <em>The Tombs of Atuan</em> Tenar explains that they were the last children of a royal line, and the God-Emperor was afraid to kill them, since they had <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RoyalBlood' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RoyalBlood'>Royal Blood</a>, so he abandoned them there, very young. Subverted in that Ged did not rescue them; in fact, they were terrified at the prospect of leaving their island.
+";i:452;s:323:"<ul ><li> Notably, they were put to sea when they were children and were now at least middle aged. Royal blood clearly included excellent survival instincts, but they were a bit past their "crown by" date. The God-Emperor may have been cautious, but his grip on power was quiet definitely cemented when he had them exiled.
+";i:453;s:459:"</li></ul></li><li> <em>Eye Of The Dragon</em> by Stephen King. In this case it's the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilChancellor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilChancellor'>Evil Chancellor</a> who engineers the king's imprisonment by framing him with a very public trial, and when he's eventually freed the replacement king (his younger brother) is all too willing to give him back the throne.
+";i:454;s:391:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GodSaveUsFromTheQueen' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GodSaveUsFromTheQueen'>Tsarmina's</a> nice-guy brother in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Redwall' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Redwall'>Redwall</a> book <em>Mossflower</em>.
+";i:455;s:558:"</li><li> One of the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Xanth' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Xanth'>Xanth</a></em> novels has the good King Omen imprisoned in secret by his usurper brother Oary. When foiled, Oary admits that he would have been more successful if he'd killed Omen, but <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiVillain' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiVillain'>he's not quite evil enough to kill his own brother.</a>
+";i:456;s:541:"</li><li> In the backstory of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Ravenloft' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Ravenloft'>Ravenloft</a> novel <em>Tower of Doom</em>, a nobleman's wife births a hunchbacked child and his undeformed twin. Their father doesn't lock up the malformed baby's face behind a mask, but he does lie about which kid was born first, raising the handsome younger twin as his successor while his blighted brother, the true heir, is confined to the titular bell tower.
+";i:457;s:1140:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/RobertEHoward' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/RobertEHoward'>Robert E Howard</a>'s <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConanTheBarbarian' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConanTheBarbarian'>Conan the Barbarian</a> story "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/AWitchShallBeBorn' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/AWitchShallBeBorn'>A Witch Shall Be Born</a>", Salome, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilTwin' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilTwin'>Evil Twin</a>, does this to Tamaris when becoming the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FakeKing' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FakeKing'>Fake King</a>. She wants to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BreakTheHaughty' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BreakTheHaughty'>Break the Haughty</a> on Tamaris.
+";i:458;s:115:"<div class='indent'><em>Thenceforward I am Taramis, and Taramis is a nameless prisoner in an unknown dungeon.</em>
+";i:459;s:583:"</div></li><li> Erik does this to Corwin at the end of the first book in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/RogerZelazny' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/RogerZelazny'>Roger Zelazny</a>'s <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheChroniclesOfAmber' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheChroniclesOfAmber'>The Chronicles Of Amber</a></em>. Somewhat subverted&#8212;it is later revealed that this was done as much to protect Corwin as to keep him off the throne.
+";i:460;s:537:"</li><li> King Jakoven in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/PatriciaBriggs' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/PatriciaBriggs'>Patricia Briggs</a>' <em>Hurog</em> series built the Asylum specifically to lock up his brother Kellen, having been warned in a prophecy that it would be a very bad idea to kill his brother. While it's common knowledge that he's in there, most of the common people seem to have bought the idea that he's genuinely nuts, rather than unjustly imprisoned.
+";i:461;s:220:"</li><li> <em>The Prisoner in the Mask</em> by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DennisWheatley' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DennisWheatley'>Dennis Wheatley</a>.
+";i:462;s:17:"</li></ul></div>
+";i:463;s:198:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp;Live Action Television&nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:464;s:720:"<ul ><li> In one episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Smallville' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Smallville'>Smallville</a></em>, Lex is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LiteralSplitPersonality' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LiteralSplitPersonality'>split into his good side and his evil side</a> after accidentally creating Black Kryptonite. His evil side locks up his good side, complete with the requisite iron mask and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Lampshade' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Lampshade'>Lampshading</a> the situation.
+";i:465;s:445:"</li><li> In one alternate-universe in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LegendOfTheSeeker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LegendOfTheSeeker'>Legend of the Seeker</a>, Richard does this fairly stupidly, though in a rather unusual fashion. Unsurprisingly, it backfires. Turns out, leaving your omnipotence-macguffin out in the open, unstoppable though it may be, is a <em>bad</em> idea.
+";i:466;s:17:"</li></ul></div>
+";i:467;s:188:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp;Tabletop RPG&nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:468;s:546:"<ul ><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Eberron' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Eberron'>Eberron</a>, the person (secretly a vampire) on Karrnath's throne is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MyGrandsonMyself' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MyGrandsonMyself'>the great grandfather of the actual ruler, posing as his great grandson</a>. It's strongly hinted that the real monarch is locked up in Eberron's equivalent of Alcatraz.
+";i:469;s:49:"<ul ><li> And with an actual iron mask, no less.
+";i:470;s:27:"</li></ul></li></ul></div>
+";i:471;s:180:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp;Toys&nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:472;s:812:"<ul ><li> In the second <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Bionicle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Bionicle'>BIONICLE</a> movie, <span class="spoiler" title="you can set spoilers visible by default on your profile" > Lhikan</span> gets this treatment, down to the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VisualPun' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VisualPun'>mask</a>. Weird but funny in hindsight, because most characters wear masks <em>anyway</em>. The character in question actually <em>complied</em> with the treatment to be able to train three of the Toa Metru. <span class="spoiler" title="you can set spoilers visible by default on your profile" > It turns out he could have escaped at any time.</span>
+";i:473;s:103:"<ul ><li> Mata Nui by Makuta, though that one turns out to be <em>significantly</em> more complicated.
+";i:474;s:138:"</li><li> The real <span class="spoiler" title="you can set spoilers visible by default on your profile" > Turaga Duma</span>, by Makuta.
+";i:475;s:136:"</li><li> The Toa Hordika could be considered a version of this, though Roodaka tried to execute them by pushing them off a skyscraper.
+";i:476;s:985:"</li></ul></li><li> In another <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LEGO' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LEGO'>LEGO</a> line, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightsKingdom2' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightsKingdom2'>Knights' Kingdom</a>, Lord Vladek <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheUsurper' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheUsurper'>usurped</a> the throne and, rather than killing King Mathias due to the threat he posed to Vladek's rule, simply had him locked up in the Castle of Morcia's dungeons instead. Of course, this allowed <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LaResistance' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LaResistance'>La Résistance</a> to rescue Mathias, learn of Vladek's true intentions, and ultimately restore the rightful king to the throne.
+";i:477;s:472:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/EverAfterHigh' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/EverAfterHigh'>Ever After High</a></em>, Headmaster Grimm's brother Giles is stowed away in the basement of the school. According to the trailer, he's actually trapped down there, and considering the Headmaster's antagonism toward the Rebels before they even <em>do</em> anything, that wouldn't be surprising.
+";i:478;s:17:"</li></ul></div>
+";i:479;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder7');">&nbsp;&nbsp;&nbsp;&nbsp;Video Games&nbsp;</div><div id="folder7" class="folder" isfolder="true" style="display:block;">
+";i:480;s:899:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ArcanumOfSteamworksAndMagickObscura' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ArcanumOfSteamworksAndMagickObscura'>Arcanum: Of Steamworks & Magick Obscura</a></em>, while on prison island, the player can stumble upon an old man, who turns out to be thought-to-be-dead rightful king of kingdom of Cumbria. Inevitably, player can help him regain the throne, and inevitably, under his command the kingdom thrives. This is, however, due to his willingness to commence reforms and accept technology (which, by the way, was the reason why he was couped out of power by his technology hating brother), not some kind of magical property of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RoyalBlood' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RoyalBlood'>Royal Blood</a>.
+";i:481;s:577:"</li><li> Appears in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LunarTheSilverStar' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LunarTheSilverStar'>Lunar The Silver Star</a></em>. <span class="spoiler" title="you can set spoilers visible by default on your profile" > Lemia had her memory wiped by an enchanted mask and is locked away in the dungeon while the usurper takes her place. The cast doesn't realise who she is upon finding her, and free her mainly out of pity and disgust at her... less-than-pleasant condition.</span>
+";i:482;s:1052:"</li><li> A subversion of this appears in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/KingdomHearts' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/KingdomHearts'>Kingdom Hearts</a></em> series, with the character <span class="spoiler" title="you can set spoilers visible by default on your profile" > Diz.</span> in reality <span class="spoiler" title="you can set spoilers visible by default on your profile" > Ansem the Wise,</span> his kingdom and his very name are taken by <span class="spoiler" title="you can set spoilers visible by default on your profile" > his apprentice, Xehanort, whose Heartless and Nobody are the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>main antagonists</a></span> of Kingdom Hearts I and II separately. When he escaped from his prison, he decided to fulfill the disguised-face bit himself, with at least one instance of him used magic to impersonate the guy impersonating him.
+";i:483;s:843:"</li><li> Because he's technically noble (a knight), <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyXII' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyXII'>Final Fantasy XII</a></em>'s Basch fon Ronsenberg (<strong><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemeticMutation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemeticMutation'>of Dalmasca</a></strong>) counts. His twin brother put him in prison after he (the twin) framed Basch for the murder of the king of Dalmasca years earlier. The public at large assumed him dead, though instead he's in chains at the bottom of the world's most infamous prison-fortress. He goes on to be freed by Vaan, Balthier, and Fran, eventually joining them permanently in order to safeguard Princess Ashe.
+";i:484;s:1200:"</li><li> In <span class="spoiler" title="you can set spoilers visible by default on your profile" >Mileena's</span> ending in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MortalKombatArmageddon' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MortalKombatArmageddon'>Mortal Kombat Armageddon</a></em> (non-canon, like <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ContinuityReboot' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ContinuityReboot'>pretty much all the others</a>), she will do this to <span class="spoiler" title="you can set spoilers visible by default on your profile" >Kitana</span> after Blaze's scattered essence causes them to <span class="spoiler" title="you can set spoilers visible by default on your profile" >exchange looks (i.e. Mileena gets a normal face, Kitana ends up looking like a Tarkatan). As a result, Mileena becomes free to drive Edenia to destruction without any hitch, while Kitana will <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoMadFromTheIsolation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoMadFromTheIsolation'>Go Mad from the Isolation</a>.</span>
+";i:485;s:17:"</li></ul></div>
+";i:486;s:193:"<p></p><div class="folderlabel" onclick="togglefolder('folder8');">&nbsp;&nbsp;&nbsp;&nbsp;Western Animation&nbsp;</div><div id="folder8" class="folder" isfolder="true" style="display:block;">
+";i:487;s:738:"<ul ><li> Used in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheLegendOfKorra' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheLegendOfKorra'>The Legend Of Korra</a></em> with Amon keeping <span class="spoiler" title="you can set spoilers visible by default on your profile" >Tarrlok imprisoned on Air Temple Island</span> due to <span class="spoiler" title="you can set spoilers visible by default on your profile" >the two of them being brothers</span>. In true trope form, it ultimately proves to be Amon's undoing as <span class="spoiler" title="you can set spoilers visible by default on your profile" > Korra uses Tarrlok's knowledge of Amon's true past to turn the Equalists against him.</span>
+";i:488;s:670:"</li><li> Disney's <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DuckTales' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DuckTales'>DuckTales</a></em> has "The Duck In The Iron Mask". Scrooge visits his old friend Count Roy, who rules a small kingdom, to find that his twin brother Ray has usurped the throne. Roy, in the obvious role, explains that he never told Scrooge about his brother <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MyGreatestFailure' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MyGreatestFailure'>because he felt responsible for his brother's disappearance</a>.
+";i:489;s:531:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MyLittlePonyFriendshipIsMagic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MyLittlePonyFriendshipIsMagic'>My Little Pony: Friendship is Magic</a>: Has <span class="spoiler" title="you can set spoilers visible by default on your profile" > Princess Cadence, who was imprisoned in some sort of crystal mine while Chrysalis, Queen of the changelings, took her place. Twilight sparkle then gets thrown into the same place and breaks her out</span>.
+";i:490;s:17:"</li></ul></div>
+";i:491;s:185:"<p></p><div class="folderlabel" onclick="togglefolder('folder9');">&nbsp;&nbsp;&nbsp;&nbsp;Real Life&nbsp;</div><div id="folder9" class="folder" isfolder="true" style="display:block;">
+";i:492;s:409:"<ul ><li> The legend of the <a class='urllink' href='http://en.wikipedia.org/wiki/Man_in_the_Iron_Mask'>Man in the Iron Mask<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> was based on actual records found from Bastille. There are a lot of theories regarding the Man's identity, but very little information remains of the real events.
+";i:493;s:152:"<ul ><li> What has been discovered is that the Iron Mask itself was an exaggeration - the mask was just silk, and the Man probably wore it voluntarily.
+";i:494;s:179:"</li><li> A fair amount of evidence points to his having been an insignificant figure whose knowledge was dangerous, not he himself. You will not find that in any of the legends.
+";i:495;s:552:"</li></ul></li><li> Aversion: The Ottoman Sultan Mehmet II (the guy who took Constantinople) realized that having siblings around to challenge the throne was not a good thing for the ruler and the kingdom so he not only recommended fratricide, he legalized it (on a royal level) and put together a framework to deal with troublesome siblings. It was only removed during the later periods of the empire and overall, it is generally considered a success (though it had the unfortunate side-effect of making said siblings mentally unstable and paranoid).
+";i:496;s:17:"</li></ul></div>
+";i:497;s:14:"<p></p><hr />
+";i:498;s:1046:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ManufacturingVictims">Manufacturing Victims</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots">Plots</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ManVersusMachine">Man Versus Machine</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MadwomanInTheAttic">Madwoman in the Attic</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PrisonTropes">Prison Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MightAsWellNotBeInPrisonAtAll">Might As Well Not Be In Prison At All</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:499;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:500;s:10:"<p> </p>
+";i:501;s:10:"<center>
+";i:502;s:2:"
+";i:503;s:24:"<!-- med rectangle -->
+";i:504;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:505;s:33:"<script type='text/javascript'>
+";i:506;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:507;s:11:"</script>
+";i:508;s:8:"</div>
+";i:509;s:2:"
+";i:510;s:11:"</center>
+";i:511;s:24:"</td><!-- wikibody -->
+";i:512;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:513;s:7:"</td>
+";i:514;s:7:"</tr>
+";i:515;s:10:"</table>
+";i:516;s:22:"<!--PageFooterFmt-->
+";i:517;s:77:"<div class="alt_title" style="font-size:x-small;text-align:center;" ></div>
+";i:518;s:10:"<center>
+";i:519;s:44:"<table style="width:606px;margin:0 auto;">
+";i:520;s:7:"	<tr>
+";i:521;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:522;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:523;s:265:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ManInTheIronMask?action=edit'> edit page</a></div></div></td>
+";i:524;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:525;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:526;s:8:"	</tr>
+";i:527;s:10:"</table>
+";i:528;s:11:"</center>
+";i:529;s:21:"<div id='wikifoot'>
+";i:530;s:27:"    <div class='footnav'>
+";i:531;s:2:"
+";i:532;s:14:"			 <center>
+";i:533;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:534;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:535;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:536;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:537;s:15:"				</center>
+";i:538;s:2:"
+";i:539;s:29:"    </div><!-- wikifoot -->
+";i:540;s:23:"<!--/PageFooterFmt-->
+";i:541;s:12:"37546<br/>
+";i:542;s:3:"2
+";i:543;s:8:"</div>
+";i:544;s:26:"</div><!-- container -->
+";i:545;s:2:"
+";i:546;s:9:"</body>
+";i:547;s:21:"<!--ScriptInsert-->
+";i:548;s:9:"</html>
+";}}

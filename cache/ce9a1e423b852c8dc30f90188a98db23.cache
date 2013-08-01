@@ -1,0 +1,541 @@
+a:2:{i:0;i:1377889789;i:1;a:540:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:73:"<title>Stuffed Into A Locker - Television Tropes &amp; Idioms  </title>
+";i:5;s:139:"<meta name="Description" content="The Stuffed Into A Locker trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:2:"
+";i:25;s:10:"</style>
+";i:26;s:2:"
+";i:27;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:28;s:33:"<script type="text/javascript">
+";i:29;s:26:"  var _gaq = _gaq || [];
+";i:30;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:31;s:34:"  _gaq.push(['_trackPageview']);
+";i:32;s:2:"
+";i:33;s:17:"  (function() {
+";i:34;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:35;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:36;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:37;s:9:"  })();
+";i:38;s:2:"
+";i:39;s:32:"	function subpage(sel, title){
+";i:40;s:4:"		
+";i:41;s:40:"		var namespce = ""+getselection(sel);
+";i:42;s:34:"		if(namespce.trim()=="")return;
+";i:43;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:44;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:45;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:46;s:29:"		window.location.href=url;
+";i:47;s:4:"	}
+";i:48;s:32:"	function p5(groupname,title){
+";i:49;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:50;s:4:"	}
+";i:51;s:27:"	function togglenote(id){
+";i:52;s:23:"		var ele=object(id);
+";i:53;s:34:"		var state = ele.style.display;
+";i:54;s:49:"		if(state=='none') ele.style.display='inline';
+";i:55;s:48:"		if(state=='inline')ele.style.display='none';
+";i:56;s:4:"	}
+";i:57;s:35:"	var googletag = googletag || {};
+";i:58;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:59;s:16:"	(function() {
+";i:60;s:47:"	var gads = document.createElement('script');
+";i:61;s:21:"	gads.async = true;
+";i:62;s:33:"	gads.type = 'text/javascript';
+";i:63;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:64;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:65;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:66;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:67;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:68;s:8:"	})();
+";i:69;s:2:"
+";i:70;s:34:"	googletag.cmd.push(function() {
+";i:71;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:73;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:74;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:75;s:45:"		googletag.pubads().enableSingleRequest();
+";i:76;s:31:"		googletag.enableServices();
+";i:77;s:6:"	});
+";i:78;s:2:"
+";i:79;s:11:"</script>
+";i:80;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:81;s:2:"
+";i:82;s:9:"</head>
+";i:83;s:8:"<body>
+";i:84;s:40:"<div class="container" id="container">
+";i:85;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:86;s:6:"<tr>
+";i:87;s:46:"<td style="width:166px;vertical-align:top;">
+";i:88;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:89;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:90;s:38:"<g:plusone size="small"></g:plusone>
+";i:91;s:2:"
+";i:92;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:93;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:94;s:6:"<ul>
+";i:95;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:96;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:97;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:98;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:99;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:100;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:101;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:102;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:103;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:104;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:105;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:106;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:107;s:7:"</ul>
+";i:108;s:8:"</div>
+";i:109;s:2:"
+";i:110;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:111;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:112;s:2:"
+";i:113;s:189:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','StuffedIntoALocker');">send request</button><hr/></div>
+";i:114;s:2:"
+";i:115;s:330:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="StuffedIntoALocker" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:116;s:2:"
+";i:117;s:51:"<div style="font-size:small;text-align:center;" >
+";i:118;s:30:"Find recent edits by troper:
+";i:119;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:120;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:121;s:8:"</div>
+";i:122;s:7:"<hr/>
+";i:123;s:7:"<ul>	
+";i:124;s:4:"		
+";i:125;s:7:"<hr/>
+";i:126;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:127;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:128;s:67:"		<input type="hidden" name="title" value="StuffedIntoALocker" />
+";i:129;s:54:"		This article needs some moderator assistance with:
+";i:130;s:9:"		<br/>
+";i:131;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:132;s:9:"		<br/>
+";i:133;s:4:"		
+";i:134;s:34:"		<p style="text-align:center;">
+";i:135;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:136;s:8:"		</p>
+";i:137;s:34:"		<p style="text-align:center;">
+";i:138;s:48:"			<input type="submit" value="send report" />
+";i:139;s:8:"		</p>
+";i:140;s:11:"		</form>
+";i:141;s:7:"<hr/>
+";i:142;s:6:"<ul>
+";i:143;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:144;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:145;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:146;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:147;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:148;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:149;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:150;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:151;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:152;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:153;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:154;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:155;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:156;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:157;s:147:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.StuffedIntoALocker'>Referral Count for This Page</a></li>
+";i:158;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:159;s:122:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=StuffedIntoALocker'>Article Relationships</a></li> -->
+";i:160;s:108:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.StuffedIntoALocker'>Folderize</a></li>
+";i:161;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:162;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:163;s:7:"</ul>
+";i:164;s:8:"	<hr/>
+";i:165;s:6:"<ul>
+";i:166;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:167;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:168;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:169;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:170;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:171;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:172;s:7:"</ul>
+";i:173;s:7:"<hr/>
+";i:174;s:2:"
+";i:175;s:8:"</div>
+";i:176;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:177;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:178;s:8:"		<ul>
+";i:179;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:180;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:181;s:9:"		</ul>
+";i:182;s:8:"</div>
+";i:183;s:10:"<center>
+";i:184;s:34:"		<div style="margin-top:4px;">	
+";i:185;s:5:"			
+";i:186;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:187;s:33:"<script type='text/javascript'>
+";i:188;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:189;s:103:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/StuffedIntoALocker");
+";i:190;s:11:"</script>
+";i:191;s:8:"</div>
+";i:192;s:2:"
+";i:193;s:11:"		</div>	
+";i:194;s:10:"		<div>	
+";i:195;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:196;s:6:"		 	
+";i:197;s:4:"		
+";i:198;s:4:"		
+";i:199;s:10:"		</div>
+";i:200;s:211:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/StuffedIntoALocker">Main</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/PlayingWith/StuffedIntoALocker">PlayingWith</a><br/>
+";i:201;s:9:"		<div>
+";i:202;s:10:"		</div>
+";i:203;s:36:"		<div style="font-size:x-small;">
+";i:204;s:11:"				<hr/>
+";i:205;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:206;s:14:"				<p> </p>
+";i:207;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:208;s:13:"				<p></p>
+";i:209;s:11:"				<ul >
+";i:210;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:211;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:212;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:213;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:214;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:215;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:216;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:217;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:219;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:220;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:221;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:222;s:11:"				</li>
+";i:223;s:11:"				</ul>
+";i:224;s:13:"				<p></p>
+";i:225;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:226;s:13:"				<p></p>
+";i:227;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:228;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:229;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:230;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:231;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:232;s:6:"				
+";i:233;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:234;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:235;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:236;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:237;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:238;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:239;s:6:"				
+";i:240;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:241;s:16:"				</li></ul>
+";i:242;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:243;s:13:"				<p></p>
+";i:244;s:11:"				<ul >
+";i:245;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:246;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:247;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:248;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:249;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:250;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:251;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:252;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:253;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:254;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:255;s:6:"				
+";i:256;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:257;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:258;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:259;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:260;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:261;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:262;s:6:"				
+";i:263;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:264;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:265;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:266;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:268;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:269;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:270;s:11:"				</li>
+";i:271;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:272;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:273;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:274;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:275;s:6:"				
+";i:276;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:278;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:279;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:280;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:281;s:16:"				</li></ul>
+";i:282;s:6:"				
+";i:283;s:13:"				<p></p>
+";i:284;s:39:"				<strong>Other Categories</strong>
+";i:285;s:13:"				<p></p>
+";i:286;s:10:"				<ul>
+";i:287;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:288;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:289;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:290;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:291;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:292;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:293;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:294;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:295;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:296;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:297;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:298;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:299;s:11:"				</ul>
+";i:300;s:11:"		</div>	
+";i:301;s:11:"</center>
+";i:302;s:2:"
+";i:303;s:30:"</div> <!-- wikileftpage -->
+";i:304;s:7:"</td>
+";i:305;s:20:"<td id='wikibody'>
+";i:306;s:2:"
+";i:307;s:21:"<!--PageTitleFmt-->
+";i:308;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:309;s:12:"    		<tr>
+";i:310;s:38:"    		<td id="wikicmds" align="top">
+";i:311;s:8:"    		
+";i:312;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:313;s:45:"    				<tr style="vertical-align:middle;">
+";i:314;s:31:"    					<td align="center" >
+";i:315;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:316;s:16:"    					</td>
+";i:317;s:15:"    				<td >
+";i:318;s:37:"    					<div style="width:400px;">
+";i:319;s:28:"                  <center>
+";i:320;s:27:"                  <table>
+";i:321;s:24:"                  <tr>
+";i:322;s:24:"                  <td>
+";i:323;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:324;s:27:"                    <div>
+";i:325;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:326;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:327;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:328;s:64:"                      <input type="text" name="q" size="31" />
+";i:329;s:28:"                    </div>
+";i:330;s:27:"                  </form>
+";i:331;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:332;s:25:"                  </td>
+";i:333;s:24:"                  <td>
+";i:334;s:46:"                  <div class="buttonframe" >
+";i:335;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:336;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:337;s:26:"                  </div>
+";i:338;s:25:"                  </div
+";i:339;s:25:"                  </td>
+";i:340;s:25:"                  </tr>
+";i:341;s:28:"                  </table>
+";i:342;s:29:"                  </center>
+";i:343;s:17:"    					</div>
+";i:344;s:15:"    				</td>
+";i:345;s:15:"    				</tr>
+";i:346;s:16:"    		</table>
+";i:347;s:8:"    		
+";i:348;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:349;s:10:"    				
+";i:350;s:27:"    				<tr valign="top">
+";i:351;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:352;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:353;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:354;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:355;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:356;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:357;s:15:"    				</tr>
+";i:358;s:10:"    				
+";i:359;s:10:"    				
+";i:360;s:8:"    		
+";i:361;s:16:"    		</table>
+";i:362;s:8:"    		
+";i:363;s:28:"    		<div id="wikilogo" >
+";i:364;s:16:"    		<center>
+";i:365;s:2:"
+";i:366;s:22:"<!-- leaderboard -->
+";i:367;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:368;s:33:"<script type='text/javascript'>
+";i:369;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:370;s:11:"</script>
+";i:371;s:8:"</div>
+";i:372;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:373;s:28:"    					<tr valign="top">
+";i:374;s:276:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'StuffedIntoALocker');" autocomplete="off"  style="width:50px;"><option> </option><option value="Main">Main</option><option value="PlayingWith">PlayingWith</option></select></td>
+";i:375;s:273:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/StuffedIntoALocker?action=source" >source</a></div></div></td>
+";i:376;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:377;s:274:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.StuffedIntoALocker">history</a></div></div></td>
+";i:378;s:276:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StuffedIntoALocker?action=edit'> edit page</a></div></div></td>
+";i:379;s:272:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/StuffedIntoALocker" >related</a></div></div></td>
+";i:380;s:38:"    							<td valign="middle"></td>
+";i:381;s:16:"    					</tr>
+";i:382;s:18:"    				</table>
+";i:383;s:10:"    				
+";i:384;s:35:"    				<div id="watchmsg"></div>
+";i:385;s:18:"    			</center>
+";i:386;s:13:"    		</td>
+";i:387;s:12:"     </tr>
+";i:388;s:6:"    
+";i:389;s:11:"    	<tr>
+";i:390;s:39:"    		<td id="wikititle" colspan="2">
+";i:391;s:40:"    				<div class="namespacebuttons">
+";i:392;s:969:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments"  style="border-width:2px;border-color:silver;margin-right:2px;" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.StuffedIntoALocker" >&nbsp;Discussion </a></li> <li class="namespace_li PlayingWith" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/PlayingWith/StuffedIntoALocker" class="textcolor">&nbsp;Playing&nbsp;With&nbsp;</a> </li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=StuffedIntoALocker" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/StuffedIntoALocker" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:393;s:16:"    				</div>
+";i:394;s:26:"    				<!--RepairBug-->
+";i:395;s:10:"    				
+";i:396;s:34:"    				<div class='pagetitle'> 
+";i:397;s:48:"    						  <span>Stuffed Into A Locker</span>
+";i:398;s:16:"    				</div>
+";i:399;s:11:"    				 
+";i:400;s:13:"    		</td>
+";i:401;s:12:"    	</tr>
+";i:402;s:10:"</table>
+";i:403;s:2:"
+";i:404;s:16:"<!--PageText-->
+";i:405;s:20:"<div id='wikitext'>
+";i:406;s:321:"<div class="quoteright" style="width:300px;" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DannyPhantom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DannyPhantom'><img src='http://static.tvtropes.org/pmwiki/pub/images/DPLockerStuff.gif' class='embeddedimage' border='0' alt='' /></a></div>
+";i:407;s:258:"<div class="acaptionright" style="width:300px;" > <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ExaggeratedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ExaggeratedTrope'>A little excessive</a>, but you get the idea.</div>
+";i:408;s:709:"<p></p><div class='indent'><strong>Thug 1</strong>: "I think we need to teach yer boyfriend here a little lesson!" <br /><strong>Mark Kant (really Super Dude)</strong>: <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicallyMissingThePoint' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicallyMissingThePoint'>"Well, actually I'm doing quite well in school..."</a> <br /><strong>Thug 2</strong>: <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging'>"Yeah, whaddaya say we do something mean, dangerous, yet visually entertaining to him?"</a> (stuffs him in a washing machine)
+";i:409;s:400:"<div class='indent'>&#8212; <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/AllThat' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/AllThat'>All That</a></em>: <a class='urllink' href='http://www.youtube.com/watch?v=G4Fgdv0cEBc'>Superdude Sketch<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>
+";i:410;s:1167:"</div></div><p></p>A <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DiscreditedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DiscreditedTrope'>Discredited</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HighSchool' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HighSchool'>High School</a> trope that is not disappearing any time soon. Every <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JerkJock' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JerkJock'>Jerk Jock</a> has done it to the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OrdinaryHighSchoolStudent' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OrdinaryHighSchoolStudent'>Ordinary High School Student</a> at least once. Even an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlphaBitch' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlphaBitch'>Alpha Bitch</a> or two has done it to the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NaiveEverygirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NaiveEverygirl'>Naïve Everygirl</a>.
+";i:411;s:935:"<p></p>If this has ever been done in real life, it must have been during a time before schools were as crowded as they are today and lockers were bigger. So writers, who are almost all well into their thirties regardless of the show's target demographic, may have grown up seeing stuff like this. Many still think it's what kids do today. Or perhaps a really old <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HighSchool' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HighSchool'>High School</a> show once did it because the director thought it'd be <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RuleOfFunny' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RuleOfFunny'>funny</a> and everyone else <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FollowTheLeader' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FollowTheLeader'>followed suit</a>. Who knows.
+";i:412;s:371:"<p></p>Chances are, it did happen once or twice, but it could also have originated as a joke, since larger lockers were commonplace in older school buildings. However, today, schools are built to accommodate a higher volume of students, and stacked lockers are more common. Older buildings may still have the larger lockers but these are often ditched during remodeling.
+";i:413;s:291:"<p></p>Not to be confused with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StuffedIntoTheFridge' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StuffedIntoTheFridge'>Stuffed into the Fridge</a>, aside from establishing how much of a jerk/monster the stuffer is.
+";i:414;s:7:"<hr />
+";i:415;s:19:"<h2>Examples:</h2>
+";i:416;s:122:"<p></p><div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:417;s:193:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp;Anime &amp; Manga&nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:418;s:479:"<ul ><li> In an early episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SayonaraZetsubouSensei' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SayonaraZetsubouSensei'>Sayonara, Zetsubou-Sensei</a></em>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Hikikomori' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Hikikomori'>Kiri</a> somehow managed to stuff herself in Nozomu's locker, which seemed to be quite small.
+";i:419;s:339:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InazumaEleven' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InazumaEleven'>Inazuma Eleven</a></em>: Kabeyama tries to hide himself in a locker, so he doesn't have to play a soccer match, but he ends up getting stuck in it due to his large body size.
+";i:420;s:17:"</li></ul></div>
+";i:421;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp;Comic Books&nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:422;s:440:"<ul ><li> This happens in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/AllGhoulsSchool' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/AllGhoulsSchool'>All Ghouls School</a></em>, with the bullies stuffing a freshman into the heroine's locker. This is apparently a regular occurrence, with the bullies keeping track of who has the record for the longest time it take for a freshman to be released.
+";i:423;s:17:"</li></ul></div>
+";i:424;s:180:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp;Film&nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:425;s:726:"<ul ><li> At the beginning of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/LeanOnMe' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/LeanOnMe'>Lean On Me</a></em>, a pair of bullies stuff Thomas Sams into a locker (which is somewhat remarkable in itself, since Sams is rather fat) and walk away. Then, to drive home the point of how much the conditions at East Side High had deteriorated in the 20 years of Joe Clark's absence, a janitor lazily walks down a hall that intersects the hall with Sams' locker while reading a newspaper. Sams is screaming for help, and despite the screams being very audible in the empty hallway (the school day had just ended), the janitor completely ignores them.
+";i:426;s:295:"</li><li> Happens in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SkyHigh' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SkyHigh'>Sky High</a></em>, to the kid who can glow. In fact, the only reason you know he's in the locker is that it's glowing bright green.
+";i:427;s:345:"</li><li> In the slasher films <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/HelloMaryLouPromNightII' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/HelloMaryLouPromNightII'>Hello Mary-Lou: Prom Night II</a></em> and <em>The Guard from Underground</em> characters are stuffed in lockers, then crushed inside them.
+";i:428;s:513:"</li><li> In the film, <em><a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ManOfTheHouse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ManOfTheHouse'>Man Of The House</a></em>, the protagonist meets one of the other kids when said kid is stuffed into a locker while the protagonist does nothing. Never the end of the movie, having bonded, he takes a stand against the bullies. Cut to a shot of the outside of the lockers with the two of them conversing from within the closed lockets.
+";i:429;s:17:"</li></ul></div>
+";i:430;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp;Live Action TV&nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:431;s:298:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SavedByTheBell' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SavedByTheBell'>Saved by the Bell</a></em>, Screech apparently has built a labyrinthine series of secret passages throughout the school lockers.
+";i:432;s:260:"</li><li> Larry Kubiac does this to people who annoy him on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ParkerLewisCantLose' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ParkerLewisCantLose'>Parker Lewis Can't Lose</a></em>.
+";i:433;s:215:"</li><li> Unsurprisingly, this happens a lot to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyMatters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyMatters'>Steve Urkel</a>.
+";i:434;s:189:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BoyMeetsWorld' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BoyMeetsWorld'>Boy Meets World</a></em>
+";i:435;s:270:"<ul ><li> Shawn used this to his advantage and sometimes used the relative privacy of his locker as a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MakeOutPoint' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MakeOutPoint'>Make-Out Point</a>.
+";i:436;s:242:"</li></ul></li><li> Happens several times to Merton on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigWolfOnCampus' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigWolfOnCampus'>Big Wolf on Campus</a></em>.
+";i:437;s:150:"<ul ><li> Once he does it himself to a nerdy demon, and notes how refreshing it is to be on the other side of the "being shoved into a locker" thing.
+";i:438;s:250:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Lost' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Lost'>Lost</a></em>: A flashback in "Cabin Fever" shows that this was done to Locke in high school.
+";i:439;s:519:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NedsDeclassifiedSchoolSurvivalGuide' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NedsDeclassifiedSchoolSurvivalGuide'>Ned's Declassified School Survival Guide</a></em> "Guide to Vice-Principals": Coconut Head is the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RuleOfThree' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RuleOfThree'>third</a> thing Mr. Crubbs removes from Loomer the bully's locker.
+";i:440;s:539:"</li><li> The locker jokes on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCantDoThatOnTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/YouCantDoThatOnTelevision'>You Can't Do That on Television</a></em> aren't really an example, though Lisa once locked Alistair in his locker on purpose, which is closer. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WMG/TimeLord' title='http://tvtropes.org/pmwiki/pmwiki.php/WMG/TimeLord'>He turned it into a TARDIS</a> and threw a party.
+";i:441;s:324:"</li><li> On an episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StrangersWithCandy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StrangersWithCandy'>Strangers with Candy</a></em>, one of Jerri's boyfriends did this to her because he didn't want the other kids seeing them together.
+";i:442;s:303:"</li><li> The first episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer'>Buffy the Vampire Slayer</a></em> has a variant-the guy is stuffed in the locker after he's dead.
+";i:443;s:294:"</li><li> On <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/DegrassiJuniorHigh' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/DegrassiJuniorHigh'>Degrassi Junior High</a></em> it was traditional to stuff students into the broom cupboard rather than a locker.
+";i:444;s:658:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayedForDrama' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayedForDrama'>Played for Drama</a> on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Community' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Community'>Community</a></em>, in which a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JourneyToTheCenterOfTheMind' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JourneyToTheCenterOfTheMind'>Journey to the Center of Abed's Mind</a> ends with Abed's true personality being discovered chained in a locker:
+";i:445;s:398:"<div class='indent'><strong>Abed:</strong> It's where I spent a lot of time in junior high. <br /><strong>Annie:</strong> You think that's where we'd put you? You know that's absurd, right? <br /><strong>Abed:</strong> Well, I'm not stupid. You can see I've increased the square footage; it's a metaphorical locker. It's a place where people like me get put when everyone's finally fed up with us.
+";i:446;s:700:"</div></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperHumanSamuraiSyberSquad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperHumanSamuraiSyberSquad'>Super Human Samurai Syber Squad</a></em>: It happened twice to Malcolm Frink. The first time was at the end of "Que Sera Servo", where Malcolm was taking advantage of the heroes having their personalities altered and they did this to show they were back. In "Mal-Khan-Tent", it wasn't Malcolm himself but Kilokhan in Malcolm's body and Sam and Tanker locked him away until they could find and rescue Malcolm. However, since Malcolm's body was still in the locker when he returned, he felt what's like.
+";i:447;s:17:"</li></ul></div>
+";i:448;s:188:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp;Music Videos&nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:449;s:333:"<ul ><li> Played with in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MyChemicalRomance' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MyChemicalRomance'>My Chemical Romance</a> video for 'I'm Not Okay'; a teen gets shut in the locker, and uses his position to jump out and scare the locker's owner.
+";i:450;s:17:"</li></ul></div>
+";i:451;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp;Video Games&nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:452;s:261:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Bully' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Bully'>Bully</a></em>, this is one of many schoolyard torments Jimmy can deliver upon his fellow students.
+";i:453;s:575:"<ul ><li> Then again, in that game, Jimmy can hide in lockers himself; he does <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging'>comment on how roomy the Bullworth lockers are</a> at times, too. Unsurprisingly, Bullworth has tall lockers, like some old schools. But they <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FridgeLogic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FridgeLogic'>do have only about 61 students</a> in attendance...
+";i:454;s:309:"</li></ul></li><li> Lockers on the cargo ship and big shell in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MetalGearSolid2' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MetalGearSolid2'>Metal Gear Solid 2</a></em> are large enough for Snake and Raiden to hide in.
+";i:455;s:135:"<ul ><li> If you hide in a locker and call up Otacon while playing as Snake, they recount one of Otacon's stuffed-in-a-locker moments.
+";i:456;s:418:"<ul ><li> Parodied, of course, in this <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VGCats' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VGCats'>VG Cats</a></em> <a class='urllink' href='http://www.vgcats.com/comics/images/060717.jpg'>strip<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a><small>&#9674;</small>
+";i:457;s:37:"</li></ul></li></ul></li></ul></div>
+";i:458;s:185:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp;Webcomics&nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:459;s:376:"<ul ><li> Also in <a class='urllink' href='http://the-qlc.com/loserz/go/17'>this strip<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/Loserz' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/Loserz'>Loserz</a></em>.
+";i:460;s:299:"<ul ><li> Also reversed in <a class='urllink' href='http://the-qlc.com/loserz/go/157'>this one<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>, where a <em>bully</em> get a locker stuffed into <em>him</em>. That's gotta hurt.
+";i:461;s:874:"</li></ul></li><li> Referenced (but not depicted) in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWotch' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWotch'>The Wotch</a></em> to justify Robin and Jason's decision not to inform Anne that her personified feminine pride had <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenderBender' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenderBender'>gender bent</a> Tandy Garden High's worst <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JerkJock' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JerkJock'>jerk jocks</a> into four "honest and kind" <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AllGuysWantCheerleaders' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AllGuysWantCheerleaders'>cheerleaders</a>.
+";i:462;s:388:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PennyAndAggie' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PennyAndAggie'>Penny and Aggie</a></em>, <a class='urllink' href='http://www.pennyandaggie.com/index.php?p=829'>here<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>.
+";i:463;s:17:"</li></ul></div>
+";i:464;s:193:"<p></p><div class="folderlabel" onclick="togglefolder('folder7');">&nbsp;&nbsp;&nbsp;&nbsp;Western Animation&nbsp;</div><div id="folder7" class="folder" isfolder="true" style="display:block;">
+";i:465;s:325:"<ul ><li> Similarly, the nerds at Springfield Elementary in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheSimpsons' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheSimpsons'>The Simpsons</a></em> are shown to have a secret clubhouse/base hidden within the lockers.
+";i:466;s:113:"<ul ><li> In another episode, Lisa attempts to find common ground with a bully, only to end up...you guessed it.
+";i:467;s:87:"</li></ul><div class='indent'><strong>Lisa:</strong> How about jazz? Do you like jazz?
+";i:468;s:66:"</div><div class='indent'><strong>Milhouse:</strong> I like jazz.
+";i:469;s:77:"</div><div class='indent'><strong>Lisa:</strong> Milhouse? She got you, too?
+";i:470;s:103:"</div><div class='indent'><strong>Milhouse:</strong> Yeah, but it's not so bad. I'm standing on Ralph.
+";i:471;s:249:"</div><div class='indent'><strong><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDitz' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDitz'>Ralph</a>:</strong> We're a totem pole. <em>(hops up and down chanting)</em>
+";i:472;s:461:"</div></li><li> In an episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CloneHigh' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CloneHigh'>Clone High</a></em>, JFK boasts of stuffing the <em>entire freshman clsss</em> into only ten lockers. And in another episode, Abe, having gone without sleep for almost a week, stuffs <em>himself</em> into a locker (and since Abe was six-foot-four, he was folded like an accordion).
+";i:473;s:555:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/XMenEvolution' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/XMenEvolution'>X-Men: Evolution</a></em> did this in the second episode, with Kitty Pryde as the target. Naturally, this was a setup for her to discover her <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IntangibleMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IntangibleMan'>phasing power</a>, and not coincidentally, run into Avalanche, who was the episode's main villain.
+";i:474;s:628:"</li><li> One of the many ways <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DannyPhantom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DannyPhantom'>Danny Phantom</a>'s</em> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IntangibleMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IntangibleMan'>intangibility</a> power comes in handy. The opening credits even shows him phasing out and stuffing one of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JerkJock' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JerkJock'>Jerk Jocks</a> in.
+";i:475;s:540:"</li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TransformersAnimated' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TransformersAnimated'>Transformers Animated</a></em> episode "Autoboot Camp", Bumblebee was stuffed into a locker by Wasp and Ironhide for getting them in trouble to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DrillSergeantNasty' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DrillSergeantNasty'>Sentinel Minor</a>. Right after removing his legs.
+";i:476;s:325:"</li><li> In an episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KingOfTheHill' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KingOfTheHill'>King of the Hill</a></em>, one student who's been scaring Bobby by sneaking up to him managed to hide inside Bobby's locker for the next scare.
+";i:477;s:427:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheFairlyOddParents' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheFairlyOddParents'>The Fairly Odd Parents</a></em>: In a similar fashion to the above example, Denzel Crocker hid inside Timmy's locker in "Mind Over Magic" for a pop quiz. Francis the bully later shut the locker door to interrupt Crocker's rant about Fairy Godparents.
+";i:478;s:452:"<ul ><li> In "Just Desserts", Timmy wished all meals on the world were desserts. Almost one month later, everyone was overweight except for Mark, who, like all Yugopotamians, only eats healthy food for dessert. The bullies decided to stuff him in the locker because Mark was the only thin one. However, a near-whole month of eating nothing but desserts made the bullies so unhealthy their would-be-victim didn't even need to walk any faster to escape.
+";i:479;s:27:"</li></ul></li></ul></div>
+";i:480;s:188:"<p></p><div class="folderlabel" onclick="togglefolder('folder8');">&nbsp;&nbsp;&nbsp;&nbsp;Web Original&nbsp;</div><div id="folder8" class="folder" isfolder="true" style="display:block;">
+";i:481;s:237:"<ul ><li> Happens with extremely severe consequences in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSagaOfTuck' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSagaOfTuck'>The Saga Of Tuck</a></em>.
+";i:482;s:222:"<ul ><li> Tuck is tiny. And, when he got shoved in the locker, he was <span class="spoiler" title="you can set spoilers visible by default on your profile" > unconscious and slowly dying. He got better, eventually.</span>
+";i:483;s:685:"</li></ul></li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Worm' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Worm'>Worm</a></em>, Taylor had her <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TraumaticSuperpowerAwakening' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TraumaticSuperpowerAwakening'>Traumatic Superpower Awakening</a> when she was stuffed into her locker after <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Squick' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Squick'>it had been filled with used pads and tampons and allowed to ripen over winter break</a>.
+";i:484;s:17:"</li></ul></div>
+";i:485;s:185:"<p></p><div class="folderlabel" onclick="togglefolder('folder9');">&nbsp;&nbsp;&nbsp;&nbsp;Real Life&nbsp;</div><div id="folder9" class="folder" isfolder="true" style="display:block;">
+";i:486;s:212:"<ul ><li> Some full-height lockers had a latch on the inside which would allow anyone this might happen to (regardless of how often it really did happen) to easily escape, presumably after the bullies have left.
+";i:487;s:17:"</li></ul></div>
+";i:488;s:7:"<hr />
+";i:489;s:1583:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/StockShoujoBullyingTactics">Stock Shoujo Bullying Tactics</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes">School Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/StuffedIntoATrashcan">Stuffed Into A Trashcan</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/StuffBlowingUp">Stuff Blowing Up</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices">Narrative Devices</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/StuffedIntoATrashcan">Stuffed Into A Trashcan</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolBullyingIsHarmless">School Bullying Is Harmless</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheBully">The Bully</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/StuffedIntoATrashcan">Stuffed Into A Trashcan</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:490;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:491;s:10:"<p> </p>
+";i:492;s:10:"<center>
+";i:493;s:2:"
+";i:494;s:24:"<!-- med rectangle -->
+";i:495;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:496;s:33:"<script type='text/javascript'>
+";i:497;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:498;s:11:"</script>
+";i:499;s:8:"</div>
+";i:500;s:2:"
+";i:501;s:11:"</center>
+";i:502;s:24:"</td><!-- wikibody -->
+";i:503;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:504;s:7:"</td>
+";i:505;s:7:"</tr>
+";i:506;s:10:"</table>
+";i:507;s:22:"<!--PageFooterFmt-->
+";i:508;s:77:"<div class="alt_title" style="font-size:x-small;text-align:center;" ></div>
+";i:509;s:10:"<center>
+";i:510;s:44:"<table style="width:606px;margin:0 auto;">
+";i:511;s:7:"	<tr>
+";i:512;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:513;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:514;s:267:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StuffedIntoALocker?action=edit'> edit page</a></div></div></td>
+";i:515;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:516;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:517;s:8:"	</tr>
+";i:518;s:10:"</table>
+";i:519;s:11:"</center>
+";i:520;s:21:"<div id='wikifoot'>
+";i:521;s:27:"    <div class='footnav'>
+";i:522;s:2:"
+";i:523;s:14:"			 <center>
+";i:524;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:525;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:526;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:527;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:528;s:15:"				</center>
+";i:529;s:2:"
+";i:530;s:29:"    </div><!-- wikifoot -->
+";i:531;s:23:"<!--/PageFooterFmt-->
+";i:532;s:12:"25154<br/>
+";i:533;s:3:"0
+";i:534;s:8:"</div>
+";i:535;s:26:"</div><!-- container -->
+";i:536;s:2:"
+";i:537;s:9:"</body>
+";i:538;s:21:"<!--ScriptInsert-->
+";i:539;s:9:"</html>
+";}}

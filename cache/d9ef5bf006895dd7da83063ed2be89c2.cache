@@ -1,0 +1,627 @@
+a:2:{i:0;i:1377889790;i:1;a:626:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:68:"<title>Unfazed Everyman - Television Tropes &amp; Idioms  </title>
+";i:5;s:134:"<meta name="Description" content="The Unfazed Everyman trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:2:"
+";i:25;s:10:"</style>
+";i:26;s:2:"
+";i:27;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:28;s:33:"<script type="text/javascript">
+";i:29;s:26:"  var _gaq = _gaq || [];
+";i:30;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:31;s:34:"  _gaq.push(['_trackPageview']);
+";i:32;s:2:"
+";i:33;s:17:"  (function() {
+";i:34;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:35;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:36;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:37;s:9:"  })();
+";i:38;s:2:"
+";i:39;s:32:"	function subpage(sel, title){
+";i:40;s:4:"		
+";i:41;s:40:"		var namespce = ""+getselection(sel);
+";i:42;s:34:"		if(namespce.trim()=="")return;
+";i:43;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:44;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:45;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:46;s:29:"		window.location.href=url;
+";i:47;s:4:"	}
+";i:48;s:32:"	function p5(groupname,title){
+";i:49;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:50;s:4:"	}
+";i:51;s:27:"	function togglenote(id){
+";i:52;s:23:"		var ele=object(id);
+";i:53;s:34:"		var state = ele.style.display;
+";i:54;s:49:"		if(state=='none') ele.style.display='inline';
+";i:55;s:48:"		if(state=='inline')ele.style.display='none';
+";i:56;s:4:"	}
+";i:57;s:35:"	var googletag = googletag || {};
+";i:58;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:59;s:16:"	(function() {
+";i:60;s:47:"	var gads = document.createElement('script');
+";i:61;s:21:"	gads.async = true;
+";i:62;s:33:"	gads.type = 'text/javascript';
+";i:63;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:64;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:65;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:66;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:67;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:68;s:8:"	})();
+";i:69;s:2:"
+";i:70;s:34:"	googletag.cmd.push(function() {
+";i:71;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:73;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:74;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:75;s:45:"		googletag.pubads().enableSingleRequest();
+";i:76;s:31:"		googletag.enableServices();
+";i:77;s:6:"	});
+";i:78;s:2:"
+";i:79;s:11:"</script>
+";i:80;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:81;s:2:"
+";i:82;s:9:"</head>
+";i:83;s:8:"<body>
+";i:84;s:40:"<div class="container" id="container">
+";i:85;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:86;s:6:"<tr>
+";i:87;s:46:"<td style="width:166px;vertical-align:top;">
+";i:88;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:89;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:90;s:38:"<g:plusone size="small"></g:plusone>
+";i:91;s:2:"
+";i:92;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:93;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:94;s:6:"<ul>
+";i:95;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:96;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:97;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:98;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:99;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:100;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:101;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:102;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:103;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:104;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:105;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:106;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:107;s:7:"</ul>
+";i:108;s:8:"</div>
+";i:109;s:2:"
+";i:110;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:111;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:112;s:2:"
+";i:113;s:186:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','UnfazedEveryman');">send request</button><hr/></div>
+";i:114;s:2:"
+";i:115;s:327:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="UnfazedEveryman" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:116;s:2:"
+";i:117;s:51:"<div style="font-size:small;text-align:center;" >
+";i:118;s:30:"Find recent edits by troper:
+";i:119;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:120;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:121;s:8:"</div>
+";i:122;s:7:"<hr/>
+";i:123;s:7:"<ul>	
+";i:124;s:4:"		
+";i:125;s:7:"<hr/>
+";i:126;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:127;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:128;s:64:"		<input type="hidden" name="title" value="UnfazedEveryman" />
+";i:129;s:54:"		This article needs some moderator assistance with:
+";i:130;s:9:"		<br/>
+";i:131;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:132;s:9:"		<br/>
+";i:133;s:4:"		
+";i:134;s:34:"		<p style="text-align:center;">
+";i:135;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:136;s:8:"		</p>
+";i:137;s:34:"		<p style="text-align:center;">
+";i:138;s:48:"			<input type="submit" value="send report" />
+";i:139;s:8:"		</p>
+";i:140;s:11:"		</form>
+";i:141;s:7:"<hr/>
+";i:142;s:6:"<ul>
+";i:143;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:144;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:145;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:146;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:147;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:148;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:149;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:150;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:151;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:152;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:153;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:154;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:155;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:156;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:157;s:144:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.UnfazedEveryman'>Referral Count for This Page</a></li>
+";i:158;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:159;s:119:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=UnfazedEveryman'>Article Relationships</a></li> -->
+";i:160;s:105:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.UnfazedEveryman'>Folderize</a></li>
+";i:161;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:162;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:163;s:7:"</ul>
+";i:164;s:8:"	<hr/>
+";i:165;s:6:"<ul>
+";i:166;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:167;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:168;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:169;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:170;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:171;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:172;s:7:"</ul>
+";i:173;s:7:"<hr/>
+";i:174;s:2:"
+";i:175;s:8:"</div>
+";i:176;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:177;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:178;s:8:"		<ul>
+";i:179;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:180;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:181;s:9:"		</ul>
+";i:182;s:8:"</div>
+";i:183;s:10:"<center>
+";i:184;s:34:"		<div style="margin-top:4px;">	
+";i:185;s:5:"			
+";i:186;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:187;s:33:"<script type='text/javascript'>
+";i:188;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:189;s:100:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/UnfazedEveryman");
+";i:190;s:11:"</script>
+";i:191;s:8:"</div>
+";i:192;s:2:"
+";i:193;s:11:"		</div>	
+";i:194;s:10:"		<div>	
+";i:195;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:196;s:6:"		 	
+";i:197;s:4:"		
+";i:198;s:4:"		
+";i:199;s:10:"		</div>
+";i:200;s:283:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/UnfazedEveryman">Laconic</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/UnfazedEveryman">Main</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Quotes/UnfazedEveryman">Quotes</a><br/>
+";i:201;s:9:"		<div>
+";i:202;s:10:"		</div>
+";i:203;s:36:"		<div style="font-size:x-small;">
+";i:204;s:11:"				<hr/>
+";i:205;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:206;s:14:"				<p> </p>
+";i:207;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:208;s:13:"				<p></p>
+";i:209;s:11:"				<ul >
+";i:210;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:211;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:212;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:213;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:214;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:215;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:216;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:217;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:219;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:220;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:221;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:222;s:11:"				</li>
+";i:223;s:11:"				</ul>
+";i:224;s:13:"				<p></p>
+";i:225;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:226;s:13:"				<p></p>
+";i:227;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:228;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:229;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:230;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:231;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:232;s:6:"				
+";i:233;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:234;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:235;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:236;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:237;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:238;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:239;s:6:"				
+";i:240;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:241;s:16:"				</li></ul>
+";i:242;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:243;s:13:"				<p></p>
+";i:244;s:11:"				<ul >
+";i:245;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:246;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:247;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:248;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:249;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:250;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:251;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:252;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:253;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:254;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:255;s:6:"				
+";i:256;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:257;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:258;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:259;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:260;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:261;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:262;s:6:"				
+";i:263;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:264;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:265;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:266;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:268;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:269;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:270;s:11:"				</li>
+";i:271;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:272;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:273;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:274;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:275;s:6:"				
+";i:276;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:278;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:279;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:280;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:281;s:16:"				</li></ul>
+";i:282;s:6:"				
+";i:283;s:13:"				<p></p>
+";i:284;s:39:"				<strong>Other Categories</strong>
+";i:285;s:13:"				<p></p>
+";i:286;s:10:"				<ul>
+";i:287;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:288;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:289;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:290;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:291;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:292;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:293;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:294;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:295;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:296;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:297;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:298;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:299;s:11:"				</ul>
+";i:300;s:11:"		</div>	
+";i:301;s:11:"</center>
+";i:302;s:2:"
+";i:303;s:30:"</div> <!-- wikileftpage -->
+";i:304;s:7:"</td>
+";i:305;s:20:"<td id='wikibody'>
+";i:306;s:2:"
+";i:307;s:21:"<!--PageTitleFmt-->
+";i:308;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:309;s:12:"    		<tr>
+";i:310;s:38:"    		<td id="wikicmds" align="top">
+";i:311;s:8:"    		
+";i:312;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:313;s:45:"    				<tr style="vertical-align:middle;">
+";i:314;s:31:"    					<td align="center" >
+";i:315;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:316;s:16:"    					</td>
+";i:317;s:15:"    				<td >
+";i:318;s:37:"    					<div style="width:400px;">
+";i:319;s:28:"                  <center>
+";i:320;s:27:"                  <table>
+";i:321;s:24:"                  <tr>
+";i:322;s:24:"                  <td>
+";i:323;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:324;s:27:"                    <div>
+";i:325;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:326;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:327;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:328;s:64:"                      <input type="text" name="q" size="31" />
+";i:329;s:28:"                    </div>
+";i:330;s:27:"                  </form>
+";i:331;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:332;s:25:"                  </td>
+";i:333;s:24:"                  <td>
+";i:334;s:46:"                  <div class="buttonframe" >
+";i:335;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:336;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:337;s:26:"                  </div>
+";i:338;s:25:"                  </div
+";i:339;s:25:"                  </td>
+";i:340;s:25:"                  </tr>
+";i:341;s:28:"                  </table>
+";i:342;s:29:"                  </center>
+";i:343;s:17:"    					</div>
+";i:344;s:15:"    				</td>
+";i:345;s:15:"    				</tr>
+";i:346;s:16:"    		</table>
+";i:347;s:8:"    		
+";i:348;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:349;s:10:"    				
+";i:350;s:27:"    				<tr valign="top">
+";i:351;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:352;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:353;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:354;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:355;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:356;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:357;s:15:"    				</tr>
+";i:358;s:10:"    				
+";i:359;s:10:"    				
+";i:360;s:8:"    		
+";i:361;s:16:"    		</table>
+";i:362;s:8:"    		
+";i:363;s:28:"    		<div id="wikilogo" >
+";i:364;s:16:"    		<center>
+";i:365;s:2:"
+";i:366;s:22:"<!-- leaderboard -->
+";i:367;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:368;s:33:"<script type='text/javascript'>
+";i:369;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:370;s:11:"</script>
+";i:371;s:8:"</div>
+";i:372;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:373;s:28:"    					<tr valign="top">
+";i:374;s:303:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'UnfazedEveryman');" autocomplete="off"  style="width:50px;"><option> </option><option value="Laconic">Laconic</option><option value="Main">Main</option><option value="Quotes">Quotes</option></select></td>
+";i:375;s:270:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/UnfazedEveryman?action=source" >source</a></div></div></td>
+";i:376;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:377;s:271:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.UnfazedEveryman">history</a></div></div></td>
+";i:378;s:273:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnfazedEveryman?action=edit'> edit page</a></div></div></td>
+";i:379;s:269:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/UnfazedEveryman" >related</a></div></div></td>
+";i:380;s:38:"    							<td valign="middle"></td>
+";i:381;s:16:"    					</tr>
+";i:382;s:18:"    				</table>
+";i:383;s:10:"    				
+";i:384;s:35:"    				<div id="watchmsg"></div>
+";i:385;s:18:"    			</center>
+";i:386;s:13:"    		</td>
+";i:387;s:12:"     </tr>
+";i:388;s:6:"    
+";i:389;s:11:"    	<tr>
+";i:390;s:39:"    		<td id="wikititle" colspan="2">
+";i:391;s:40:"    				<div class="namespacebuttons">
+";i:392;s:1152:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments"  style="border-width:2px;border-color:silver;margin-right:2px;" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.UnfazedEveryman" >&nbsp;Discussion </a></li> <li class="namespace_li Quotes" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Quotes/UnfazedEveryman" class="textcolor">&nbsp;Quotes&nbsp;</a> </li> <li class="namespace_li Laconic" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/UnfazedEveryman" class="textcolor">&nbsp;Laconic&nbsp;</a> </li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=UnfazedEveryman" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/UnfazedEveryman" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:393;s:16:"    				</div>
+";i:394;s:26:"    				<!--RepairBug-->
+";i:395;s:10:"    				
+";i:396;s:34:"    				<div class='pagetitle'> 
+";i:397;s:43:"    						  <span>Unfazed Everyman</span>
+";i:398;s:16:"    				</div>
+";i:399;s:11:"    				 
+";i:400;s:13:"    		</td>
+";i:401;s:12:"    	</tr>
+";i:402;s:10:"</table>
+";i:403;s:2:"
+";i:404;s:16:"<!--PageText-->
+";i:405;s:20:"<div id='wikitext'>
+";i:406;s:383:"<div class="quoteright" style="width:180px;" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheHitchhikersGuideToTheGalaxy' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheHitchhikersGuideToTheGalaxy'><img src='http://static.tvtropes.org/pmwiki/pub/images/arthur_dent_on_the_orther_side_3864.jpg' class='embeddedimage' border='0' alt='' /></a></div>
+";i:407;s:242:"<div class="acaptionright" style="width:180px;" >Another day, another robot. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpotOfTea' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpotOfTea'>Tea, anyone?</a></div>
+";i:408;s:167:"<p></p><div class='indent'><em>"No, I'm very ordinary... but, some very strange things have happened to me. You could say I'm more differed from than differing."</em>
+";i:409;s:318:"<div class='indent'>&#8212; <strong>Arthur Dent</strong>, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheRestaurantAtTheEndOfTheUniverse' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheRestaurantAtTheEndOfTheUniverse'>The Restaurant at the End of the Universe</a></em>.
+";i:410;s:1361:"</div></div><p></p>A specific type of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TokenHuman' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TokenHuman'>Token Human</a>, The Unfazed Everyman is an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Muggle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Muggle'>ordinary human</a> with no special powers, who happens to hang around with aliens, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeTravel' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeTravel'>time travellers</a>, espers or wizards, and assorted other weirdos. Unlike <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InnocentBystander' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InnocentBystander'>most of</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Muggles' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Muggles'>their kind</a> for whom such oddbods are <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InvisibleToNormals' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InvisibleToNormals'>invisible</a>, Unfazed Everymen have a great capacity to cope with and <em>accept</em> the incomprehensible wackiness that surrounds them; in many cases with a wise and rational demeanor.
+";i:411;s:1898:"Generally, they are in there so that the audience has <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AudienceSurrogate' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AudienceSurrogate'>somebody to relate to</a>. Commonly the main character, and may be a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FishOutOfWater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FishOutOfWater'>Fish out of Water</a> or/and an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnluckyEverydude' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnluckyEverydude'>Unlucky Everydude</a>. May or may not be <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThisLoserIsYou' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThisLoserIsYou'>played up as a loser</a>. They've probably been dragged into this by a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MagneticPlotDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MagneticPlotDevice'>Magnetic Plot Device</a>, and usually <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SeenItAll' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SeenItAll'>end up so blasé</a> that everything they see only causes a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DullSurprise' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DullSurprise'>Dull Surprise</a> at most. Heck, they might even rise to the ranks of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy'>Genre Savvy</a> if they've experienced enough (see below). Expect them to become <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PalsWithJesus' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PalsWithJesus'>Pals With Jesus</a>.
+";i:412;s:2190:"<p></p>Compare <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassNormal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassNormal'>Badass Normal</a>, a person whose lack of superpowers doesn't get in the way of kicking evil ass; <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OrdinaryHighSchoolStudent' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OrdinaryHighSchoolStudent'>Ordinary High School Student</a>, who may look like this in the beginning, but eventually is revealed to be another thing; <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperpowerSillyPutty' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperpowerSillyPutty'>Superpower Silly Putty</a>, who is actively affected in weird ways by the strangeness around him; and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEveryman' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEveryman'>The Everyman</a>, who is like this trope but with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FlatCharacter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FlatCharacter'>less personality</a>. Contrast <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnlySaneMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnlySaneMan'>Only Sane Man</a>, who loudly insists that none of this can possibly be happening. Compare <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicBystander' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicBystander'>Heroic Bystander</a>, who despite his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatMeasureIsANonSuper' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatMeasureIsANonSuper'>lack of powers</a> actually <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FightingForSurvival' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FightingForSurvival'>manages to help,</a> and the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionSurvivor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionSurvivor'>Action Survivor</a>.
+";i:413;s:1060:"<p></p>The ever so rare <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterDevelopment' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterDevelopment'>evolved</a></em> Unfazed Everyman is one who has become <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy'>Genre Savvy</a> and is one of the most formidable forces ever. They're not "bound" by the rules of being in any of the other groups and can follow or break the rules of genre to their benefit. In many ways, this is <em>better</em> than just being a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassNormal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassNormal'>Badass Normal</a> (unless you are in a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrapsackWorld' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrapsackWorld'>Crapsack World</a> where knowing the rules doesn't mean you can change anything.)
+";i:414;s:442:"<p></p>If they are a protagonist, they tend to be Muggle Weight on the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperWeight' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperWeight'>Super Weight</a> scale. If they join a team, they are <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheTeamNormal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheTeamNormal'>The Team Normal</a>.
+";i:415;s:1385:"<p></p>See also <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WeirdnessMagnet' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WeirdnessMagnet'>Weirdness Magnet</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWatson' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWatson'>The Watson</a>. <span class="notelabel" onclick="togglenote('note0260n');"><sup>note&nbsp;</sup></span><span id="note0260n" class="inlinefolder" isnote="true" onclick="togglenote('note0260n');" style="cursor:pointer;font-size:smaller;display:none;"> (Coincidentally, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MartinFreeman' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MartinFreeman'>Martin Freeman</a> has played both <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheHitchhikersGuideToTheGalaxy' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheHitchhikersGuideToTheGalaxy'>Arthur Dent</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Sherlock' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Sherlock'>John Watson</a>).</span> Compare <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DidWeJustHaveTeaWithCthulhu' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DidWeJustHaveTeaWithCthulhu'>Did We Just Have Tea with Cthulhu?</a>.
+";i:416;s:7:"<hr />
+";i:417;s:19:"<h2>Examples:</h2>
+";i:418;s:122:"<p></p><div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:419;s:191:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp;Anime and Manga&nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:420;s:1079:"<ul ><li> Kyon from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/LightNovel/HaruhiSuzumiya' title='http://tvtropes.org/pmwiki/pmwiki.php/LightNovel/HaruhiSuzumiya'>Haruhi Suzumiya</a></em>. He does have one thing that sets him apart from everyone else: <span class="spoiler" title="you can set spoilers visible by default on your profile" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TrustPassword' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TrustPassword'>He's John Smith</a></span>. This fact puts him in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassNormal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassNormal'>Badass Normal</a> territory, because it allows him to control Haruhi, Yuki's boss, and almost anyone who knows of Bamboo Leaf Rhapsody. It also explains why Haruhi gravitated towards him: <span class="spoiler" title="you can set spoilers visible by default on your profile" >he's the reason she came to North High to begin with (she just doesn't know it yet)</span>.
+";i:421;s:544:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MahouSenseiNegima' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MahouSenseiNegima'>Mahou Sensei Negima!</a></em>'s Asakura; she's one of the first girls to discover Negi's magical abilities, yet never gained any sort of magic or kung fu abilities of her own until near the end of the series, and it was an emergency situation. Despite that, she was still able to be more or less self-sufficient when she was forced to fend for herself in the Magic World.
+";i:422;s:422:"<ul ><li> Jonny <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BossSubtitles' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BossSubtitles'>"Blazing Rumbling Trucker"</a> Raidein is one in the Magic World arc, being nearly the only non-empowered person in the crew. He helps out Ala Alba purely because he's friends with some of the girls, and takes the whole "saving the world" thing in stride.
+";i:423;s:868:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Bobobobobobobo' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Bobobobobobobo'>Bobobobobobobo</a></em>: Despite the extreme, glass-shattering reactions to her companions' antics most of the time, Beauty has no issue with staying with Bo-bobo and his downright insane group of rebel fighters; in fact, she embraces her life with them with joy. <span class="spoiler" title="you can set spoilers visible by default on your profile" >The end of the sequel manga has her mention that she rejoined Bo-bobo for another adventure, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DistressedDamsel' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DistressedDamsel'>despite the danger</a>, because she had grown to love his insane, comedic lifestyle.</span>
+";i:424;s:222:"</li><li> Nenene Sumiregawa and Drake Anderson from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/ReadOrDie' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/ReadOrDie'>Read or Die</a></em>.
+";i:425;s:521:"</li><li> Kaede from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NininGaShinobuden' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NininGaShinobuden'>Ninin Ga Shinobuden</a></em>. She apparently spends a good chunk of her free time hanging around a ninja mansion despite being an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OrdinaryHighSchoolStudent' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OrdinaryHighSchoolStudent'>Ordinary High School Student</a>.
+";i:426;s:432:"</li><li> Ataru Moroboshi of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UruseiYatsura' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UruseiYatsura'>Urusei Yatsura</a></em>. Though, this might be subverted as time goes on, as he seems to gain an inhuman level of super-speed (whether running away from trouble or running after a woman) and a comic invulnerability that would make Daffy Duck proud.
+";i:427;s:1254:"</li><li> Nabiki Tendo of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RanmaOneHalf' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RanmaOneHalf'>Ranma &frac12;</a></em>. For the most part she's unfazed by the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenderBender' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenderBender'>gender-bending</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShapeShifter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShapeShifter'>shape-shifting</a>, and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MartialArtsAndCrafts' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MartialArtsAndCrafts'>martial arts insanity</a> surrounding her, getting involved only to the degree that she can <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HonestJohnsDealership' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HonestJohnsDealership'>make money</a> from it. Her sister Kasumi is an even better example. She's never even <strike> phased</strike> fazed at the insanity surrounding her family, to the point where she constantly refers to Ranma's various mortal enemies as his "friends."
+";i:428;s:387:"</li><li> Haruhi Fujioka, from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/OuranHighSchoolHostClub' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/OuranHighSchoolHostClub'>Ouran High School Host Club</a></em>, who starts out utterly weirded out by the bishonen antics of the aforementioned club, but gradually learns to cope, even enjoy herself a bit.
+";i:429;s:472:"</li><li> Naru Osaka, from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/SailorMoon' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/SailorMoon'>Sailor Moon</a>,</em> in both senshi and youma knowledge. It rendered her the nickname of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FanNickname' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FanNickname'>Youma Bait</a>; to a lesser extent, Umino fits this trope.
+";i:430;s:988:"</li><li> Kawachi from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/YakitateJapan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/YakitateJapan'>Yakitate!! Japan</a></em> is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CantCatchUp' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CantCatchUp'>an average guy</a> stuck in a world of overly-dramatic bakers who break out <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrazyAwesome' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrazyAwesome'>all sorts of crazy recipes and techniques</a> and get entangled in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SeriousBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SeriousBusiness'>life-or-death</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CookingDuel' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CookingDuel'>bread-making contests</a>.
+";i:431;s:262:"</li><li> Bulma in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/DragonBall' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/DragonBall'>Dragon Ball</a></em>. Krillin and Vegeta's daughters, Marron and Bra respectively, later on.
+";i:432;s:1853:"</li><li> Everyone in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/Pokemon' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/Pokemon'>Pokémon</a></em> anime that follows Ash and Pikachu.<span class="notelabel" onclick="togglenote('note0hh3o');"><sup>*&nbsp;</sup></span><span id="note0hh3o" class="inlinefolder" isnote="true" onclick="togglenote('note0hh3o');" style="cursor:pointer;font-size:smaller;display:none;">Yes, this includes the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TeamRocket' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TeamRocket'>Team Rocket</a> trio</span> This is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEndOfTheWorldAsWeKnowIt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEndOfTheWorldAsWeKnowIt'>especially</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CapturedSuperEntity' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CapturedSuperEntity'>evident</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DidWeJustHaveTeaWithCthulhu' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DidWeJustHaveTeaWithCthulhu'>in the</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PalsWithJesus' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PalsWithJesus'>movies</a>. The Japanese name of the guy from the first <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PokemonBlackAndWhite' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PokemonBlackAndWhite'>Unova</a> Gym that follows Ash (Dent) seems more likely a coincidence than a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging'>Lampshade Hanging</a>, though.
+";i:433;s:438:"</li><li> Played with in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/FullmetalAlchemist' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/FullmetalAlchemist'>Fullmetal Alchemist</a></em> when Ed finds himself surrounded by Homunculi and chimeras and humorously realizes that he, as the only normal human, is the minority, even though it's hard to consider cybernetic limbs and alchemy as <em>normal.</em>
+";i:434;s:932:"</li><li> Tsukune Aono in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RosarioToVampire' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RosarioToVampire'>Rosario + Vampire</a></em> is initially very unnerved upon discovering the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FantasyKitchenSink' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FantasyKitchenSink'>true</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BoardingSchoolOfHorrors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BoardingSchoolOfHorrors'>nature</a> of Youkai Academy, but he adapts quickly (in both senses), makes some friends, and becomes quite comfortable with his new lifestyle. It helps that he's the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnlySaneMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnlySaneMan'>Only Sane Man</a>.
+";i:435;s:583:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnlySaneMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnlySaneMan'>Only Sane Man</a> Furuichi from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Beelzebub' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Beelzebub'>Beelzebub</a></em> eventually becomes one, and gets <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MistakenForBadass' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MistakenForBadass'>Mistaken for Badass</a> as a result.
+";i:436;s:829:"</li><li> Oz from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PandoraHearts' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PandoraHearts'>Pandora Hearts</a></em> takes pride in his ability to accept the oddities he encounters and adapt to them. This manga is one big <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AliceAllusion' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AliceAllusion'>Alice Allusion</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MindScrew' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MindScrew'>Mind Screw</a>, so having that kind of adaptability deserves some applause. <span class="spoiler" title="you can set spoilers visible by default on your profile" > Subverted when his true origins are revealed.</span>
+";i:437;s:903:"</li><li> Kimihito Kurusu of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/DailyLifeWithMonsterGirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/DailyLifeWithMonsterGirl'>Daily Life With Monster Girl</a></em> is surprisingly tolerant of the misfortunes that constantly befall him. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheUnmasquedWorld' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheUnmasquedWorld'>The world HAS gotten used to the existence of</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CuteMonsterGirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CuteMonsterGirl'>monster girls</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FantasticRacism' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FantasticRacism'>(mostly),</a> but good GOD can that man adapt fast.
+";i:438;s:17:"</li></ul></div>
+";i:439;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp;Comic Books&nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:440;s:820:"<ul ><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Batman' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Batman'>Batman</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ServileSnarker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ServileSnarker'>Alfred</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BattleButler' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BattleButler'>Pennyworth</a> is an example of this trope. His duties as butler at Wayne Manor include cooking, cleaning, laundry, tending -the often serious- injuries of the Bat-Family, maintaining crimefighting equipment and sometimes using firearms to defend the Manor and Cave. He does this all without losing his composure, wrecking his suit or missing tea.
+";i:441;s:339:"<ul ><li> Some versions of Alfred's backstory justify his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BattleButler' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BattleButler'>extraordinary competence and composure</a> by making him a former intelligence agent or Marine veteran, and thus less an "everyman".
+";i:442;s:485:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Superman' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Superman'>Superman</a>: <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JimmyOlsen' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JimmyOlsen'>Jimmy Olsen</a>. The city of Metropolis seems to get their superhero-supervillain battle updates after the weather report, so he might not be as unique as he seems...
+";i:443;s:273:"</li><li> Snapper Carr, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JusticeLeagueOfAmerica' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JusticeLeagueOfAmerica'>Justice League of America</a>'s mascot/collective sidekick back in the '60s.
+";i:444;s:61:"<ul ><li> ...and his Marvel Universe equivalent, Rick Jones.
+";i:445;s:303:"</li></ul></li><li> Jeremy Feeple from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NinjaHighSchool' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NinjaHighSchool'>Ninja High School</a></em> is no doubt this, especially considering the weirdness he attracts to himself.
+";i:446;s:786:"</li><li> From his own point of view, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HowardTheDuck' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HowardTheDuck'>Howard the Duck</a> is one of these for the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MarvelUniverse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MarvelUniverse'>Marvel Universe</a>. True, he is an anthropomorphic duck, but he comes from a world where that is normal so living among humans does seem like being surrounded by strange aliens to him. What is more, his attempts at leading a normal, blue collar life are constantly being interrupted by encounters with people who are even considered strange by Earth standards, such as the Man-Thing and the She-Hulk.
+";i:447;s:24:"</li></ul><p></p></div>
+";i:448;s:180:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp;Film&nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:449;s:835:"<ul ><li> Agent John Meyers in the first <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Hellboy' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Hellboy'>Hellboy</a></em> film, an FBI agent who gets transferred to the "nonexistent" Bureau of Paranormal Research and Defense. He's chosen by Professor Bruttenholm specifically to be Hellboy's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheConscience' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheConscience'>conscience and moral helper.</a> Too bad he's <span class="spoiler" title="you can set spoilers visible by default on your profile" > <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PutOnABus' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PutOnABus'>Put on a Bus</a> in the sequel.</span>
+";i:450;s:422:"</li><li> Janine Melnitz from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Ghostbusters' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Ghostbusters'>Ghostbusters</a></em>. She is surrounded by men who hunt ghosts, half of whom are mad scientists. She even has a ghost in a cage close to where she works that the busters keep as a "pet". Not once has she ever batted an eye at any of this.
+";i:451;s:152:"<ul ><li> Winston Zeddmore was this in the first film, casually commenting "As long as there's a steady paycheck in it, I'll believe anything you say."
+";i:452;s:198:"</li></ul></li><li> Dean from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheIronGiant' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheIronGiant'>The Iron Giant</a>.
+";i:453;s:799:"</li><li> The Love Interest from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Red' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Red'>Red</a></em>. Sarah is kidnapped, drugged, shot at, almost blown up, and kidnapped again. She is surrounded by old and young spies, assassins and government agents who are fighting over her life all the time. What does she say when she is confronted with the death sentence or life in prison if she is caught? <span class="spoiler" title="you can set spoilers visible by default on your profile" >"Awesome."</span> And when she finally is?<span class="spoiler" title="you can set spoilers visible by default on your profile" >That her boyfriend will kick the interrogators ass.</span> The movie is full of lines like this from her.
+";i:454;s:280:"<ul ><li> There's a strong indication that Sarah is taking to life with the spies <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LikeAFishTakesToWater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LikeAFishTakesToWater'>Like a Fish Takes to Water</a>.
+";i:455;s:887:"</li></ul></li><li> Kolya Gerasimov (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/AlexeiFomkin' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/AlexeiFomkin'>Alexei Fomkin</a>) in Soviet <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SciFi' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SciFi'>Sci Fi</a> classic <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GuestFromTheFuture' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GuestFromTheFuture'>Guest from the Future</a></em> is an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OrdinaryHighSchoolStudent' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OrdinaryHighSchoolStudent'>Ordinary High School Student</a> who one day accidentally winds up 100 years in the future. He does pretty well, given how confused he is.
+";i:456;s:645:"</li><li> Francesco Dellamorte, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CemeteryMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CemeteryMan'>Cemetery Man</a></em> - for some reason, unbeknownst to both the townsfolk and the audience, all corpses in the Buffalora cemetery reanimate seven days after burial. Despite having no clue as to why this happens, Francesco expresses neither surprise nor concern, and instead dispatches zombies nightly without batting an eyelid. He refuses to inform the authorities of the situation because he does not want the cemetery closed, which would put him out of a job.
+";i:457;s:345:"<ul ><li> "This is my business. They pay me for it." "There comes a moment in life when you realize you know more dead people than living." "Disposing of dead people is a public service, whereas you're in all sorts of trouble if you kill someone while they're still alive." "Hold on a minute Franco - *shoots zombie* - You were saying, Franco."
+";i:458;s:2985:"</li></ul></li><li> In his time, Agent <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PhilCoulson' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PhilCoulson'>Phil Coulson</a> of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MarvelCinematicUniverse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MarvelCinematicUniverse'>Marvel Cinematic Universe</a> meets a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainAmerica' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainAmerica'>Super</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperSoldier' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperSoldier'>Soldier</a>, a guy in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IronMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IronMan'>Powered</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoweredArmor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoweredArmor'>Armor</a>, a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NorseMythology' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NorseMythology'>Norse</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMightyThor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMightyThor'>god</a>, and a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HulkingOut' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HulkingOut'>green</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/IncredibleHulk' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/IncredibleHulk'>rage monster</a> while still remaining a slightly jaded <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker'>Deadpan Snarker</a>. Though he's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheKnightsWhoSaySquee' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheKnightsWhoSaySquee'>a bit less blase</a> about the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperSoldier' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperSoldier'>Super Soldier</a>. For example: He had to recall one of his fellow SHIELD agents, Natasha Romanov, interrupting her in the middle of her <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/YouJustToldMe' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/YouJustToldMe'>unique inter</a><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WoundedGazelleGambit' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WoundedGazelleGambit'>rogation style</a>. She tells him to hold over the phone, while she summarily curb-stomps her captors... while Coulson is on the other end of the line hearing the whole fight and acting as if he's listening to boring hold music.
+";i:459;s:281:"<ul ><li> There's also the janitor played by Harry Dean Stanton who helps out Bruce Banner. Coulson, at least, is a full-fledged secret agent - this guy sees a giant naked green man crash through a warehouse ceiling, and decides to find him some pants once he goes back to normal.
+";i:460;s:680:"</li></ul></li><li> Not alien or fantastical, but Slevin Kedevra in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LuckyNumberSlevin' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LuckyNumberSlevin'>Lucky Number Slevin</a> shortly after the intro gets pulled into the world of mob bosses and hit men (by being mistaken for a dude that owes them a lot of money), but acts completely unfazed by most of his ordeals. Subverted though, <span class="spoiler" title="you can set spoilers visible by default on your profile" > in that he <em>intended</em> for all this to happen, so he could enact his revenge upon the mob bosses who killed his father</span>.
+";i:461;s:612:"</li><li> Not alien or fantastical either, but Keiko Nishi in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheBigHit' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheBigHit'>The Big Hit</a> goes from being a normal everyday heiress to enthusiastic participation in her new boyfriend's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassNormal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassNormal'>high-end assassination</a> business and takes being kidnapped, bounced around in a life-or-death joyride, and other weirdness pretty much in stride.
+";i:462;s:17:"</li></ul></div>
+";i:463;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp;Literature&nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:464;s:184:"<ul ><li> Quinn from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Gone' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Gone'>Gone</a></em>.
+";i:465;s:844:"</li><li> Former <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeNamer' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeNamer'>Trope Namer</a> and current image holder Arthur Dent in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/TheHitchhikersGuideToTheGalaxy' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/TheHitchhikersGuideToTheGalaxy'>The Hitchhiker's Guide to the Galaxy</a></em>. Though he notably <span class="spoiler" title="you can set spoilers visible by default on your profile" >gains the power of <em>Flight</em>, not that it matters since he <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MundaneUtility' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MundaneUtility'>only uses it for sex and eavesdropping on birds</a>.</span>
+";i:466;s:156:"<ul ><li> He is also <em>very</em> good at <span class="spoiler" title="you can set spoilers visible by default on your profile" >making sandwiches</span>.
+";i:467;s:55:"</li><li> And he carries a <em>very</em> useful towel.
+";i:468;s:602:"</li><li> In the original radio series, he progresses to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassNormal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassNormal'>Badass Normal</a> over the course of the Brontital storyline, even holding his own in a firefight with the Footwarriors (granted those guys couldn't run very fast), and by the end he <span class="spoiler" title="you can set spoilers visible by default on your profile" >steals the Heart of Gold with his girlfriend and swears a blood oath against Zaphod to avenge the destruction of Earth.</span>
+";i:469;s:201:"</li><li> He also actually takes some time to actually come into the "coping and rationality" part of the trope. In the movie, he actually comes close to <em>cracking</em> under the weird a few times.
+";i:470;s:177:"</li><li> In the books, he actually decides that he will go mad. And then he does. Although that was due more to loneliness than the weird, the weird still played a major part.
+";i:471;s:809:"</li></ul></li><li> Jason Wood in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/JasonWood' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/JasonWood'>Digital Knight</a></em>. By the end of the book, he has fought, befriended, and had interaction with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OurVampiresAreDifferent' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OurVampiresAreDifferent'>vampires</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OurWerewolvesAreDifferent' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OurWerewolvesAreDifferent'>werewolves</a>, demons, and basilisks. He even <span class="spoiler" title="you can set spoilers visible by default on your profile" >married a witch</span>.
+";i:472;s:38:"</li><li> Jim in <em>Skunk Works</em>
+";i:473;s:320:"</li><li> Kit's older sister Carmela in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/YoungWizards' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/YoungWizards'>Young Wizards</a></em> series, though she's a secondary character who doesn't get much "screen time" until the later books.
+";i:474;s:326:"<ul ><li> <span class="spoiler" title="you can set spoilers visible by default on your profile" >And then she jumps over to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassNormal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassNormal'>Badass Normal</a> with a mail-order death ray.</span>
+";i:475;s:206:"</li></ul></li><li> Richard Mayhew in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Neverwhere' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Neverwhere'>Neverwhere</a></em>
+";i:476;s:767:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OlderThanRadio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OlderThanRadio'>Older Than Radio</a>: Lemuel Gulliver from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/GulliversTravels' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/GulliversTravels'>Gulliver's Travels</a></em>. However, he does eventually crack and end up a broken misanthrope after being rejected by the passionless horse-people in book four, who he <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnreliableNarrator' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnreliableNarrator'>looks up to despite their coldness and talk of genocide</a>.
+";i:477;s:1421:"</li><li> Bella Swan of the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Twilight' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Twilight'>Twilight</a></em> saga. She figured out that Edward wasn't human and then decided that "It doesn't matter". Much to the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemeticMutation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemeticMutation'>chagrin</a> of Edward himself. Since she was <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MarySue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MarySue'>born with a special shield on her mind</a>, that is not revealed till the end and is implied allows her to cope with weird stuff , Edward <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging'>lampshades</a> often enough how her reactions are not human, she might just be <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEveryman' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEveryman'>The Everyman</a>. She also manages to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WeirdnessMagnet' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WeirdnessMagnet'>bump into countless other vampires and werewolves, just because</a>.
+";i:478;s:1417:"</li><li> Bilbo Baggins in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheHobbit' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheHobbit'>The Hobbit</a></em>. He lives in a world well known to contain wizards, dragons, dwarfs and the like, but he, like most hobbits, has spent most of his life comfortably away from all that and is certainly dragged into it. <span class="notelabel" onclick="togglenote('note1y0va');"><sup>note&nbsp;</sup></span><span id="note1y0va" class="inlinefolder" isnote="true" onclick="togglenote('note1y0va');" style="cursor:pointer;font-size:smaller;display:none;">None other than the former trope namer's actor (Martin Freeman, not Simon Jones) has played him in Peter Jackson's film adaptation. Given that Freeman also played <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnfazedEveryman' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnfazedEveryman'>Unfazed Everyman</a> Dr. Watson in the modern-day transposition of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SherlockHolmes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SherlockHolmes'>Sherlock Holmes</a></em>, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Sherlock' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Sherlock'>Sherlock</a></em>, he really is in danger of being typecast.</span>
+";i:479;s:750:"</li><li> The first of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/JohnBrunner' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/JohnBrunner'>John Brunner</a>'s <em>The Traveller in Black</em> stories has a 20th-century Londoner called Bernard Brown find himself, for some reason which is never fully explained, trapped in the stories' setting of a far-distant past where magic still works. He makes his way to the nearest city where he gets treated as a god. <span class="spoiler" title="you can set spoilers visible by default on your profile" > He manages to defeat the <em>real</em> god of a rival city by using the kind of calm and logical approach which the people of his adopted city prize most highly.</span>
+";i:480;s:570:"<ul ><li> It's fairly strongly implied, though never stated explicitly, that the Traveller brings Bernard to the city so that he will do precisely that,<span class="spoiler" title="you can set spoilers visible by default on your profile" > thereby sating a sudden mad desire on behalf of the people of the city to have a god &#8212; any god &#8212; and returning them to their normal level-headed ways</span>. This unexpected change in the city's collective behavior can be interpreted as a move made by the forces of Chaos, but that requires reading between the lines.
+";i:481;s:179:"<ul ><li> It's the explicit granting of a wish to teach a lesson. It's the Traveler's way of dealing with bad situations by being a literal genie to those who ask him for favors.
+";i:482;s:598:"</li></ul></li></ul></li><li> Waldo Butters, in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDresdenFiles' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDresdenFiles'>The Dresden Files</a></em>. Well, he's a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Muggle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Muggle'>muggle</a> who accepts the supernatural easily and hangs around with a powerful wizard who's always getting him into danger... his freakish love for polka might discount him from being considered "normal", exactly.
+";i:483;s:316:"</li><li> Lyra Volfrieds from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/BlackDogs' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/BlackDogs'>Black Dogs</a></em>. Starts out as an unathletic bookworm, wide-eyed and surprised at everything from dog soldiers to lesbians.
+";i:484;s:1305:"</li><li> Rincewind the "Wizzard" of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Discworld' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Discworld'>Discworld</a></em> fame. He is such a bad wizard that if he died, the per capita magical capacity of the Disc would go up. Despite his ineptitude, he has been to hell, heaven, Earth, the dawn of ages, the court of the fabulously rich and good-natured serif Creosote of Klatch, the court of the fabulously rich and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ObliviouslyEvil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ObliviouslyEvil'>Obliviously Evil</a> emperor of Agatea, the abode of an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EldritchAbomination' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EldritchAbomination'>Eldritch Abomination</a>, the Dungeon Dimensions (from which the latter originally came), Death's Domain, and outer space, and not necessarily in that order. Although he <em>is</em> a wizard, and can still, for example, see Octarine (he does not know the time of his death, but that is because his timeline is so screwed up that even <em>Death</em> doesn't know, rather than any incompetence or tendence towards muggledom).
+";i:485;s:778:"</li><li> Newton Pulsifer from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/GoodOmens' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/GoodOmens'>Good Omens</a></em> is a wages clerk turned witch-finder out of desperation for some excitement in his life. He eventually <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BeCarefulWhatYouWishFor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BeCarefulWhatYouWishFor'>gets entangled in all matter of supernatural weirdness</a>, up to and including <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEndOfTheWorldAsWeKnowIt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEndOfTheWorldAsWeKnowIt'>The End of the World as We Know It</a>.
+";i:486;s:483:"</li><li> Daniel in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LonelyWerewolfGirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LonelyWerewolfGirl'>Lonely Werewolf Girl</a></em>. Whether it is an angry werewolf, or an upset fire demon he can be relied upon to have one constant response. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpotOfTea' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpotOfTea'>Spot of Tea</a>?
+";i:487;s:424:"</li><li> Faile in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheWheelOfTime' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheWheelOfTime'>The Wheel of Time</a></em> is introduced as one of these. She gets more nuanced as the series progresses, but she is introduced as a normal person who just gets caught up with a cast of strange characters, much to her initial annoyance.
+";i:488;s:797:"</li><li> Alice in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/AliceInWonderland' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/AliceInWonderland'>Alice in Wonderland</a></em> and <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/AliceInWonderland' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/AliceInWonderland'>Through the Looking Glass</a></em>. Though her adventures regularly give her fairly concrete evidence that she's gone out of her skull, she takes it pretty well, given that her standard reaction is generally along the lines of "Golly, that's unusual", followed by a brief philosophical discussion with said unusual thing about whether or not she's objectively justified in considering it unusual.
+";i:489;s:274:"</li><li> The protagonist of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSubjectSteve' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSubjectSteve'>The Subject Steve</a> pulls this off, despite a lack of supernatural elements in the book.
+";i:490;s:281:"</li><li> Shin-tsu, the protagonist of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheLongingOfShiinaRyo' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheLongingOfShiinaRyo'>The Longing of Shiina Ryo</a>, tries to convince himself of this every day.
+";i:491;s:613:"</li><li> David Wong and John Cheese from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JohnDiesAtTheEnd' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JohnDiesAtTheEnd'>John Dies at the End</a> are Unfazed Everymen who <span class="spoiler" title="you can set spoilers visible by default on your profile" > come into contact with all kinds of weird shit because of the soy sauce and</span> eventually become unaffected and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy'>Genre Savvy</a>.
+";i:492;s:829:"</li><li> George Dorn from the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Illuminatus' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Illuminatus'>Illuminatus!</a></em>-trilogy definately qualifies: he gets recruited to the League of Dynamic Discord implicitly due to this quality, and promptly sent to deal with the International Crime Syndicate for a job vital to the safety of the human race after being member only for a day or two, and only getting a brief explanation for the goals and history of the organization. Though it's not directly stated, it's implied that Hagbard Celine does this because he wants a person who's mostly free even from the Discordian preconceptions to be his representative. In fact most people in the Discordian organizations are like this when they first join.
+";i:493;s:712:"</li><li> Kamele Waitley from the later <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/LiadenUniverse' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/LiadenUniverse'>Liaden Universe</a> books by Sharon Lee &amp; Steve Miller, who over the course of knowing Professor Jen Sar Kiladi goes from being a naive, cloistered ivory-tower academic (<em>Fledgling</em>, <em>Saltation</em>) to <span class="spoiler" title="you can set spoilers visible by default on your profile" >setting out to "rescue" Kiladi from Clan Korval but ending up rescuing <em>herself</em> from the machinations of the Department of the Interior instead</span> (<em>Ghost Ship</em>, <em>Dragon Ship</em>).
+";i:494;s:525:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Coraline' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Coraline'>Coraline</a> is an Unfazed Everygirl; admittedly, she does get scared (as who wouldn't) by things like a demonic "Other Mother" attempting to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EyeScream' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EyeScream'>replace her eyes with buttons</a>, but she always maintains a calm, even tone.
+";i:495;s:17:"</li></ul></div>
+";i:496;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp;Live Action TV&nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:497;s:289:"<ul ><li> Many of The Doctor's companions in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho'>Doctor Who</a></em>. Ten, who loves pop culture, notably considers Arthur Dent a "nice chap".
+";i:498;s:282:"<ul ><li> It has been lampshaded (in a rather dark way) that being one of The Doctor's companions turns you into a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassNormal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassNormal'>Badass Normal</a>.
+";i:499;s:203:"</li><li> One of the stand-out moments being in "Delta and the Bannermen". After an initial shriek of fright, Mel is seen nonchalantly sharing her room with Delta and her newly-hatched green alien baby.
+";i:500;s:320:"</li><li> Rory Williams really wants to be this trope. By the time he reaches it, however, he's turned into a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EmpoweredBadassNormal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EmpoweredBadassNormal'>Empowered Badass Normal</a> in the process.
+";i:501;s:199:"<ul ><li> His dad however, is. Brian Williams gets picked up by the Doctor by accident, and of course is a little miffed at first. After that, he goes along with the Doctor not questioning anything.
+";i:502;s:339:"</li></ul></li><li> Gwen Cooper in series 1 of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Torchwood' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Torchwood'>Torchwood</a></em>, and her husband Rhys Williams from series 2. In season 4, Gwen scares a CIA agent by being rather unfazed after a battle.
+";i:503;s:385:"</li></ul></li><li> Marilyn in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMunsters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMunsters'>The Munsters</a></em>. Of course, Marilyn has the distinct advantage of being raised by, well, monsters. She believes that monsters are completely normal, and that <em>she's</em> the freak of the family.
+";i:504;s:1038:"</li><li> John Watson from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Sherlock' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Sherlock'>Sherlock</a></em>. Yeah, every now and again his military and medical expertise comes in handy, but he's usually just a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassNormal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassNormal'>Badass Normal</a> doctor; yet, he willingly follows along on bizarre and dangerous cases, and is probably the only person in the world who not only tolerates the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NightmareFetishist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NightmareFetishist'>Nightmare Fetishist</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InsufferableGenius' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InsufferableGenius'>Insufferable Genius</a> that is Sherlock Holmes, but also considers him his best friend.
+";i:505;s:1052:"</li><li> John Crichton in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Farscape' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Farscape'>Farscape</a></em>, initially, though after a few years of being the universe's punching bag, he becomes <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassNormal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassNormal'>Badass Normal</a> on the grounds that whatever doesn't kill you makes you stronger. He may qualify as an evolved Unfazed Everyman after <span class="spoiler" title="you can set spoilers visible by default on your profile" >the Ancients unlock the wormhole knowledge in his brain. Though not Genre Savviness, wormhole technology is apparently the most powerful tool available to the the major characters.</span> By the end of the miniseries, he creates <span class="spoiler" title="you can set spoilers visible by default on your profile" >an exponentially expanding wormhole capable of destroying the entire Universe.</span>
+";i:506;s:228:"</li><li> Xander in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer'>Buffy the Vampire Slayer</a></em>
+";i:507;s:182:"<ul ><li> Oz also had the potential for this before going all wolfie. His reaction to discovering the existence of the supernatural (though he did react like that to everything...):
+";i:508;s:98:"<div class='indent'><strong>Oz</strong>: Yeah. Hey, did everybody see that guy just turn to dust?
+";i:509;s:75:"</div><div class='indent'><strong>Willow</strong>: Ohhh, well ... sort of.
+";i:510;s:133:"</div><div class='indent'><strong>Xander</strong>: Yep. Vampires are real. A lot of them live in Sunnydale. Willow will fill you in.
+";i:511;s:88:"</div><div class='indent'><strong>Willow</strong>: I know it's hard to accept at first.
+";i:512;s:85:"</div><div class='indent'><strong>Oz</strong>: Actually, it explains a <em>lot</em>.
+";i:513;s:87:"</div></li><li> He has more of a reaction to Willow being with Xander than he does to:
+";i:514;s:129:"<div class='indent'> Helping find Buffy after she was turned into a rat, who then turns out to be naked when she's changed back.
+";i:515;s:85:"</div><div class='indent'> A student who's turned into Mr. Hyde wanting to kill him.
+";i:516;s:68:"</div><div class='indent'> Willow appears to have become a vampire.
+";i:517;s:56:"</div><div class='indent'> Buffy can read his thoughts.
+";i:518;s:575:"</div></li></ul></li><li> Stiles in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/TeenWolf' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/TeenWolf'>Teen Wolf</a></em>. Despite being one of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MuggleBestFriend' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MuggleBestFriend'>only humans</a> in the central group, he's remarkably unfazed by all of the weird stuff around him and at times is even less surprised by supernatural things than the werewolves themselves.
+";i:519;s:119:"<ul ><li> His only complaint about his best friend's werewolf transformations is that they're 'very stressful' on him.
+";i:520;s:107:"</li></ul><div class='indent'><strong>Scott</strong>: I swear, I don’t have the urge to maim and kill you.
+";i:521;s:281:"</div><div class='indent'><strong>Stiles</strong>: You know, you say that now. But then the full moon goes up and out come the fangs and the claws and there’s a lot of howling and screaming and running everywhere, okay? It’s very stressful on me! So yes, I’m still locking you up.
+";i:522;s:258:"</div></li><li> Ando Masahashi from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Heroes' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Heroes'>Heroes</a></em> was one for a while, but eventually he got powers of his own.
+";i:523;s:203:"<ul ><li> HRG's wife and Claire's adoptive mother, Sandra Bennett, seems to have adapted to her daughter having superpowers and her husband being an all-purpose spook rather well, all things considered.
+";i:524;s:208:"</li></ul></li><li> Darren Stevens in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Bewitched' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Bewitched'>Bewitched</a></em>.
+";i:525;s:211:"</li><li> Tony Nelson in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IDreamOfJeannie' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IDreamOfJeannie'>I Dream of Jeannie</a></em>
+";i:526;s:172:"</li><li> Kaoru from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GARO' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GARO'>GARO</a></em>.
+";i:527;s:451:"</li><li> Sheriff Carter from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Eureka' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Eureka'>Eureka</a></em> qualifies for this trope most of the time, though he generally has to rise to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Badass' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Badass'>Badass</a> level by the climax of the episode.
+";i:528;s:295:"</li><li> Harper from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WizardsOfWaverlyPlace' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WizardsOfWaverlyPlace'>Wizards of Waverly Place</a></em> at least after she finds out about the Russo's secret. Also Theresa.
+";i:529;s:569:"</li><li> Frank Lapidus on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Lost' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Lost'>LOST</a></em>, a recurring character introduced in season four (and later made a regular for season six). He doesn't have any connection to the story or mythology, and his only personal problem (being a drunk) was dealt with before he arrived. He's possibly the only normal, well-adjusted person to ever set foot on the Island...and also accepts all the weird crap that happens on it without question.
+";i:530;s:241:"</li><li> Joel from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/MysteryScienceTheater3000' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/MysteryScienceTheater3000'>Mystery Science Theater 3000</a></em>.
+";i:531;s:308:"</li><li> Wendy from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheMiddleman' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheMiddleman'>The Middleman</a></em> was hired for her cynical, snarky attitude and matter-of-fact reactions to things like the eyeball monster.
+";i:532;s:17:"</li></ul></div>
+";i:533;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp;Video Games&nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:534;s:310:"<ul ><li> Johnny Cage is this for the first story mode chapter of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MortalKombat9' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MortalKombat9'>Mortal Kombat 9</a></em>, by way of being the most relatively normal kombatant.
+";i:535;s:652:"</li><li> Derek Badger, unflappable <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OopNorth' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OopNorth'>Yorkshireman</a> and protagonist of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/BenCroshaw' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/BenCroshaw'>Ben Croshaw</a>'s <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Poacher' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Poacher'>Poacher</a></em>. Not even a tumble down the proverbial rabbit hole into a world of spirits and monsters can shake him.
+";i:536;s:723:"</li><li> Dudley from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/StreetFighter' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/StreetFighter'>Street Fighter</a></em> plays the role in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/StreetFighterXTekken' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/StreetFighterXTekken'>Street Fighter X Tekken</a></em>. Elena shows up on his doorstep and tells him that a tree in Dudley's garden has told her about a great danger, so they must go to the South Pole and stop it. Dudley's reaction? It's all right, he'll help her in her quest, as long as he's back home in time for his next boxing match.
+";i:537;s:17:"</li></ul></div>
+";i:538;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp;Web Comics&nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:539;s:570:"<ul ><li> Dad Egbert from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WebComic/Homestuck' title='http://tvtropes.org/pmwiki/pmwiki.php/WebComic/Homestuck'>Homestuck</a></em>. As the only <span class="spoiler" title="you can set spoilers visible by default on your profile" > naturally born human</span> in the comic he was never destined to play a part in Sburb at all. His involvement in the game <span class="spoiler" title="you can set spoilers visible by default on your profile" > and very existence</span> seems to be a complete accident.
+";i:540;s:803:"</li><li> Moloch VonZinzer of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/GirlGenius' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/GirlGenius'>Girl Genius</a></em> is an ordinary mechanic and soldier fallen on hard times, who against his best wishes, keeps getting caught up with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadScientist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadScientist'>Mad Scientists</a> of all flavors, to quote "I've been around way too many sparks!" Even when he <em>tries</em> to stay out of the way ("I'm nobody's happy helper, got it?!"), he's clearly minion material, as he immediately accepts the job of carrying the Sparky heroine's tools and (unwillingly) following her through death traps.
+";i:541;s:393:"<ul ><li> Although sparks have a natural, almost supernatural charisma that makes anyone not <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassNormal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassNormal'>Badass Normal</a> into a willing (or in Moloch's case, unwilling) helper. Especially with Agatha, who is one of the most powerful sparks in the series.
+";i:542;s:567:"</li><li> Airman Higgs at first seemed to be one of these - a common soldier being hauled along after a group of very important people and managing to maintain <em>some</em> degree of detachment. He's actually a subversion, though, as bit by bit he has revealed various superhuman abilities. He is <em>incredibly</em> durable, superhumanly strong and quick personally familiar with Castle Heterodyne, and <span class="spoiler" title="you can set spoilers visible by default on your profile" > may either be connected to the Jagers or actually <em>be</em> one.</span>
+";i:543;s:579:"</li></ul></li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/ElGoonishShive' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/ElGoonishShive'>El Goonish Shive</a></em>, although she <a class='urllink' href='http://www.egscomics.com/?date=2010-04-30'>wants to be in her friends' league<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>, Sarah has been from the start a mostly-ordinary human with a matter-of-fact attitude toward all the weirdness surrounding her.
+";i:544;s:335:"<dl><dd><div class='indent'> <strong>Sarah</strong>: <a class='urllink' href='http://www.egscomics.com/?date=2002-03-20'>Thanks<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>, but I'm really not that cool. I just have some experience with this sort of thing...
+";i:545;s:724:"</div></dd></dl></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/Digger' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/Digger'>Digger</a></em>, of the Ursula Vernon webcomic of the same name, is an anthropomorphic wombat who manages to be an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnfazedEveryman' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnfazedEveryman'>Unfazed Everyman</a> thanks to the sheer weirdness of the rest of the characters. In fact, this is practically Digger's racial superpower: wombats are so sensible and tied to realism rather than faith or magic that they gain a mild immunity from divine/magical/prophetic dealings.
+";i:546;s:1252:"</li><li> Torg and Zoe from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/SluggyFreelance' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/SluggyFreelance'>Sluggy Freelance</a></em> play this role most of the time. True, Torg <em>does</em> have a magic sword, and Zoe's got the cursed tattoo that occasionally turns her into a camel. But compared to the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadScientist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadScientist'>Mad Scientists</a>, witches, Aliens, and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TalkingAnimal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TalkingAnimal'>Talking Animals</a> they hang out with, they're downright mundane (though Torg does occasionally enter <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassNormal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassNormal'>Badass Normal</a> territory, generally by way of being a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrouchingMoronHiddenBadass' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrouchingMoronHiddenBadass'>Crouching Moron, Hidden Badass</a>).
+";i:547;s:563:"</li><li> Bob Smithson in ''<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheInexplicableAdventuresOfBob' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheInexplicableAdventuresOfBob'>The Inexplicable Adventures of Bob!</a>." has been an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnfazedEveryman' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnfazedEveryman'>Unfazed Everyman</a> since the beginning, and has gradually been turning into an Evolved Unfazed Everyman as he becomes more and more capable.
+";i:548;s:492:"</li><li> Susan (Susie) Bell in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IWasKidnappedByLesbianPiratesFromOuterSpace' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IWasKidnappedByLesbianPiratesFromOuterSpace'>I Was Kidnapped by Lesbian Pirates from Outer Space!!!</a>, though <span class="spoiler" title="you can set spoilers visible by default on your profile" >it is revealed that she is a lesbian, despite not being the princess or having antennae.</span>
+";i:549;s:531:"</li><li> Saya and Jason from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/EmergencyExit' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/EmergencyExit'>Emergency Exit</a>. Saya <span class="spoiler" title="you can set spoilers visible by default on your profile" > has a toy laser gun that shoots people</span>, and Jason <span class="spoiler" title="you can set spoilers visible by default on your profile" > grew up in a circus&#8212;which is more handy in combat than you might think.</span>
+";i:550;s:384:"</li><li> Sam of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SamAndFuzzy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SamAndFuzzy'>Sam and Fuzzy</a>. The poor sap is a walking <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WeirdnessMagnet' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WeirdnessMagnet'>Weirdness Magnet</a>.
+";i:551;s:405:"<div class='indent'><strong>Sam</strong>: I was once like you...I had no idea there was an entire world of weird stuff out there. But then, bit by bit, my life got caught up in it. Soon, just dealing with it was practically a full time job! <br /><strong>Devahi</strong>: What did you do? <br /><strong>Sam</strong>: I made dealing with it my full time job. <br /><strong>Fuzzy</strong>: Here's our card!
+";i:552;s:204:"</div></li><li> Ben in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TemplarArizona' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TemplarArizona'>Templar Arizona</a></em>
+";i:553;s:268:"</li><li> Red from <strong><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GirlsInSpace' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GirlsInSpace'>Girls In Space</a></strong> is a normal human, traveling the universe, surrounded by aliens.
+";i:554;s:1037:"</li><li> Marten and his friends in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/QuestionableContent' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/QuestionableContent'>Questionable Content</a></em> seem to be <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WeirdnessMagnet' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WeirdnessMagnet'>Weirdness Magnets</a> getting involved with anything from mating vacuuming robots, to government agents looking to take away <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RobotBuddy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RobotBuddy'>Pintsize</a>, to a Vespa riding vigilante and a parallel world coffee shop. And that's not counting the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WillingSuspensionOfDisbelief' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WillingSuspensionOfDisbelief'>accepted breaks from the world as we know it</a> such as talking small robots.
+";i:555;s:314:"</li><li> Dave in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Narbonic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Narbonic'>Narbonic</a></em>. <span class="spoiler" title="you can set spoilers visible by default on your profile" >At least until he goes mad at the end.</span>
+";i:556;s:940:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicStrip/WhatsNewWithPhilAndDixie' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicStrip/WhatsNewWithPhilAndDixie'>What's New? with Phil and Dixie</a></em> had fun with <a class='urllink' href='http://www.airshipentertainment.com/growfcomic.php?date=20070902'>roleplayers<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> being so <a class='urllink' href='http://www.airshipentertainment.com/growfcomic.php?date=20070909'>jaded<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> one would merely turn into an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AscendedFanboy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AscendedFanboy'>Ascended Fanboy</a> if something weird really happens.
+";i:557;s:126:"<div class='indent'> <strong>A gamer</strong>: (to a big frog alien from whom everyone else flees in panic) Have a nice trip?
+";i:558;s:23:"</div></li></ul></div>
+";i:559;s:193:"<p></p><div class="folderlabel" onclick="togglefolder('folder7');">&nbsp;&nbsp;&nbsp;&nbsp;Western Animation&nbsp;</div><div id="folder7" class="folder" isfolder="true" style="display:block;">
+";i:560;s:689:"<ul ><li> Fry from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Futurama' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Futurama'>Futurama</a></em>, although it takes him a while to cope with the weirdness. Once he does, he realizes that <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CloudCuckooLander' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CloudCuckooLander'>he probably never</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BornInTheWrongCentury' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BornInTheWrongCentury'>really belonged in the 21st Century anyway</a>.
+";i:561;s:298:"<ul ><li> Although the fact that he was <span class="spoiler" title="you can set spoilers visible by default on your profile" > conceived as his own grandfather giving him no delta brainwaves, and deliberately sent into the future by Nibbler specifically because of this</span> may disqualify him.
+";i:562;s:774:"</li></ul></li><li> The humans in all series of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Transformers' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Transformers'>Transformers</a>.</em> They exist to <em>not</em> be awesome next to all of the cool robots. In fact, the most annoying humans have been some of the ones designated to be more equal to the Transformers themselves. Except for <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TransformersAnimated' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TransformersAnimated'>Sari</a>, but she's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RobotGirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RobotGirl'>unusual</a>.
+";i:563;s:500:"<ul ><li> However, the fleshies of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TransformersPrime' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TransformersPrime'>Transformers Prime</a> seem to hold up quite well next to their co-stars, as each has perpetrated his/her fair share of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassNormal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassNormal'>badassery</a>.
+";i:564;s:1236:"</li></ul></li><li> This is how Stan manages to cope living in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SouthPark' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SouthPark'>South Park</a></em>. The entire town is a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WeirdnessMagnet' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WeirdnessMagnet'>Weirdness Magnet</a> and his father is pehaps the most insane in a town of people with multiple personalities, illiterates, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightTemplarParent' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightTemplarParent'>Knight Templar Parent</a>, the son of the devil, a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DepravedBisexual' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DepravedBisexual'>Depraved Bisexual</a> teacher and Eric Cartman. Despite all this, he usually watches on unfazed by what is happening this week other than to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FacePalm' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FacePalm'>hold the bridge of his nose</a>.
+";i:565;s:451:"</li><li> Ben and Gwen Tennyson in the original <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Ben10' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Ben10'>Ben 10</a></em>, pilot episode. In fact they only freak out for a couple minutes, as Ben had turned into a living candle and had accidentally started a forest fire. After Grandpa Max explained that Ben was an alien they calmed down quickly.
+";i:566;s:614:"<ul ><li> Julie Yamamoto in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Ben10AlienForce' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Ben10AlienForce'>Ben 10 Alien Force</a></em>, while she only finds out in the last 5-10 minutes of the episode she found out in. She had caught Ben in his Jet-ray mode and when questioned she said she thought it was "cool". And then she gets a pet that doubles as a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolShip' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolShip'>Cool Ship</a>.
+";i:567;s:610:"</li></ul></li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheFairlyOddparents' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheFairlyOddparents'>The Fairly Oddparents</a></em>, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoorlyDisguisedPilot' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoorlyDisguisedPilot'>Poorly Disguised Pilot</a> for Crash Nebula reveals the eponymous hero was like this once: the only human in an intergalactic school. Once he gets the powerful space suit he begins to get less so.
+";i:568;s:270:"</li><li> Mark from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/UglyAmericans' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/UglyAmericans'>Ugly Americans</a></em> could probably out-Unfaze Everyman Arthur Dent.
+";i:569;s:255:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/JimmyTwoShoes' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/JimmyTwoShoes'>Jimmy Two Shoes</a></em> has the eponymous character in this role.
+";i:570;s:539:"</li><li> Sokka from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AvatarTheLastAirbender' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AvatarTheLastAirbender'>Avatar The Last Airbender</a></em> is this being the only non-bender in the group (before <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionGirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionGirl'>Suki</a> joined mid-season 3) and actually coped quite well thanks to meat and sarcasm.
+";i:571;s:372:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Gargoyles' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Gargoyles'>Gargoyles</a></em> has the father of David Xanaotos, who meets Goliath and Demona before being taken on a time travel trip a thousand years. Dude never even blinks at the crazy stuff he sees.
+";i:572;s:124:"<ul ><li> Elisa counts as well, she's a normal cop in the NYPD who keeps up with the stuff she and the clan are up against.
+";i:573;s:27:"</li></ul></li></ul></div>
+";i:574;s:7:"<hr />
+";i:575;s:1998:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TokenWholesome">Token Wholesome</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/NormalPeople">Normal People</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/UnlikelyHero">Unlikely Hero</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TrenchCoatBrigade">Trench Coat Brigade</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/UrbanFantasyTropes">Urban Fantasy Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/WeirdnessMagnet">Weirdness Magnet</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheUnfavourite">The Unfavourite</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice">Characters as Device</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheUnfettered">The Unfettered</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWisePrince">The Wise Prince</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Heroes">Heroes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/UnlikelyHero">Unlikely Hero</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:576;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:577;s:10:"<p> </p>
+";i:578;s:10:"<center>
+";i:579;s:2:"
+";i:580;s:24:"<!-- med rectangle -->
+";i:581;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:582;s:33:"<script type='text/javascript'>
+";i:583;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:584;s:11:"</script>
+";i:585;s:8:"</div>
+";i:586;s:2:"
+";i:587;s:11:"</center>
+";i:588;s:24:"</td><!-- wikibody -->
+";i:589;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:590;s:7:"</td>
+";i:591;s:7:"</tr>
+";i:592;s:10:"</table>
+";i:593;s:22:"<!--PageFooterFmt-->
+";i:594;s:149:"<div class="alt_title" style="font-size:x-small;text-align:center;" ><b>alternative title(s):</b> The Companion; Arthur Dent; The Arthur Dent</div>
+";i:595;s:10:"<center>
+";i:596;s:44:"<table style="width:606px;margin:0 auto;">
+";i:597;s:7:"	<tr>
+";i:598;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:599;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:600;s:264:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnfazedEveryman?action=edit'> edit page</a></div></div></td>
+";i:601;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:602;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:603;s:8:"	</tr>
+";i:604;s:10:"</table>
+";i:605;s:11:"</center>
+";i:606;s:21:"<div id='wikifoot'>
+";i:607;s:27:"    <div class='footnav'>
+";i:608;s:2:"
+";i:609;s:14:"			 <center>
+";i:610;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:611;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:612;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:613;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:614;s:15:"				</center>
+";i:615;s:2:"
+";i:616;s:29:"    </div><!-- wikifoot -->
+";i:617;s:23:"<!--/PageFooterFmt-->
+";i:618;s:12:"81704<br/>
+";i:619;s:4:"30
+";i:620;s:8:"</div>
+";i:621;s:26:"</div><!-- container -->
+";i:622;s:2:"
+";i:623;s:9:"</body>
+";i:624;s:21:"<!--ScriptInsert-->
+";i:625;s:9:"</html>
+";}}

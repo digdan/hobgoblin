@@ -1,0 +1,567 @@
+a:2:{i:0;i:1377936293;i:1;a:566:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:66:"<title>Pragmatic Hero - Television Tropes &amp; Idioms  </title>
+";i:5;s:132:"<meta name="Description" content="The Pragmatic Hero trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:2:"
+";i:25;s:10:"</style>
+";i:26;s:2:"
+";i:27;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:28;s:33:"<script type="text/javascript">
+";i:29;s:26:"  var _gaq = _gaq || [];
+";i:30;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:31;s:34:"  _gaq.push(['_trackPageview']);
+";i:32;s:2:"
+";i:33;s:17:"  (function() {
+";i:34;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:35;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:36;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:37;s:9:"  })();
+";i:38;s:2:"
+";i:39;s:32:"	function subpage(sel, title){
+";i:40;s:4:"		
+";i:41;s:40:"		var namespce = ""+getselection(sel);
+";i:42;s:34:"		if(namespce.trim()=="")return;
+";i:43;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:44;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:45;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:46;s:29:"		window.location.href=url;
+";i:47;s:4:"	}
+";i:48;s:32:"	function p5(groupname,title){
+";i:49;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:50;s:4:"	}
+";i:51;s:27:"	function togglenote(id){
+";i:52;s:23:"		var ele=object(id);
+";i:53;s:34:"		var state = ele.style.display;
+";i:54;s:49:"		if(state=='none') ele.style.display='inline';
+";i:55;s:48:"		if(state=='inline')ele.style.display='none';
+";i:56;s:4:"	}
+";i:57;s:35:"	var googletag = googletag || {};
+";i:58;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:59;s:16:"	(function() {
+";i:60;s:47:"	var gads = document.createElement('script');
+";i:61;s:21:"	gads.async = true;
+";i:62;s:33:"	gads.type = 'text/javascript';
+";i:63;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:64;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:65;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:66;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:67;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:68;s:8:"	})();
+";i:69;s:2:"
+";i:70;s:34:"	googletag.cmd.push(function() {
+";i:71;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:73;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:74;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:75;s:45:"		googletag.pubads().enableSingleRequest();
+";i:76;s:31:"		googletag.enableServices();
+";i:77;s:6:"	});
+";i:78;s:2:"
+";i:79;s:11:"</script>
+";i:80;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:81;s:2:"
+";i:82;s:9:"</head>
+";i:83;s:8:"<body>
+";i:84;s:40:"<div class="container" id="container">
+";i:85;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:86;s:6:"<tr>
+";i:87;s:46:"<td style="width:166px;vertical-align:top;">
+";i:88;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:89;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:90;s:38:"<g:plusone size="small"></g:plusone>
+";i:91;s:2:"
+";i:92;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:93;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:94;s:6:"<ul>
+";i:95;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:96;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:97;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:98;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:99;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:100;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:101;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:102;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:103;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:104;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:105;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:106;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:107;s:7:"</ul>
+";i:108;s:8:"</div>
+";i:109;s:2:"
+";i:110;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:111;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:112;s:2:"
+";i:113;s:184:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','PragmaticHero');">send request</button><hr/></div>
+";i:114;s:2:"
+";i:115;s:325:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="PragmaticHero" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:116;s:2:"
+";i:117;s:51:"<div style="font-size:small;text-align:center;" >
+";i:118;s:30:"Find recent edits by troper:
+";i:119;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:120;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:121;s:8:"</div>
+";i:122;s:7:"<hr/>
+";i:123;s:7:"<ul>	
+";i:124;s:4:"		
+";i:125;s:7:"<hr/>
+";i:126;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:127;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:128;s:62:"		<input type="hidden" name="title" value="PragmaticHero" />
+";i:129;s:54:"		This article needs some moderator assistance with:
+";i:130;s:9:"		<br/>
+";i:131;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:132;s:9:"		<br/>
+";i:133;s:4:"		
+";i:134;s:34:"		<p style="text-align:center;">
+";i:135;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:136;s:8:"		</p>
+";i:137;s:34:"		<p style="text-align:center;">
+";i:138;s:48:"			<input type="submit" value="send report" />
+";i:139;s:8:"		</p>
+";i:140;s:11:"		</form>
+";i:141;s:7:"<hr/>
+";i:142;s:6:"<ul>
+";i:143;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:144;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:145;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:146;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:147;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:148;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:149;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:150;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:151;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:152;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:153;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:154;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:155;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:156;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:157;s:142:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.PragmaticHero'>Referral Count for This Page</a></li>
+";i:158;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:159;s:117:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=PragmaticHero'>Article Relationships</a></li> -->
+";i:160;s:103:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.PragmaticHero'>Folderize</a></li>
+";i:161;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:162;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:163;s:7:"</ul>
+";i:164;s:8:"	<hr/>
+";i:165;s:6:"<ul>
+";i:166;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:167;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:168;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:169;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:170;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:171;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:172;s:7:"</ul>
+";i:173;s:7:"<hr/>
+";i:174;s:2:"
+";i:175;s:8:"</div>
+";i:176;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:177;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:178;s:8:"		<ul>
+";i:179;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:180;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:181;s:9:"		</ul>
+";i:182;s:8:"</div>
+";i:183;s:10:"<center>
+";i:184;s:34:"		<div style="margin-top:4px;">	
+";i:185;s:5:"			
+";i:186;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:187;s:33:"<script type='text/javascript'>
+";i:188;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:189;s:98:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/PragmaticHero");
+";i:190;s:11:"</script>
+";i:191;s:8:"</div>
+";i:192;s:2:"
+";i:193;s:11:"		</div>	
+";i:194;s:10:"		<div>	
+";i:195;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:196;s:6:"		 	
+";i:197;s:4:"		
+";i:198;s:4:"		
+";i:199;s:10:"		</div>
+";i:200;s:371:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/PragmaticHero">Laconic</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PragmaticHero">Main</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/PlayingWith/PragmaticHero">PlayingWith</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Quotes/PragmaticHero">Quotes</a><br/>
+";i:201;s:9:"		<div>
+";i:202;s:10:"		</div>
+";i:203;s:36:"		<div style="font-size:x-small;">
+";i:204;s:11:"				<hr/>
+";i:205;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:206;s:14:"				<p> </p>
+";i:207;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:208;s:13:"				<p></p>
+";i:209;s:11:"				<ul >
+";i:210;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:211;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:212;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:213;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:214;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:215;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:216;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:217;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:219;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:220;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:221;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:222;s:11:"				</li>
+";i:223;s:11:"				</ul>
+";i:224;s:13:"				<p></p>
+";i:225;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:226;s:13:"				<p></p>
+";i:227;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:228;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:229;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:230;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:231;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:232;s:6:"				
+";i:233;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:234;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:235;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:236;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:237;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:238;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:239;s:6:"				
+";i:240;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:241;s:16:"				</li></ul>
+";i:242;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:243;s:13:"				<p></p>
+";i:244;s:11:"				<ul >
+";i:245;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:246;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:247;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:248;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:249;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:250;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:251;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:252;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:253;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:254;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:255;s:6:"				
+";i:256;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:257;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:258;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:259;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:260;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:261;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:262;s:6:"				
+";i:263;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:264;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:265;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:266;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:268;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:269;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:270;s:11:"				</li>
+";i:271;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:272;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:273;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:274;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:275;s:6:"				
+";i:276;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:278;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:279;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:280;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:281;s:16:"				</li></ul>
+";i:282;s:6:"				
+";i:283;s:13:"				<p></p>
+";i:284;s:39:"				<strong>Other Categories</strong>
+";i:285;s:13:"				<p></p>
+";i:286;s:10:"				<ul>
+";i:287;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:288;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:289;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:290;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:291;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:292;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:293;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:294;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:295;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:296;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:297;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:298;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:299;s:11:"				</ul>
+";i:300;s:11:"		</div>	
+";i:301;s:11:"</center>
+";i:302;s:2:"
+";i:303;s:30:"</div> <!-- wikileftpage -->
+";i:304;s:7:"</td>
+";i:305;s:20:"<td id='wikibody'>
+";i:306;s:2:"
+";i:307;s:21:"<!--PageTitleFmt-->
+";i:308;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:309;s:12:"    		<tr>
+";i:310;s:38:"    		<td id="wikicmds" align="top">
+";i:311;s:8:"    		
+";i:312;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:313;s:45:"    				<tr style="vertical-align:middle;">
+";i:314;s:31:"    					<td align="center" >
+";i:315;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:316;s:16:"    					</td>
+";i:317;s:15:"    				<td >
+";i:318;s:37:"    					<div style="width:400px;">
+";i:319;s:28:"                  <center>
+";i:320;s:27:"                  <table>
+";i:321;s:24:"                  <tr>
+";i:322;s:24:"                  <td>
+";i:323;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:324;s:27:"                    <div>
+";i:325;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:326;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:327;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:328;s:64:"                      <input type="text" name="q" size="31" />
+";i:329;s:28:"                    </div>
+";i:330;s:27:"                  </form>
+";i:331;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:332;s:25:"                  </td>
+";i:333;s:24:"                  <td>
+";i:334;s:46:"                  <div class="buttonframe" >
+";i:335;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:336;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:337;s:26:"                  </div>
+";i:338;s:25:"                  </div
+";i:339;s:25:"                  </td>
+";i:340;s:25:"                  </tr>
+";i:341;s:28:"                  </table>
+";i:342;s:29:"                  </center>
+";i:343;s:17:"    					</div>
+";i:344;s:15:"    				</td>
+";i:345;s:15:"    				</tr>
+";i:346;s:16:"    		</table>
+";i:347;s:8:"    		
+";i:348;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:349;s:10:"    				
+";i:350;s:27:"    				<tr valign="top">
+";i:351;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:352;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:353;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:354;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:355;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:356;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:357;s:15:"    				</tr>
+";i:358;s:10:"    				
+";i:359;s:10:"    				
+";i:360;s:8:"    		
+";i:361;s:16:"    		</table>
+";i:362;s:8:"    		
+";i:363;s:28:"    		<div id="wikilogo" >
+";i:364;s:16:"    		<center>
+";i:365;s:2:"
+";i:366;s:22:"<!-- leaderboard -->
+";i:367;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:368;s:33:"<script type='text/javascript'>
+";i:369;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:370;s:11:"</script>
+";i:371;s:8:"</div>
+";i:372;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:373;s:28:"    					<tr valign="top">
+";i:374;s:349:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'PragmaticHero');" autocomplete="off"  style="width:50px;"><option> </option><option value="Laconic">Laconic</option><option value="Main">Main</option><option value="PlayingWith">PlayingWith</option><option value="Quotes">Quotes</option></select></td>
+";i:375;s:268:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PragmaticHero?action=source" >source</a></div></div></td>
+";i:376;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:377;s:269:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.PragmaticHero">history</a></div></div></td>
+";i:378;s:271:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PragmaticHero?action=edit'> edit page</a></div></div></td>
+";i:379;s:267:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/PragmaticHero" >related</a></div></div></td>
+";i:380;s:38:"    							<td valign="middle"></td>
+";i:381;s:16:"    					</tr>
+";i:382;s:18:"    				</table>
+";i:383;s:10:"    				
+";i:384;s:35:"    				<div id="watchmsg"></div>
+";i:385;s:18:"    			</center>
+";i:386;s:13:"    		</td>
+";i:387;s:12:"     </tr>
+";i:388;s:6:"    
+";i:389;s:11:"    	<tr>
+";i:390;s:39:"    		<td id="wikititle" colspan="2">
+";i:391;s:40:"    				<div class="namespacebuttons">
+";i:392;s:1374:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments"  style="border-width:2px;border-color:silver;margin-right:2px;" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.PragmaticHero" >&nbsp;Discussion </a></li> <li class="namespace_li Quotes" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Quotes/PragmaticHero" class="textcolor">&nbsp;Quotes&nbsp;</a> </li> <li class="namespace_li PlayingWith" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/PlayingWith/PragmaticHero" class="textcolor">&nbsp;Playing&nbsp;With&nbsp;</a> </li> <li class="namespace_li Laconic" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/PragmaticHero" class="textcolor">&nbsp;Laconic&nbsp;</a> </li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=PragmaticHero" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/PragmaticHero" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:393;s:16:"    				</div>
+";i:394;s:26:"    				<!--RepairBug-->
+";i:395;s:10:"    				
+";i:396;s:34:"    				<div class='pagetitle'> 
+";i:397;s:41:"    						  <span>Pragmatic Hero</span>
+";i:398;s:16:"    				</div>
+";i:399;s:11:"    				 
+";i:400;s:13:"    		</td>
+";i:401;s:12:"    	</tr>
+";i:402;s:10:"</table>
+";i:403;s:2:"
+";i:404;s:16:"<!--PageText-->
+";i:405;s:20:"<div id='wikitext'>
+";i:406;s:147:"<div class='indent'><em>The mark of a true hero is somebody who's willing to sacrifice his own personal morality to help keep the world safe.</em>
+";i:407;s:235:"</div><div class='indent'>&#8212;<strong>Tess Mercer</strong>, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Smallville' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Smallville'>Smallville</a></em>
+";i:408;s:1735:"</div><p></p>Most great fictional heroes fall into one of two broad categories: the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IdealHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IdealHero'>Ideal Hero</a>, such as <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheCape' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheCape'>The Cape</a> or a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightInShiningArmor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightInShiningArmor'>Knight in Shining Armor</a> who is pretty much exactly what one would hope for in a hero - skilled, courageous, morally pure, etc., and the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiHero'>Anti-Hero</a>, who lacks one or more qualities normally considered necessary for an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IdealHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IdealHero'>Ideal Hero</a>. For example, a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ClassicalAntiHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ClassicalAntiHero'>Classical Anti-Hero</a> lacks ability or self-confidence. A <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightInSourArmor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightInSourArmor'>Knight in Sour Armor</a> lacks a positive attitude, and a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NominalHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NominalHero'>Nominal Hero</a> lacks morally pure intentions.
+";i:409;s:1138:"<p></p>A <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PragmaticHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PragmaticHero'>Pragmatic Hero</a> lacks the "moral cleanliness" of an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IdealHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IdealHero'>Ideal Hero</a>. When fighting evil, they often commit acts that might seem more characteristic of a villain than a hero. However, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PragmaticHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PragmaticHero'>Pragmatic Heroes</a> have morally good intentions and often hold themselves to strict moral standards&#8212;it's just that those standards aren't always what others might expect from a hero. This type of hero tends to be much more concerned with whatever heroic business the plotline has assigned them than the niceties of proper heroic etiquette. However, with the exception of unintentional mistakes, they will rarely if ever commit a villainous deed that doesn't further the cause of good in a way.
+";i:410;s:1142:"<p></p>This character is one step further toward the dark side of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiHero'>Anti-Hero</a> from the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightInSourArmor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightInSourArmor'>Knight in Sour Armor</a>. Wheras the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightInSourArmor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightInSourArmor'>Knight in Sour Armor</a> complains but does the right thing anyway, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PragmaticHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PragmaticHero'>Pragmatic Hero</a> is more about doing the right thing whether anyone likes it or not, and will shove aside more idealistic heroes who give them a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatTheHellHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatTheHellHero'>What the Hell, Hero?</a> moment.
+";i:411;s:2217:"<p></p>At the end of the day, their justification is typically <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IDidWhatIHadToDo' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IDidWhatIHadToDo'>I Did What I Had to Do</a>, they <em>love</em> giving <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheReasonYouSuckSpeech' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheReasonYouSuckSpeech'>"The Reason You Suck" Speech</a> to a poor <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WideEyedIdealist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WideEyedIdealist'>Wide-Eyed Idealist</a>, and they mostly evolve into <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CynicalMentor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CynicalMentor'>cynical mentors</a>. However, they will never say "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SillyRabbitIdealismIsForKids' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SillyRabbitIdealismIsForKids'>Silly Rabbit, Idealism Is for Kids!</a>". Deep down, they want the best for others, and this character will often be the one to defend a captured minion or fallen hero. Being pragmatic, they also have both the flaws and strengths a more passionate hero lacks, so are less likely to let <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItsPersonal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItsPersonal'>personal</a> or spiteful intentions get in the way of their job. In this sense a Pragmatic Hero usually contrasts a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BloodKnight' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BloodKnight'>Blood Knight</a> or <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeWhoFightsMonsters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeWhoFightsMonsters'>He Who Fights Monsters</a>. Compare <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoodIsNotNice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoodIsNotNice'>Good Is Not Nice</a> if the good ends will have to be met through not-nice means.
+";i:412;s:7:"<hr />
+";i:413;s:19:"<h2>Examples:</h2>
+";i:414;s:122:"<p></p><div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:415;s:192:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp; Anime and Manga&nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:416;s:294:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/CodeGeass' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/CodeGeass'>Code Geass</a></em>' Lelouch falls into this category occasionally, but his desire for revenge often pushes him further down the scale.
+";i:417;s:841:"</li><li> Kiritsugu Emiya from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/LightNovel/FateZero' title='http://tvtropes.org/pmwiki/pmwiki.php/LightNovel/FateZero'>Fate/Zero</a></em> is a Pragmatic Hero of the extreme kind. Originally, he wanted to be "a hero of justice" who would help the weak and needed, but this led him to become an assassin capable of committing many atrocities in his belief is that choosing the smaller sacrifice is always the best outcome, for him sacrificing a hundred people to save a thousand is something that is done with barely a twitch of an eyebrow <span class="spoiler" title="you can set spoilers visible by default on your profile" > down to the point were he killed his own father for messing with vampires, and his trainer and mother figure due to a botched assassination</span>
+";i:418;s:410:"<ul ><li> <span class="spoiler" title="you can set spoilers visible by default on your profile" > To clarify on the 'botched assassination', his trainer was on an airplane full of zombies and bees that would zombify&#8212;irreversibly&#8212;anyone they stung. To allow the plane to land would endanger an entire city or worse. So he blew it up. By all appearances, his trainer approved of the decision.</span>
+";i:419;s:295:"</li><li> Saber accuses Kiritsugu of using the most brutal and dishonorable methods. Kiritsugu turns this around by pointing out that it not only ends the war quickly, it leaves survivors without a taste for the ugliness involved, while chivalry perpetuates war by ennobling and glamorizing it.
+";i:420;s:286:"</li></ul></li><li> Homura Akemi from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PuellaMagiMadokaMagica' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PuellaMagiMadokaMagica'>Puella Magi Madoka Magica</a>, who is willing to do anything to protect Madoka.
+";i:421;s:874:"</li><li> This is ostensibly the role of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Hellsing' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Hellsing'>Vatican Section XIII: Iscariot</a>, to do whatever is necessary to safeguard the Roman Catholic Church and Her people. In practice they sometimes stray into <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BloodKnight' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BloodKnight'>Blood Knight</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightTemplar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightTemplar'>Knight Templar</a> or <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeWhoFightsMonsters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeWhoFightsMonsters'>He Who Fights Monsters</a> territory.
+";i:422;s:1653:"</li><li> Fakir in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/PrincessTutu' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/PrincessTutu'>Princess Tutu</a></em>, to the point that <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WideEyedIdealist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WideEyedIdealist'>Duck</a> (and most of the audience) thinks he's a <em>villain</em> in the first few episodes. He tries to kill the resident <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkMagicalGirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkMagicalGirl'>Dark Magical Girl</a> (and threatens to kill <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MagicalGirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MagicalGirl'>Princess</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnwittingPawn' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnwittingPawn'>Tutu</a>, as well), and his overprotective treatment of Mytho can only be described as emotional abuse (or would be, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EmotionlessBoy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EmotionlessBoy'>if he had any emotions to be abused</a>). However, his only goal is to protect <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWisePrince' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWisePrince'>Mytho</a>, since he feels it's his duty as the Knight, and once his original plans fall through, he teams up with Duck to find another way to help him.
+";i:423;s:17:"</li></ul></div>
+";i:424;s:188:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp; Comic Books&nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:425;s:754:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Wolverine' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Wolverine'>Wolverine</a> is sometimes portrayed as this, for example in the 2013 <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrisisCrossover' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrisisCrossover'>Crisis Crossover</a> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/AgeOfUltron' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/AgeOfUltron'>Age Of Ultron</a></em>, where he <span class="spoiler" title="you can set spoilers visible by default on your profile" > goes back in time and murders Hank Pym before Ultron can be created.</span>
+";i:426;s:17:"</li></ul></div>
+";i:427;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp;Literature&nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:428;s:423:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/HarryPotter' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/HarryPotter'>Harry Potter</a> is constantly breaking the rules and ultimately <span class="spoiler" title="you can set spoilers visible by default on your profile" > uses two out of the three unforgivable curses, and robs a bank</span> to stop Lord Voldemort's schemes.
+";i:429;s:566:"</li><li> Grimble from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LegendOfTheGuardiansTheOwlsOfGaHoole' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LegendOfTheGuardiansTheOwlsOfGaHoole'>Legend Of The Guardians The Owls Of Ga Hoole</a></em> fits here, like some other owls in the series do, by virtue of the high stress they have put on efficiency in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatPragmatist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatPragmatist'>fighting for</a> good.
+";i:430;s:885:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMistsOfAvalon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMistsOfAvalon'>The Mists Of Avalon</a></em>, Vivian may be one, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateCharacterInterpretation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateCharacterInterpretation'>or</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheHighQueen' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheHighQueen'>be</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightTemplar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightTemplar'>anything</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheHero'>else</a>...
+";i:431;s:1021:"</li><li> Edmund Pevensie from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheChroniclesOfNarnia' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheChroniclesOfNarnia'>The Chronicles of Narnia</a></em> is this, especially when compared <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheHero'>to the chivalrous, idealistic Peter</a>. Edmund seems to have a more cold-natured thinking, a sharp mind and logic. He is rarely driven by emotions and is mostly collected and down-to-earth, having an acute sense of justice, going to the point where he becomes unsympathetic towards enemies and downright cruel, as opposed to Peter, who is more impulsive and emotional. This is proven when Peter battles Miraz, because Edmund tells Peter not to be chivalrous and to strike Miraz. The scene suggests that, if Edmund had been in Peter's place, he would not have hesitated and would have killed Miraz in a heartbeat.
+";i:432;s:335:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/WarriorCats' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/WarriorCats'>Warrior Cats</a></em> features violent fight, tough decisions, and cats betraying the warrior's code, but some of the cats implicated do it for the right reasons.
+";i:433;s:690:"</li><li> The good guys in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DavidWeber' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DavidWeber'>David Weber</a>'s <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Safehold' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Safehold'>Safehold</a></em> are clearly good anyhow, but they justify and present their actions and motivations as purely pragmatic moves. Better to be merciful and honorable to defeated enemies so future foes will be more willing to surrender rather than fight to the last, better to treat your people well so they'll be loyal to you in turn, and so on.
+";i:434;s:148:"<ul ><li> frequent remarks are made along the lines of "Isn't it nice when the moral thing to do and the pragmatic thing to do are the same thing?"
+";i:435;s:946:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CiaphasCain' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CiaphasCain'>Ciaphas Cain</a> insists that, contrary to his image, he's an abject coward, and almost always seems to have an explanation as to why a given course of action seemed to best ensure his personal safety. He also tries to complement and be nice to his subordinates, because many a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CowboyCop' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CowboyCop'>Cowboy Cop</a> hard-driving Commissar has been "accidentally" shot by the men he was leading into battle. Note that the series hints that the claims of cowardice aren't always true; there have been plenty of times when he's been unable to come up with a pragmatic explanation, and blames it on shock or injury when it's clear he's acting out of actual caring.
+";i:436;s:829:"</li><li> Joseph Carrion from the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/MediochreQSethSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/MediochreQSethSeries'>Mediochre Q Seth Series</a></em>. Mediochre at least <em>tries</em> to be an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IdealHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IdealHero'>Ideal Hero</a> but <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiHero'>isn't very good at it</a>. Joseph, by contrast, never saw any need to restrict himself to "good" actions in the first place, and is perfectly fine with gunning people down if it's for a good cause and there's no better option available.
+";i:437;s:257:"</li><li> Pretty much all of Mike's followers in John Ringo's <em><a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PalidinofShadows' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PalidinofShadows'>Palidinof Shadows</a></em> series
+";i:438;s:17:"</li></ul></div>
+";i:439;s:195:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp; Live Action Movies&nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:440;s:217:"<ul ><li> The title character of the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/DirtyHarry' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/DirtyHarry'>Dirty Harry</a></em> franchise.
+";i:441;s:661:"</li><li> Some Jedi in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/StarWars' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/StarWars'>Star Wars</a></em> do not object the creation of clones genetically engineered to defend the Republic from the separatists. Then again, they have strongly held ideals, and think the Republic is the best possible regime, but YMMV on whether this is this trope or an isolated case of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UtopiaJustifiesTheMeans' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UtopiaJustifiesTheMeans'>Utopia Justifies the Means</a>.
+";i:442;s:476:"</li><li> Glinda from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheWizardOfOz' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheWizardOfOz'>The Wizard of Oz</a></em> may be this. Though sometimes, people like an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateCharacterInterpretation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateCharacterInterpretation'>Alternate Character Interpretation</a>.
+";i:443;s:463:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JohnWayne' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JohnWayne'>John Wayne</a> played many, many Pragmatic Heroes with guns, who rarely verge on <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnscrupulousHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnscrupulousHero'>Unscrupulous Hero</a>, but can easily be judged a bit <em>too</em> tough.
+";i:444;s:17:"</li></ul></div>
+";i:445;s:191:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp; Live Action TV&nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:446;s:444:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/TwentyFour' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/TwentyFour'>24</a></em>: Jack Bauer is a highly unconventional government agent who won't hesitate to torture his enemies to find out what he wants to know. Given that knowledge may be the only thing standing between the world as we know it and some very bad things, he falls in this category.
+";i:447;s:168:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Angel' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Angel'>Angel</a></em>:
+";i:448;s:331:"<ul ><li> The eponymous character thinks he has to take down the forces of evil by any means, and tries to distance himself from humans because they make him more remorseful, and ultimately, less ruthless. He also joins a dubious organization. Possibly momentarily downplayed when he tries to turn into Angelus, his Enemy Without.
+";i:449;s:292:"</li><li> It becomes a plot point in season 5, when it drives him further and further away of his function of Champion. Eventually, it resulted in the murder of <span class="spoiler" title="you can set spoilers visible by default on your profile" > an innocent champion called Drogyn.</span>
+";i:450;s:1148:"</li><li> A perhaps even <em>larger</em> example of Angel's pragmatic hero complex is in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer'>Buffy the Vampire Slayer</a></em> Season Eight comics. He <span class="spoiler" title="you can set spoilers visible by default on your profile" > adopts the status of a masked figure called Twilight</span> under order of the Powers, intentionally putting himself against <span class="spoiler" title="you can set spoilers visible by default on your profile" > Buffy and supposedly the Slayer organization</span> to keep her focused and alive for the <span class="spoiler" title="you can set spoilers visible by default on your profile" > inevitable Twilight prophecy</span> because he believed Buffy would die, along with the rest of the world. In the end, it resulted in the deaths of <span class="spoiler" title="you can set spoilers visible by default on your profile" > 200 slayers and Buffy's watcher, Giles.</span> Though he <em>was</em> possessed in some areas (Long story ... )
+";i:451;s:572:"</li><li> Wesley also frequently displayed this trope. He <span class="spoiler" title="you can set spoilers visible by default on your profile" > was against rescuing Willow from the Mayor for a box</span>, <span class="spoiler" title="you can set spoilers visible by default on your profile" > tortured a woman in a closet</span> to gain information on Angel's wherabouts and stabbed a <span class="spoiler" title="you can set spoilers visible by default on your profile" > a girl that was getting high off vampire's feeding off her</span> to find out where Angelus was:
+";i:452;s:129:"</li></ul><div class='indent'><strong>Wesley:</strong> "You try not to get anybody killed, you wind up getting everyone killed."
+";i:453;s:272:"</div></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer'>Buffy the Vampire Slayer</a></em>: Giles, later in the series. Buffy avoids this.
+";i:454;s:328:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Camelot' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Camelot'>Camelot</a></em>: Merlin sees himself as this. It is unclear whether he is actually this at the end of the series, but it seems he wants to be this and will succeed later.
+";i:455;s:544:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheCloser' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheCloser'>The Closer</a></em>: Brenda Leigh Johnson is a Pragmatic Hero, verging on the Lawful choice of the dilemma <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ToBeLawfulOrGood' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ToBeLawfulOrGood'>To Be Lawful or Good</a> because she genuinely thinks she has to (but choosing good ultimately, though a rather tough good).
+";i:456;s:181:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho'>Doctor Who</a></em>:
+";i:457;s:676:"<ul ><li> The Doctor is this, <span class="spoiler" title="you can set spoilers visible by default on your profile" > at one point sacrificing a city to prevent the world from being ruled by the villains</span>. However, this tends to vary between incarnation, and sometimes even episodes. In one episode the Doctor will be willing to comment genocide against a destructive race, and in the next he'll be refusing to wipe out the Daleks (AKA, the worst things in the universe). A big theme of the revived series is whether the Doctor is a messianic figure, or whether he's a narcissist hypocrite who looks down on others for not following his high and inconsistent standards.
+";i:458;s:186:"</li><li> Jack Harkness too, although he swings widely between this and Unscrupulous Hero, especially in Torchwood. In Doctor Who proper, he is more often between Disney and Pragmatist.
+";i:459;s:793:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/LawAndOrderSpecialVictimsUnit' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/LawAndOrderSpecialVictimsUnit'>Law & Order: Special Victims Unit</a></em>: Elliot Stabler, possibly. He uses <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IDidWhatIHadToDo' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IDidWhatIHadToDo'>I Did What I Had to Do</a> as a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CatchPhrase' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CatchPhrase'>Catch Phrase</a>, because he is highly moral, but also sometimes too determined in achieving what he thinks are the best results. He has a closure rate of 97%, after all.
+";i:460;s:203:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LegendOfTheSeeker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LegendOfTheSeeker'>Legend of the Seeker</a></em>:
+";i:461;s:51:"<ul ><li> It is explored greatly in this ABC show.
+";i:462;s:1496:"</li><li> First of all, it is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayedStraight' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayedStraight'>Played Straight</a> with the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheFettered' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheFettered'>incorruptible</a> Kahlan. She sacrifices her chances to get her immediate happy ending with the man she loves, her safety and the right to have the normal life she dreams of since so long ago, but can be a bit too extreme, even after her <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveInterest' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveInterest'>Love Interest</a>. For instance, when she learns that <span class="spoiler" title="you can set spoilers visible by default on your profile" > <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItMakesSenseInContext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItMakesSenseInContext'>her baby niece is actually a baby nephew</a>, and discovers he'll be a terrible dictator of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlwaysChaoticEvil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlwaysChaoticEvil'>Always Chaotic Evil</a> men Confessor kind</span>, she initially wants to drown him. She is also ready to kill a dangerous, potentially apocalypse-causing, yet innocent young lady Confessor.
+";i:463;s:645:"</li><li> Zedd seemed to show signs of being this, but it gets <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Subverted' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Subverted'>Subverted</a> when he is willing to get revenge on Panis Rahl while it doesn't help in his quest, nor in his goal, not even helping to fulfill his personal standards, morally or otherwise. Then, it gets <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DoubleSubverted' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DoubleSubverted'>Double Subverted</a>, as he refuses to do so when he realizes how bad it would be.
+";i:464;s:328:"</li><li> It is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayingWithATrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayingWithATrope'>played with</a> with Cara, who behaves like one due to Richard's orders (but it is unclear whether she completely or just partly adopted this mentality).
+";i:465;s:717:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Subverted' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Subverted'>Subverted</a> with Richard, who is supposed to be turned into a Pragmatic Hero by his training but always <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TakesAThirdOption' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TakesAThirdOption'>Takes A Third Option</a>, remaining (depending on your point of view) either a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicArchetype' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicArchetype'>Heroic Archetype</a>, either a hero with shades of type I antihero.
+";i:466;s:1519:"</li><li> It gets <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Deconstructed' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Deconstructed'>Deconstructed</a> for antagonists such as <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TotalitarianUtilitarian' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TotalitarianUtilitarian'>Darken</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BrokenBird' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BrokenBird'>Rahl</a>, <span class="spoiler" title="you can set spoilers visible by default on your profile" > <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UtopiaJustifiesTheMeans' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UtopiaJustifiesTheMeans'>Nicci</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShootTheDog' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShootTheDog'>the first Mother Confessor in the series's run</a>, and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TroubledSympatheticBigot' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TroubledSympatheticBigot'>the Sisters of The Light</a>, except <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TokenGoodTeammate' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TokenGoodTeammate'>Verna</a></span>, who see themselves as this, but unlike Kahlan, Zedd and Cara, refuse Richard's solutions about taking a third option.
+";i:467;s:560:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Medium' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Medium'>Medium</a></em>: The heroine, Alison Dubois, uses death threats, emotional manipulation and horrible phobias to make people get caught by the police, or confess their crimes. Sometimes, she even lets murderers die when they can't get caught. She justifies it by thinking they cause a threat, but is several times seen rejoicing, which is justified again because she has many proofs of the afterlife.
+";i:468;s:1282:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Merlin' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Merlin'>Merlin</a></em>: <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoodIsNotSoft' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoodIsNotSoft'>Merlin</a> from this BBC show could be seen as this. Merlin <span class="spoiler" title="you can set spoilers visible by default on your profile" > <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IDidWhatIHadToDo' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IDidWhatIHadToDo'>poisons the innocent Morgana</a> to save the good future he works for</span>. Gaius encourages him on this way, and they both end up talking about how hard making difficult choices can be, but how it becomes necessary. Morgana is later characterized by her <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DefiedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DefiedTrope'>lack of planning and impulsivity</a>, which cause her to go to great length either to make something way too extreme happen, either to prevent one of this situations realize, until the season 4 premiere, in which she accepts to do an enormous sacrifice.
+";i:469;s:703:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/NCIS' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/NCIS'>NCIS</a></em>: Ziva David was once a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkActionGirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkActionGirl'>Dark Action Girl</a>, who used manipulation and brutal intimidation to save her country. Since officially joining the team and under Gibbs influence she has dialed back to being a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightInSourArmor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightInSourArmor'>Knight in Sour Armor</a>.
+";i:470;s:1457:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Revolution' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Revolution'>Revolution</a></em>: Miles Matheson, thanks to Charlie's influence, goes from Unscrupulous Hero to this type of hero as the series goes on ("<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Recap/RevolutionS1E6SexAndDrugs' title='http://tvtropes.org/pmwiki/pmwiki.php/Recap/RevolutionS1E6SexAndDrugs'>Sex and Drugs</a>", "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Recap/RevolutionS1E7TheChildrensCrusade' title='http://tvtropes.org/pmwiki/pmwiki.php/Recap/RevolutionS1E7TheChildrensCrusade'>The Children's Crusade</a>"). He wants to take down his old friend Sebastian "Bass" Monroe and atone for his misdeeds ("<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Recap/RevolutionS1E3NoQuarter' title='http://tvtropes.org/pmwiki/pmwiki.php/Recap/RevolutionS1E3NoQuarter'>No Quarter</a>"). Still, characters have had to intervene to make sure Miles doesn't go too far ("<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Recap/RevolutionS1E16TheLoveBoat' title='http://tvtropes.org/pmwiki/pmwiki.php/Recap/RevolutionS1E16TheLoveBoat'>The Love Boat</a>", "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Recap/RevolutionS1E18Clue' title='http://tvtropes.org/pmwiki/pmwiki.php/Recap/RevolutionS1E18Clue'>Clue</a>").
+";i:471;s:183:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Smallville' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Smallville'>Smallville</a></em>:
+";i:472;s:498:"<ul ><li> Has <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UtopiaJustifiesTheMeans' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UtopiaJustifiesTheMeans'>Tess</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BecauseDestinySaysSo' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BecauseDestinySaysSo'>Mercer</a>, who defines herself and people who are really heroes, as the people who are ready to do the dirty work for the good of the many.
+";i:473;s:1104:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiHero'>Oliver Queen</a> refuses to adhere to Clark's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThouShallNotKill' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThouShallNotKill'>Thou Shall Not Kill</a> policy pretexting that it prevents him from being this. This argument is possibly used by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MagnificentBastard' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MagnificentBastard'>Lionel</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigGood' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigGood'>Luthor</a>, and all those who wish Clark would at last become more effective and implicated, or who want him to went <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JumpingOffTheSlipperySlope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JumpingOffTheSlipperySlope'>Jumping Off the Slippery Slope</a>.
+";i:474;s:258:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheCutie' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheCutie'>Chloe Sullivan</a> becomes this to protect Clark at one point, but she is guilt-stricken in the afterwhile.
+";i:475;s:27:"</li></ul></li></ul></div>
+";i:476;s:185:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp; Roleplay&nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:477;s:349:"<ul ><li> Elite Agent Rotor in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Roleplay/DinoAttackRPG' title='http://tvtropes.org/pmwiki/pmwiki.php/Roleplay/DinoAttackRPG'>Dino Attack RPG</a> happens to be guilty of multiple war crimes, but he's also fighting to save the world from Mutant Dinosaurs and does a dang good job at it.
+";i:478;s:17:"</li></ul></div>
+";i:479;s:191:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp;Table Top Games&nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:480;s:256:"<ul ><li> In general, this is where the nicer chapters of Space Marines from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarHammer40000' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarHammer40000'>War Hammer 40000</a> fall.
+";i:481;s:17:"</li></ul></div>
+";i:482;s:183:"<p></p><div class="folderlabel" onclick="togglefolder('folder7');">&nbsp;&nbsp;&nbsp;&nbsp;Theater&nbsp;</div><div id="folder7" class="folder" isfolder="true" style="display:block;">
+";i:483;s:754:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/WilliamShakespeare' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/WilliamShakespeare'>Shakespeare's</a> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Theatre/Hamlet' title='http://tvtropes.org/pmwiki/pmwiki.php/Theatre/Hamlet'>Hamlet</a></em> lets his beloved lose hope in their future together to do what he thinks is right, thus qualifying if you <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateCharacterInterpretation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateCharacterInterpretation'>agree that he is doing what is right</a> in fighting against the (possibly) traitor queen and her king.
+";i:484;s:835:"<ul ><li> Macbeth in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Theatre/Macbeth' title='http://tvtropes.org/pmwiki/pmwiki.php/Theatre/Macbeth'>Macbeth</a></em> was probably one (some see him as a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkerAndEdgier' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkerAndEdgier'>Darker and Edgier</a> version of Brutus from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Theatre/JuliusCaesar' title='http://tvtropes.org/pmwiki/pmwiki.php/Theatre/JuliusCaesar'>Julius Caesar</a>, as he wanted to promote non-hereditary monarchy) before <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LadyMacbeth' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LadyMacbeth'>his wife</a> tried to mend his ways...
+";i:485;s:27:"</li></ul></li></ul></div>
+";i:486;s:180:"<p></p><div class="folderlabel" onclick="togglefolder('folder8');">&nbsp;&nbsp;&nbsp;&nbsp;Toys&nbsp;</div><div id="folder8" class="folder" isfolder="true" style="display:block;">
+";i:487;s:1779:"<ul ><li> Prowl in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/TransformersGeneration1' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/TransformersGeneration1'>Transformers Generation 1</a></em> is often portrayed this way in contrast to the rest of the Autobots tending to be far more idealistic. How far it goes ranges from him just being <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSpock' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSpock'>The Spock</a> in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheTransformers' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheTransformers'>the original cartoon</a>, to being kind of a dick in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/TheTransformers' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/TheTransformers'>the original comics</a>, to being a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WellIntentionedExtremist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WellIntentionedExtremist'>Well-Intentioned Extremist</a> in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/TheTransformersIDW' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/TheTransformersIDW'>some</a> of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/TransformersLastStandOfTheWreckers' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/TransformersLastStandOfTheWreckers'>the</a> recent <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/TransformersRobotsInDisguise' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/TransformersRobotsInDisguise'>comics</a>.
+";i:488;s:17:"</li></ul></div>
+";i:489;s:188:"<p></p><div class="folderlabel" onclick="togglefolder('folder9');">&nbsp;&nbsp;&nbsp;&nbsp; Video Games&nbsp;</div><div id="folder9" class="folder" isfolder="true" style="display:block;">
+";i:490;s:669:"<ul ><li> Yuri Lowell from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TalesOfVesperia' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TalesOfVesperia'>Tales Of Vesperia</a></em> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IDidWhatIHadToDo' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IDidWhatIHadToDo'>did what he had to do</a> to Cumore and Ragou and many a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheReasonYouSuckSpeech' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheReasonYouSuckSpeech'>"The Reason You Suck" Speech</a> are given by him to Flynn Scifo.
+";i:491;s:387:"</li><li> A renegade Commander Shepard can be quite pragmatic in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MassEffect' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MassEffect'>Mass Effect</a></em>. With a general 'I did what I had to do' philosophy as the core tenet of the playstyle, all kinds of morally questionable actions can be done.
+";i:492;s:567:"</li><li> Raiden from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MetalGearRisingRevengeance' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MetalGearRisingRevengeance'>Metal Gear Rising: Revengeance</a></em> firmly believes that some people have to die in order for innocent lives to be saved. His evil alter ego, Jack the Ripper, makes him a borderline <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnscrupulousHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnscrupulousHero'>Unscrupulous Hero</a>.
+";i:493;s:259:"<div class='indent'><strong>Raiden</strong>: There's a saying I like: 'One sword keeps another in the sheath.' Sometimes, the threat of violence alone is a deterrent. Sometimes, by taking a life, others can be preserved. It's the code the samurai lived by...
+";i:494;s:1111:"</div></li><li> The new <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TombRaider2013' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TombRaider2013'>Tomb Raider</a></em> game has Lara develop into this over the course of the game. While she starts out as a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ClassicalAntiHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ClassicalAntiHero'>Classical Anti-Hero</a> who must simply kill in self defense merely to survive the extreme conditions around her, she gradually becomes more and more jaded and numb until she's spouting <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassBoasts' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassBoasts'>Badass Boasts</a> that imply she's now come to revel in the carnage she reaps. She even has a standard "brushes off of an attempted <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatTheHellHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatTheHellHero'>What the Hell, Hero?</a> " moment.
+";i:495;s:696:"<ul ><li> Although that moment came directly after <span class="spoiler" title="you can set spoilers visible by default on your profile" >a friend <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicSacrifice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicSacrifice'>sacrificed himself to save her</a> and the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatTheHellHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatTheHellHero'>What the Hell, Hero?</a> speech was used to unfairly <em>blame</em> Lara for his death</span>, so she was both justified in brushing it off <em>and</em> not in the best frame of mind at that point.
+";i:496;s:216:"</li></ul></li><li> Jim Raynor in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/StarCraftII' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/StarCraftII'>StarCraft II</a></em>
+";i:497;s:107:"</li><li> Lee Everett in <em>The Walking Dead Video Game</em> can be pragmatic depending on player choice.
+";i:498;s:17:"</li></ul></div>
+";i:499;s:191:"<p></p><div class="folderlabel" onclick="togglefolder('folder10');">&nbsp;&nbsp;&nbsp;&nbsp; Web Original&nbsp;</div><div id="folder10" class="folder" isfolder="true" style="display:block;">
+";i:500;s:1130:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Worm' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Worm'>Worm</a></em>, Armsmaster, a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassNormal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassNormal'>Badass Normal</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GadgeteerGenius' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GadgeteerGenius'>Gadgeteer Genius</a>, is a clear example of this. He notes to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VillainProtagonist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VillainProtagonist'>Taylor</a> that she should avoid fights where she can, develops technology specifically to incapacitate the villains of his city, and [[spoiler:gets several supervillains deliberately killed in order to give him a chance to kill <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OmnicidalManiac' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OmnicidalManiac'>Leviathan.</a>
+";i:501;s:906:"<ul ><li> A later and even more extreme example is found in Alexandria of the Triumvirate, who is <em>entirely</em> willing to manipulate the system that <em>she created</em> to keep parahumans under the control of normal people to put her civilian identity in a position of authority where she can do the most good with her Thinker powers, threatens the lives of a villain's friends in order to force her to give in, is willing to work with a far worse villain for the sake of maintaining security of the foremost parahuman prison, and <span class="spoiler" title="you can set spoilers visible by default on your profile" >is guilty of enough crimes against humanity to push her into <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WellIntentionedExtremist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WellIntentionedExtremist'>Well-Intentioned Extremist</a> territory.</span>
+";i:502;s:578:"</li></ul></li><li> The <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Wiki/SCPFoundation' title='http://tvtropes.org/pmwiki/pmwiki.php/Wiki/SCPFoundation'>SCP Foundation</a></em> is ultimately trying to protect the world from potentially dangerous items. However, they are often forced to do morally ambiguous things for the sake of their mission. Among other things, many of the items captured are sentient and fairly harmless and are only considered to require containment because they interfere with their conceptions of what the world should be like.
+";i:503;s:17:"</li></ul></div>
+";i:504;s:196:"<p></p><div class="folderlabel" onclick="togglefolder('folder11');">&nbsp;&nbsp;&nbsp;&nbsp; Western Animation&nbsp;</div><div id="folder11" class="folder" isfolder="true" style="display:block;">
+";i:505;s:409:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoodIsNotNice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoodIsNotNice'>Batman</a> in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanTheAnimatedSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanTheAnimatedSeries'>Batman The Animated Series</a></em>.
+";i:506;s:294:"</li><li> Kyle from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SouthPark' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SouthPark'>South Park</a></em> often plays this role, particularly when confronting one of Cartman's many schemes.
+";i:507;s:299:"<ul ><li> Debateable since Kyle sometimes lets his personal hatred of Cartman fuel his efforts, making him more a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightTemplar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightTemplar'>Knight Templar</a> than pragmatic.
+";i:508;s:547:"</li></ul></li><li> Rose from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AmericanDragonJakeLong' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AmericanDragonJakeLong'>American Dragon Jake Long</a></em> is most likely this, being willing to pull off a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FinalSolution' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FinalSolution'>Final Solution</a> to save her family and the entire Magical World from the Huntsclan.
+";i:509;s:258:"<ul ><li> Though this is only after she finds out Jake's secret, up until that point she's an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiVillain' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiVillain'>Anti-Villain</a>.
+";i:510;s:1077:"</li></ul></li><li> Few of the heroes in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDreamstone' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDreamstone'>The Dreamstone</a></em> seem to really give a flying fish if the Urpneys are <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TrappedInVillainy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TrappedInVillainy'>Trapped In Villainy</a>, and will take any measure to stop them. This bordered <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BloodKnight' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BloodKnight'>Blood Knight</a> or outright <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnscrupulousHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnscrupulousHero'>Unscrupulous Hero</a> territory in early episodes, though later seasons made their retaliations more passive, often disinterested in attacking the Urpneys outside the means to protect the stone. They <em>sometimes</em> relapsed however.
+";i:511;s:441:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheLandBeforeTime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheLandBeforeTime'>The Land Before Time</a></em>: The heroes are not adverse to fighting dirty when confronted with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TyrannosaurusRex' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TyrannosaurusRex'>sharpteeth</a>.
+";i:512;s:466:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicStrip/Popeye' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicStrip/Popeye'>Popeye</a></em> holds himself to a strict moral code, but this doesn't stop him from beating people or animals to a pulp (occasionally for little to no reason, in the early shorts anyway). And a sometimes when he rescues Olive, he does so to prevent Bluto from having her rather than for her own safety.
+";i:513;s:17:"</li></ul></div>
+";i:514;s:14:"<p></p><hr />
+";i:515;s:4100:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheParagon">The Paragon</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightInShiningTropes">Knight In Shining Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ProudWarriorRaceGuy">Proud Warrior Race Guy</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/NominalHero">Nominal Hero</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/QuirkyGood">Quirky Good</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BewareTheHonestOnes">Beware The Honest Ones</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PetTheDog">Pet the Dog</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/GoodnessTropes">Goodness Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/RedemptionDemotion">Redemption Demotion</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PragmaticAdaptation">Pragmatic Adaptation</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PragmatismTropes">Pragmatism Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PragmaticVillainy">Pragmatic Villainy</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PillarsOfMoralCharacter">Pillars of Moral Character</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes">Morality Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PrinciplesZealot">Principles Zealot</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PostHistoricalTrauma">Post Historical Trauma</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes">Characterization Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PresentAbsence">Present Absence</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/NobleBigotWithABadge">Noble Bigot with a Badge</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/IndexWithAHeartOfGold">Index with a Heart of Gold</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheProudElite">The Proud Elite</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/NominalHero">Nominal Hero</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Heroes">Heroes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SociopathicHero">Sociopathic Hero</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:516;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:517;s:10:"<p> </p>
+";i:518;s:10:"<center>
+";i:519;s:2:"
+";i:520;s:24:"<!-- med rectangle -->
+";i:521;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:522;s:33:"<script type='text/javascript'>
+";i:523;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:524;s:11:"</script>
+";i:525;s:8:"</div>
+";i:526;s:2:"
+";i:527;s:11:"</center>
+";i:528;s:24:"</td><!-- wikibody -->
+";i:529;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:530;s:7:"</td>
+";i:531;s:7:"</tr>
+";i:532;s:10:"</table>
+";i:533;s:22:"<!--PageFooterFmt-->
+";i:534;s:77:"<div class="alt_title" style="font-size:x-small;text-align:center;" ></div>
+";i:535;s:10:"<center>
+";i:536;s:44:"<table style="width:606px;margin:0 auto;">
+";i:537;s:7:"	<tr>
+";i:538;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:539;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:540;s:262:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PragmaticHero?action=edit'> edit page</a></div></div></td>
+";i:541;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:542;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:543;s:8:"	</tr>
+";i:544;s:10:"</table>
+";i:545;s:11:"</center>
+";i:546;s:21:"<div id='wikifoot'>
+";i:547;s:27:"    <div class='footnav'>
+";i:548;s:2:"
+";i:549;s:14:"			 <center>
+";i:550;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:551;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:552;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:553;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:554;s:15:"				</center>
+";i:555;s:2:"
+";i:556;s:29:"    </div><!-- wikifoot -->
+";i:557;s:23:"<!--/PageFooterFmt-->
+";i:558;s:12:"54044<br/>
+";i:559;s:4:"35
+";i:560;s:8:"</div>
+";i:561;s:26:"</div><!-- container -->
+";i:562;s:2:"
+";i:563;s:9:"</body>
+";i:564;s:21:"<!--ScriptInsert-->
+";i:565;s:9:"</html>
+";}}

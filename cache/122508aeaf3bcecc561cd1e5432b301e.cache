@@ -1,0 +1,621 @@
+a:2:{i:0;i:1377935110;i:1;a:620:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:66:"<title>The Mad Hatter - Television Tropes &amp; Idioms  </title>
+";i:5;s:132:"<meta name="Description" content="The The Mad Hatter trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:2:"
+";i:25;s:10:"</style>
+";i:26;s:2:"
+";i:27;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:28;s:33:"<script type="text/javascript">
+";i:29;s:26:"  var _gaq = _gaq || [];
+";i:30;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:31;s:34:"  _gaq.push(['_trackPageview']);
+";i:32;s:2:"
+";i:33;s:17:"  (function() {
+";i:34;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:35;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:36;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:37;s:9:"  })();
+";i:38;s:2:"
+";i:39;s:32:"	function subpage(sel, title){
+";i:40;s:4:"		
+";i:41;s:40:"		var namespce = ""+getselection(sel);
+";i:42;s:34:"		if(namespce.trim()=="")return;
+";i:43;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:44;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:45;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:46;s:29:"		window.location.href=url;
+";i:47;s:4:"	}
+";i:48;s:32:"	function p5(groupname,title){
+";i:49;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:50;s:4:"	}
+";i:51;s:27:"	function togglenote(id){
+";i:52;s:23:"		var ele=object(id);
+";i:53;s:34:"		var state = ele.style.display;
+";i:54;s:49:"		if(state=='none') ele.style.display='inline';
+";i:55;s:48:"		if(state=='inline')ele.style.display='none';
+";i:56;s:4:"	}
+";i:57;s:35:"	var googletag = googletag || {};
+";i:58;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:59;s:16:"	(function() {
+";i:60;s:47:"	var gads = document.createElement('script');
+";i:61;s:21:"	gads.async = true;
+";i:62;s:33:"	gads.type = 'text/javascript';
+";i:63;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:64;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:65;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:66;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:67;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:68;s:8:"	})();
+";i:69;s:2:"
+";i:70;s:34:"	googletag.cmd.push(function() {
+";i:71;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:73;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:74;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:75;s:45:"		googletag.pubads().enableSingleRequest();
+";i:76;s:31:"		googletag.enableServices();
+";i:77;s:6:"	});
+";i:78;s:2:"
+";i:79;s:11:"</script>
+";i:80;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:81;s:2:"
+";i:82;s:9:"</head>
+";i:83;s:8:"<body>
+";i:84;s:40:"<div class="container" id="container">
+";i:85;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:86;s:6:"<tr>
+";i:87;s:46:"<td style="width:166px;vertical-align:top;">
+";i:88;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:89;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:90;s:38:"<g:plusone size="small"></g:plusone>
+";i:91;s:2:"
+";i:92;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:93;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:94;s:6:"<ul>
+";i:95;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:96;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:97;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:98;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:99;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:100;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:101;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:102;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:103;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:104;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:105;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:106;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:107;s:7:"</ul>
+";i:108;s:8:"</div>
+";i:109;s:2:"
+";i:110;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:111;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:112;s:2:"
+";i:113;s:183:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','TheMadHatter');">send request</button><hr/></div>
+";i:114;s:2:"
+";i:115;s:324:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="TheMadHatter" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:116;s:2:"
+";i:117;s:51:"<div style="font-size:small;text-align:center;" >
+";i:118;s:30:"Find recent edits by troper:
+";i:119;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:120;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:121;s:8:"</div>
+";i:122;s:7:"<hr/>
+";i:123;s:7:"<ul>	
+";i:124;s:4:"		
+";i:125;s:7:"<hr/>
+";i:126;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:127;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:128;s:61:"		<input type="hidden" name="title" value="TheMadHatter" />
+";i:129;s:54:"		This article needs some moderator assistance with:
+";i:130;s:9:"		<br/>
+";i:131;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:132;s:9:"		<br/>
+";i:133;s:4:"		
+";i:134;s:34:"		<p style="text-align:center;">
+";i:135;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:136;s:8:"		</p>
+";i:137;s:34:"		<p style="text-align:center;">
+";i:138;s:48:"			<input type="submit" value="send report" />
+";i:139;s:8:"		</p>
+";i:140;s:11:"		</form>
+";i:141;s:7:"<hr/>
+";i:142;s:6:"<ul>
+";i:143;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:144;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:145;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:146;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:147;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:148;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:149;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:150;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:151;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:152;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:153;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:154;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:155;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:156;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:157;s:141:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.TheMadHatter'>Referral Count for This Page</a></li>
+";i:158;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:159;s:116:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=TheMadHatter'>Article Relationships</a></li> -->
+";i:160;s:102:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.TheMadHatter'>Folderize</a></li>
+";i:161;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:162;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:163;s:7:"</ul>
+";i:164;s:8:"	<hr/>
+";i:165;s:6:"<ul>
+";i:166;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:167;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:168;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:169;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:170;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:171;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:172;s:7:"</ul>
+";i:173;s:7:"<hr/>
+";i:174;s:2:"
+";i:175;s:8:"</div>
+";i:176;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:177;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:178;s:8:"		<ul>
+";i:179;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:180;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:181;s:9:"		</ul>
+";i:182;s:8:"</div>
+";i:183;s:10:"<center>
+";i:184;s:34:"		<div style="margin-top:4px;">	
+";i:185;s:5:"			
+";i:186;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:187;s:33:"<script type='text/javascript'>
+";i:188;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:189;s:97:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/TheMadHatter");
+";i:190;s:11:"</script>
+";i:191;s:8:"</div>
+";i:192;s:2:"
+";i:193;s:11:"		</div>	
+";i:194;s:10:"		<div>	
+";i:195;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:196;s:6:"		 	
+";i:197;s:4:"		
+";i:198;s:4:"		
+";i:199;s:10:"		</div>
+";i:200;s:284:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/TheMadHatter">Laconic</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMadHatter">Main</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/PlayingWith/TheMadHatter">PlayingWith</a><br/>
+";i:201;s:9:"		<div>
+";i:202;s:10:"		</div>
+";i:203;s:36:"		<div style="font-size:x-small;">
+";i:204;s:11:"				<hr/>
+";i:205;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:206;s:14:"				<p> </p>
+";i:207;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:208;s:13:"				<p></p>
+";i:209;s:11:"				<ul >
+";i:210;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:211;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:212;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:213;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:214;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:215;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:216;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:217;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:219;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:220;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:221;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:222;s:11:"				</li>
+";i:223;s:11:"				</ul>
+";i:224;s:13:"				<p></p>
+";i:225;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:226;s:13:"				<p></p>
+";i:227;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:228;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:229;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:230;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:231;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:232;s:6:"				
+";i:233;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:234;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:235;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:236;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:237;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:238;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:239;s:6:"				
+";i:240;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:241;s:16:"				</li></ul>
+";i:242;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:243;s:13:"				<p></p>
+";i:244;s:11:"				<ul >
+";i:245;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:246;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:247;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:248;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:249;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:250;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:251;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:252;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:253;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:254;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:255;s:6:"				
+";i:256;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:257;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:258;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:259;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:260;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:261;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:262;s:6:"				
+";i:263;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:264;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:265;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:266;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:268;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:269;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:270;s:11:"				</li>
+";i:271;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:272;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:273;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:274;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:275;s:6:"				
+";i:276;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:278;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:279;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:280;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:281;s:16:"				</li></ul>
+";i:282;s:6:"				
+";i:283;s:13:"				<p></p>
+";i:284;s:39:"				<strong>Other Categories</strong>
+";i:285;s:13:"				<p></p>
+";i:286;s:10:"				<ul>
+";i:287;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:288;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:289;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:290;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:291;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:292;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:293;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:294;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:295;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:296;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:297;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:298;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:299;s:11:"				</ul>
+";i:300;s:11:"		</div>	
+";i:301;s:11:"</center>
+";i:302;s:2:"
+";i:303;s:30:"</div> <!-- wikileftpage -->
+";i:304;s:7:"</td>
+";i:305;s:20:"<td id='wikibody'>
+";i:306;s:2:"
+";i:307;s:21:"<!--PageTitleFmt-->
+";i:308;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:309;s:12:"    		<tr>
+";i:310;s:38:"    		<td id="wikicmds" align="top">
+";i:311;s:8:"    		
+";i:312;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:313;s:45:"    				<tr style="vertical-align:middle;">
+";i:314;s:31:"    					<td align="center" >
+";i:315;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:316;s:16:"    					</td>
+";i:317;s:15:"    				<td >
+";i:318;s:37:"    					<div style="width:400px;">
+";i:319;s:28:"                  <center>
+";i:320;s:27:"                  <table>
+";i:321;s:24:"                  <tr>
+";i:322;s:24:"                  <td>
+";i:323;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:324;s:27:"                    <div>
+";i:325;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:326;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:327;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:328;s:64:"                      <input type="text" name="q" size="31" />
+";i:329;s:28:"                    </div>
+";i:330;s:27:"                  </form>
+";i:331;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:332;s:25:"                  </td>
+";i:333;s:24:"                  <td>
+";i:334;s:46:"                  <div class="buttonframe" >
+";i:335;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:336;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:337;s:26:"                  </div>
+";i:338;s:25:"                  </div
+";i:339;s:25:"                  </td>
+";i:340;s:25:"                  </tr>
+";i:341;s:28:"                  </table>
+";i:342;s:29:"                  </center>
+";i:343;s:17:"    					</div>
+";i:344;s:15:"    				</td>
+";i:345;s:15:"    				</tr>
+";i:346;s:16:"    		</table>
+";i:347;s:8:"    		
+";i:348;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:349;s:10:"    				
+";i:350;s:27:"    				<tr valign="top">
+";i:351;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:352;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:353;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:354;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:355;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:356;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:357;s:15:"    				</tr>
+";i:358;s:10:"    				
+";i:359;s:10:"    				
+";i:360;s:8:"    		
+";i:361;s:16:"    		</table>
+";i:362;s:8:"    		
+";i:363;s:28:"    		<div id="wikilogo" >
+";i:364;s:16:"    		<center>
+";i:365;s:2:"
+";i:366;s:22:"<!-- leaderboard -->
+";i:367;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:368;s:33:"<script type='text/javascript'>
+";i:369;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:370;s:11:"</script>
+";i:371;s:8:"</div>
+";i:372;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:373;s:28:"    					<tr valign="top">
+";i:374;s:310:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'TheMadHatter');" autocomplete="off"  style="width:50px;"><option> </option><option value="Laconic">Laconic</option><option value="Main">Main</option><option value="PlayingWith">PlayingWith</option></select></td>
+";i:375;s:267:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMadHatter?action=source" >source</a></div></div></td>
+";i:376;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:377;s:268:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.TheMadHatter">history</a></div></div></td>
+";i:378;s:270:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMadHatter?action=edit'> edit page</a></div></div></td>
+";i:379;s:266:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/TheMadHatter" >related</a></div></div></td>
+";i:380;s:38:"    							<td valign="middle"></td>
+";i:381;s:16:"    					</tr>
+";i:382;s:18:"    				</table>
+";i:383;s:10:"    				
+";i:384;s:35:"    				<div id="watchmsg"></div>
+";i:385;s:18:"    			</center>
+";i:386;s:13:"    		</td>
+";i:387;s:12:"     </tr>
+";i:388;s:6:"    
+";i:389;s:11:"    	<tr>
+";i:390;s:39:"    		<td id="wikititle" colspan="2">
+";i:391;s:40:"    				<div class="namespacebuttons">
+";i:392;s:1094:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.TheMadHatter" >&nbsp;Discussion </a></li> <li class="namespace_li PlayingWith" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/PlayingWith/TheMadHatter" class="textcolor">&nbsp;Playing&nbsp;With&nbsp;</a> </li> <li class="namespace_li Laconic" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/TheMadHatter" class="textcolor">&nbsp;Laconic&nbsp;</a> </li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=TheMadHatter" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/TheMadHatter" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:393;s:16:"    				</div>
+";i:394;s:26:"    				<!--RepairBug-->
+";i:395;s:10:"    				
+";i:396;s:34:"    				<div class='pagetitle'> 
+";i:397;s:41:"    						  <span>The Mad Hatter</span>
+";i:398;s:16:"    				</div>
+";i:399;s:11:"    				 
+";i:400;s:13:"    		</td>
+";i:401;s:12:"    	</tr>
+";i:402;s:10:"</table>
+";i:403;s:2:"
+";i:404;s:16:"<!--PageText-->
+";i:405;s:20:"<div id='wikitext'>
+";i:406;s:346:"<div class="quoteright" style="width:350px;" > <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Disney/AliceInWonderland' title='http://tvtropes.org/pmwiki/pmwiki.php/Disney/AliceInWonderland'><img src='http://static.tvtropes.org/pmwiki/pub/images/DisneyTheMadHatter_8075.jpg' class='embeddedimage' border='0' alt='' /></a></div>
+";i:407;s:94:"<p></p><div class='indent'><em>I don't suffer from insanity, I enjoy every minute of it.</em>
+";i:408;s:61:"<div class='indent'>&#8212; <strong>A fridge magnet</strong>
+";i:409;s:729:"</div><p></p></div><div class='indent'><strong>Solomon Grundy:</strong> <em>(to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/SelfDemonstrating/LexLuthor' title='http://tvtropes.org/pmwiki/pmwiki.php/SelfDemonstrating/LexLuthor'>Lex Luthor</a>)</em> You're crazy. <br /><em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThereWasADoor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThereWasADoor'>Enter Joker, stage left</a></em> <br /><strong><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TalkingToHimself' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TalkingToHimself'>Joker</a>:</strong> And what's wrong with that? It's done <em>wonders</em> for me.
+";i:410;s:227:"<div class='indent'>&#8212; <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JusticeLeague' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JusticeLeague'>Justice League</a></em>, "Injustice For All"
+";i:411;s:1196:"</div></div><p></p>For a very long time, TV writers seemed to think that one of the universal signs of mental illness was a total inability to perceive one's self as acting oddly. It's tempting to have a mentally ill person utter such classic <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadScientist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadScientist'>Mad Scientist</a> lines as, "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheyCalledMeMad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheyCalledMeMad'>They Called Me Mad!</a>, but I'm not mad, <em>they're</em> the ones that are mad!" And certainly, the near sociopathically quirky characters you find on the average <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SitCom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SitCom'>Sitcom</a> seem to think themselves perfectly ordinary, and in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealLife' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealLife'>Real Life</a>, many (if not all) people afflicted by mental illnesses don't realise there's anything wrong with them.
+";i:412;s:803:"<p></p>Fortunately, this is not always the case. Few characters can be more fun than the Self-Aware Loon. He's crazy and he <em>knows</em> it. And he's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InsultBackfire' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InsultBackfire'>making the best of it.</a> Trying to dissuade him from follow his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InsaneTrollLogic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InsaneTrollLogic'>crazy, broken logic</a> by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/YoureInsane' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/YoureInsane'>pointing out his insanity</a> will never, ever work. To him, it will be the sincerest form of flattery.
+";i:413;s:310:"<p></p>He may be a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TalkativeLoon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TalkativeLoon'>Talkative Loon</a> most of the time, but he has his lucid moments, and may even consider his episodes to be a welcome respite from normalcy.
+";i:414;s:262:"<p></p>Consequentially, he often gets to say clever lines like, "Well, I think it's a good idea, but then, I'm crazy," "I'm crazy, but I'm not <em>stupid</em>," "I may be insane, but you're <em>crazy</em>" or "Oh yes, I'm insane. And you're stuck here with me."
+";i:415;s:884:"<p></p>Mostly characters who have become unhinged by an exceptional ordeal; rarely results from an organic disorder. Often a facet of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WaifProphet' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WaifProphet'>Waif Prophet</a> or the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RabidCop' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RabidCop'>Rabid Cop</a>; and frequently a major character component of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShellShockedVeteran' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShellShockedVeteran'>Shell-Shocked Veteran</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassArmy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassArmy'>Special Forces</a> military types.
+";i:416;s:430:"<p></p>Usually a fun character, and a little cartoonish, though it can also be played tragically (this is how it usually goes when <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMadHatter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMadHatter'>The Mad Hatter</a>'s illness is organic in origin) as a character is overcome by the knowledge that he is losing his mind and is powerless to stop it.
+";i:417;s:197:"<p></p>Probably something of a convenience for the writer, as, just as is true of race and handicap, when it's the victim making light of their condition, it doesn't come off quite as insensitive.
+";i:418;s:218:"<p></p>Some may find it insulting to the families of those who are actually mentally ill. On the other hand, perhaps they can take some solace in a depiction of mild mental illness as something that can be coped with.
+";i:419;s:941:"<p></p>Archetype is named for the character from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/AliceInWonderland' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/AliceInWonderland'>Alice in Wonderland</a></em>, who, like most of Wonderland's residents, knew just how crazy he was, and had decided to just sit back and enjoy it. Carroll's Mad Hatter is in turn a reference to the tendency of Victorian era hatters to go mad. "As mad as a hatter" was even a common phrase at the time. The actual cause of the phenomena was the presence of mercury in the solution used by hatters to shape and form the felt. The hatter would inhale and ingest trace amount of mercury during his work and eventually suffer from mercury poisoning, leading to dementia and death. Contrary to popular belief, Carroll never actually refers to the character as "the Mad Hatter" in the book; he is simply called "the Hatter".
+";i:420;s:465:"<p></p>See also the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReluctantPsycho' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReluctantPsycho'>Reluctant Psycho</a>, who has mental <em>problems</em>. Compare <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ObfuscatingInsanity' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ObfuscatingInsanity'>Obfuscating Insanity</a>, when the character pretends to be mad.
+";i:421;s:14:"<p></p><hr />
+";i:422;s:36:"<h2><strong>Examples:</strong></h2>
+";i:423;s:329:"<p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Manga' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Manga'>Manga</a></span>
+";i:424;s:472:"<ul ><li> Ed of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/CowboyBebop' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/CowboyBebop'>Cowboy Bebop</a></em> is a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CloudCuckoolander' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CloudCuckoolander'>Cloud Cuckoolander</a>, a slim difference from Mad Hatter. She's a nut and a space case but certainly enjoys being so.
+";i:425;s:480:"</li><li> Jan Valentine of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Hellsing' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Hellsing'>Hellsing</a></em> fits the trope, sociopathically so. Despite being the loopy one compared to his brother, Luke, Jan is the superior soldier and sets off the fall of the Hellsing Organization for no real clear motivation except that he thinks it might be fun to do so. Commits magical seppuku while cackling.
+";i:426;s:148:"<ul ><li> Technically, it's Millenium that kills him for divulging information, but even so he goes out screaming, laughing, and flipping the bird.
+";i:427;s:1309:"</li><li> Vastly superseded by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>the Major</a> himself, who <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrazyAwesome' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrazyAwesome'>delightfully revels</a> in the fact that he and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Ghostapo' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Ghostapo'>his troops</a> are quite insane and how they wish to spread their madness to every corner of the Earth. He is also eager to tell anyone who will listen about <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BloodKnight' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BloodKnight'>his intense love of war</a> and how he has turned Millenium into an army with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChaoticEvil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChaoticEvil'>no other purpose than to wage constant war</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathSeeker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathSeeker'>until every one of them goes out in a blaze of glory</a>.
+";i:428;s:426:"</li></ul></li><li> Break of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PandoraHearts' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PandoraHearts'>Pandora Hearts</a></em>, although he is often using <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ObfuscatingStupidity' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ObfuscatingStupidity'>Obfuscating Stupidity</a>.
+";i:429;s:80:"<ul ><li> To drive the point home, his Chain <em>is</em> the Mad Hatter itself.
+";i:430;s:458:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CodeGeass' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CodeGeass'>Lelouch</a> is the Mad Hatter in <em>Nunnaly in Wonderland</em>. The first thing he does is <a class='urllink' href='http://www.youtube.com/watch?v=WLYMePNrD3c'>laughing mad<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>.
+";i:431;s:207:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBooks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBooks'>Comic Books</a></span>
+";i:432;s:581:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/SelfDemonstrating/TheJoker' title='http://tvtropes.org/pmwiki/pmwiki.php/SelfDemonstrating/TheJoker'>The Joker</a> from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Batman' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Batman'>Batman</a></em> is sometimes depicted this way, as are several other Arkham Asylum patients, including Jervis Tetch - who calls himself The Mad Hatter. Even Batman himself makes neutral-to-positive references to having mental problems.
+";i:433;s:126:"<ul ><li> The Joker has claimed that the only difference between Batman and himself is what their insanity drives them to do.
+";i:434;s:78:"</li><li> "He's just one man; dressed like a lunatic and armed to the teeth."
+";i:435;s:112:"<ul ><li> He also once described himself as "a certified, card-carrying, lock-me-up-throw-away-the-key looney!"
+";i:436;s:713:"</li><li> A number of Batman's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternativeCharacterInterpretation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternativeCharacterInterpretation'>Alternative Character Interpretations</a> state that he <em><strong>is</strong></em> certifiably crazy - just in a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReluctantPsycho' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReluctantPsycho'>constructive manner</a>. <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheKillingJoke' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheKillingJoke'>The Killing Joke</a></em> ends on this:
+";i:437;s:876:"<div class='indent'> <strong>Joker</strong>: <em>See, there were these two guys in a lunatic asylum... And one night, one night they decide they don't like living in an asylum any more. They decide they're going to escape! So, like, they get up onto the roof, and there, just across this narrow gap, they see the rooftops of the town, stretching away in the moonlight... Stretching away to freedom. Now the first guy, he jumps straight across with no problem. But his friend, his friend daren't make the leap. Y'see... Y'see, he's afraid of falling. So then the first guy has an idea... He says, hey! I have my flashlight with me. I'll shine it across the gap between the buildings. You can walk along the beam and join me! B-but the second guy just shakes his head. He suh- says... He says, Wh-what do you think I am? Crazy? You'd turn it off when I was halfway across!</em>
+";i:438;s:233:"</div><div class='indent'> <em>*<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OoCIsSeriousBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OoCIsSeriousBusiness'>Batman cracks up laughing</a>.*</em>
+";i:439;s:354:"</div></li></ul></li><li> Funnily enough, Jervis Tech (aka <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMadHatter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMadHatter'>The Mad Hatter</a>) is often portrayed as being afflicted with a serious mental illness (typically schizophrenia) and gets upset if called insane.
+";i:440;s:303:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ArkhamAsylumASeriousHouseOnSeriousEarth' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ArkhamAsylumASeriousHouseOnSeriousEarth'>Amadeus Arkham</a> pities the poor shades confined to the Euclidean prison that is sanity.
+";i:441;s:831:"</li></ul></li><li> Delirium of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/TheSandman' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/TheSandman'>the Endless</a> is completely aware that she's insane. She's also aware that everyone else is insane, and that she's <em>sane</em>, and that she's a fish who swims in an ocean of words. With great concentration, she <em>can</em> force herself to align to more or less the same mental frequency that the rest of the universe runs on, but it's implied that it hurts her. Evidently she was once Delight, until some great cosmic truth happened to her and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoMadFromTheRevelation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoMadFromTheRevelation'>drove her to madness</a>.
+";i:442;s:365:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Deadpool' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Deadpool'>Deadpool</a></em> occasionally describes himself as an "addled moron", although it's never clear how much he's pretending to be stark staring mad and how much of it is <em>actually</em> being stark staring mad.
+";i:443;s:383:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DependingOnTheWriter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DependingOnTheWriter'>Depending on the Writer</a>, of course. Considering a couple of times has him with three different thought bubbles going, each with seperate personalities? Not MUCH is pretending during those interpretations.
+";i:444;s:644:"</li><li> An actual in-universe reasoning for the changes in "how" crazy Deadpool is: since his healing factor is out of control (his body is somewhat accurately described as "walking talking cancer") even his BRAIN is rewiring itself with some regularity. Of course, then there's the fact that he's one of the few that completely ignores the fourth wall; he may have learned about the fact that he's in a comic book and, while he loves it, he <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoneMadFromTheRevelation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoneMadFromTheRevelation'>may have been affected.</a>
+";i:445;s:301:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheCreeper' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheCreeper'>The Creeper</a></em>, especially in his later versions where his insanity basically kept Ryder sane or was tempting and fun for him.
+";i:446;s:561:"</li><li> Marv from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SinCity' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SinCity'>Sin City</a></em>, who's aware he's borderline psychotic (and considers himself less clever than he really is). "I've got a condition. I get confused." He also worries about "turn(ing) into what they always said [he] was gonna turn into- a maniac, a psycho killer." In fact, when he uncovers the truth, he takes some time to find more evidence, just to be sure his mind isn't playing tricks on him.
+";i:447;s:311:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JohnnyTheHomicidalManiac' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JohnnyTheHomicidalManiac'>Johnny the Homicidal Maniac</a></em> often wonders if he's really crazy. By series end, he pretty much seems to revel in it.
+";i:448;s:662:"</li><li> Rosy the Rascal, Amy's evil counterpart from an alternate universe in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Comicbook/SonicTheHedgehog' title='http://tvtropes.org/pmwiki/pmwiki.php/Comicbook/SonicTheHedgehog'>Sonic the Hedgehog</a> comic series. A mentally unbalanced clingy jealous girl taken to the extreme (she believes the only way to get Scourge (evil Sonic)'s attention is to smash him with her hammer). She seems aware of her insanity (due to a magic ring she used on herself to get Scourge's attention, but which shattered her mind as a result) yet is unconcerned with his fact, as her only focus now is Scourge.
+";i:449;s:1774:"</li><li> Max from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SamAndMax' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SamAndMax'>Sam & Max</a></em> is very comfortable with his various mental issues, which mainly include <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AttentionDeficitOohShiny' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AttentionDeficitOohShiny'>the total absence of an attention span</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSociopath' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSociopath'>being a sociopath</a> (with that exact word used), but <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DependingOnTheWriter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DependingOnTheWriter'>occasionally</a> include nihilism, paranoia, hallucinations (both the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HearingVoices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HearingVoices'>Hearing Voices</a> kind and the visual kind, although not in combination), codependency, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TooKinkyToTorture' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TooKinkyToTorture'>enjoying being hurt a suspicious amount</a> - basically, he won the mental illness lottery. The other characters just accept this as part of who he is, especially Sam, and Max himself is generally upbeat and has tons of fun going on adventures, coming up with wild and wonderful ideas, and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawfulStupid' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawfulStupid'>torturing jaywalkers</a>.
+";i:450;s:299:"</li><li> Ragdoll in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SecretSix' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SecretSix'>Secret Six</a></em>, to the extent that when other lunatics join the team, he resents no longer being the craziest guy in the room.
+";i:451;s:188:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a></span>
+";i:452;s:424:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MichaelKeaton' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MichaelKeaton'>Michael Keaton</a>, Peter Boyle, Stephen Furst and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChristopherLloyd' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChristopherLloyd'>Christopher Lloyd</a> in <em>The Dream Team</em> (1989).
+";i:453;s:212:"</li><li> Mary Stuart Masterson in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/BennyAndJoon' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/BennyAndJoon'>Benny And Joon</a></em>.
+";i:454;s:938:"</li><li> In the first act of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SilenceOfTheLambs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SilenceOfTheLambs'>Silence of the Lambs</a></em> prequel <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/RedDragon' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/RedDragon'>Red Dragon</a></em>, Hannibal Lecter explains to his protege-turned-captor (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EdwardNorton' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EdwardNorton'>Edward Norton</a>) that he never expected to be captured by someone less intelligent than him. Norton replies, "Well, you <em>are</em> insane." Hannibal <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SanityHasAdvantages' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SanityHasAdvantages'>politely concedes</a>.
+";i:455;s:255:"</li><li> <em>Malice</em>: <a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlecBaldwin' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlecBaldwin'>Alec Baldwin</a> doesn't have a God <em>complex</em> &#8212; he <em>is</em> God!
+";i:456;s:206:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a></span>
+";i:457;s:364:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/AliceInWonderland' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/AliceInWonderland'>Alice in Wonderland</a></em> embodies (and named) this trope. Strangely enough, though, the Mad Hatter didn't offer many lines that exemplify this as well as the Cheshire Cat did:
+";i:458;s:230:"<div class='indent'>Alice: "But I don't want to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoAmongMadPeople' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoAmongMadPeople'>Go Among Mad People</a>!"
+";i:459;s:78:"</div><div class='indent'>Cat: "Oh, you can't help that, we're all mad here."
+";i:460;s:262:"</div></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheHitchhikersGuideToTheGalaxy' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheHitchhikersGuideToTheGalaxy'>The Hitchhiker's Guide to the Galaxy</a></em>
+";i:461;s:746:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/DouglasAdams' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/DouglasAdams'>Douglas Adams</a>' <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/LifeTheUniverseAndEverything' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/LifeTheUniverseAndEverything'>Life, the Universe and Everything</a></em> (the third book in the then-trilogy, but not the last, oddly enough) opens with Arthur Dent and Ford Prefect trapped on prehistoric Earth. Arthur decides to make most of their situation by going mad, but is side-tracked by Ford, who had the same idea first and now wants to tell him at length how much fun he's been having.
+";i:462;s:364:"</li></ul><div class='indent'><em>"...and then I decided I was a lemon for a couple of weeks. I kept myself amused all that time jumping in and out of a gin and tonic... I found a small lake that thought it was a gin and tonic, and jumped in and out of that. At least, I think it thought it was a gin and tonic. I may (grins crazily) have been imagining it."</em>
+";i:463;s:138:"</div><ul ><li> They then chase a time-travelling sofa, leading to Arthur happily reflecting on just how fast his slip into insanity was.
+";i:464;s:279:"</li></ul><div class='indent'><em>Arthur suddenly laughed with unexpected delight. For once his day was going entirely according to plan. Not half an hour ago he had decided to go mad, and now here he was, chasing a Chesterfield sofa across the fields of prehistoric Earth.</em>
+";i:465;s:1036:"</div></li><li> Antryg Windrose, from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheWindroseChronicles' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheWindroseChronicles'>The Windrose Chronicles</a></em> by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/BarbaraHambly' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/BarbaraHambly'>Barbara Hambly</a>. This character &#8212; influenced somewhat by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TomBaker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TomBaker'>Tom Baker</a>'s <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho'>Doctor</a> &#8212; is very charismatically eccentric, has a reputation for being "dangerously insane", and in deep characterization confesses that he really is mad, from long years of having to sustain beliefs contrary to the reality of others around him.
+";i:466;s:840:"</li><li> The lost explorer Gordon Willikers (get it?) from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DanielPinkwater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DanielPinkwater'>Daniel Pinkwater</a>'s <em>The Worms of Kukumlima</em> frequently discusses or makes reference to his insanity. No one questions this even though he's quite lucid and isn't a great deal more eccentric than anyone else in the book. His insanity, therefore, comes across as a mix of an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InformedAbility' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InformedAbility'>Informed Ability</a> and a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RunningGag' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RunningGag'>Running Gag</a>.
+";i:467;s:509:"</li><li> In <em><a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/INeverPromisedYouARoseGarden' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/INeverPromisedYouARoseGarden'>I Never Promised You A Rose Garden</a></em>, the inmates at the psychiatric hospital have rules about such things: the disturbed ward gets to refer to themselves as "crazy", "mad", etc.; the less disturbed patients may call themselves "cuckoo" or other euphemisms. (It's an autobiographical novel, by the way.)
+";i:468;s:609:"</li><li> Colonel Jax in the short story <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/AlastairReynolds' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/AlastairReynolds'>"Nightingale"</a> freely admits that he has gone mad after <span class="spoiler" title="you can set spoilers visible by default on your profile" > being turned into a living artwork representing the horror of war.</span> The sentient hospital ship responsible for his fate, though, seems blissfully unaware of her insanity. (And some readers might agree that she's the sanest personality in the story....)
+";i:469;s:248:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Moby-Dick' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Moby-Dick'>Moby-Dick</a></em>: Ahab says, "They call me mad, but I'm demoniac: I am madness maddened."
+";i:470;s:243:"</li><li> In Lisa Goldstein's <em>A Mask for the General,</em> a prison psychiatrist tells Layla MacKenzie that the complete economic collapse of the US drove her insane. She rejects that: "I made it [her madness] myself, like a work of art."
+";i:471;s:214:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LiveActionTV' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LiveActionTV'>Live-Action TV</a></span>
+";i:472;s:282:"<ul ><li> Spike for a time on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer'>Buffy the Vampire Slayer</a></em> ("I'm crazy. What's <em>his</em> excuse?").
+";i:473;s:220:"</li><li> Dr. Langstrom in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/RedDwarf' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/RedDwarf'>Red Dwarf</a></em> episode "Quarantine".
+";i:474;s:225:"</li><li> John Crichton after his ordeal with Scorpius on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Farscape' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Farscape'>Farscape</a></em>.
+";i:475;s:197:"</li><li> Frank Parker in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/SevenDays' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/SevenDays'>Seven Days</a></em>.
+";i:476;s:218:"</li><li> Sylvia Van Buren in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/WarOfTheWorlds' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/WarOfTheWorlds'>War of the Worlds</a></em>.
+";i:477;s:211:"</li><li> Mick Belker on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HillStreetBlues' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HillStreetBlues'>Hill Street Blues</a></em>.
+";i:478;s:336:"</li><li> Dr. Geiger on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/ChicagoHope' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/ChicagoHope'>Chicago Hope</a></em>. Justifying his own God-complex to a review board, he explains that because he thinks he's God, he never gets distracted by self-doubt.
+";i:479;s:166:"<div class='indent'>"Who's kiddin' who? Personally, I'm a mess. Should you let your sister marry me? Not a chance. But if her heart stops, you want her on my table."
+";i:480;s:242:"</div></li><li> Deadbeat/Kingpin in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho'>Doctor Who</a></em>, "The Greatest Show in the Galaxy".
+";i:481;s:148:"<ul ><li> In "Caves of Androzani", the villain Sharaz Jek goes into a "Do you think I am mad?" rant, before quietly concluding "I <em>am</em> mad."
+";i:482;s:66:"</li><li> The Master would like to give this trope two thumbs up.
+";i:483;s:176:"</li><li> "...There's something you'd better understand about me, cause it's important, and one day, your life may depend on it: I am <em>definitely</em> a madman with a box!"
+";i:484;s:49:"<ul ><li> That goes double for the Sixth Doctor.
+";i:485;s:313:"</li></ul></li></ul></li><li> "Howling Mad" Murdoch from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheATeam' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheATeam'>The A-Team</a></em> qualifies, assuming his condition wasn't <em>totally</em> an act to avoid the stockade.
+";i:486;s:407:"</li><li> Who forgot the Mads from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MST3K' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MST3K'>MST3K</a></em>? <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CardCarryingVillain' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CardCarryingVillain'>"What do you want from us? We're evil! ''EVIL!!!</a>''"
+";i:487;s:391:"</li><li> Tracy Jordan of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/ThirtyRock' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/ThirtyRock'>30 Rock</a></em> is so proud of how crazy he is that he was completely outraged when a tabloid suggested his odd behaviour was due to drug abuse. Tracy felt this constituted "libel" and "character assassination."
+";i:488;s:96:"<div class='indent'> In his own words: <em>I'm not on drugs! I'm straight up mentally ill!</em>
+";i:489;s:283:"</div></li><li> Walter Bishop on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Fringe' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Fringe'>Fringe</a></em> takes psychotic drugs at lunch to keep his edge. Walter <strong>owns</strong> this trope.
+";i:490;s:45:"<ul ><li> <em>Homemade</em> psychotic drugs.
+";i:491;s:103:"</li><li> Whenever a new character asks if Walter is crazy, Peter and Olivia just say yes and move on.
+";i:492;s:359:"</li></ul></li><li> The title character of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Raines' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Raines'>Raines</a></em> is well aware that the dead people he speaks to are just figments of his imagination. He deals with it with a reasonable degree of equanimity, considering.
+";i:493;s:366:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OneThousandWaysToDie' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OneThousandWaysToDie'>1000 Ways to Die</a>'s segment "Hats-Off folks" discusses the origin of this trope via the life and death of a hatter named Barnaby, who first goes mad and then dies out of mercury poisoning.
+";i:494;s:185:"</li><li> Jim Moriarity in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Sherlock' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Sherlock'>Sherlock</a>:
+";i:495;s:436:"<div class='indent'><strong>Sherlock:</strong> "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/YoureInsane' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/YoureInsane'>You're insane</a>!" <br /><strong>Moriarity:</strong> "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InsultBackfire' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InsultBackfire'>You're just getting that now?</a>"
+";i:496;s:197:"</div></li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Music' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Music'>Music</a></span>
+";i:497;s:223:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DoctorSteel' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DoctorSteel'>Doctor Steel</a>. "I am crazy. And it's a great load off my mind."
+";i:498;s:279:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessorElemental' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessorElemental'>Professor Elemental</a> has gone mad from an excess of tea. "I'm madder than a hatter, and it fires my mic!"
+";i:499;s:488:"</li><li> A rare serious example: Richey Edwards of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ManicStreetPreachers' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ManicStreetPreachers'>Manic Street Preachers</a> was a great user of this trope, often to devastating effect. <em>The Holy Bible</em>, usually considered to be the band's best album and written mostly by Edwards (roughly 70 percent of the lyrics are his alone), contains a cast of Mad Hatters.
+";i:500;s:233:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWho' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWho'>Keith Moon</a> once referred to himself (accurately) as the "kept lunatic" of The Who.
+";i:501;s:191:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a></span>
+";i:502;s:203:"<ul ><li> This exchange from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheGoonShow' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheGoonShow'>The Goon Show</a></em>:
+";i:503;s:209:"<dl><dd><div class='indent'><strong>Bloodnok</strong>: Do you think I'm crazy? <br /><strong>Seagoon</strong>: Yes. <br /><strong>Bloodnok</strong>: <em>What a splendid judge of character this fellow is.</em>
+";i:504;s:226:"</div></dd></dl></li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopRPG' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopRPG'>Tabletop RPG</a></span>
+";i:505;s:1118:"<ul ><li> The Malkavian Clan in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/VampireTheMasquerade' title='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/VampireTheMasquerade'>Vampire The Masquerade</a></em>, and their spiritual descendants the Malkovian Bloodline in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReBoot' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReBoot'>ReBoot</a> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VampireTheRequiem' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VampireTheRequiem'>Vampire: The Requiem</a></em>. Although all Vampires lose their sanity over time, these guys start out full of crazy and then some. Their madness may have a mystical explanation, or it may just be the fact that since they live in a total <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrapsackWorld' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrapsackWorld'>Crapsack World</a> where insanity is inevitable, you may as well skip merrily to bonkers and enjoy yourself.
+";i:506;s:917:"<ul ><li> The Malkavians of <em>Masquerade</em> have a variety of opinions on their madness and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadOracle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadOracle'>the insight it brings</a>. A good chunk of the clan just views them as part and parcel of one another (heck, the clan's formal nickname is "The Clan of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Lunacy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Lunacy'>the Moon</a>"), whereas a few holdouts (such as Dr. Netchurch in the books, or Alistair Grout in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VampireTheMasqueradeBloodlines' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VampireTheMasqueradeBloodlines'>Bloodlines</a>) view themselves as perfectly normal individuals with keen insight into the ways of the world.
+";i:507;s:524:"</li><li> This has led to a particularly contemptible sort of player character known as the <a class='urllink' href='http://whitewolf.wikia.com/wiki/Fishmalk'>fishmalk<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>, who is crazy in a way they think is "wacky" but all the other players think is juvenile, stupid, and distracting from the rest of the game. It is named after a bizarre picture of a Malkavian kissing a fish, check it out at that link.
+";i:508;s:315:"</li></ul></li><li> Occasionally played very darkly in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Warhammer40000' title='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Warhammer40000'>Warhammer 40000</a></em> as a symptom of corruption by Chaos, particularly by Tzeentch.
+";i:509;s:714:"<ul ><li> And by the good guys. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StateSec' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StateSec'>Inquisitors</a> and other Imperial officials occasionally muse that to the average man, doing things like blowing up your own planet to stop the enemy from claiming it, or abandoning millions to die because they aren't worth the cost of life required to save them, are unfathomably evil acts. Yet those who know the true nature of the threats facing the Imperium realize that such atrocities make a chilly sort of sense. "The very existence of the human race is the prize for victory. Our sanity is the sacrifice we make to win that laurel."
+";i:510;s:363:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GeniusTheTransgression' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GeniusTheTransgression'>Genius: The Transgression</a></em>: The good Geniuses are the ones who know they're crazy. The <em>bad</em> Geniuses are the ones who think they're <em>totally sane</em>.
+";i:511;s:197:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theatre' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theatre'>Theatre</a></span>
+";i:512;s:652:"<ul ><li> Mad Margaret from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Ruddigore' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Ruddigore'>Ruddigore</a></em>: "If I were not a little mad and generally silly, I would give you my advice upon the subject, willy-nilly; I would show you in a moment how to grapple with the question, and you'd really be astonished at the force of my suggestion. On the subject I will write you a most valuable letter full of excellent suggestions when I feel a little better, but at present I'm afraid I am as mad as any hatter, so I'll keep it to myself, for my opinion doesn't matter."
+";i:513;s:52:"</li></ul><p></p><span class="asscaps" >Toys</span>
+";i:514;s:184:"<ul ><li> Vezon from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Bionicle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Bionicle'>BIONICLE</a></em>:
+";i:515;s:265:"<div class='indent'> <strong>Vezon</strong>:You haven't truly lived until you have seen the world through the eyes of madness. Why, half the time I don't know if what I see is what's really there, or what I wish was there ... or what I pray, I beg, I plead is not.
+";i:516;s:213:"</div></li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGames'>Video Games</a></span>
+";i:517;s:681:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/TheElderScrolls' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/TheElderScrolls'>Sheogorath</a> is the <em>God of Madness</em> after all. <span class="spoiler" title="you can set spoilers visible by default on your profile" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheElderScrollsIVOblivion' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheElderScrollsIVOblivion'>The Champion of Cyrodiil</a></span> to certain extent, after <span class="spoiler" title="you can set spoilers visible by default on your profile" > you replace Sheogorath</span>
+";i:518;s:676:"</li><li> In the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Touhou' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Touhou'>Touhou</a> game <em>Imperishable Night</em>, when <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CuteWitch' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CuteWitch'>Cute Witch</a> Marisa Kirisame <span class="spoiler" title="you can set spoilers visible by default on your profile" >is exposed to "pure" lunar rays, which can drive humans mad, she isn't concerned because, in her own words, "I'm insane to begin with"</span>. This is the only time she comes out and says this, however.
+";i:519;s:247:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PlantsVsZombies' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PlantsVsZombies'>Crazy Dave</a> is a good example. Why? because he's Craaaaaaaaaaaaaaazy!
+";i:520;s:548:"</li><li> Slak the berserker in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Videogame/DefendersQuest' title='http://tvtropes.org/pmwiki/pmwiki.php/Videogame/DefendersQuest'>Defenders Quest</a></em>. He gets much more aware of it in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewGamePlus' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewGamePlus'>New Game Plus</a>, at one point scolding the party for going on a trip that was his idea in the first place. They really should know better.
+";i:521;s:204:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WebComics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WebComics'>Web Comics</a></span>
+";i:522;s:400:"<ul ><li> <a class='urllink' href='http://www.antiheroforhire.com/d/20080208.html'>Wizard<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiheroForHire' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiheroForHire'>Antihero For Hire</a></em>.
+";i:523;s:268:"</li><li> Coyote from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/GunnerkriggCourt' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/GunnerkriggCourt'>Gunnerkrigg Court</a></em> shows some traits of this, along with being a god.
+";i:524;s:887:"</li><li> Most people in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Narbonic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Narbonic'>Narbonic</a></em>. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadScientist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadScientist'>Mad Scientist</a> is a job description, and the mads are <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ContractualGenreBlindness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ContractualGenreBlindness'>perfectly aware</a> of the impossibility of their schemes &#8212; leaving the sane characters chagrined when they succeed anyway. Cue great amounts of tropeplay and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Shoutout' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Shoutout'>Shoutouts</a>.
+";i:525;s:213:"<ul ><li> Including the <em>Alice in Wonderland</em> quote, which takes on a darker meaning...<span class="spoiler" title="you can set spoilers visible by default on your profile" > After all, Dave is mad!</span>
+";i:526;s:315:"</li></ul></li><li> Kisume in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/TouhouNekokayou' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/TouhouNekokayou'>Touhou Nekokayou</a></em>, who implies that her entire species must be mad for opting to spend their lives in buckets.
+";i:527;s:60:"</li></ul><p></p><span class="asscaps" >Web Original</span>
+";i:528;s:206:"<ul ><li> <a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WALLEForumRolePlay' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WALLEForumRolePlay'>Inferno</a>, oh so very very much.
+";i:529;s:225:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WesternAnimation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WesternAnimation'>Western Animation</a></span>
+";i:530;s:277:"<ul ><li> Leela in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Futurama' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Futurama'>Futurama</a></em>, "The Sting": "Okay, I'm insane. But I'm still sane enough to know it."
+";i:531;s:251:"</li><li> Most of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/LooneyTunes' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/LooneyTunes'>Looney Tunes</a> gang know how far out-of-kilter they are.
+";i:532;s:231:"<ul ><li> This was practically Daffy Duck's catchphrase in his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ScrewySquirrel' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ScrewySquirrel'>early days</a>.
+";i:533;s:67:"</li></ul><div class='indent'> Random Person: "That duck's crazy!"
+";i:534;s:88:"</div><div class='indent'> Daffy: "You ain't just whistlin' Dixie!" (maniacal laughter)
+";i:535;s:845:"</div></li><li> Really freakin' creepy example: Tarantulas in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Transformers' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Transformers'>Transformers</a>: <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BeastWars' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BeastWars'>Beast Wars</a></em>. It's unclear how much of his lunacy is genuine, and it's been theorized by at least one fan that this is intentional, and he's actually the most lucid among the Predacons. Either way, the attempts at draining vital fluids of other characters, the gleeful sadism, the maniacal laughter all add up to an over-the-top loon who enjoys being an over the top loon, <em>especially</em> when it creeps people out... In his own words:
+";i:536;s:301:"<div class='indent'><strong>Tigerhawk</strong> <em>(shocked)</em>: <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/YoureInsane' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/YoureInsane'>You're Insane!</a>! <br /><strong>Tarantulas</strong> <em>(casually)</em>: So they say.
+";i:537;s:675:"</div><ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TransformersAnimated' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TransformersAnimated'>Animated</a></em> has Blitzwing's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonality' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonality'>"Random" personality</a>. Generally much more humorous and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Cloudcuckoolander' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Cloudcuckoolander'>silly</a> than Tarantulas (though he's made at least one reference to cannibalism).
+";i:538;s:118:"<div class='indent'><strong>Blitzwing</strong> <em>(in reference to Megatron's plan)</em>: That's crazy, even for me!
+";i:539;s:264:"</div></li><li> Not to mention Rampage from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BeastWars' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BeastWars'>Beast Wars</a></em>. The quote speaks for itself:
+";i:540;s:207:"<div class='indent'><strong>Rampage</strong>: Is that fear you're feeling, Maximal? Mmm...yes. My spark, it feeds on terror. Let it grow! Let it consume your circuitry! Feel it! Yes, feel it! Feel the fear!
+";i:541;s:358:"</div></li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSimpsons' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSimpsons'>The Simpsons</a></em> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMovie' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMovie'>Movie</a></em>:
+";i:542;s:394:"<div class='indent'><strong>Scared Underling:</strong> Sir... I'm afraid you've gone mad with power... <br /><strong><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GeneralRipper' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GeneralRipper'>General Ripper</a>:</strong> Of course I have! Have you ever tried going mad without power? It's boring. Nobody listens to ya.
+";i:543;s:272:"</div></li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanBeyond' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanBeyond'>Batman Beyond</a></em>, after Shriek explains his demands to Barbara Gordon:
+";i:544;s:71:"<div class='indent'><strong>Barbara</strong>: You're out of your mind.
+";i:545;s:76:"</div><div class='indent'><strong>Shriek</strong>: <em>Duh</em>. (hangs up)
+";i:546;s:413:"</div></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DarkwingDuck' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DarkwingDuck'>Darkwing Duck</a></em>: <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PsychoElectro' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PsychoElectro'>Psycho Electro</a> Megavolt gives us this gem.
+";i:547;s:112:"<div class='indent'> "They called me crazy, they called me insane, they called me loony! Boy, were they right!"
+";i:548;s:649:"</div></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/MyLittlePonyFriendshipIsMagic' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/MyLittlePonyFriendshipIsMagic'>My Little Pony: Friendship Is Magic</a></em>'s <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Cloudcuckoolander' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Cloudcuckoolander'>Pinkie</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenkiGirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenkiGirl'>Pie</a> occasionally demonstrates awareness of her own insanity.
+";i:549;s:111:"<div class='indent'> <strong>Twilight:</strong> You're a great friend. Even if we don't always understand you.
+";i:550;s:138:"</div><div class='indent'> <strong>Pinkie:</strong> Thanks, guys. You're all great friends too. Even when <em>I</em> don't understand me.
+";i:551;s:626:"</div></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/JackieChanAdventures' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/JackieChanAdventures'>The Monkey King</a>, once he stops being a pest, brings out the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AxCrazy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AxCrazy'>Ax Crazy</a> and lowers <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PuppetPermutation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PuppetPermutation'>Puppet-Jackie</a> into a woodchipper.
+";i:552;s:211:"<div class='indent'> Jade: You wouldn't! That's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ForTheFunnyz' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ForTheFunnyz'>not funny!</a>
+";i:553;s:110:"</div><div class='indent'> Monkey King: Haven't you noticed? I have a <strong>WEIRD</strong> sense of humour!
+";i:554;s:322:"</div></li><li> Doctor Weird from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AquaTeenHungerForce' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AquaTeenHungerForce'>Aqua Teen Hunger Force</a></em>, possibly. "It works! <em>I</em> am one can short of a six-pack!"
+";i:555;s:440:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ScrewySquirrel' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ScrewySquirrel'>Screwy Squirrel</a> knows he's nuts, and <em>loves</em> it. (To the point where <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InsaneEqualsViolent' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InsaneEqualsViolent'>some find him very disturbing</a>.)
+";i:556;s:798:"</li><li> The early <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaffyDuck' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaffyDuck'>Daffy Duck</a>-<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Expy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Expy'>Expy</a> version of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WoodyWoodpecker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WoodyWoodpecker'>Woody Woodpecker</a> used to sometimes deny his insanity even though <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IAmSong' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IAmSong'>he frequently sang a theme song about how insane he was</a>. Which only made him seem <em>more</em> insane.
+";i:557;s:69:"<div class='indent'> <em>So I'm crazy, what what what can I do?</em>
+";i:558;s:200:"</div><div class='indent'> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ParanoiaFuel' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ParanoiaFuel'>So are you</a>!</em>
+";i:559;s:308:"</div></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/EverAfterHigh' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/EverAfterHigh'>Ever After High</a></em> has Madeline "Maddy" Hatter, the daughter of the man himself. She's basically her father, only female.
+";i:560;s:529:"</li><li> Gogo Dodo from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TinyToonAdventures' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TinyToonAdventures'>Tiny Toon Adventures</a></em>. He's so crazy that his insanity is mentioned in the <em>theme song!</em> Meanwhile, when he ends up in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Wackyland' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Wackyland'>Wackyland</a>, he sums it up perfectly:
+";i:561;s:62:"<div class='indent'><strong>Gogo:</strong> Home surreal home!
+";i:562;s:207:"</div></li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealLife' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealLife'>Real Life</a></span>
+";i:563;s:218:"<ul ><li> Truth in Television, and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReluctantPsycho' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReluctantPsycho'>decidedly less than fun</a>.
+";i:564;s:60:"</li><li> Crispin Hellion Glover <em>lives</em> this trope.
+";i:565;s:629:"</li><li> Possibly (though not necessarily) true Urban Legend. A man suffers a flat tire while driving by a mental institution one night. He removes the lug-nuts from the tire and places them in the hubcap while he puts the new tire on. A car comes by and hits the hubcap, scattering the lug-nuts, which are impossible to find in the dark. As the motorist frets an inmate from the other side of the fence points out that he can just take one nut from each of the remaining tires. The motorist is impressed, and admits that he didn't think the resident of an asylum would be so lucid. The inmate responds "I'm crazy, not stupid."
+";i:566;s:2642:"</li><li> It is a common belief among those serving in the military that special forces/special ops troops are a special kind of crazy. It's believed that, even if you're not already a few bananas short of a tree when you join up, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BreakTheCutie' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BreakTheCutie'>intensive training</a> and/or <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShellShockedVeteran' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShellShockedVeteran'>combat experience</a> will eventually push you over the edge into madness territory. Their image in entertainment very often invokes this trope, portraying them as a self-aware <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AxCrazy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AxCrazy'>Ax Crazy</a> or borderline <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SociopathicHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SociopathicHero'>Sociopathic Hero</a>; and usually an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EmotionlessGirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EmotionlessGirl'>emotionless</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheQuietOne' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheQuietOne'>quiet one</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker'>Deadpan Snarker</a>, or obnoxious jokester fond of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BlackComedy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BlackComedy'>black</a> or <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BlackComedy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BlackComedy'>dead baby</a> comedy. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GallowsHumour' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GallowsHumour'>Gallows Humour</a> is commonplace among special forces troops. This portrayal is often <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth in Television</a>. The Urban Legend above is a popular <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SelfDeprecation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SelfDeprecation'>self-deprecating</a> joke among US special forces personnel.
+";i:567;s:189:"</li><li> A possible definition of eccentricity by psychologist Dr. David Weeks goes as follows: People with a mental illness "suffer" from their behavior while eccentrics are quite happy.
+";i:568;s:17:"</li></ul><hr />
+";i:569;s:1537:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/LukeIMightBeYourFather">Luke, I Might Be Your Father</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ShoutOutsIndex">Shout-Outs Index</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/StarCrossedLovers">Star-Crossed Lovers</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/LaserGuidedAmnesia">Laser-Guided Amnesia</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/HollywoodPsych">Hollywood Psych</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheRainman">The Rainman</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MadBomber">Mad Bomber</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice">Characters as Device</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MadMathematician">Mad Mathematician</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:570;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:571;s:10:"<p> </p>
+";i:572;s:10:"<center>
+";i:573;s:2:"
+";i:574;s:24:"<!-- med rectangle -->
+";i:575;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:576;s:33:"<script type='text/javascript'>
+";i:577;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:578;s:11:"</script>
+";i:579;s:8:"</div>
+";i:580;s:2:"
+";i:581;s:11:"</center>
+";i:582;s:24:"</td><!-- wikibody -->
+";i:583;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:584;s:7:"</td>
+";i:585;s:7:"</tr>
+";i:586;s:10:"</table>
+";i:587;s:22:"<!--PageFooterFmt-->
+";i:588;s:116:"<div class="alt_title" style="font-size:x-small;text-align:center;" ><b>alternative title(s):</b> Mad Hatter</div>
+";i:589;s:10:"<center>
+";i:590;s:44:"<table style="width:606px;margin:0 auto;">
+";i:591;s:7:"	<tr>
+";i:592;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:593;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:594;s:261:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMadHatter?action=edit'> edit page</a></div></div></td>
+";i:595;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:596;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:597;s:8:"	</tr>
+";i:598;s:10:"</table>
+";i:599;s:11:"</center>
+";i:600;s:21:"<div id='wikifoot'>
+";i:601;s:27:"    <div class='footnav'>
+";i:602;s:2:"
+";i:603;s:14:"			 <center>
+";i:604;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:605;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:606;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:607;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:608;s:15:"				</center>
+";i:609;s:2:"
+";i:610;s:29:"    </div><!-- wikifoot -->
+";i:611;s:23:"<!--/PageFooterFmt-->
+";i:612;s:12:"60787<br/>
+";i:613;s:3:"0
+";i:614;s:8:"</div>
+";i:615;s:26:"</div><!-- container -->
+";i:616;s:2:"
+";i:617;s:9:"</body>
+";i:618;s:21:"<!--ScriptInsert-->
+";i:619;s:9:"</html>
+";}}

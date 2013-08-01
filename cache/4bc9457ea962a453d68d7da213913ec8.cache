@@ -1,0 +1,584 @@
+a:2:{i:0;i:1377888667;i:1;a:583:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:70:"<title>Bearer of Bad News - Television Tropes &amp; Idioms  </title>
+";i:5;s:136:"<meta name="Description" content="The Bearer Of Bad News trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:10:"</style>
+";i:25;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:26;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:27;s:33:"<script type="text/javascript">
+";i:28;s:26:"  var _gaq = _gaq || [];
+";i:29;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:30;s:34:"  _gaq.push(['_trackPageview']);
+";i:31;s:2:"
+";i:32;s:17:"  (function() {
+";i:33;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:34;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:35;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:36;s:9:"  })();
+";i:37;s:2:"
+";i:38;s:32:"	function subpage(sel, title){
+";i:39;s:4:"		
+";i:40;s:40:"		var namespce = ""+getselection(sel);
+";i:41;s:34:"		if(namespce.trim()=="")return;
+";i:42;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:43;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:44;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:45;s:29:"		window.location.href=url;
+";i:46;s:4:"	}
+";i:47;s:32:"	function p5(groupname,title){
+";i:48;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:49;s:4:"	}
+";i:50;s:27:"	function togglenote(id){
+";i:51;s:23:"		var ele=object(id);
+";i:52;s:34:"		var state = ele.style.display;
+";i:53;s:49:"		if(state=='none') ele.style.display='inline';
+";i:54;s:48:"		if(state=='inline')ele.style.display='none';
+";i:55;s:4:"	}
+";i:56;s:35:"	var googletag = googletag || {};
+";i:57;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:58;s:16:"	(function() {
+";i:59;s:47:"	var gads = document.createElement('script');
+";i:60;s:21:"	gads.async = true;
+";i:61;s:33:"	gads.type = 'text/javascript';
+";i:62;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:63;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:64;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:65;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:66;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:67;s:8:"	})();
+";i:68;s:2:"
+";i:69;s:34:"	googletag.cmd.push(function() {
+";i:70;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:71;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:73;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:74;s:45:"		googletag.pubads().enableSingleRequest();
+";i:75;s:31:"		googletag.enableServices();
+";i:76;s:6:"	});
+";i:77;s:2:"
+";i:78;s:11:"</script>
+";i:79;s:2:"
+";i:80;s:9:"</head>
+";i:81;s:8:"<body>
+";i:82;s:40:"<div class="container" id="container">
+";i:83;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:84;s:6:"<tr>
+";i:85;s:46:"<td style="width:166px;vertical-align:top;">
+";i:86;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:87;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:88;s:38:"<g:plusone size="small"></g:plusone>
+";i:89;s:2:"
+";i:90;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:91;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:92;s:6:"<ul>
+";i:93;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:94;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:95;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:96;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:97;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:98;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:99;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:100;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:101;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:102;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:103;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:104;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:105;s:7:"</ul>
+";i:106;s:8:"</div>
+";i:107;s:2:"
+";i:108;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:109;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:110;s:2:"
+";i:111;s:186:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','BearerOfBadNews');">send request</button><hr/></div>
+";i:112;s:2:"
+";i:113;s:327:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="BearerOfBadNews" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:114;s:2:"
+";i:115;s:51:"<div style="font-size:small;text-align:center;" >
+";i:116;s:30:"Find recent edits by troper:
+";i:117;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:118;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:119;s:8:"</div>
+";i:120;s:7:"<hr/>
+";i:121;s:7:"<ul>	
+";i:122;s:4:"		
+";i:123;s:7:"<hr/>
+";i:124;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:125;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:126;s:64:"		<input type="hidden" name="title" value="BearerOfBadNews" />
+";i:127;s:54:"		This article needs some moderator assistance with:
+";i:128;s:9:"		<br/>
+";i:129;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:130;s:9:"		<br/>
+";i:131;s:4:"		
+";i:132;s:34:"		<p style="text-align:center;">
+";i:133;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:134;s:8:"		</p>
+";i:135;s:34:"		<p style="text-align:center;">
+";i:136;s:48:"			<input type="submit" value="send report" />
+";i:137;s:8:"		</p>
+";i:138;s:11:"		</form>
+";i:139;s:7:"<hr/>
+";i:140;s:6:"<ul>
+";i:141;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:142;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:143;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:144;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:145;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:146;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:147;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:148;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:149;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:150;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:151;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:152;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:153;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:154;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:155;s:144:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.BearerOfBadNews'>Referral Count for This Page</a></li>
+";i:156;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:157;s:119:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=BearerOfBadNews'>Article Relationships</a></li> -->
+";i:158;s:105:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.BearerOfBadNews'>Folderize</a></li>
+";i:159;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:160;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:161;s:7:"</ul>
+";i:162;s:8:"	<hr/>
+";i:163;s:6:"<ul>
+";i:164;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:165;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:166;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:167;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:168;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:169;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:170;s:7:"</ul>
+";i:171;s:7:"<hr/>
+";i:172;s:2:"
+";i:173;s:8:"</div>
+";i:174;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:175;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:176;s:8:"		<ul>
+";i:177;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:178;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:179;s:9:"		</ul>
+";i:180;s:8:"</div>
+";i:181;s:10:"<center>
+";i:182;s:34:"		<div style="margin-top:4px;">	
+";i:183;s:5:"			
+";i:184;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:185;s:33:"<script type='text/javascript'>
+";i:186;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:187;s:100:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/BearerOfBadNews");
+";i:188;s:11:"</script>
+";i:189;s:8:"</div>
+";i:190;s:2:"
+";i:191;s:11:"		</div>	
+";i:192;s:10:"		<div>	
+";i:193;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:194;s:6:"		 	
+";i:195;s:4:"		
+";i:196;s:4:"		
+";i:197;s:10:"		</div>
+";i:198;s:197:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/BearerOfBadNews">Laconic</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BearerOfBadNews">Main</a><br/>
+";i:199;s:9:"		<div>
+";i:200;s:10:"		</div>
+";i:201;s:36:"		<div style="font-size:x-small;">
+";i:202;s:11:"				<hr/>
+";i:203;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:204;s:14:"				<p> </p>
+";i:205;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:206;s:13:"				<p></p>
+";i:207;s:11:"				<ul >
+";i:208;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:209;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:210;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:211;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:212;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:213;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:214;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:215;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:216;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:217;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:219;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:220;s:11:"				</li>
+";i:221;s:11:"				</ul>
+";i:222;s:13:"				<p></p>
+";i:223;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:224;s:13:"				<p></p>
+";i:225;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:226;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:227;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:228;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:229;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:230;s:6:"				
+";i:231;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:232;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:233;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:234;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:235;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:236;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:237;s:6:"				
+";i:238;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:239;s:16:"				</li></ul>
+";i:240;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:241;s:13:"				<p></p>
+";i:242;s:11:"				<ul >
+";i:243;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:244;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:245;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:246;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:247;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:248;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:249;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:250;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:251;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:252;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:253;s:6:"				
+";i:254;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:255;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:256;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:257;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:258;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:259;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:260;s:6:"				
+";i:261;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:262;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:263;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:264;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:265;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:266;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:268;s:11:"				</li>
+";i:269;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:270;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:271;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:272;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:273;s:6:"				
+";i:274;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:275;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:276;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:278;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:279;s:16:"				</li></ul>
+";i:280;s:6:"				
+";i:281;s:13:"				<p></p>
+";i:282;s:39:"				<strong>Other Categories</strong>
+";i:283;s:13:"				<p></p>
+";i:284;s:10:"				<ul>
+";i:285;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:286;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:287;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:288;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:289;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:290;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:291;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:292;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:293;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:294;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:295;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:296;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:297;s:11:"				</ul>
+";i:298;s:11:"		</div>	
+";i:299;s:11:"</center>
+";i:300;s:2:"
+";i:301;s:30:"</div> <!-- wikileftpage -->
+";i:302;s:7:"</td>
+";i:303;s:20:"<td id='wikibody'>
+";i:304;s:2:"
+";i:305;s:21:"<!--PageTitleFmt-->
+";i:306;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:307;s:12:"    		<tr>
+";i:308;s:38:"    		<td id="wikicmds" align="top">
+";i:309;s:8:"    		
+";i:310;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:311;s:45:"    				<tr style="vertical-align:middle;">
+";i:312;s:31:"    					<td align="center" >
+";i:313;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:314;s:16:"    					</td>
+";i:315;s:15:"    				<td >
+";i:316;s:37:"    					<div style="width:400px;">
+";i:317;s:28:"                  <center>
+";i:318;s:27:"                  <table>
+";i:319;s:24:"                  <tr>
+";i:320;s:24:"                  <td>
+";i:321;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:322;s:27:"                    <div>
+";i:323;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:324;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:325;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:326;s:64:"                      <input type="text" name="q" size="31" />
+";i:327;s:28:"                    </div>
+";i:328;s:27:"                  </form>
+";i:329;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:330;s:25:"                  </td>
+";i:331;s:24:"                  <td>
+";i:332;s:46:"                  <div class="buttonframe" >
+";i:333;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:334;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:335;s:26:"                  </div>
+";i:336;s:25:"                  </div
+";i:337;s:25:"                  </td>
+";i:338;s:25:"                  </tr>
+";i:339;s:28:"                  </table>
+";i:340;s:29:"                  </center>
+";i:341;s:17:"    					</div>
+";i:342;s:15:"    				</td>
+";i:343;s:15:"    				</tr>
+";i:344;s:16:"    		</table>
+";i:345;s:8:"    		
+";i:346;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:347;s:10:"    				
+";i:348;s:27:"    				<tr valign="top">
+";i:349;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:350;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:351;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:352;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:353;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:354;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:355;s:15:"    				</tr>
+";i:356;s:10:"    				
+";i:357;s:10:"    				
+";i:358;s:8:"    		
+";i:359;s:16:"    		</table>
+";i:360;s:8:"    		
+";i:361;s:28:"    		<div id="wikilogo" >
+";i:362;s:16:"    		<center>
+";i:363;s:2:"
+";i:364;s:22:"<!-- leaderboard -->
+";i:365;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:366;s:33:"<script type='text/javascript'>
+";i:367;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:368;s:11:"</script>
+";i:369;s:8:"</div>
+";i:370;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:371;s:28:"    					<tr valign="top">
+";i:372;s:265:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'BearerOfBadNews');" autocomplete="off"  style="width:50px;"><option> </option><option value="Laconic">Laconic</option><option value="Main">Main</option></select></td>
+";i:373;s:270:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BearerOfBadNews?action=source" >source</a></div></div></td>
+";i:374;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:375;s:271:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.BearerOfBadNews">history</a></div></div></td>
+";i:376;s:273:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BearerOfBadNews?action=edit'> edit page</a></div></div></td>
+";i:377;s:269:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/BearerOfBadNews" >related</a></div></div></td>
+";i:378;s:38:"    							<td valign="middle"></td>
+";i:379;s:16:"    					</tr>
+";i:380;s:18:"    				</table>
+";i:381;s:10:"    				
+";i:382;s:35:"    				<div id="watchmsg"></div>
+";i:383;s:18:"    			</center>
+";i:384;s:13:"    		</td>
+";i:385;s:12:"     </tr>
+";i:386;s:6:"    
+";i:387;s:11:"    	<tr>
+";i:388;s:39:"    		<td id="wikititle" colspan="2">
+";i:389;s:40:"    				<div class="namespacebuttons">
+";i:390;s:875:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.BearerOfBadNews" >&nbsp;Discussion </a></li> <li class="namespace_li Laconic" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/BearerOfBadNews" class="textcolor">&nbsp;Laconic&nbsp;</a> </li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=BearerOfBadNews" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/BearerOfBadNews" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:391;s:16:"    				</div>
+";i:392;s:26:"    				<!--RepairBug-->
+";i:393;s:10:"    				
+";i:394;s:34:"    				<div class='pagetitle'> 
+";i:395;s:45:"    						  <span>Bearer of Bad News</span>
+";i:396;s:16:"    				</div>
+";i:397;s:11:"    				 
+";i:398;s:13:"    		</td>
+";i:399;s:12:"    	</tr>
+";i:400;s:10:"</table>
+";i:401;s:2:"
+";i:402;s:16:"<!--PageText-->
+";i:403;s:20:"<div id='wikitext'>
+";i:404;s:117:"<dl><dd><div class='indent'><em></em>Láthspell<em> I name you, Ill-news; and ill news is an ill guest they say.</em>
+";i:405;s:275:"</div><div class='indent'>&#8212; <strong>Grí­ma Wormtongue</strong>, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheLordOfTheRings' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheLordOfTheRings'>The Lord of the Rings</a></em>
+";i:406;s:85:"</div></dd></dl><p></p>Someone doesn't know the bad news. And you have to tell them.
+";i:407;s:424:"<p></p>When dealing with villains, may combine with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/YouHaveFailedMe' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/YouHaveFailedMe'>You Have Failed Me</a>, leading to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShootTheMessenger' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShootTheMessenger'>Shoot the Messenger</a>.
+";i:408;s:1577:"<p></p>When dealing with heroes, there is merely the horrible pain that you know you will inflict. In comic stories, it is often merely your imagination. In dramatic works, it is usually as bad, or worse, than you expect; the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BearerOfBadNews' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BearerOfBadNews'>Bearer of Bad News</a> often finds himself feeling that it was <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DirtyBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DirtyBusiness'>Dirty Business</a>. Euphemisms don't cut it, and only prolong your agony. On the other hand, being clear up front may lead to recriminations: <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadNewsInAGoodWay' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadNewsInAGoodWay'>why didn't you break it to him ''gently''?</a> You may have to cope with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ManlyTears' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ManlyTears'>Manly Tears</a>. Worse, you may find the character <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnableToCry' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnableToCry'>tearless</a> and not know how to cope. (And all this, perhaps, after you have <em>labored</em> to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BringNewsBack' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BringNewsBack'>Bring News Back</a>.)
+";i:409;s:1125:"<p></p>Characters who frequently bring bad news may be blamed for it, and regarded as actively unlucky. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TalkToTheFist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TalkToTheFist'>Talk to the Fist</a> is possible with hot-tempered recipients. If you're translating for such a character or a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadBoss' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadBoss'>Bad Boss</a> or <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a> type, you might want to try to do a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TactfulTranslation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TactfulTranslation'>Tactful Translation</a> in order to avoid the pain. Accusations of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MaliciousSlander' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MaliciousSlander'>Malicious Slander</a> may also follow.
+";i:410;s:525:"<p></p>The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Herald' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Herald'>Herald</a> and the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlmostDeadGuy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlmostDeadGuy'>Almost Dead Guy</a> are often <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BearerOfBadNews' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BearerOfBadNews'>bearers of bad news</a>.
+";i:411;s:268:"<p></p>In more lighthearted moments or comedic works, the bad news may merely be met with a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CollectiveGroan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CollectiveGroan'>Collective Groan</a>.
+";i:412;s:431:"<p></p>Often with a preamble of "You'd better sit down..." <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeDidntMakeIt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeDidntMakeIt'>He Didn't Make It</a> is one of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathNotification' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathNotification'>commonest</a>, and hardest.
+";i:413;s:733:"<p></p>A <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperTrope'>Super Trope</a> to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BreakingBadNewsGently' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BreakingBadNewsGently'>Breaking Bad News Gently</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadNewsInAGoodWay' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadNewsInAGoodWay'>Bad News in a Good Way</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoodNewsBadNews' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoodNewsBadNews'>Good News, Bad News</a>.
+";i:414;s:7:"<hr />
+";i:415;s:18:"<h2>Examples</h2>
+";i:416;s:331:"<p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a> &amp; <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Manga' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Manga'>Manga</a></span>
+";i:417;s:383:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/Monster' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/Monster'>Monster</a></em>, Tenma finds himself having to meet up with his ex-fiancee to let her know that her current love interest <span class="spoiler" title="you can set spoilers visible by default on your profile" >is dead</span>.
+";i:418;s:793:"</li><li> Subversion of sorts: Nobody in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/FullmetalAlchemist' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/FullmetalAlchemist'>Fullmetal Alchemist</a></em> wants to be the one to tell the Elric brothers that <span class="spoiler" title="you can set spoilers visible by default on your profile" >their friend, Lieutenant Colonel Maes Hughes, has been brutally murdered</span>. This is made even worse (for the reader) by juxtaposing scenes of the boys and their friend Winry laughing and having fun on a train at the same time that <span class="spoiler" title="you can set spoilers visible by default on your profile" >the funeral is taking place</span>. How do they finally find out? <em>From the newspaper</em>.
+";i:419;s:1057:"<ul ><li> In <em>Brotherhood</em>, an oblivious Edward asks Roy Mustang about <span class="spoiler" title="you can set spoilers visible by default on your profile" >Hughes</span>'s whereabouts; Mustang, having taken the situation hard himself, can't bring himself to tell Edward, and instead tells him that <span class="spoiler" title="you can set spoilers visible by default on your profile" >Hughes</span> decided to retire and move to the countryside. Edward takes the lie at face value, and decides to discuss it with Maria Ross when he bumps into her in the hallway. Ross, who wasn't privy to Mustang's lie, assumes Edward already knows the truth, and discusses it as such. The miscommunication doesn't sink in until Ross notes that <span class="spoiler" title="you can set spoilers visible by default on your profile" >Hughes was promoted two ranks posthumously</span> - which Edward realizes wouldn't happen to somebody who'd willingly <em>retired</em>. Ross is then forced to explain the truth to an increasingly distraught and guilt-ridden Edward.
+";i:420;s:691:"</li></ul></li><li> No one had the heart to inform Annerose von Grünwald about <span class="spoiler" title="you can set spoilers visible by default on your profile" > Siegfried Kircheis's death</span> in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/LegendOfGalacticHeroes' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/LegendOfGalacticHeroes'>Legend of Galactic Heroes</a></em>. Fortunately for them, Oberstein had already done that. In general, with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnyoneCanDie' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnyoneCanDie'>the rate of death</a> in the series, this happens often.
+";i:421;s:194:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Comics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Comics'>Comics</a></span>
+";i:422;s:329:"<ul ><li> The various Heralds of Galactus in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MarvelComics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MarvelComics'>Marvel Comics</a> are constantly bringing bad news to people. Usually of the "your planet is going to be eaten by a space god" variety.
+";i:423;s:188:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a></span>
+";i:424;s:1710:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ALeagueOfTheirOwn' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ALeagueOfTheirOwn'>A League of Their Own</a></em>, a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ObstructiveBureaucrat' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ObstructiveBureaucrat'>Western Union man would have been the bearer</a> (of <span class="spoiler" title="you can set spoilers visible by default on your profile" >Betty's husband's death</span>), but <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RulesLawyer' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RulesLawyer'>he treats it so disrespectfully</a><span class="notelabel" onclick="togglenote('note08l7e');"><sup>note&nbsp;</sup></span><span id="note08l7e" class="inlinefolder" isnote="true" onclick="togglenote('note08l7e');" style="cursor:pointer;font-size:smaller;display:none;">He forgot the form the recipient had to sign after he came into the locker room and was going to leave to collect it leaving the ladies not knowing who was the recipient</span> that Dugan kicks him out and shouldered the duty himself.<span class="notelabel" onclick="togglenote('note1mgch');"><sup>note&nbsp;</sup></span><span id="note1mgch" class="inlinefolder" isnote="true" onclick="togglenote('note1mgch');" style="cursor:pointer;font-size:smaller;display:none;">Then again, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WildMassGuessing' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WildMassGuessing'>Jimmy might've forced the issue knowing if it waited, it would've been a distraction to the team.</a></span>
+";i:425;s:177:"</li><li> The premise of <em>The Messenger</em> (2009), about an American army officer whose job is to inform the relatives of soldiers that their loved ones have died in Iraq.
+";i:426;s:1177:"</li><li> The taxi cab driver in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WeWereSoldiers' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WeWereSoldiers'>We Were Soldiers</a></em>. Mrs. Moore is not pleased when he scares her by coming to her door with the telegram, only to ask for directions to another house. He sadly replies that <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TearJerker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TearJerker'>he didn't want that job, he's just trying to do it.</a> <span class="notelabel" onclick="togglenote('note2qjgv');"><sup>note&nbsp;</sup></span><span id="note2qjgv" class="inlinefolder" isnote="true" onclick="togglenote('note2qjgv');" style="cursor:pointer;font-size:smaller;display:none;"> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth in Television</a>, tragically enough. Consider that the guys who deliver those messages in the military are specially trained to deal with the consequences of this trope, while taxi cab drivers are not.</span>
+";i:427;s:690:"</li><li> This is one of the duties of Robert Sean Leonard's character in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SwingKids' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SwingKids'>Swing Kids</a></em>, as part of his Nazi training. Thing is, he doesn't actually <em>know</em> that he's delivering bad news - he's just delivering boxes. When one of the recipients screams after opening hers, he opens the one he has yet to deliver and sees that <span class="spoiler" title="you can set spoilers visible by default on your profile" >he's bringing Jewish widows - who had been <em>unaware that they were widows</em> - the ashes of their husbands</span>.
+";i:428;s:206:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a></span>
+";i:429;s:524:"<ul ><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/DanAbnett' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/DanAbnett'>Dan Abnett</a>'s <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/GauntsGhosts' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/GauntsGhosts'>Gaunt's Ghosts</a> novel <em>Only In Death</em>, when Ludd and Beltayn had just managed to secure the water they desperately needed, Rawne had had to break the bad news from the battle.
+";i:430;s:188:"<div class='indent'><em>Ludd and Beltayn had been so proud of their achievement. Rawne had taken no pleasure in wiping the smiles off their faces and the triumph out of their hearts.</em>
+";i:431;s:510:"</div></li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/JRRTolkien' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/JRRTolkien'>J.R.R. Tolkien</a>'s <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheLordOfTheRings' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheLordOfTheRings'>The Lord of the Rings</a></em>, Grí­ma Wormtongue dubs Gandalf "Láthspell" &#8212; ill news &#8212; because of his way of arriving with bad news.
+";i:432;s:121:"<ul ><li> He's also nicknamed "Stormcrow" due to his reputation for showing up just as things are about to get very bad.
+";i:433;s:104:"<ul ><li> Denethor also professes his dislike of Gandalf for the same reasons, though less aggressively
+";i:434;s:611:"</li></ul></li></ul></li><li> There's also a true <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BearerOfBadNews' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BearerOfBadNews'>Bearer of Bad News</a> in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheLordOfTheRings' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheLordOfTheRings'>The Lord of the Rings</a></em>: Frodo himself. The Ring itself is a harbinger of the upcoming war, but even if Frodo succeeds, many of the people he meets will be killed or dispossessed by the consequences.
+";i:435;s:103:"<dl><dd><div class='indent'><strong>Galadriel:</strong> "Thy coming to us is as the footstep of doom."
+";i:436;s:1415:"</div></dd></dl></li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JamesSwallow' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JamesSwallow'>James Swallow</a>'s <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Warhammer40000' title='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Warhammer40000'>Warhammer 40000</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorusHeresy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorusHeresy'>Horus Heresy</a> novel <em>The Flight of the Eisenstein</em>, <span class="spoiler" title="you can set spoilers visible by default on your profile" >Dorn</span> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TalkToTheFist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TalkToTheFist'>strikes</a> Garro for the news he brought. <span class="spoiler" title="you can set spoilers visible by default on your profile" >Then, as Qruze <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WithDueRespect' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WithDueRespect'>pointed out</a>, Dorn had clearly held the blow, which could have killed Garro, because he wanted to hear it all. He listens to the rest, and accuses him of insanity. When Garro accuses him of blindness, he decides to execute him. Only Keller's intervention saves him.</span>
+";i:437;s:577:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheBible' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheBible'>The Bible</a>, David gets word from his military that his rebellious son is dead, and goes into a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicBlueScreenOfDeath' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicBlueScreenOfDeath'>Heroic Blue Screen Of Death</a>. The messengers repeatedly try to avoid the issue, afraid they'll be killed, but David just goes into mourning.
+";i:438;s:646:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SandyMitchell' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SandyMitchell'>Sandy Mitchell</a>'s <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CiaphasCain' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CiaphasCain'>Ciaphas Cain</a> novel <em>Death or Glory</em>, Kolfax comes to tell Cain that <span class="spoiler" title="you can set spoilers visible by default on your profile" >the first possible waterhole has no water</span> in person; Cain explicitly observes that he does not want to be the bearer of bad news over the vox.
+";i:439;s:693:"</li><li> In Gav Thorpe's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Warhammer40000' title='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Warhammer40000'>Warhammer 40000</a> short story "Renegades" after the company goes renegade, they find that Rykhel launched a saviour pod to get away from them; the captain is angry that he did not stand up and face him, but Rykhel is determined to bring back news of their treachery and murders. (The captain thinks <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoOneCouldSurviveThat' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoOneCouldSurviveThat'>No One Could Survive That</a>.)
+";i:440;s:1090:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/XWingSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/XWingSeries'>Wraith Squadron</a></em>, Wedge Antilles has to compose and send a letter to Admiral Ackbar explaining that <span class="spoiler" title="you can set spoilers visible by default on your profile" > his niece Jesmin Ackbar</span> died in combat. He's shown agonizing over the phrasing of the opening line; among other things he rejects "I'm afraid this letter comes as the bearer of bad news". In the end Wedge spends the entire night on the letter, thinking with a faint pride that at least <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItNeverGetsAnyEasier' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItNeverGetsAnyEasier'>It Never Gets Any Easier</a>, because he <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheChainsOfCommanding' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheChainsOfCommanding'>never gets deadened to or glib about the deaths of his people</a>.
+";i:441;s:1234:"<ul ><li> Later in the series, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragon'>General Melvar</a> has to bring <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Zsinj</a> some very bad news: not only has a deathtrap failed to kill Wraith Squadron (or even any of its members), but they have managed to take one of his key personnel alive. In a subversion of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/YouHaveFailedMe' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/YouHaveFailedMe'>You Have Failed Me</a> (and an inversion of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShootTheMessenger' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShootTheMessenger'>Shoot the Messenger</a>), Zsinj has an epic <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VillainousBreakdown' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VillainousBreakdown'>Villainous Breakdown</a> where he destroys practically everything in his office <em>but</em> the person who brought him the bad news.
+";i:442;s:281:"<div class='indent'><strong><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker'>General Melvar</a>:</strong> Will you be wanting your office restored, or do you wish to redecorate?
+";i:443;s:444:"</div></li></ul></li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WenSpencer' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WenSpencer'>Wen Spencer</a>'s <em>Endless Blue</em>, Mikhail recognizes the bearers of bad news by their expressions. <span class="spoiler" title="you can set spoilers visible by default on your profile" >They confirm that Turk was murdered, rather than dying in an accident.</span>
+";i:444;s:772:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BenCounter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BenCounter'>Ben Counter</a>'s <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Warhammer40000' title='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Warhammer40000'>Warhammer 40000</a> novel <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/SoulDrinkers' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/SoulDrinkers'>Hell-Forged</a></em>, despite Lygris's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FrozenFace' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FrozenFace'>Frozen Face</a>, Sarpedon can tell he brought bad news.
+";i:445;s:870:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JamesSwallow' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JamesSwallow'>James Swallow</a>'s <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Warhammer40000' title='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Warhammer40000'>Warhammer 40000</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/BloodAngels' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/BloodAngels'>Blood Angels</a> novel <em>Deus Sanguinius</em>, Mephiston meets Dante in the garden to bring him news &#8212; and Dante knows it's bad at once. Mephiston tells him that Vode, Gallio, and all Gallio's men are dead; Dante tries to deny the obvious implication, thinking of other possibilities than that they were killed by fellow Blood Angels.
+";i:446;s:404:"<ul ><li> Later, Stele brings Arkio news of why the power plant failed and warns him that it was hard. Arkio is angry that he tries to shelter him &#8212; and then still more angry as Stele tells him that it was an attempt to kill them all by having the plant blow up. Arkio guesses the saboteur was a Word Bearer or other renegade, and Stele tells him it was not only a Blood Angel but his own brother.
+";i:447;s:1004:"</li></ul></li><li> In the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Discworld' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Discworld'>Discworld</a> book <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/NightWatch' title='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/NightWatch'>Night Watch</a></em>, Nobby Nobbs is <em>never</em> allowed to be this, due to what is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoodleIncident' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoodleIncident'>only referred to</a> as "the "bet you a dollar you're the widow Jackson" nonsense".<span class="notelabel" onclick="togglenote('note3ebkj');"><sup>note&nbsp;</sup></span><span id="note3ebkj" class="inlinefolder" isnote="true" onclick="togglenote('note3ebkj');" style="cursor:pointer;font-size:smaller;display:none;">i.e., "I'm looking for the Widow Jackson", "She ain't a Widow", "Bet you a dollar".</span>
+";i:448;s:522:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/AaronAllston' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/AaronAllston'>Aaron Allston</a>'s <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/GalateaIn2D' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/GalateaIn2D'>Galatea In 2 D</a></em>, Roger proves to Donna that she's not going insane, but this entails that her ex-husband is trying to drive her insane. She is angry about the news.
+";i:449;s:255:"</li><li> In Andy Hoare's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhiteScars' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhiteScars'>White Scars</a> novel <em>Hunt for Voldorius</em>, Skall is desperate to avoid this.
+";i:450;s:209:"</li><li> From <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/MostlyHarmless' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/MostlyHarmless'>Mostly Harmless</a></em>:
+";i:451;s:396:"<div class='indent'>Nothing travels faster than the speed of light with the possible exception of bad news, which obeys its own special laws. The Hingefreel people of Arkintoofle Minor did try to build spaceships that were powered by bad news but they didn't work particularly well and were so extremely unwelcome whenever they arrived anywhere that there wasn't really any point in being there.
+";i:452;s:656:"</div></li><li> Toward the end of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Elenium' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Elenium'>Elenium</a> trilogy, Sparhawk dreads having to deliver the news of <span class="spoiler" title="you can set spoilers visible by default on your profile" >his squire Kurik's death to his wife</span>. He reaches the house only to find that she already knows, having received the information from another <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BearerOfBadNews' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BearerOfBadNews'>Bearer of Bad News</a>.
+";i:453;s:519:"</li><li> In the ballad <em>Gorm Grymme</em> by the German writer Theodor Fontane, king Gorm of Denmark loves his son Harald dearly and one yule day he tells his vassals that anyone who brought him the news of his son's death would die within an hour. So when Harald is killed in battle, nobody wants to inform the king. Queen Thyra then manages to convey the message to Gorm without words, by taking off her jewelry, dressing in black, lighting twelve candles and covering the great hall and throne with black drapes.
+";i:454;s:389:"</li><li> In Teresa Frohock's <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/MiserereAnAutumnTale' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/MiserereAnAutumnTale'>Miserere An Autumn Tale</a></em>, Lindsey's brother dies, but it's several chapters before Raechel, who knows, connects with her. Then she has Lucian do it, since he's her Elder.
+";i:455;s:897:"</li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkestPowers' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkestPowers'>Darkest Powers</a></em> series, Chloe, <span class="spoiler" title="you can set spoilers visible by default on your profile" >being a necromancer</span>, is the one who has to break the news to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenkiGirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenkiGirl'>Liz</a> that <span class="spoiler" title="you can set spoilers visible by default on your profile" >she (Liz) is dead</span>. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CliffHanger' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CliffHanger'>The book ends just before Chloe tells her</a>. The second book reveals that, understandably, Liz didn't take it well.
+";i:456;s:118:"<div class='indent'><strong>Chloe:</strong> [<em>takes a deep breath</em>] Liz? There's something I need to tell you.
+";i:457;s:220:"</div></li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LiveActionTV' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LiveActionTV'>Live-Action TV</a></span>
+";i:458;s:458:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Blackadder' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Blackadder'>Blackadder</a></em>: <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AvertedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AvertedTrope'>Averted Trope</a> in the first season, as the King (Brian Blessed) receives a messenger who tells him that "Lord Wessex is dead.":
+";i:459;s:88:"<div class='indent'> <strong>King</strong>: I like not this news. Bring me better news.
+";i:460;s:87:"</div><div class='indent'> <strong>Messenger</strong>: Err... Lord Wessex is not dead?
+";i:461;s:80:"</div><div class='indent'> <strong>King</strong>: Aha! This news I like better!
+";i:462;s:255:"</div></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/CriminalMinds' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/CriminalMinds'>Criminal Minds</a></em>: This is actually part of JJ's <em>job description</em>.
+";i:463;s:448:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Dexter' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Dexter'>Dexter</a></em>: Dexter, not normally known for his tact, botches this horribly when he has to tell his stepkids, Astor and Cody <span class="spoiler" title="you can set spoilers visible by default on your profile" > that their mother has been murdered</span>. While wearing Mickey Mouse ears.
+";i:464;s:394:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheGoodies' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheGoodies'>The Goodies</a></em>: In the episode "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEndOfTheWorldAsWeKnowIt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEndOfTheWorldAsWeKnowIt'>Earthanasia</a>":
+";i:465;s:193:"<div class='indent'><strong>Bill</strong>: As you well know tomorrow never comes and do you know why? Because, little dewy eyed Timbo, tomorrow we'll all be dead! Dead, dead! D! E! E! D! DEAD!
+";i:466;s:91:"</div><div class='indent'><strong>Graeme</strong>: You might have broken it to him gently.
+";i:467;s:326:"</div></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/JAG' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/JAG'>JAG</a></em>: In “Critical Condition” Admiral Chegwidden has to tell Bud’s wife Harriet that her husband stepped on a landmine in Afghanistan and is in critical condition.
+";i:468;s:193:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ManStrokeWoman' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ManStrokeWoman'>Man Stroke Woman</a></em>:
+";i:469;s:501:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AvertedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AvertedTrope'>Averted Trope</a>. A doctor tells his patient that they have her test results. He asks " May I be blunt with you?" to which she responds "No.". He looks confused and struggles of what to say. Finally he says, " Well, everything is fine. You're not gonna die!" She is very happy with this information and leaves as the doctor sighs to himself.
+";i:470;s:238:"</li><li> In another episode, a doctor sits in his patient's lap and tells her that her father is dead. As she cries, the doctor calls someone on speaker phone and tells a friend that sitting on the lap didn't work. She was still crying.
+";i:471;s:178:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Mash' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Mash'>M*A*S*H</a></em>:
+";i:472;s:52:"<ul ><li> Radar, in the episode "Abyssinia, Henry":
+";i:473;s:173:"</li></ul><div class='indent'> "I have a message...Lieutenant Colonel...Henry Blake's plane...was shot down...over the Sea of Japan...it spun in...there were no survivors."
+";i:474;s:462:"</div><ul ><li> In a later episode, a soldier dies in an ambulance wreck; he was the driver, had been called out on his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DrivesLikeCrazy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DrivesLikeCrazy'>Drives Like Crazy</a> tendencies before, and was responsible for the wreck. Radar brings in a suggested draft of the letter to the soldier's parents that puts the death in a kinder light.
+";i:475;s:76:"<div class='indent'> <strong>Colonel Potter</strong>: Don't change a thing.
+";i:476;s:181:"</div></li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/NCIS' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/NCIS'>NCIS</a></em>:
+";i:477;s:278:"<ul ><li> In the pilot episode "Yankee White", Gibbs finds out that Caitlin Todd's ex died shortly after meeting with her. He takes her aside and drops the news bluntly into the middle of their conversation, so that he can observe her reaction and gauge her guilt or innocence.
+";i:478;s:407:"</li><li> Happens also when <span class="spoiler" title="you can set spoilers visible by default on your profile" > Director Jenny Sheppard is killed</span> and Ducky is told by phone, and then has to tell Abby and McGee. And again in season six, when Gibbs has to tell <span class="spoiler" title="you can set spoilers visible by default on your profile" > Michelle Lee's daughter that Lee is dead</span>.
+";i:479;s:309:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/ParksAndRecreation' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/ParksAndRecreation'>Parks and Recreation</a></em>: The upbeat Chris doesn't like to give bad news. Fortunately, he has Ben to do it for him.
+";i:480;s:577:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Revolution' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Revolution'>Revolution</a></em>: In the episode "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Recap/RevolutionS1E8TiesThatBind' title='http://tvtropes.org/pmwiki/pmwiki.php/Recap/RevolutionS1E8TiesThatBind'>Ties That Bind</a>", Corporal Lawrence has to tell the bad news to Sergeant Strausser that they failed to capture Miles Matheson. Strausser, being a sociopath, responds by stabbing Lawrence to death.
+";i:481;s:675:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/StargateSG1' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/StargateSG1'>Stargate SG-1</a></em>: Major Paul Davis is nicknamed "Disaster Davis" by the fans, as he usually appears with bad news, sometimes at bad times with even worse news. This is a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JustifiedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JustifiedTrope'>Justified Trope</a> by the nature of his character however, he's the liaison between the Pentagon and Stargate Command, so he is really only ever sent when the Pentagon has bad news.
+";i:482;s:1000:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheWestWing' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheWestWing'>The West Wing</a></em>: Bartlet's best friend and chief of staff Leo has to bring him two of the worst pieces of news of his life: once that Mrs. Landingham, his beloved secretary, has been killed in a car accident, and the other time that his youngest daughter Zoey has been kidnapped. Notably, there is no sound in either of these scenes. In the final season, it's C.J. who has to tell him that Leo has died of a heart attack. Another moment, featuring severe <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoodWhiplash' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoodWhiplash'>Mood Whiplash</a>, is in a flashback to the Bartlet campaign's first big victory at the Illinois primary, when Donna (who's only recently started working for Josh) has to interrupt his celebrating to tell him his father died.
+";i:483;s:191:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Music' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Music'>Music</a></span>
+";i:484;s:68:"<ul ><li> "Bad News and Bad Breaks" by the Mighty Mighty Bosstones:
+";i:485;s:50:"<div class='indent'>Bad news, if he could choose,
+";i:486;s:60:"</div><div class='indent'>Would he refuse to be the bearer?
+";i:487;s:53:"</div><div class='indent'>It seems what he has to do
+";i:488;s:52:"</div><div class='indent'>Could not be any clearer.
+";i:489;s:55:"</div><div class='indent'>It's a job he can't neglect.
+";i:490;s:56:"</div><div class='indent'>Its consequences will affect.
+";i:491;s:62:"</div><div class='indent'>I'm glad that I'm not in his shoes.
+";i:492;s:55:"</div><div class='indent'>He's the bearer of bad news.
+";i:493;s:43:"</div><div class='indent'>What can you do?
+";i:494;s:54:"</div><div class='indent'>He's got an ugly job to do!
+";i:495;s:223:"</div></li></ul><p></p><span class="asscaps" > <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a></span>
+";i:496;s:556:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWizardOfId' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWizardOfId'>The Wizard of Id</a></em>. The King, aware that his useless knight Sir Rodney is bringing news of his defeat, reminds him of the old Roman custom in which the bearer of bad tidings was put to death. A sweating Rodney replies with the 'joyous' news that one of the King's more awful provinces with its rebellious peasants, stinking swamps (etc, etc) has been given to the Huns to worry about.
+";i:497;s:197:"</li></ul><p></p><span class="asscaps" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theatre' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theatre'>Theatre</a></span>
+";i:498;s:361:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/RowanAtkinson' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/RowanAtkinson'>Rowan Atkinson</a> in <em>Pink Tights and Plenty of Props</em>, had the Bearer of Bad News, followed by the Bearer of Indifferent News, and then the Bearer of Bad News Who Thinks It's Good News.
+";i:499;s:329:"<ul ><li> Watch <a class='urllink' href='http://www.youtube.com/watch?v=D9Ei_hTwjAo=related'>this<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> (from 2:21) for some insight into the role of messengers in Elizabethan theatre. According to Rowan Atkinson.
+";i:500;s:534:"</li></ul><p></p></li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/WilliamShakespeare' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/WilliamShakespeare'>William Shakespeare</a>'s <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Theatre/Macbeth' title='http://tvtropes.org/pmwiki/pmwiki.php/Theatre/Macbeth'>Macbeth</a></em>, Ross must bring MacDuff the news that his wife and children were all killed. And Seyton brings Macbeth the news that his wife has killed herself.
+";i:501;s:440:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntonyAndCleopatra' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntonyAndCleopatra'>Antony And Cleopatra</a>, a messenger has to tell Cleopatra that Antony has remarried. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShootTheMessenger' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShootTheMessenger'>She is not happy</a>.
+";i:502;s:125:"<ul ><li> An earlier scene has a messenger that lampshades this trope and foreshadows the beating that Cleopatra would give.
+";i:503;s:482:"</li></ul></li><li> This is the entire purpose of messengers in classical tragedy. And they're usually <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpearCarrier' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpearCarrier'>Spear Carriers</a>, to boot. Sometimes they can be upgraded to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BitCharacter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BitCharacter'>Bit Characters</a>.
+";i:504;s:249:"</li><li> Subverted in George Bernard Shaw's <em>Caesar and Cleopatra</em>, where the garrison of a border post receives a bearer of evil tidings with much fuss and honour. A Persian mercenary expresses surprise at this, and his commander explains:
+";i:505;s:419:"<div class='indent'><strong>Belzanor:</strong> O barbarous Persian, hear my instruction. In Egypt the bearer of good tidings is sacrificed to the gods as a thank offering; but no god will accept the blood of the messenger of evil. When we have good tidings, we are careful to send them in the mouth of the cheapest slave we can find. Evil tidings are borne by young noblemen who desire to bring themselves into notice.
+";i:506;s:342:"</div></li><li> A slightly bizarre example occurs in Goethe's <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Theatre/Faust' title='http://tvtropes.org/pmwiki/pmwiki.php/Theatre/Faust'>Faust</a></em>, where Mephisto informs a widow: "Ihr Mann ist tot, und läßt Sie grüßen" ("Your husband is dead and sends his regards").
+";i:507;s:208:"</li></ul><p></p><span class="asscaps" > <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGames'>Video Games</a></span>
+";i:508;s:775:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Mother3' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Mother3'>Mother 3</a></em> has a very <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoodWhiplash' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoodWhiplash'>sad</a> example: <span class="spoiler" title="you can set spoilers visible by default on your profile" > So the forest's burning and everyone is looking for Flint's family. A search is organized for his wife. When the kids are finally found, a neighbour wants to tell Flint some news. The good news? They found an awesome Drago Fang that would make a great weapon! The bad news? <em>It was found lodged in his wife's heart.</em></span>
+";i:509;s:529:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Pokemon' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Pokemon'>Pokémon</a></em>, Absol is noted under its Pokedex entry to be able to sense disaster and attempts to warn others of its arrival. Unfortunately for it, it frequently gets mistaken as causing said disaster. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWoobie' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWoobie'>Poor Absol</a>.
+";i:510;s:496:"</li><li> Much like Wedge, above, the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MassEffect2' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MassEffect2'>Mass Effect 2</a></em> DLC pack "Lair of the Shadow Broker" includes a file on Tali writing and rewriting the letter to the parents of someone who was killed serving with her. She even uses some similar lines - trying not to be trite, finding the right balance between distance and closeness, etc.
+";i:511;s:611:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MassEffect3' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MassEffect3'>Mass Effect 3</a></em>, Shepard has to tell the asari councilor that not only did s/he fail to retrieve important data that could have turned the tide in a very one-sided war with the Reapers, but also that s/he failed <span class="spoiler" title="you can set spoilers visible by default on your profile" >to prevent the fall of Thessia, the asari homeworld</span>. It takes him/her a minute before s/he's finally able to get it all out.
+";i:512;s:405:"</li></ul></li><li> This is actually the name of a mission in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Borderlands2' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Borderlands2'>Borderlands 2</a>, where the player must tell the folks of Sanctuary about <span class="spoiler" title="you can set spoilers visible by default on your profile" >Roland's death</span>.
+";i:513;s:214:"</li></ul><p></p><span class="asscaps" > <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WebAnimation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WebAnimation'>Web Animation</a></span>
+";i:514;s:1092:"<ul ><li> According to the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WebAnimation/HomestarRunner' title='http://tvtropes.org/pmwiki/pmwiki.php/WebAnimation/HomestarRunner'>Strong Bad Email</a> <a class='urllink' href='http://www.homestarrunner.com/sbemail126.html'>"best thing"<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>, this was apparently going to be a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RunningGag' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RunningGag'>Running Gag</a> on the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BandToon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BandToon'>Band Toon</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowWithinAShow' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowWithinAShow'>Within A Toon</a> "Limozeen: But They're In Space!", with manager Teeg Dougland preceding exposition with the line "I'm afraid I've got some bad news, boys..."
+";i:515;s:202:"</li></ul><p></p><span class="asscaps" > <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WebComic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WebComic'>Web Comic</a></span>
+";i:516;s:431:"<ul ><li> Taylor, aka Labor Day, is this when he has tell the protagonist of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayWars' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayWars'>Holiday Wars</a> that the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EasterBunny' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EasterBunny'>Easter Bunny</a> is out to get her.
+";i:517;s:688:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SomethingPositive' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SomethingPositive'>Something Positive</a></em>, Davan - who <em>has</em> to be the one to do it because he's the only one who knows - takes on the duty of informing his sisters and his two closest friends (who might as well be his sisters too) that his father, Fred, has Alzheimer's disease. He gives them this information immediately after <span class="spoiler" title="you can set spoilers visible by default on your profile" >his mother's funeral, his mother having died without ever finding out that her husband was sick</span>.
+";i:518;s:618:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ImpureBlood' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ImpureBlood'>Impure Blood</a></em>, <a class='urllink' href='http://www.impurebloodwebcomic.com/Pages/Issue05PAGES/ib109.html'>Jaem has to tell his mother and sister<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> that he's the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SoleSurvivor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SoleSurvivor'>Sole Survivor</a>.
+";i:519;s:662:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Sinfest' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Sinfest'>Sinfest</a></em>, <a class='urllink' href='http://www.sinfest.net/archive_page.php?comicID=4300'>the enlightened drones start to repeat a threatening message -- but things go awry.<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Satan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Satan'>Satan</a> would probably prefer the message to the drone's behavior.)
+";i:520;s:218:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/TheOrderOfTheStick' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/TheOrderOfTheStick'>The Order of the Stick</a></em>,
+";i:521;s:245:"<ul ><li> Halley has to tell Celia of <span class="spoiler" title="you can set spoilers visible by default on your profile" >Roy's death. She takes it better than Halley had thought; after all, it still means they are only a spell apart.</span>
+";i:522;s:284:"</li><li> <a class='urllink' href='http://www.giantitp.com/comics/oots0880.html'>Belkar's turn as this is enough for him to act serious and sober for the message.<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>
+";i:523;s:236:"</li></ul></li></ul><p></p><span class="asscaps" > <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WesternAnimation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WesternAnimation'>Western Animation</a></span>
+";i:524;s:200:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Futurama' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Futurama'>Good news, everyone!!</a>
+";i:525;s:199:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy'>Uh-oh, I don't like the sound of that...</a>
+";i:526;s:264:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AvatarTheLastAirbender' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AvatarTheLastAirbender'>I don't think boomerang is coming back, Toph...</a>
+";i:527;s:220:"</li><li> This is Butch's main role in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Recess' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Recess'>Recess</a></em>.
+";i:528;s:40:"<ul ><li> Randall can do this sometimes
+";i:529;s:1088:"</li></ul></li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Thundercats2011' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Thundercats2011'>ThunderCats (2011)</a></em> prodigal <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FourStarBadass' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FourStarBadass'>Four Star Badass</a> Grune <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathNotification' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathNotification'>informs</a> his king Claudus of mutual friend and fellow general Panthro's death with a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeDidntMakeIt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeDidntMakeIt'>headshake</a>, and melancholic praise for his skill in battle. Then he hands over a single <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TragicKeepsake' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TragicKeepsake'>nunchacku</a> of Panthro's.
+";i:530;s:590:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/YoungJustice' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/YoungJustice'>Young Justice</a>, when everyone is mourning the death of Artemis, a few people angrily wonder why Nightwing isn't here. When they're told that he's gone to break the news to her boyfriend, Wally, there expressions turn to one of pain and sympathy. <span class="spoiler" title="you can set spoilers visible by default on your profile" > Sure, he wasn't actually going to do that at all, but still.</span>
+";i:531;s:24:"</li></ul><p></p><hr />
+";i:532;s:1985:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BeardOfSorrow">Beard of Sorrow</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SadnessTropes">Sadness Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BerserkerTears">Berserker Tears</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BeamMeUpScotty">Beam Me Up, Scotty!</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue">Dialogue</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/TheBechdelTest">The Bechdel Test</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BastardBastard">Bastard Bastard</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PagesNeedingImages">Pages Needing Images</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BeastFable">Beast Fable</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheBeard">The Beard</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice">Characters as Device</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BeastMan">Beast Man</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:533;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:534;s:10:"<p> </p>
+";i:535;s:10:"<center>
+";i:536;s:2:"
+";i:537;s:24:"<!-- med rectangle -->
+";i:538;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:539;s:33:"<script type='text/javascript'>
+";i:540;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:541;s:11:"</script>
+";i:542;s:8:"</div>
+";i:543;s:2:"
+";i:544;s:11:"</center>
+";i:545;s:24:"</td><!-- wikibody -->
+";i:546;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:547;s:7:"</td>
+";i:548;s:7:"</tr>
+";i:549;s:10:"</table>
+";i:550;s:22:"<!--PageFooterFmt-->
+";i:551;s:77:"<div class="alt_title" style="font-size:x-small;text-align:center;" ></div>
+";i:552;s:10:"<center>
+";i:553;s:44:"<table style="width:606px;margin:0 auto;">
+";i:554;s:7:"	<tr>
+";i:555;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:556;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:557;s:264:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BearerOfBadNews?action=edit'> edit page</a></div></div></td>
+";i:558;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:559;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:560;s:8:"	</tr>
+";i:561;s:10:"</table>
+";i:562;s:11:"</center>
+";i:563;s:21:"<div id='wikifoot'>
+";i:564;s:27:"    <div class='footnav'>
+";i:565;s:2:"
+";i:566;s:14:"			 <center>
+";i:567;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:568;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:569;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:570;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:571;s:15:"				</center>
+";i:572;s:2:"
+";i:573;s:29:"    </div><!-- wikifoot -->
+";i:574;s:23:"<!--/PageFooterFmt-->
+";i:575;s:12:"52589<br/>
+";i:576;s:3:"2
+";i:577;s:8:"</div>
+";i:578;s:26:"</div><!-- container -->
+";i:579;s:2:"
+";i:580;s:9:"</body>
+";i:581;s:21:"<!--ScriptInsert-->
+";i:582;s:9:"</html>
+";}}

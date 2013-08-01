@@ -1,0 +1,529 @@
+a:2:{i:0;i:1377888498;i:1;a:528:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:74:"<title>Because I'm Good At It - Television Tropes &amp; Idioms  </title>
+";i:5;s:139:"<meta name="Description" content="The Because Im Good At It trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:2:"
+";i:25;s:10:"</style>
+";i:26;s:2:"
+";i:27;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:28;s:33:"<script type="text/javascript">
+";i:29;s:26:"  var _gaq = _gaq || [];
+";i:30;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:31;s:34:"  _gaq.push(['_trackPageview']);
+";i:32;s:2:"
+";i:33;s:17:"  (function() {
+";i:34;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:35;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:36;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:37;s:9:"  })();
+";i:38;s:2:"
+";i:39;s:32:"	function subpage(sel, title){
+";i:40;s:4:"		
+";i:41;s:40:"		var namespce = ""+getselection(sel);
+";i:42;s:34:"		if(namespce.trim()=="")return;
+";i:43;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:44;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:45;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:46;s:29:"		window.location.href=url;
+";i:47;s:4:"	}
+";i:48;s:32:"	function p5(groupname,title){
+";i:49;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:50;s:4:"	}
+";i:51;s:27:"	function togglenote(id){
+";i:52;s:23:"		var ele=object(id);
+";i:53;s:34:"		var state = ele.style.display;
+";i:54;s:49:"		if(state=='none') ele.style.display='inline';
+";i:55;s:48:"		if(state=='inline')ele.style.display='none';
+";i:56;s:4:"	}
+";i:57;s:35:"	var googletag = googletag || {};
+";i:58;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:59;s:16:"	(function() {
+";i:60;s:47:"	var gads = document.createElement('script');
+";i:61;s:21:"	gads.async = true;
+";i:62;s:33:"	gads.type = 'text/javascript';
+";i:63;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:64;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:65;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:66;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:67;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:68;s:8:"	})();
+";i:69;s:2:"
+";i:70;s:34:"	googletag.cmd.push(function() {
+";i:71;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:73;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:74;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:75;s:45:"		googletag.pubads().enableSingleRequest();
+";i:76;s:31:"		googletag.enableServices();
+";i:77;s:6:"	});
+";i:78;s:2:"
+";i:79;s:11:"</script>
+";i:80;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:81;s:2:"
+";i:82;s:9:"</head>
+";i:83;s:8:"<body>
+";i:84;s:40:"<div class="container" id="container">
+";i:85;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:86;s:6:"<tr>
+";i:87;s:46:"<td style="width:166px;vertical-align:top;">
+";i:88;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:89;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:90;s:38:"<g:plusone size="small"></g:plusone>
+";i:91;s:2:"
+";i:92;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:93;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:94;s:6:"<ul>
+";i:95;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:96;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:97;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:98;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:99;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:100;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:101;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:102;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:103;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:104;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:105;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:106;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:107;s:7:"</ul>
+";i:108;s:8:"</div>
+";i:109;s:2:"
+";i:110;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:111;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:112;s:2:"
+";i:113;s:188:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','BecauseImGoodAtIt');">send request</button><hr/></div>
+";i:114;s:2:"
+";i:115;s:329:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="BecauseImGoodAtIt" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:116;s:2:"
+";i:117;s:51:"<div style="font-size:small;text-align:center;" >
+";i:118;s:30:"Find recent edits by troper:
+";i:119;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:120;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:121;s:8:"</div>
+";i:122;s:7:"<hr/>
+";i:123;s:7:"<ul>	
+";i:124;s:4:"		
+";i:125;s:7:"<hr/>
+";i:126;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:127;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:128;s:66:"		<input type="hidden" name="title" value="BecauseImGoodAtIt" />
+";i:129;s:54:"		This article needs some moderator assistance with:
+";i:130;s:9:"		<br/>
+";i:131;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:132;s:9:"		<br/>
+";i:133;s:4:"		
+";i:134;s:34:"		<p style="text-align:center;">
+";i:135;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:136;s:8:"		</p>
+";i:137;s:34:"		<p style="text-align:center;">
+";i:138;s:48:"			<input type="submit" value="send report" />
+";i:139;s:8:"		</p>
+";i:140;s:11:"		</form>
+";i:141;s:7:"<hr/>
+";i:142;s:6:"<ul>
+";i:143;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:144;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:145;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:146;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:147;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:148;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:149;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:150;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:151;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:152;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:153;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:154;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:155;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:156;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:157;s:146:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.BecauseImGoodAtIt'>Referral Count for This Page</a></li>
+";i:158;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:159;s:121:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=BecauseImGoodAtIt'>Article Relationships</a></li> -->
+";i:160;s:107:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.BecauseImGoodAtIt'>Folderize</a></li>
+";i:161;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:162;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:163;s:7:"</ul>
+";i:164;s:8:"	<hr/>
+";i:165;s:6:"<ul>
+";i:166;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:167;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:168;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:169;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:170;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:171;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:172;s:7:"</ul>
+";i:173;s:7:"<hr/>
+";i:174;s:2:"
+";i:175;s:8:"</div>
+";i:176;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:177;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:178;s:8:"		<ul>
+";i:179;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:180;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:181;s:9:"		</ul>
+";i:182;s:8:"</div>
+";i:183;s:10:"<center>
+";i:184;s:34:"		<div style="margin-top:4px;">	
+";i:185;s:5:"			
+";i:186;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:187;s:33:"<script type='text/javascript'>
+";i:188;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:189;s:102:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/BecauseImGoodAtIt");
+";i:190;s:11:"</script>
+";i:191;s:8:"</div>
+";i:192;s:2:"
+";i:193;s:11:"		</div>	
+";i:194;s:10:"		<div>	
+";i:195;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:196;s:6:"		 	
+";i:197;s:4:"		
+";i:198;s:4:"		
+";i:199;s:10:"		</div>
+";i:200;s:289:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/BecauseImGoodAtIt">Laconic</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BecauseImGoodAtIt">Main</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Quotes/BecauseImGoodAtIt">Quotes</a><br/>
+";i:201;s:9:"		<div>
+";i:202;s:10:"		</div>
+";i:203;s:36:"		<div style="font-size:x-small;">
+";i:204;s:11:"				<hr/>
+";i:205;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:206;s:14:"				<p> </p>
+";i:207;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:208;s:13:"				<p></p>
+";i:209;s:11:"				<ul >
+";i:210;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:211;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:212;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:213;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:214;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:215;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:216;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:217;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:219;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:220;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:221;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:222;s:11:"				</li>
+";i:223;s:11:"				</ul>
+";i:224;s:13:"				<p></p>
+";i:225;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:226;s:13:"				<p></p>
+";i:227;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:228;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:229;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:230;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:231;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:232;s:6:"				
+";i:233;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:234;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:235;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:236;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:237;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:238;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:239;s:6:"				
+";i:240;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:241;s:16:"				</li></ul>
+";i:242;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:243;s:13:"				<p></p>
+";i:244;s:11:"				<ul >
+";i:245;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:246;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:247;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:248;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:249;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:250;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:251;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:252;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:253;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:254;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:255;s:6:"				
+";i:256;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:257;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:258;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:259;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:260;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:261;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:262;s:6:"				
+";i:263;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:264;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:265;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:266;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:268;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:269;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:270;s:11:"				</li>
+";i:271;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:272;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:273;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:274;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:275;s:6:"				
+";i:276;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:278;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:279;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:280;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:281;s:16:"				</li></ul>
+";i:282;s:6:"				
+";i:283;s:13:"				<p></p>
+";i:284;s:39:"				<strong>Other Categories</strong>
+";i:285;s:13:"				<p></p>
+";i:286;s:10:"				<ul>
+";i:287;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:288;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:289;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:290;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:291;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:292;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:293;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:294;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:295;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:296;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:297;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:298;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:299;s:11:"				</ul>
+";i:300;s:11:"		</div>	
+";i:301;s:11:"</center>
+";i:302;s:2:"
+";i:303;s:30:"</div> <!-- wikileftpage -->
+";i:304;s:7:"</td>
+";i:305;s:20:"<td id='wikibody'>
+";i:306;s:2:"
+";i:307;s:21:"<!--PageTitleFmt-->
+";i:308;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:309;s:12:"    		<tr>
+";i:310;s:38:"    		<td id="wikicmds" align="top">
+";i:311;s:8:"    		
+";i:312;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:313;s:45:"    				<tr style="vertical-align:middle;">
+";i:314;s:31:"    					<td align="center" >
+";i:315;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:316;s:16:"    					</td>
+";i:317;s:15:"    				<td >
+";i:318;s:37:"    					<div style="width:400px;">
+";i:319;s:28:"                  <center>
+";i:320;s:27:"                  <table>
+";i:321;s:24:"                  <tr>
+";i:322;s:24:"                  <td>
+";i:323;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:324;s:27:"                    <div>
+";i:325;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:326;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:327;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:328;s:64:"                      <input type="text" name="q" size="31" />
+";i:329;s:28:"                    </div>
+";i:330;s:27:"                  </form>
+";i:331;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:332;s:25:"                  </td>
+";i:333;s:24:"                  <td>
+";i:334;s:46:"                  <div class="buttonframe" >
+";i:335;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:336;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:337;s:26:"                  </div>
+";i:338;s:25:"                  </div
+";i:339;s:25:"                  </td>
+";i:340;s:25:"                  </tr>
+";i:341;s:28:"                  </table>
+";i:342;s:29:"                  </center>
+";i:343;s:17:"    					</div>
+";i:344;s:15:"    				</td>
+";i:345;s:15:"    				</tr>
+";i:346;s:16:"    		</table>
+";i:347;s:8:"    		
+";i:348;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:349;s:10:"    				
+";i:350;s:27:"    				<tr valign="top">
+";i:351;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:352;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:353;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:354;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:355;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:356;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:357;s:15:"    				</tr>
+";i:358;s:10:"    				
+";i:359;s:10:"    				
+";i:360;s:8:"    		
+";i:361;s:16:"    		</table>
+";i:362;s:8:"    		
+";i:363;s:28:"    		<div id="wikilogo" >
+";i:364;s:16:"    		<center>
+";i:365;s:2:"
+";i:366;s:22:"<!-- leaderboard -->
+";i:367;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:368;s:33:"<script type='text/javascript'>
+";i:369;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:370;s:11:"</script>
+";i:371;s:8:"</div>
+";i:372;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:373;s:28:"    					<tr valign="top">
+";i:374;s:305:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'BecauseImGoodAtIt');" autocomplete="off"  style="width:50px;"><option> </option><option value="Laconic">Laconic</option><option value="Main">Main</option><option value="Quotes">Quotes</option></select></td>
+";i:375;s:272:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BecauseImGoodAtIt?action=source" >source</a></div></div></td>
+";i:376;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:377;s:273:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.BecauseImGoodAtIt">history</a></div></div></td>
+";i:378;s:275:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BecauseImGoodAtIt?action=edit'> edit page</a></div></div></td>
+";i:379;s:271:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/BecauseImGoodAtIt" >related</a></div></div></td>
+";i:380;s:38:"    							<td valign="middle"></td>
+";i:381;s:16:"    					</tr>
+";i:382;s:18:"    				</table>
+";i:383;s:10:"    				
+";i:384;s:35:"    				<div id="watchmsg"></div>
+";i:385;s:18:"    			</center>
+";i:386;s:13:"    		</td>
+";i:387;s:12:"     </tr>
+";i:388;s:6:"    
+";i:389;s:11:"    	<tr>
+";i:390;s:39:"    		<td id="wikititle" colspan="2">
+";i:391;s:40:"    				<div class="namespacebuttons">
+";i:392;s:1098:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.BecauseImGoodAtIt" >&nbsp;Discussion </a></li> <li class="namespace_li Quotes" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Quotes/BecauseImGoodAtIt" class="textcolor">&nbsp;Quotes&nbsp;</a> </li> <li class="namespace_li Laconic" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/BecauseImGoodAtIt" class="textcolor">&nbsp;Laconic&nbsp;</a> </li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=BecauseImGoodAtIt" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/BecauseImGoodAtIt" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:393;s:16:"    				</div>
+";i:394;s:26:"    				<!--RepairBug-->
+";i:395;s:10:"    				
+";i:396;s:34:"    				<div class='pagetitle'> 
+";i:397;s:49:"    						  <span>Because I'm Good At It</span>
+";i:398;s:16:"    				</div>
+";i:399;s:11:"    				 
+";i:400;s:13:"    		</td>
+";i:401;s:12:"    	</tr>
+";i:402;s:10:"</table>
+";i:403;s:2:"
+";i:404;s:16:"<!--PageText-->
+";i:405;s:20:"<div id='wikitext'>
+";i:406;s:80:"<div class='indent'> <em>I detest violence. It's a pity I'm so good at it.</em>
+";i:407;s:107:"<div class='indent'> &#8212; <strong>Colossus</strong>, <em><strong>X-Men Noir: Mark of Cain</strong></em>
+";i:408;s:750:"</div></div><p></p>Someone has a less than morally sound job, like a drug dealer, arms dealer, assassin, or <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ArsonMurderAndJaywalking' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ArsonMurderAndJaywalking'>lobbyist</a>. They usually get into the job to make ends meet, especially if the job is illegal, but when they become financially sound or even get a legal job, they refuse to stop. Why? &#8212; because they're good at it. The fulfillment of being competent has surpassed the fulfillment of being a "good person." Or, they're willing (if in a legal job, like lobbyists) to let their job damage their personal lives and public facade for the simple reason of competence.
+";i:409;s:797:"<p></p>See also <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DoWrongRight' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DoWrongRight'>Do Wrong, Right</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PunchClockVillain' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PunchClockVillain'>Punch Clock Villain</a>. Compare <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilVirtues' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilVirtues'>Evil Virtues</a>. Contrast <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReluctantWarrior' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReluctantWarrior'>Reluctant Warrior</a>, who fights because he has to... and isn't necessarily good at it.
+";i:410;s:7:"<hr />
+";i:411;s:27:"<strong>Examples:</strong>
+";i:412;s:122:"<p></p><div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:413;s:182:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp;Comics&nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:414;s:320:"<p></p><ul ><li> Mr. Nice from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/TheBatmanAdventures' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/TheBatmanAdventures'>The Batman Adventures</a></em> wound up becoming a master criminal because he is <em>incredibly</em> good at it.
+";i:415;s:293:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LobsterRandom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LobsterRandom'>Lobster Random</a></em> claims to be a professional torturer because he's good at it, understands it and can't do anything else.
+";i:416;s:783:"</li><li> Nexus spent most of his career bitterly miserable that a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SufficientlyAdvanced' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SufficientlyAdvanced'>Sufficiently Advanced</a> alien was compelling him to travel the universe executing mass murderers. The oppressed cheered him for it and tyrants loathed him for it, but Horatio himself just wanted to stop killing people. When, after years, he <em>finally</em> gets his wish&#8212;the above-mentioned alien agrees to leave him alone, and another member of the alien's race agrees to maintain his super-powers&#8212;Horatio realizes that he's spent his entire adult life doing this, and executing murderers is the only thing he knows how to <em>do.</em>
+";i:417;s:645:"</li><li> Occasionally <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheHulk' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheHulk'>Bruce Banner</a> is called out on the fact that, despite having an intellect on par with Reed Richards or Tony Stark, before becoming the Hulk he devoted his life to making bombs. His explanation? He was good at it. And indeed, he made the most destructive bomb ever; one that never stops exploding. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PersonOfMassDestruction' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PersonOfMassDestruction'>The Hulk.</a>
+";i:418;s:24:"</li></ul><p></p></div>
+";i:419;s:180:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp;Film&nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:420;s:607:"<p></p><ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThankYouForSmoking' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThankYouForSmoking'>Thank You For Smoking</a></em>: Nick Naylor is a lobbyist for tobacco companies and invokes the trope by name in the movie (and the book?). He even associates with similar lobbyists (NRA and the alcohol lobbies) and discusses strategies and a viewer can tell that these people take pride in their work (at one point they're deeply insulted when Nick declares that only he would be hunted down by vigilantes for what he does).
+";i:421;s:29:"<ul ><li> Well, only he was.
+";i:422;s:464:"</li></ul></li><li> Yuri Orlov from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/LordOfWar' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/LordOfWar'>Lord Of War</a></em> is an illegal arms dealer who has several reasons to quit - his wife threatening to leave him, a Interpol agent dogging him, and building a successful lumber export company, but goes back to arms dealing because, at the end of the day, it is what he's good at.
+";i:423;s:553:"</li><li> Famous dialogue between a cop (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/AlPacino' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/AlPacino'>Al Pacino</a>) and a big-time robber (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/RobertDeNiro' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/RobertDeNiro'>Robert De Niro</a>) in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Heat' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Heat'>Heat</a></em>:
+";i:424;s:123:"<div class='indent'> Neil McCauley: I do what I do best, I take scores. You do what you do best, try to stop guys like me.
+";i:425;s:31:"</div><div class='indent'> ...
+";i:426;s:80:"</div><div class='indent'> Vincent Hanna: I don't know how to do anything else.
+";i:427;s:56:"</div><div class='indent'> Neil McCauley: Neither do I.
+";i:428;s:71:"</div><div class='indent'> Vincent Hanna: I don't much want to either.
+";i:429;s:56:"</div><div class='indent'> Neil McCauley: Neither do I.
+";i:430;s:383:"</div></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Elektra' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Elektra'>Elektra</a> gives this as the reason for being an assassin when <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MacGuffinGirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MacGuffinGirl'>Abby</a> asks.
+";i:431;s:62:"<div class='indent'> <strong>Abby:</strong> That's messed-up.
+";i:432;s:30:"</div></li></ul><p></p></div>
+";i:433;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp;Literature&nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:434;s:556:"<p></p><ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RaymondEFeist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RaymondEFeist'>Raymond E. Feist</a>'s <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheRiftwarCycle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheRiftwarCycle'>Riftwar Cycle</a></em> describes <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveableRogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveableRogue'>Jimmy the Hand</a> thus:
+";i:435;s:113:"<div class='indent'>He took no pleasure in being a thief, but he took great pleasure in being a very good thief.
+";i:436;s:1063:"</div></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HonorHarrington' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HonorHarrington'>Honor Harrington</a></em>: Honor does what she does because she's "better at it than most other people" (almost direct quote from the book). Given as what she does is lead fleets into battle, and almost always wins, it might count. It's clear that she doesn't like it, just that she's very capable. She might not like the idea of killing hundreds of people on both sides in her actions, but even she admits at times that she enjoys the thrill of battle, especially if her target is someone <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItsPersonal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItsPersonal'>who</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralEventHorizon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralEventHorizon'>deserves it</a>. Her own husband thinks of her as the Handmaiden of Death.
+";i:437;s:403:"</li><li> In <em>The Lies of Locke Lamora</em>, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GentlemanBastard' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GentlemanBastard'>Gentleman Bastards</a> don't do anything with the huge amounts of money they acquire from their long cons. It just sits there. But they are <em>excellent</em> thieves, so why would they give up?
+";i:438;s:626:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DorothyLSayers' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DorothyLSayers'>Dorothy L. Sayers</a>' <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LordPeterWimsey' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LordPeterWimsey'>Gaudy Night</a></em>, Harriet Vane discusses how she continued to write murder mysteries after being tried and acquitted for murder; she says that anyone with feeling would rather scrub floors, but it happens that she would scrub floors very badly and writes mysteries very well.
+";i:439;s:2210:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheGodfather' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheGodfather'>The Godfather Returns</a></em>, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Interquel' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Interquel'>interquel</a> to <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheGodfather' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheGodfather'>The Godfather</a></em>, Vito Corleone is suggested as following this trope. During a flashback history lesson, the book discusses Vito's early days as Don. While his children were still growing up, Vito used his Genco Olive Oil delivery trucks to deliver alcohol during Prohibition, amongst other things. As Prohibition came to an end, Sonny and Fredo had joined "the family business". <br /> <br />Even so, he had amassed millions of dollars: A staggering amount of money in the 20's and 30's that would let him and his family live in comfort for the rest of their days. Instead, he tried to form an alliance with Maranzano, the kingpin of New York. Maranzano refused, beginning the Castellammarese War that ended up Vito as the undisputed head of New York's underworld. Vito had made his fortune without stepping on anyone's toes and had sworn that his children wouldn't have to follow in his footsteps. <br /> <br />With such a fortune and his own wits, there were any number of legal businesses and ventures he could have undertaken. However, the book suggests that once Sonny and Fredo were part of his business, he had to continue on the path he's chosen. Not only because he was so good at it, but because his two oldest sons were not good at anything else. Left on their own, with no supervision or protection, no real skills or education, and a criminal mindset, Vito felt they would both be dead within a year. <br /> <br />This is also why Michael stays with gangstering later books. He keeps insisting he's somewhat ashamed of the family history and keeps wanting to go legit and "they're always pulling him back in", but the fact is he's really good as a ruthless criminal mastermind.
+";i:440;s:629:"</li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Discworld' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Discworld'>Discworld</a></em> novel, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/TheLightFantastic' title='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/TheLightFantastic'>The Light Fantastic</a></em>, there's a master architect. Every time he makes something, the person who hired him to do it maims him in an attempt to make sure nobody ever makes anything better. He doesn't get a less dangerous job because he's good at it.
+";i:441;s:129:"<ul ><li> <span class="spoiler" title="you can set spoilers visible by default on your profile" > And is promptly killed.</span>
+";i:442;s:529:"</li></ul></li><li> Fisk, in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightAndRogueSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightAndRogueSeries'>Knight And Rogue Series</a></em> is a good-hearted fellow who got into the con business to try and support his sisters, and since he's such a natural at coming up with unbelievable bull on the spot, kept with it. Until he got saddled with Michael, that is, and he still gets away with plenty of well woven lies and card tricks.
+";i:443;s:551:"</li><li> Li Kao from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BridgeOfBirds' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BridgeOfBirds'>Bridge Of Birds</a></em> is an inversion. Born to a pair of cons, he already had a natural talent for stealing. However, he also proved to be the smartest man in China, and when he grew up, he found that a life of crime was so easy it was <em>boring</em>. Solving crime, however, was a much more interesting challenge, and he chose to do so for the rest of his life instead.
+";i:444;s:818:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spenser' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spenser'>Spenser</a> muses on this sometimes. For the most part, he sees violence as a byproduct of his job as a PI, but is also aware that part of the reason he picked this as his work is because underneath his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker'>Deadpan Snarker</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GeniusBruiser' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GeniusBruiser'>Genius Bruiser</a> personality, he is deeply violent, and this kind of job allows him to channel his violent impulses in a useful direction.
+";i:445;s:24:"</li></ul><p></p></div>
+";i:446;s:192:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp; Live Action TV &nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:447;s:273:"<p></p><ul ><li> Nancy Botwin from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Weeds' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Weeds'>Weeds</a></em> is much the same in her career as a marijuana dealer, or at least she thinks she is.
+";i:448;s:386:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetterOffTed' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetterOffTed'>Better Off Ted</a></em>: The case for most of the main cast, especially Ted, who's especially adept at his job and serves the morally questionable conglomerate Veridian Dynamics despite his otherwise squeaky clean morality.
+";i:449;s:565:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/LawAndOrderCriminalIntent' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/LawAndOrderCriminalIntent'>Law And Order Criminal Intent</a></em>: One episode featured a handwriting expert who used his skills for nefarious purposes, "because I'm brilliant at what I do!". The expert was played by one <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/StephenColbert' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/StephenColbert'>Stephen Colbert</a>.
+";i:450;s:529:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BreakingBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BreakingBad'>Breaking Bad</a></em>: This is Walt's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MotiveDecay' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MotiveDecay'>Motive Decay</a>, going from making meth to provide for his family when he's gone to making meth because it's the only thing that lets him use his previously wasted skill at chemistry.
+";i:451;s:658:"</li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho'>Doctor Who</a></em> serial <em>City of Death</em>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NotSoDifferent' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NotSoDifferent'>the Fourth Doctor and Professor Kerensky debate the ethics of messing with time</a>, and the Doctor replies, "Well, I'm a professional; I know what I'm doing." Then again, the Time Lords <em>are</em> professional time-travelers who make sure that the timeline doesn't get too screwed-up.
+";i:452;s:628:"</li><li> The reason Tyrion gives in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameOfThrones' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameOfThrones'>Game Of Thrones</a></em> for remaining in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadlyDecadentCourt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadlyDecadentCourt'>Deadly Decadent Court</a> of King's Landing, despite the fact that <span class="spoiler" title="you can set spoilers visible by default on your profile" > people are trying to kill him and his father usurped his position</span>:
+";i:453;s:197:"<div class='indent'>"I do belong here. These bad people... are what I'm good at. Out-talking them, out-thinking them... it's what I am. And I like it. I like it more than anything I've ever done."
+";i:454;s:288:"</div></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/PersonOfInterest' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/PersonOfInterest'>Person of Interest</a></em>: Root states, "My mom told me to follow my talents, and I'm good at what I do."
+";i:455;s:17:"</li></ul></div>
+";i:456;s:189:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp; Video Games &nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:457;s:681:"<p></p><ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MetalGearSolid' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MetalGearSolid'>Metal Gear Solid</a></em>: At the climax, <span class="spoiler" title="you can set spoilers visible by default on your profile" > Grey Fox</span> laments that fighting was and is his only talent in life, but has some reconciliation in that he never sold out his beliefs and fought for a cause he felt was unworthy. This is a deliberate, non-callous comparison to Solid Snake at this point in the series, who is an even more gifted warrior yet has always blindly followed orders without philosophy.
+";i:458;s:1001:"<ul ><li> The plight of those who are natural soldiers versus the concept of peace is one of the oldest and most important themes in the series. Solid Snake is loath to admit it even under the most excruciating duress, but he loves battle, and while his enemies often seek the proliferation of worldwide conflict for the benefit of natural-born soldiers like himself, he has a selfless moral instinct which forces him to stop them at any cost. In a meta sense we as players participate in this contradiction by playing the games because we enjoy and pay for simulated violence, yet portray characters who strive to prevent conflicts. The secondary plot line of the series follows the journey of his father, Big Boss, which sees him face the same quandary yet reach a completely different conclusion, choosing to fight because it's all he really has in his life and can't see any other alternative, nor does he think he needs a reason even as petty as following orders or wanting to stop the bad guys.
+";i:459;s:269:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ExpansionPackPast' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ExpansionPackPast'>Though the prequels have added additional, increasingly nebulous reasons for Big Boss's actions.</a>
+";i:460;s:1063:"</li></ul></li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LatinLover' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LatinLover'>Zevran</a> from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/DragonAge' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/DragonAge'>Dragon Age</a></em> notes that even if he wanted to be anything other than an assassin, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SociopathicHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SociopathicHero'>which</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiHero'>he</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AffablyEvil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AffablyEvil'>doesn't</a>, he has been doing this work all his life and doesn't know how to do anything else. Well, nothing else that wouldn't get him arrested for performing in public.
+";i:461;s:2449:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PirateGirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PirateGirl'>Isabela</a> in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DragonAgeII' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DragonAgeII'>the sequel</a> gives this as an excuse for her continued career as a pirate (other than simply <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChaoticNeutral' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChaoticNeutral'>enjoying the freedom that comes with it</a>), though other characters have pointed out that her skills could easily be put to use doing something else, and unlike <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DistaffCounterpart' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DistaffCounterpart'>Zevran</a>, she <em>chose</em> to become a pirate and there's no one threatening to hunt her down if she quits (<span class="spoiler" title="you can set spoilers visible by default on your profile" > Castillion comes close, but he really only cares about the tome she stole, not what she does with her life afterwords</span>). One could make the case that this actually makes her come off as much more selfish, given how easily she can ignore the people her actions hurt. <span class="spoiler" title="you can set spoilers visible by default on your profile" > The Qunari Incident perfectly demonstrates what happens when this tendency reaches its zenith, leaving <em>several hundred people dead</em> because of her, yet it also marks the point where she starts to go through a bit of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterDevelopment' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterDevelopment'>Character Development</a>. Provided she <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/YouLoseAtZeroTrust' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/YouLoseAtZeroTrust'>has a good enough relationship</a> with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheHero'>Hawke</a> and doesn't <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SoLongAndThanksForAllTheGear' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SoLongAndThanksForAllTheGear'>run off</a> first.</span>
+";i:462;s:757:"</li><li> Implied to be the reason why <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayerCharacter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayerCharacter'>Hawke</a> prefers to work outside the law as a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PartTimeHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PartTimeHero'>Part Time Hero</a>, instead of getting an actual job or position of authority in Kirkwall. Similarly, why they continue to perform <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlmightyJanitor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlmightyJanitor'>odd jobs</a> for people around the city, even after becoming independently wealthy.
+";i:463;s:510:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayerCharacter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayerCharacter'>Niko Bellic</a> of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/GrandTheftAutoIV' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/GrandTheftAutoIV'>Grand Theft Auto IV</a> fame tells his cousin Roman that, although he'd like to settle down and live a normal lifestyle, his only skills are criminal.
+";i:464;s:24:"</li></ul><p></p></div>
+";i:465;s:188:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp; Web Comics &nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:466;s:666:"<p></p><ul ><li> Thief from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/EightBitTheater' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/EightBitTheater'>8-Bit Theater</a></em> originally took up stealing in order to pay for his father's medicine, then kept stealing even after the situation was resolved. Then again, he's a protagonist from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/EightBitTheater' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/EightBitTheater'>8-Bit Theater</a></em>, and he's an elf from that comic. Screwing other people over is what those two groups do best.
+";i:467;s:358:"</li><li> Belkar from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/TheOrderOfTheStick' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/TheOrderOfTheStick'>The Order of the Stick</a></em> admits that "hurting people is the only thing I'm good at." Most of the time he doesn't have a problem with that. Most of the time.
+";i:468;s:17:"</li></ul></div>
+";i:469;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp; Web Animation&nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:470;s:580:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WebAnimation/TheAccuser' title='http://tvtropes.org/pmwiki/pmwiki.php/WebAnimation/TheAccuser'>The Accuser</a></em>: When interviewed by a reporter who described his recently acquitted client as a "racketeer and reputed killer", <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AmoralAttorney' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AmoralAttorney'>Amoral Attorney</a> Dan Mason claimed he did his job and was "proud of it". His wife even complained he was "too good".
+";i:471;s:17:"</li></ul></div>
+";i:472;s:195:"<p></p><div class="folderlabel" onclick="togglefolder('folder7');">&nbsp;&nbsp;&nbsp;&nbsp; Western Animation &nbsp;</div><div id="folder7" class="folder" isfolder="true" style="display:block;">
+";i:473;s:648:"<p></p><ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSimpsons' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSimpsons'>The Simpsons</a></em>, Krusty the Clown once manages to refresh his comedian routine by starting to complain cynically about the modern world, and becomes popular as a stand-up act again. Soon, however, he's once again persuaded to start endorsing a product even in his act in the middle of complaining about everything else, immediately losing his credibility. He doesn't regret it, though, because as he explains he's realised his real talent isn't comedy - it's selling out.
+";i:474;s:378:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/XiaolinShowdown' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/XiaolinShowdown'>Xiaolin Showdown</a></em>: Subverted when Jack Spicer quits being evil only to turn back again when he is afraid he'll actually be <em>worse</em> at being good than he was at being bad.
+";i:475;s:24:"</li></ul><p></p></div>
+";i:476;s:14:"<p></p><hr />
+";i:477;s:2091:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BalanceBetweenGoodAndEvil">Balance Between Good and Evil</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes">Morality Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BeAllMySinsRemembered">Be All My Sins Remembered</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BeAsUnhelpfulAsPossible">Be as Unhelpful as Possible</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes">Crime and Punishment Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BeneathSuspicion">Beneath Suspicion</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BadLiar">Bad Liar</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterFlawIndex">Character Flaw Index</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BelievingTheirOwnLies">Believing Their Own Lies</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BattleaxeNurse">Battleaxe Nurse</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Villains">Villains</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BetaTestBaddie">Beta Test Baddie</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:478;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:479;s:10:"<p> </p>
+";i:480;s:10:"<center>
+";i:481;s:2:"
+";i:482;s:24:"<!-- med rectangle -->
+";i:483;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:484;s:33:"<script type='text/javascript'>
+";i:485;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:486;s:11:"</script>
+";i:487;s:8:"</div>
+";i:488;s:2:"
+";i:489;s:11:"</center>
+";i:490;s:24:"</td><!-- wikibody -->
+";i:491;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:492;s:7:"</td>
+";i:493;s:7:"</tr>
+";i:494;s:10:"</table>
+";i:495;s:22:"<!--PageFooterFmt-->
+";i:496;s:120:"<div class="alt_title" style="font-size:x-small;text-align:center;" ><b>alternative title(s):</b> Ptitleb1zcb36l</div>
+";i:497;s:10:"<center>
+";i:498;s:44:"<table style="width:606px;margin:0 auto;">
+";i:499;s:7:"	<tr>
+";i:500;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:501;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:502;s:266:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BecauseImGoodAtIt?action=edit'> edit page</a></div></div></td>
+";i:503;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:504;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:505;s:8:"	</tr>
+";i:506;s:10:"</table>
+";i:507;s:11:"</center>
+";i:508;s:21:"<div id='wikifoot'>
+";i:509;s:27:"    <div class='footnav'>
+";i:510;s:2:"
+";i:511;s:14:"			 <center>
+";i:512;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:513;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:514;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:515;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:516;s:15:"				</center>
+";i:517;s:2:"
+";i:518;s:29:"    </div><!-- wikifoot -->
+";i:519;s:23:"<!--/PageFooterFmt-->
+";i:520;s:12:"28655<br/>
+";i:521;s:3:"5
+";i:522;s:8:"</div>
+";i:523;s:26:"</div><!-- container -->
+";i:524;s:2:"
+";i:525;s:9:"</body>
+";i:526;s:21:"<!--ScriptInsert-->
+";i:527;s:9:"</html>
+";}}

@@ -1,0 +1,551 @@
+a:2:{i:0;i:1377889204;i:1;a:550:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:71:"<title>Like You Were Dying - Television Tropes &amp; Idioms  </title>
+";i:5;s:137:"<meta name="Description" content="The Like You Were Dying trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:2:"
+";i:25;s:10:"</style>
+";i:26;s:2:"
+";i:27;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:28;s:33:"<script type="text/javascript">
+";i:29;s:26:"  var _gaq = _gaq || [];
+";i:30;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:31;s:34:"  _gaq.push(['_trackPageview']);
+";i:32;s:2:"
+";i:33;s:17:"  (function() {
+";i:34;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:35;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:36;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:37;s:9:"  })();
+";i:38;s:2:"
+";i:39;s:32:"	function subpage(sel, title){
+";i:40;s:4:"		
+";i:41;s:40:"		var namespce = ""+getselection(sel);
+";i:42;s:34:"		if(namespce.trim()=="")return;
+";i:43;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:44;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:45;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:46;s:29:"		window.location.href=url;
+";i:47;s:4:"	}
+";i:48;s:32:"	function p5(groupname,title){
+";i:49;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:50;s:4:"	}
+";i:51;s:27:"	function togglenote(id){
+";i:52;s:23:"		var ele=object(id);
+";i:53;s:34:"		var state = ele.style.display;
+";i:54;s:49:"		if(state=='none') ele.style.display='inline';
+";i:55;s:48:"		if(state=='inline')ele.style.display='none';
+";i:56;s:4:"	}
+";i:57;s:35:"	var googletag = googletag || {};
+";i:58;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:59;s:16:"	(function() {
+";i:60;s:47:"	var gads = document.createElement('script');
+";i:61;s:21:"	gads.async = true;
+";i:62;s:33:"	gads.type = 'text/javascript';
+";i:63;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:64;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:65;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:66;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:67;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:68;s:8:"	})();
+";i:69;s:2:"
+";i:70;s:34:"	googletag.cmd.push(function() {
+";i:71;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:73;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:74;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:75;s:45:"		googletag.pubads().enableSingleRequest();
+";i:76;s:31:"		googletag.enableServices();
+";i:77;s:6:"	});
+";i:78;s:2:"
+";i:79;s:11:"</script>
+";i:80;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:81;s:2:"
+";i:82;s:9:"</head>
+";i:83;s:8:"<body>
+";i:84;s:40:"<div class="container" id="container">
+";i:85;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:86;s:6:"<tr>
+";i:87;s:46:"<td style="width:166px;vertical-align:top;">
+";i:88;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:89;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:90;s:38:"<g:plusone size="small"></g:plusone>
+";i:91;s:2:"
+";i:92;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:93;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:94;s:6:"<ul>
+";i:95;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:96;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:97;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:98;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:99;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:100;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:101;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:102;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:103;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:104;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:105;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:106;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:107;s:7:"</ul>
+";i:108;s:8:"</div>
+";i:109;s:2:"
+";i:110;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:111;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:112;s:2:"
+";i:113;s:187:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','LikeYouWereDying');">send request</button><hr/></div>
+";i:114;s:2:"
+";i:115;s:328:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="LikeYouWereDying" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:116;s:2:"
+";i:117;s:51:"<div style="font-size:small;text-align:center;" >
+";i:118;s:30:"Find recent edits by troper:
+";i:119;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:120;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:121;s:8:"</div>
+";i:122;s:7:"<hr/>
+";i:123;s:7:"<ul>	
+";i:124;s:4:"		
+";i:125;s:7:"<hr/>
+";i:126;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:127;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:128;s:65:"		<input type="hidden" name="title" value="LikeYouWereDying" />
+";i:129;s:54:"		This article needs some moderator assistance with:
+";i:130;s:9:"		<br/>
+";i:131;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:132;s:9:"		<br/>
+";i:133;s:4:"		
+";i:134;s:34:"		<p style="text-align:center;">
+";i:135;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:136;s:8:"		</p>
+";i:137;s:34:"		<p style="text-align:center;">
+";i:138;s:48:"			<input type="submit" value="send report" />
+";i:139;s:8:"		</p>
+";i:140;s:11:"		</form>
+";i:141;s:7:"<hr/>
+";i:142;s:6:"<ul>
+";i:143;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:144;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:145;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:146;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:147;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:148;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:149;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:150;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:151;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:152;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:153;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:154;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:155;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:156;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:157;s:145:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.LikeYouWereDying'>Referral Count for This Page</a></li>
+";i:158;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:159;s:120:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=LikeYouWereDying'>Article Relationships</a></li> -->
+";i:160;s:106:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.LikeYouWereDying'>Folderize</a></li>
+";i:161;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:162;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:163;s:7:"</ul>
+";i:164;s:8:"	<hr/>
+";i:165;s:6:"<ul>
+";i:166;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:167;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:168;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:169;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:170;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:171;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:172;s:7:"</ul>
+";i:173;s:7:"<hr/>
+";i:174;s:2:"
+";i:175;s:8:"</div>
+";i:176;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:177;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:178;s:8:"		<ul>
+";i:179;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:180;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:181;s:9:"		</ul>
+";i:182;s:8:"</div>
+";i:183;s:10:"<center>
+";i:184;s:34:"		<div style="margin-top:4px;">	
+";i:185;s:5:"			
+";i:186;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:187;s:33:"<script type='text/javascript'>
+";i:188;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:189;s:101:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/LikeYouWereDying");
+";i:190;s:11:"</script>
+";i:191;s:8:"</div>
+";i:192;s:2:"
+";i:193;s:11:"		</div>	
+";i:194;s:10:"		<div>	
+";i:195;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:196;s:6:"		 	
+";i:197;s:4:"		
+";i:198;s:4:"		
+";i:199;s:10:"		</div>
+";i:200;s:294:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/LikeYouWereDying">Main</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/PlayingWith/LikeYouWereDying">PlayingWith</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Quotes/LikeYouWereDying">Quotes</a><br/>
+";i:201;s:9:"		<div>
+";i:202;s:10:"		</div>
+";i:203;s:36:"		<div style="font-size:x-small;">
+";i:204;s:11:"				<hr/>
+";i:205;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:206;s:14:"				<p> </p>
+";i:207;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:208;s:13:"				<p></p>
+";i:209;s:11:"				<ul >
+";i:210;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:211;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:212;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:213;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:214;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:215;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:216;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:217;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:219;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:220;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:221;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:222;s:11:"				</li>
+";i:223;s:11:"				</ul>
+";i:224;s:13:"				<p></p>
+";i:225;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:226;s:13:"				<p></p>
+";i:227;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:228;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:229;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:230;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:231;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:232;s:6:"				
+";i:233;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:234;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:235;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:236;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:237;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:238;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:239;s:6:"				
+";i:240;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:241;s:16:"				</li></ul>
+";i:242;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:243;s:13:"				<p></p>
+";i:244;s:11:"				<ul >
+";i:245;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:246;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:247;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:248;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:249;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:250;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:251;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:252;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:253;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:254;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:255;s:6:"				
+";i:256;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:257;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:258;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:259;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:260;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:261;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:262;s:6:"				
+";i:263;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:264;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:265;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:266;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:268;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:269;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:270;s:11:"				</li>
+";i:271;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:272;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:273;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:274;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:275;s:6:"				
+";i:276;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:278;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:279;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:280;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:281;s:16:"				</li></ul>
+";i:282;s:6:"				
+";i:283;s:13:"				<p></p>
+";i:284;s:39:"				<strong>Other Categories</strong>
+";i:285;s:13:"				<p></p>
+";i:286;s:10:"				<ul>
+";i:287;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:288;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:289;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:290;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:291;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:292;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:293;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:294;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:295;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:296;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:297;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:298;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:299;s:11:"				</ul>
+";i:300;s:11:"		</div>	
+";i:301;s:11:"</center>
+";i:302;s:2:"
+";i:303;s:30:"</div> <!-- wikileftpage -->
+";i:304;s:7:"</td>
+";i:305;s:20:"<td id='wikibody'>
+";i:306;s:2:"
+";i:307;s:21:"<!--PageTitleFmt-->
+";i:308;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:309;s:12:"    		<tr>
+";i:310;s:38:"    		<td id="wikicmds" align="top">
+";i:311;s:8:"    		
+";i:312;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:313;s:45:"    				<tr style="vertical-align:middle;">
+";i:314;s:31:"    					<td align="center" >
+";i:315;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:316;s:16:"    					</td>
+";i:317;s:15:"    				<td >
+";i:318;s:37:"    					<div style="width:400px;">
+";i:319;s:28:"                  <center>
+";i:320;s:27:"                  <table>
+";i:321;s:24:"                  <tr>
+";i:322;s:24:"                  <td>
+";i:323;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:324;s:27:"                    <div>
+";i:325;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:326;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:327;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:328;s:64:"                      <input type="text" name="q" size="31" />
+";i:329;s:28:"                    </div>
+";i:330;s:27:"                  </form>
+";i:331;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:332;s:25:"                  </td>
+";i:333;s:24:"                  <td>
+";i:334;s:46:"                  <div class="buttonframe" >
+";i:335;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:336;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:337;s:26:"                  </div>
+";i:338;s:25:"                  </div
+";i:339;s:25:"                  </td>
+";i:340;s:25:"                  </tr>
+";i:341;s:28:"                  </table>
+";i:342;s:29:"                  </center>
+";i:343;s:17:"    					</div>
+";i:344;s:15:"    				</td>
+";i:345;s:15:"    				</tr>
+";i:346;s:16:"    		</table>
+";i:347;s:8:"    		
+";i:348;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:349;s:10:"    				
+";i:350;s:27:"    				<tr valign="top">
+";i:351;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:352;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:353;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:354;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:355;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:356;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:357;s:15:"    				</tr>
+";i:358;s:10:"    				
+";i:359;s:10:"    				
+";i:360;s:8:"    		
+";i:361;s:16:"    		</table>
+";i:362;s:8:"    		
+";i:363;s:28:"    		<div id="wikilogo" >
+";i:364;s:16:"    		<center>
+";i:365;s:2:"
+";i:366;s:22:"<!-- leaderboard -->
+";i:367;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:368;s:33:"<script type='text/javascript'>
+";i:369;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:370;s:11:"</script>
+";i:371;s:8:"</div>
+";i:372;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:373;s:28:"    					<tr valign="top">
+";i:374;s:312:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'LikeYouWereDying');" autocomplete="off"  style="width:50px;"><option> </option><option value="Main">Main</option><option value="PlayingWith">PlayingWith</option><option value="Quotes">Quotes</option></select></td>
+";i:375;s:271:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/LikeYouWereDying?action=source" >source</a></div></div></td>
+";i:376;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:377;s:272:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.LikeYouWereDying">history</a></div></div></td>
+";i:378;s:274:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LikeYouWereDying?action=edit'> edit page</a></div></div></td>
+";i:379;s:270:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/LikeYouWereDying" >related</a></div></div></td>
+";i:380;s:38:"    							<td valign="middle"></td>
+";i:381;s:16:"    					</tr>
+";i:382;s:18:"    				</table>
+";i:383;s:10:"    				
+";i:384;s:35:"    				<div id="watchmsg"></div>
+";i:385;s:18:"    			</center>
+";i:386;s:13:"    		</td>
+";i:387;s:12:"     </tr>
+";i:388;s:6:"    
+";i:389;s:11:"    	<tr>
+";i:390;s:39:"    		<td id="wikititle" colspan="2">
+";i:391;s:40:"    				<div class="namespacebuttons">
+";i:392;s:1111:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.LikeYouWereDying" >&nbsp;Discussion </a></li> <li class="namespace_li Quotes" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Quotes/LikeYouWereDying" class="textcolor">&nbsp;Quotes&nbsp;</a> </li> <li class="namespace_li PlayingWith" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/PlayingWith/LikeYouWereDying" class="textcolor">&nbsp;Playing&nbsp;With&nbsp;</a> </li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=LikeYouWereDying" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/LikeYouWereDying" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:393;s:16:"    				</div>
+";i:394;s:26:"    				<!--RepairBug-->
+";i:395;s:10:"    				
+";i:396;s:34:"    				<div class='pagetitle'> 
+";i:397;s:46:"    						  <span>Like You Were Dying</span>
+";i:398;s:16:"    				</div>
+";i:399;s:11:"    				 
+";i:400;s:13:"    		</td>
+";i:401;s:12:"    	</tr>
+";i:402;s:10:"</table>
+";i:403;s:2:"
+";i:404;s:16:"<!--PageText-->
+";i:405;s:20:"<div id='wikitext'>
+";i:406;s:437:"<div class='indent'><em>How's it hit ya, when you get that kind of news. <br />Man what do you do. <br />And he says, <br />[Chorus] <br />I went sky divin', <br />I went Rocky Mountain climbin', <br />I went 2.7 seconds on a bull named <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NamesToRunAwayFromReallyFast' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NamesToRunAwayFromReallyFast'>Fu Manchu</a>.</em>
+";i:407;s:380:"<div class='indent'>&#8212; <strong><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimMcGraw' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimMcGraw'>Tim McGraw</a></strong>, "Live <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeNamers' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeNamers'>Like You Were Dying</a>"
+";i:408;s:1463:"</div></div><p></p>A character knows that <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/YourDaysAreNumbered' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/YourDaysAreNumbered'>the end is nigh</a>. They're usually sick but sometimes doomed in another way. As a result, the character is left in either anger or despair. But then, they meet someone: a character who's equally doomed, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAntiNihilist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAntiNihilist'>The Anti-Nihilist</a>, a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveInterest' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveInterest'>Love Interest</a> or a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CheerfulChild' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CheerfulChild'>happy</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChildrenAreInnocent' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChildrenAreInnocent'>innocent</a> child. This person's attitude can be summed up with: "Yep, dying sucks, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWorldIsJustAwesome' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWorldIsJustAwesome'>but life is fun anyway.</a>" Then, brought together by their understanding of what the other is suffering, they form a close bond.
+";i:409;s:607:"<p></p>Usually no one gets healed, but before the movie or the character's end, the second character's attitude has rubbed off on the first one. Sometimes a character recovers or <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MistakenForDying' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MistakenForDying'>the diagnosis was wrong in the first place</a>, then they decide to still <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnAesop' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnAesop'>make the most of their considerably elongated lifespan.</a>
+";i:410;s:183:"<p></p>Sometimes the roles are reversed, and it's the dying person's winning attitude that rubs off on some loser that doesn't know how to live. The basic lesson is the same, though.
+";i:411;s:601:"<p></p>Compare with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheLastDance' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheLastDance'>The Last Dance</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MustNotDieAVirgin' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MustNotDieAVirgin'>Must Not Die A Virgin</a>. Not to be confused with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LikeYouWouldReallyDoIt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LikeYouWouldReallyDoIt'>Like You Would Really Do It</a>.
+";i:412;s:14:"<p></p><hr />
+";i:413;s:19:"<h2>Examples:</h2>
+";i:414;s:122:"<p></p><div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:415;s:193:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp; Anime and Manga &nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:416;s:271:"<p></p><ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/KatekyoHitmanReborn' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/KatekyoHitmanReborn'>Katekyo Hitman Reborn!</a>!</em> lives off this trope <em>as if it were to die!!</em>
+";i:417;s:854:"<ul ><li> I.e., the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThisLoserIsYou' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThisLoserIsYou'>main character</a> is given superpowers fueled by his 'dying will;' initially by shooting him in the head with special bullets that induce this level of sudden <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicWillpower' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicWillpower'>Heroic Willpower</a> (and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ClothingDamage' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ClothingDamage'>Shirt Disease</a>), then steadily less violently and more intentionally, until he's able to switch into this mode at will, and it's more or less just a super mode which is <em>on fire</em>.
+";i:418;s:594:"</li></ul></li><li> While not actually on the verge of death himself, due to a tragic accident during his childhood that claimed his parents and grandmother, Arihiko Inui was painfully aware that death could come at any moment. Luckily for him, he becomes friends with a certain <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Tsukihime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Tsukihime'>Shiki Tohno</a>, a boy who really <em>was</em> commonly on the verge of death when he was younger, but whose maturity and philosophical outlook were far beyond his years...
+";i:419;s:477:"</li><li> In the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DNAngel' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DNAngel'>DNAngel</a> manga it's found out that the people in <span class="spoiler" title="you can set spoilers visible by default on your profile" >Hiwatari's</span> family have short lifespans, and he doesn't have much longer to live. However, at the same time, he notes that Daisuke was the only person who gave him joy in life.
+";i:420;s:2760:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MacrossFrontier' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MacrossFrontier'>Macross Frontier</a></em> plays with it some, uniquely in a way. <span class="spoiler" title="you can set spoilers visible by default on your profile" >Sheryl Nome gets hit with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/YourDaysAreNumbered' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/YourDaysAreNumbered'>Your Days Are Numbered</a> thanks to an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IncurableCoughOfDeath' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IncurableCoughOfDeath'>Incurable Cough of Death</a> in the second half of the series, and Alto Saotome (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WillTheyOrWontThey' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WillTheyOrWontThey'>finally</a>) ends up getting romantically involved with her after he finds out. There is a subtext to this that it might all be something of an act that the two of them are playing out, ignoring all other considerations just for Sheryl's sake. Sheryl even tries to let Alto off like this, presumably so he'd be free to chase after her rival in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTriangle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTriangle'>Love Triangle</a> in their last talk before the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FinalBattle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FinalBattle'>Final Battle</a>, but we never find out what Alto had to say about that, as Sheryl gives him a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShutUpKiss' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShutUpKiss'>"Shut Up" Kiss</a>, declaring that no matter what he said, she wouldn't be able to sing (It's a Macross, music is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePowerOfRock' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePowerOfRock'>VERY IMPORTANT</a>). The series ends promptly after the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FinalBattle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FinalBattle'>Final Battle</a> without Alto ever finishing what he was going to say</span>. As you might have guessed from the wall of spoiler text, it's complicated, and this is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DoorStopper' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DoorStopper'>the short version</a>. Still, it's clear that Character Two was very important to Character One.
+";i:421;s:24:"</li></ul><p></p></div>
+";i:422;s:182:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp; Film &nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:423;s:196:"<p></p><ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheBucketList' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheBucketList'>The Bucket List</a></em>
+";i:424;s:262:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StrangerThanFiction' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StrangerThanFiction'>Stranger Than Fiction</a></em> has a similar idea with a truly creative kind of doom.
+";i:425;s:164:"</li><li> The Timothy Dalton/Anthony Edwards movie <em>Hawks</em>. Two terminally ill friends decide to live as best they can for as long as their bodies hold out.
+";i:426;s:216:"</li><li> Basically the movie <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/AWalkToRemember' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/AWalkToRemember'>A Walk To Remember</a></em>
+";i:427;s:199:"</li><li> The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Bollywood' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Bollywood'>Bollywood</a> movie <em>Kal Ho Naa Ho</em>
+";i:428;s:901:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HaroldAndMaude' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HaroldAndMaude'>Harold and Maude</a></em> - An <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EmoTeen' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EmoTeen'>Emo Teen</a> who attends funerals and commits mock-suicide for fun gets into a relationship with a 79-year-old woman who is basically the septuagenarian equivalent of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ManicPixieDreamGirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ManicPixieDreamGirl'>Manic Pixie Dream Girl</a>. <span class="spoiler" title="you can set spoilers visible by default on your profile" >She kills herself for real in the end, but he still stops faking his suicides and starts actually living life.</span>
+";i:429;s:854:"</li><li> In fact, there seems to be a subtrope of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ManicPixieDreamGirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ManicPixieDreamGirl'>Manic Pixie Dream Girl</a> films - such as <em><a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AutumnInNewYork' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AutumnInNewYork'>Autumn In New York</a></em> and <em><a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SweetNovember' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SweetNovember'>Sweet November</a></em> - that center around the fact that the girl in question is dying, and wants to try to live life to the fullest. The fact that this effectively makes their life goal "help some guy remove the stick from their ass" is incidental.
+";i:430;s:204:"<ul ><li> <em>Dream With the Fishes</em>, where a morose voyeur is saved from suicide by a happy-go-lucky fellow that is terminally ill and wants help living out a few fantasies before meeting his maker.
+";i:431;s:234:"</li></ul></li><li> What so no one watched <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LastHoliday' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LastHoliday'>Last Holiday</a></em>? Just me? Alright.
+";i:432;s:38:"<ul ><li> Can you blame 'em? I can't.
+";i:433;s:410:"</li></ul></li><li> The 90's German movie <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/KnockinOnHeavensDoor' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/KnockinOnHeavensDoor'>Knockin' on Heaven's Door</a></em> (yeah, like the song) is about two men with terminal diseases spending the last of their days enjoying some millions in cash from the mafia they got their hands on.
+";i:434;s:135:"<ul ><li> If we mean the same movie, then their original plan was just to go and see the Sea. Money just happened to appear bit later.
+";i:435;s:1005:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JoeVersusTheVolcano' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JoeVersusTheVolcano'>Joe Versus the Volcano</a> has this as its plot. Joe has a decidedly mediocre life, with a mediocre job, but even his mediocrity is ruined by his massive hypcondria. When he is told that he really <em>is</em> dying, from a "brain fog" that has no detectable symptoms until it ultimately proves fatal, an eccentric millionarie offers to give him an all-expenses-paid trip to a tropical Pacific island where he will then sacrifice himself in a volcano in accordance with native tradition to secure the millionaire the mining rights for the island. <span class="spoiler" title="you can set spoilers visible by default on your profile" > At the end it is revealed that he never had a "brain fog," and his doctor was on the payroll of the millionaire looking for a schlub that he could trick into leaping into a volcano.</span>
+";i:436;s:372:"</li><li> In <em>El juego de la verdad</em>, Ernesto is mistakenly told that he has three months to live. During a game of truth or dare, his friends convince him that he should do the things he's always wanted to do and assure him that they will go along with anything he says. The things he wants to do include skinnydipping and sleeping with his best friend's fiancee.
+";i:437;s:745:"</li><li> The film <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/ScentOfAWoman' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/ScentOfAWoman'>Scent Of A Woman</a></em> does this trope in both directions. Colonel Slade teaches poor, outcast prep student Charlie that you don't have to lie down and let other people's expectations of you determine your life. Charlie teaches the blind, bitter Colonel that you don't always have to spit in people's faces to make yourself important, helping others and sticking to your principles accomplishes the same thing. The Colonel stays blind, but is a little less bitter and Charlie accepts that he'll never be one of the rich White kids at his school, and is okay with that.
+";i:438;s:314:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/LChangeTheWorld' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/LChangeTheWorld'>L: change the WorLd</a></em>, L spends the last week of his life taking care of two children, even holding a picnic for them while on the run.
+";i:439;s:899:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/ShortTime' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/ShortTime'>Short Time</a></em>, Dabney Coleman plays an overly cautious, by the book cop who due to a mix-up is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MistakenForDying' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MistakenForDying'>told he's terminally ill</a>. He then discovers that his cop life insurance policy will only cover "professional damage" meaning he has to be killed in the line off duty. Wanting his wife and son to have the money, he decides to no longer play it safe, tosses "the book" out the window, and becomes the sort of risk-taking supercop who you only find in movies. Finally, after nearly twenty years of drudgery on the force, begins to believe that his life and his job means something.
+";i:440;s:24:"</li></ul><p></p></div>
+";i:441;s:188:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp; Literature &nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:442;s:219:"<p></p><ul ><li> Early in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Remnants' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Remnants'>Remnants</a></em>, when Mo'Steel rides The Pipe.
+";i:443;s:340:"</li><li> The entire premise of <em>Deadline</em>, in which the narrator knows he's dying but keeps it a secret from everyone, decides to not go through treatment and live the last year of his life as best he can. While all he seems to care about is getting a street named after Malcolm X, the book has a feel of "life is AWESOME!!" to it.
+";i:444;s:1060:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OlderThanTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OlderThanTelevision'>Older Than Television</a>: Valancy Stirling of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/AnneOfGreenGables' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/AnneOfGreenGables'>Lucy Maud Montgomery</a>'s <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheBlueCastle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheBlueCastle'>The Blue Castle</a></em> (1926). Valancy gets a diagnosis of terminal heart disease, then uses her new-found remaining time on earth to live like a free spirit, talk back to her rude relatives, and fall in love. <span class="spoiler" title="you can set spoilers visible by default on your profile" >After a great shock doesn't kill her, she goes back to the doctor and finds out her letter of diagnosis was mistakenly exchanged with that of an old woman with the last name Sterling.</span>
+";i:445;s:24:"</li></ul><p></p></div>
+";i:446;s:192:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp; Live Action TV &nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:447;s:278:"<p></p><ul ><li> The premise of the <em>very</em> short-lived <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SitCom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SitCom'>Sitcom</a> <em>Twenty Good Years</em> starring John Lithgow and Jeffrey Tambor.
+";i:448;s:303:"</li><li> In one episode of Star Trek: Deep Space Nine, Quark gets diagnosed with an incurable and frequently fatal syndrome by a doctor on Ferenginar. He auctions off his vacuum-dessicated remains in traditional Ferengi fashion before he dies, but then it is revealed that the diagnosis was incorrect.
+";i:449;s:87:"<ul ><li> His initial response? "It means I get to sue Dr. (whoever) for malpractice!"
+";i:450;s:413:"</li></ul></li><li> Subverted in an episode of <em>House</em>. Wilson finds out that he had earlier misdiagnosed a patient with terminal cancer. When telling the man that he is in fact perfectly healthy, he is surprised to find the man is outraged: knowing that he was going to die within six months had given the man real happiness for the first time in his life. He then promises to sue Wilson for malpractice.
+";i:451;s:93:"<ul ><li> Made funny when House gives the man the name of a good lawyer. Because he's House.
+";i:452;s:477:"</li><li> Played straight in a different episode. A young girl with terminal cancer who has an astonishing bravery and dedication to enjoying the little time she has left. Despite his best efforts as misanthropy, the girl's zest for life rubs of on House and he ends up buying a motorcycle. <span class="spoiler" title="you can set spoilers visible by default on your profile" >The series' last shot is of House and a terminally ill Wilson going touring on motorcycles</span>.
+";i:453;s:540:"</li></ul></li><li> In an episode of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Scrubs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Scrubs'>Scrubs</a> made to parody sitcom cliches, one patient was found to only have 24 hours to live, and was taken out by the doctors to go through a list of adventures before he died. Then, at the end of the day they found out his chart had been switched with another patient, so he was not going to die, and the patient who was was antisemitic so no one cared about him.
+";i:454;s:701:"<ul ><li> Subverted in that <span class="spoiler" title="you can set spoilers visible by default on your profile" >this turned out to be <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AllJustADream' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AllJustADream'>a dream sequence in JD's head</a>, none of the above adventures actually happened, and the patient dies. The moral of the episode ends up being "sometimes <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrapsackWorld' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrapsackWorld'>bad things happen to good people</a>, which is why it's a good thing we have sitcoms to cheer us up."</span>
+";i:455;s:115:"</li><li> They had a separate episode with a subplot almost exactly identical to the <em>House</em> example above.
+";i:456;s:431:"</li></ul></li><li> <em>The Big C</em> has Laura Linney's professor character diagnosed with terminal cancer, deciding not to tell her family (to spare them misery), and spending her last few months taking life by the balls. The first season of the show then <em>thoroughly</em> deconstructs this trope, as her actions look extremely bizarre to her family and only widen existing riffs, while not really bringing her a lot of joy.
+";i:457;s:1400:"</li><li> During the third season of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Supernatural' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Supernatural'>Supernatural</a></em>, Dean knew he was going to die, as at the end of season two, he <span class="spoiler" title="you can set spoilers visible by default on your profile" > <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DealWithTheDevil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DealWithTheDevil'>sold his soul to a demon to save Sam's life</a></span>, and ended up with a year to live. So, he spent most of the season living it up <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheHedonist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheHedonist'>whenever and however he could</a>... at least until he got a taste of what would happen to him when he died, at which point he fought <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IncrediblyLamePun' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IncrediblyLamePun'>like Hell</a> to survive. <span class="spoiler" title="you can set spoilers visible by default on your profile" > He died anyway. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StayingAlive' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StayingAlive'>He got better</a>.</span>
+";i:458;s:500:"</li><li> In the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KoreanSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KoreanSeries'>Korean Series</a> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/ScentOfAWoman' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/ScentOfAWoman'>Scent Of A Woman</a></em>, the lead is given six months to live. She creates her bucket list, including dinner with a pop star and the chance to fall in love.
+";i:459;s:24:"</li></ul><p></p></div>
+";i:460;s:183:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp; Music &nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:461;s:207:"<p></p><ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimMcGraw' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimMcGraw'>Tim McGraw</a> song "Live Like You Were Dying":
+";i:462;s:437:"<div class='indent'><em>How's it hit ya, when you get that kind of news. <br />Man what do you do. <br />And he says, <br />[Chorus] <br />I went sky divin', <br />I went Rocky Mountain climbin', <br />I went 2.7 seconds on a bull named <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NamesToRunAwayFromReallyFast' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NamesToRunAwayFromReallyFast'>Fu Manchu</a>.</em>
+";i:463;s:180:"</div></li><li> "One Day Left to Live" by Sammy Kershaw. The singer barely avoids a fatal accident, and decides that from then on, he will live like he's got one day left to live.
+";i:464;s:201:"</li><li> "If Today Was Your Last Day" by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Nickelback' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Nickelback'>Nickelback</a>
+";i:465;s:115:"</li><li> "DC-10" by Audio Adrenaline, although the cause of death is a bit more sudden and humorous than illness.
+";i:466;s:24:"</li></ul><p></p></div>
+";i:467;s:185:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp; Theater &nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:468;s:248:"<p></p><ul ><li> A "couples" example from <em>RENT</em>: Angel and Collins are the "live like you're dying" couple who get Roger to open up a little. Mimi, who is Roger's love interest, finishes the job despite a considerably rocky start with him.
+";i:469;s:24:"</li></ul><p></p></div>
+";i:470;s:189:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp; Video Games &nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:471;s:704:"<p></p><ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FinalFantasyIX' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FinalFantasyIX'>Final Fantasy IX</a>: Played straight by Vivi, whose race has a very short lifespan. Averted by Kuja, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EarthShatteringKaboom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EarthShatteringKaboom'>who doesn't take the news of his pending demise very well...</a> <span class="spoiler" title="you can set spoilers visible by default on your profile" > Until the very end, where he finally regrets his actions and attempts to make peace with his arch-nemesis.</span>
+";i:472;s:2309:"</li><li> In the Visual Novel <em>Heart De Roommate</em> <span class="spoiler" title="you can set spoilers visible by default on your profile" >the main heroine Asumi and her older sister both possess an incurable heart disease which will kill them before they hit their twentieth birthday, something that both girls understandably found depressing. The older sister finally realized the truth of this trope on her death bed, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MySiblingWillLiveThroughMe' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MySiblingWillLiveThroughMe'>charging Asumi with living it</a>. This is all revealed in an unlockable scene taking place after the events of the main plot. In it Asumi and the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayerCharacter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayerCharacter'>PC</a>, are <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMomentOfHeartwarming' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMomentOfHeartwarming'>reunited after nearly two years apart</a>. Of course, said disease <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BittersweetEnding' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BittersweetEnding'>finally catches up with her; confining her to a hospital bed</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/YourDaysAreNumbered' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/YourDaysAreNumbered'>for what seem to be the few remaining days in her already short life</a>, all in front of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayerCharacter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayerCharacter'>PC's</a> eyes. This finally explains the main reason for her <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Jerkass' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Jerkass'>Jerkass</a> "<em>Beauty of Youth</em>" obsessed <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenkiGirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenkiGirl'>Genki Girl</a> attempts to get all the people she met to live their lives rather than mourn the things wrong with it.</span>
+";i:473;s:1075:"<ul ><li> <span class="spoiler" title="you can set spoilers visible by default on your profile" >The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayerCharacter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayerCharacter'>PC</a> asking her to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PleaseDontLeaveMe' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PleaseDontLeaveMe'>live for him</a> and her renewed determination <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PowerOfLove' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PowerOfLove'>to do so for as long as she can</a> moves it from firm <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DownerEnding' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DownerEnding'>Downer Ending</a> territory into a more <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BolivianArmyEnding' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BolivianArmyEnding'>open yet still tragic conclusion</a>.</span>
+";i:474;s:126:"</li></ul></li><li> This happens to several characters in <em>Tales of the Abyss,</em> but some take it better than others...
+";i:475;s:839:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShadowHearts' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShadowHearts'>Shadow Hearts: Covenant</a> has a strange example. <span class="spoiler" title="you can set spoilers visible by default on your profile" > In the good ending, Yuri is impaled on a rock spire to prevent his soul and memories from disappearing, so he could essentially die as himself and be reunited with his dead lover's soul. After the credits, though, it is shown that he is reborn as the man he was in 1913, heavily implied to have all of his memories intact, and he's restarting his life from the moment he met his lover as his second chance to save her life and create the good ending of the first game (Covenant begins as a sequel to the bad ending of the first game).</span>
+";i:476;s:773:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MetalGearSolid4' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MetalGearSolid4'>Metal Gear Solid 4</a></em>. The protagonist is not only extremely old,<span class="spoiler" title="you can set spoilers visible by default on your profile" > but has to commit suicide to save the world. He saves the world, is talked out of suicide at the last moment, and then attempts to leave to spent the six months he has left to live agonizing about how miserable his life was. Fortunately, his best friend visits him post-credits and says he'll be by the main character's side for the rest of his life, and promises he'll always remember how amazing he was.</span> He also quits smoking.
+";i:477;s:777:"</li><li> Subverted in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JakAndDaxter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JakAndDaxter'>Jak II</a>. The audience is made more aware of this than the characters, given that they're regularly bombarded by creepy voice overs from Baron Praxis's City-radios, which often serve as "Wanted Dead or Alive" adverts or handy little reminders to Jak that the Dark Eco in his body will eventually kill him and he's just delaying an inevitable and highly painful end when Praxis could make it so much faster and painless... It doesn't stop Jak, however, who doesn't so much plan to end his days happy as he does plan to gun the living bejeezus out of the Krimzon guard and seek his revenge against Praxis.
+";i:478;s:332:"</li><li> The unnamed terminally ill protagonist of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Narcissu' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Narcissu'>Narcissu</a> provides the impetus for the also terminally ill Setsumi to go on a road trip to see the flowers instead of dying in hospital.
+";i:479;s:24:"</li></ul><p></p></div>
+";i:480;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder7');">&nbsp;&nbsp;&nbsp;&nbsp; Webcomics &nbsp;</div><div id="folder7" class="folder" isfolder="true" style="display:block;">
+";i:481;s:438:"<p></p><ul ><li> <a class='urllink' href='http://www.bugcomic.com/comics/even-steven/'>Examined<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/Bug' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/Bug'>Bug</a>, who shows that you need to plan your spending wisely while doing this.
+";i:482;s:513:"</li><li> Alisin from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Fans' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Fans'>Fans!</a>!</em> in early strips. Finding a cure was the first step of her <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterDevelopment' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterDevelopment'>Character Development</a> from the hedonistic "Alisin" of the first two books to the "Ally" of the fifth and onward.
+";i:483;s:335:"</li><li> This is hinted to be the motivation of Larisa from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/SandraAndWoo' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/SandraAndWoo'>Sandra and Woo</a></em>, who's certainly diabetic, and also hiding some additional drug regimen from her friends.
+";i:484;s:24:"</li></ul><p></p></div>
+";i:485;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder8');">&nbsp;&nbsp;&nbsp;&nbsp; Web Original &nbsp;</div><div id="folder8" class="folder" isfolder="true" style="display:block;">
+";i:486;s:289:"<p></p><ul ><li> Kirk in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheGunganCouncil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheGunganCouncil'>The Gungan Council</a></em> lives vicariously all the time due to having just a few more years to live.
+";i:487;s:24:"</li></ul><p></p></div>
+";i:488;s:195:"<p></p><div class="folderlabel" onclick="togglefolder('folder9');">&nbsp;&nbsp;&nbsp;&nbsp; Western Animation &nbsp;</div><div id="folder9" class="folder" isfolder="true" style="display:block;">
+";i:489;s:334:"<p></p><ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSimpsons' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSimpsons'>The Simpsons</a></em>, of course, has mocked this a few times, most notably with Homer believing that he would die after eating an improperly prepared poisonous fish.
+";i:490;s:181:"<ul ><li> In another episode Homer reads a self-help book that advises him to "Live each day like it was your last". Cut to Homer sitting on the curb sobbing "I don't want to die!"
+";i:491;s:889:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DextersLaboratory' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DextersLaboratory'>Dexter's Lab</a></em> had Dexter eating a comically oversized burrito and assuming that the gas cramps would make him explode, due to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoControlGroup' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoControlGroup'>testing his hypothesis on a balloon</a>. <span class="spoiler" title="you can set spoilers visible by default on your profile" > There <em>was</em> an explosion, but the only thing it destroyed was <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Fartillery' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Fartillery'>the television he was standing in front of.</a></span>
+";i:492;s:709:"</li><li> In an episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Arthur' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Arthur'>Arthur</a></em>, D.W. and Binky <a class='urllink' href='http://www.youtube.com/watch?v=lojX5sJ5AU0#t=04m09s'>each discover that they've eaten a "poisonous" green potato chip and become unlikely friends<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>. Cue a montage them bodyboarding in a lake, watching 4th of July fireworks, carving jack-o-lanterns, and building a massive snow castle &#8212; apparently "dying" for the better part of a year.
+";i:493;s:107:"<div class='indent'><strong>D.W.:</strong> "It's amazing what you can do in one day if you try real hard."
+";i:494;s:453:"</div></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoofTroop' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoofTroop'>Goof Troop</a></em> parodies that in the episode "Terminal Pete". Of course, it turns out to be a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MistakenForDying' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MistakenForDying'>Mistaken for Dying</a> near the end.
+";i:495;s:130:"<ul ><li> Then there was another episode with PJ doing this because he thinks his dad will kill him when he sees his report card.
+";i:496;s:807:"</li></ul></li><li> In one episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CampLazlo' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CampLazlo'>Camp Lazlo</a></em>, Scoutmaster Lumpus steals a rare type cheese wheel from Raj because had never tried it. As it turns out, this particular type is <em>extremely</em> deadly and Lumpus only has a few minutes to live. He spends it doing everything he was not allowed to or unable to do in his life. <span class="spoiler" title="you can set spoilers visible by default on your profile" >Naturally, it turns out to be a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadeInCountryX' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadeInCountryX'>cheap knock-off</a> and completely harmless</span>.
+";i:497;s:17:"</li></ul></div>
+";i:498;s:14:"<p></p><hr />
+";i:499;s:2072:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/LensmanArmsRace">Lensman Arms Race</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/OlderThanTelevision">Older Than Television</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/LovesMyAlterEgo">Loves My Alter Ego</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TooManyCooksSpoilTheSoup">Too Many Cooks Spoil The Soup</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/StockAesops">Stock Aesops</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ChristmasSpecial">Christmas Special</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/LegionOfDoom">Legion of Doom</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots">Plots</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/LiveActionEscortMission">Live-Action Escort Mission</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/LightsOffSomebodyDies">Lights Off, Somebody Dies</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes">Death Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/LikeYouWouldReallyDoIt">Like You Would Really Do It</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:500;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:501;s:10:"<p> </p>
+";i:502;s:10:"<center>
+";i:503;s:2:"
+";i:504;s:24:"<!-- med rectangle -->
+";i:505;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:506;s:33:"<script type='text/javascript'>
+";i:507;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:508;s:11:"</script>
+";i:509;s:8:"</div>
+";i:510;s:2:"
+";i:511;s:11:"</center>
+";i:512;s:24:"</td><!-- wikibody -->
+";i:513;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:514;s:7:"</td>
+";i:515;s:7:"</tr>
+";i:516;s:10:"</table>
+";i:517;s:22:"<!--PageFooterFmt-->
+";i:518;s:77:"<div class="alt_title" style="font-size:x-small;text-align:center;" ></div>
+";i:519;s:10:"<center>
+";i:520;s:44:"<table style="width:606px;margin:0 auto;">
+";i:521;s:7:"	<tr>
+";i:522;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:523;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:524;s:265:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LikeYouWereDying?action=edit'> edit page</a></div></div></td>
+";i:525;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:526;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:527;s:8:"	</tr>
+";i:528;s:10:"</table>
+";i:529;s:11:"</center>
+";i:530;s:21:"<div id='wikifoot'>
+";i:531;s:27:"    <div class='footnav'>
+";i:532;s:2:"
+";i:533;s:14:"			 <center>
+";i:534;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:535;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:536;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:537;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:538;s:15:"				</center>
+";i:539;s:2:"
+";i:540;s:29:"    </div><!-- wikifoot -->
+";i:541;s:23:"<!--/PageFooterFmt-->
+";i:542;s:12:"38519<br/>
+";i:543;s:3:"1
+";i:544;s:8:"</div>
+";i:545;s:26:"</div><!-- container -->
+";i:546;s:2:"
+";i:547;s:9:"</body>
+";i:548;s:21:"<!--ScriptInsert-->
+";i:549;s:9:"</html>
+";}}

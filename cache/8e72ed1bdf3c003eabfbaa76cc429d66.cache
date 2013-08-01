@@ -1,0 +1,522 @@
+a:2:{i:0;i:1377935109;i:1;a:521:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:80:"<title>Historical Villain Downgrade - Television Tropes &amp; Idioms  </title>
+";i:5;s:146:"<meta name="Description" content="The Historical Villain Downgrade trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:10:"</style>
+";i:25;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:26;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:27;s:33:"<script type="text/javascript">
+";i:28;s:26:"  var _gaq = _gaq || [];
+";i:29;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:30;s:34:"  _gaq.push(['_trackPageview']);
+";i:31;s:2:"
+";i:32;s:17:"  (function() {
+";i:33;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:34;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:35;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:36;s:9:"  })();
+";i:37;s:2:"
+";i:38;s:32:"	function subpage(sel, title){
+";i:39;s:4:"		
+";i:40;s:40:"		var namespce = ""+getselection(sel);
+";i:41;s:34:"		if(namespce.trim()=="")return;
+";i:42;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:43;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:44;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:45;s:29:"		window.location.href=url;
+";i:46;s:4:"	}
+";i:47;s:32:"	function p5(groupname,title){
+";i:48;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:49;s:4:"	}
+";i:50;s:27:"	function togglenote(id){
+";i:51;s:23:"		var ele=object(id);
+";i:52;s:34:"		var state = ele.style.display;
+";i:53;s:49:"		if(state=='none') ele.style.display='inline';
+";i:54;s:48:"		if(state=='inline')ele.style.display='none';
+";i:55;s:4:"	}
+";i:56;s:35:"	var googletag = googletag || {};
+";i:57;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:58;s:16:"	(function() {
+";i:59;s:47:"	var gads = document.createElement('script');
+";i:60;s:21:"	gads.async = true;
+";i:61;s:33:"	gads.type = 'text/javascript';
+";i:62;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:63;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:64;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:65;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:66;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:67;s:8:"	})();
+";i:68;s:2:"
+";i:69;s:34:"	googletag.cmd.push(function() {
+";i:70;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:71;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:73;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:74;s:45:"		googletag.pubads().enableSingleRequest();
+";i:75;s:31:"		googletag.enableServices();
+";i:76;s:6:"	});
+";i:77;s:2:"
+";i:78;s:11:"</script>
+";i:79;s:2:"
+";i:80;s:9:"</head>
+";i:81;s:8:"<body>
+";i:82;s:40:"<div class="container" id="container">
+";i:83;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:84;s:6:"<tr>
+";i:85;s:46:"<td style="width:166px;vertical-align:top;">
+";i:86;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:87;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:88;s:38:"<g:plusone size="small"></g:plusone>
+";i:89;s:2:"
+";i:90;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:91;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:92;s:6:"<ul>
+";i:93;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:94;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:95;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:96;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:97;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:98;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:99;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:100;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:101;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:102;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:103;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:104;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:105;s:7:"</ul>
+";i:106;s:8:"</div>
+";i:107;s:2:"
+";i:108;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:109;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:110;s:2:"
+";i:111;s:197:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','HistoricalVillainDowngrade');">send request</button><hr/></div>
+";i:112;s:2:"
+";i:113;s:338:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="HistoricalVillainDowngrade" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:114;s:2:"
+";i:115;s:51:"<div style="font-size:small;text-align:center;" >
+";i:116;s:30:"Find recent edits by troper:
+";i:117;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:118;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:119;s:8:"</div>
+";i:120;s:7:"<hr/>
+";i:121;s:7:"<ul>	
+";i:122;s:4:"		
+";i:123;s:7:"<hr/>
+";i:124;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:125;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:126;s:75:"		<input type="hidden" name="title" value="HistoricalVillainDowngrade" />
+";i:127;s:54:"		This article needs some moderator assistance with:
+";i:128;s:9:"		<br/>
+";i:129;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:130;s:9:"		<br/>
+";i:131;s:4:"		
+";i:132;s:34:"		<p style="text-align:center;">
+";i:133;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:134;s:8:"		</p>
+";i:135;s:34:"		<p style="text-align:center;">
+";i:136;s:48:"			<input type="submit" value="send report" />
+";i:137;s:8:"		</p>
+";i:138;s:11:"		</form>
+";i:139;s:7:"<hr/>
+";i:140;s:6:"<ul>
+";i:141;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:142;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:143;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:144;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:145;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:146;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:147;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:148;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:149;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:150;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:151;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:152;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:153;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:154;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:155;s:155:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.HistoricalVillainDowngrade'>Referral Count for This Page</a></li>
+";i:156;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:157;s:130:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=HistoricalVillainDowngrade'>Article Relationships</a></li> -->
+";i:158;s:116:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.HistoricalVillainDowngrade'>Folderize</a></li>
+";i:159;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:160;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:161;s:7:"</ul>
+";i:162;s:8:"	<hr/>
+";i:163;s:6:"<ul>
+";i:164;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:165;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:166;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:167;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:168;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:169;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:170;s:7:"</ul>
+";i:171;s:7:"<hr/>
+";i:172;s:2:"
+";i:173;s:8:"</div>
+";i:174;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:175;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:176;s:8:"		<ul>
+";i:177;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:178;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:179;s:9:"		</ul>
+";i:180;s:8:"</div>
+";i:181;s:10:"<center>
+";i:182;s:34:"		<div style="margin-top:4px;">	
+";i:183;s:5:"			
+";i:184;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:185;s:33:"<script type='text/javascript'>
+";i:186;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:187;s:111:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/HistoricalVillainDowngrade");
+";i:188;s:11:"</script>
+";i:189;s:8:"</div>
+";i:190;s:2:"
+";i:191;s:11:"		</div>	
+";i:192;s:10:"		<div>	
+";i:193;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:194;s:6:"		 	
+";i:195;s:4:"		
+";i:196;s:4:"		
+";i:197;s:10:"		</div>
+";i:198;s:120:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalVillainDowngrade">Main</a><br/>
+";i:199;s:9:"		<div>
+";i:200;s:10:"		</div>
+";i:201;s:36:"		<div style="font-size:x-small;">
+";i:202;s:11:"				<hr/>
+";i:203;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:204;s:14:"				<p> </p>
+";i:205;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:206;s:13:"				<p></p>
+";i:207;s:11:"				<ul >
+";i:208;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:209;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:210;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:211;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:212;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:213;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:214;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:215;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:216;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:217;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:219;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:220;s:11:"				</li>
+";i:221;s:11:"				</ul>
+";i:222;s:13:"				<p></p>
+";i:223;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:224;s:13:"				<p></p>
+";i:225;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:226;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:227;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:228;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:229;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:230;s:6:"				
+";i:231;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:232;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:233;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:234;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:235;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:236;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:237;s:6:"				
+";i:238;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:239;s:16:"				</li></ul>
+";i:240;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:241;s:13:"				<p></p>
+";i:242;s:11:"				<ul >
+";i:243;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:244;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:245;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:246;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:247;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:248;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:249;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:250;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:251;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:252;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:253;s:6:"				
+";i:254;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:255;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:256;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:257;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:258;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:259;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:260;s:6:"				
+";i:261;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:262;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:263;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:264;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:265;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:266;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:268;s:11:"				</li>
+";i:269;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:270;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:271;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:272;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:273;s:6:"				
+";i:274;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:275;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:276;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:278;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:279;s:16:"				</li></ul>
+";i:280;s:6:"				
+";i:281;s:13:"				<p></p>
+";i:282;s:39:"				<strong>Other Categories</strong>
+";i:283;s:13:"				<p></p>
+";i:284;s:10:"				<ul>
+";i:285;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:286;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:287;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:288;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:289;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:290;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:291;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:292;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:293;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:294;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:295;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:296;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:297;s:11:"				</ul>
+";i:298;s:11:"		</div>	
+";i:299;s:11:"</center>
+";i:300;s:2:"
+";i:301;s:30:"</div> <!-- wikileftpage -->
+";i:302;s:7:"</td>
+";i:303;s:20:"<td id='wikibody'>
+";i:304;s:2:"
+";i:305;s:21:"<!--PageTitleFmt-->
+";i:306;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:307;s:12:"    		<tr>
+";i:308;s:38:"    		<td id="wikicmds" align="top">
+";i:309;s:8:"    		
+";i:310;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:311;s:45:"    				<tr style="vertical-align:middle;">
+";i:312;s:31:"    					<td align="center" >
+";i:313;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:314;s:16:"    					</td>
+";i:315;s:15:"    				<td >
+";i:316;s:37:"    					<div style="width:400px;">
+";i:317;s:28:"                  <center>
+";i:318;s:27:"                  <table>
+";i:319;s:24:"                  <tr>
+";i:320;s:24:"                  <td>
+";i:321;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:322;s:27:"                    <div>
+";i:323;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:324;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:325;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:326;s:64:"                      <input type="text" name="q" size="31" />
+";i:327;s:28:"                    </div>
+";i:328;s:27:"                  </form>
+";i:329;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:330;s:25:"                  </td>
+";i:331;s:24:"                  <td>
+";i:332;s:46:"                  <div class="buttonframe" >
+";i:333;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:334;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:335;s:26:"                  </div>
+";i:336;s:25:"                  </div
+";i:337;s:25:"                  </td>
+";i:338;s:25:"                  </tr>
+";i:339;s:28:"                  </table>
+";i:340;s:29:"                  </center>
+";i:341;s:17:"    					</div>
+";i:342;s:15:"    				</td>
+";i:343;s:15:"    				</tr>
+";i:344;s:16:"    		</table>
+";i:345;s:8:"    		
+";i:346;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:347;s:10:"    				
+";i:348;s:27:"    				<tr valign="top">
+";i:349;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:350;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:351;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:352;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:353;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:354;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:355;s:15:"    				</tr>
+";i:356;s:10:"    				
+";i:357;s:10:"    				
+";i:358;s:8:"    		
+";i:359;s:16:"    		</table>
+";i:360;s:8:"    		
+";i:361;s:28:"    		<div id="wikilogo" >
+";i:362;s:16:"    		<center>
+";i:363;s:2:"
+";i:364;s:22:"<!-- leaderboard -->
+";i:365;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:366;s:33:"<script type='text/javascript'>
+";i:367;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:368;s:11:"</script>
+";i:369;s:8:"</div>
+";i:370;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:371;s:28:"    					<tr valign="top">
+";i:372;s:236:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'HistoricalVillainDowngrade');" autocomplete="off"  style="width:50px;"><option> </option><option value="Main">Main</option></select></td>
+";i:373;s:281:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalVillainDowngrade?action=source" >source</a></div></div></td>
+";i:374;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:375;s:282:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.HistoricalVillainDowngrade">history</a></div></div></td>
+";i:376;s:284:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalVillainDowngrade?action=edit'> edit page</a></div></div></td>
+";i:377;s:280:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/HistoricalVillainDowngrade" >related</a></div></div></td>
+";i:378;s:38:"    							<td valign="middle"></td>
+";i:379;s:16:"    					</tr>
+";i:380;s:18:"    				</table>
+";i:381;s:10:"    				
+";i:382;s:35:"    				<div id="watchmsg"></div>
+";i:383;s:18:"    			</center>
+";i:384;s:13:"    		</td>
+";i:385;s:12:"     </tr>
+";i:386;s:6:"    
+";i:387;s:11:"    	<tr>
+";i:388;s:39:"    		<td id="wikititle" colspan="2">
+";i:389;s:40:"    				<div class="namespacebuttons">
+";i:390;s:756:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments"  style="border-width:2px;border-color:silver;margin-right:2px;" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.HistoricalVillainDowngrade" >&nbsp;Discussion </a></li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=HistoricalVillainDowngrade" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/HistoricalVillainDowngrade" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:391;s:16:"    				</div>
+";i:392;s:26:"    				<!--RepairBug-->
+";i:393;s:10:"    				
+";i:394;s:34:"    				<div class='pagetitle'> 
+";i:395;s:55:"    						  <span>Historical Villain Downgrade</span>
+";i:396;s:16:"    				</div>
+";i:397;s:11:"    				 
+";i:398;s:13:"    		</td>
+";i:399;s:12:"    	</tr>
+";i:400;s:10:"</table>
+";i:401;s:2:"
+";i:402;s:16:"<!--PageText-->
+";i:403;s:20:"<div id='wikitext'>
+";i:404;s:256:"<div class='indent'><em>"<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EmperorCaligula' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EmperorCaligula'>Caligula</a> was no Boy Scout; he did things we can't even talk about."</em>
+";i:405;s:248:"<div class='indent'>&#8212;<strong><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/PinkyAndTheBrain' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/PinkyAndTheBrain'>Pinky And The Brain</a></strong>
+";i:406;s:659:"</div></div><p></p>Of course, we all know what an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalVillainUpgrade' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalVillainUpgrade'>Historical Villain Upgrade</a> is: that's when you take an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalDomainCharacter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalDomainCharacter'>Historical Domain Character</a> who is generally notable for being not a nice person (or at worst, an opponent of whoever your hero happens to be) and transform them into full-on Hollywood-style villain.
+";i:407;s:130:"<p></p>But there are certain characters in history whose actions can't be depicted realistically on, say, a children's TV series.
+";i:408;s:1181:"<p></p>That's where the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalVillainDowngrade' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalVillainDowngrade'>Historical Villain Downgrade</a> comes in. You don't need to dwell, for example, on the fact that <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AdolfHitler' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AdolfHitler'>Adolf Hitler</a> was responsible for a systematic genocide that resulted in almost twelve million deaths; it is enough for audiences to know that he was a Very Bad Man. Likewise, you might present <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EmperorCaligula' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EmperorCaligula'>Emperor Caligula</a> as a lech with a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AGodAmI' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AGodAmI'>god complex</a>. No need to get into the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Squick' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Squick'>squicky</a> details of his life.
+";i:409;s:789:"<p></p>Basically, this trope occurs whenever an historical villain's evil actions are either glossed over or reduced in severity, in order to make them palatable, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ButNotTooEvil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ButNotTooEvil'>even as a villain</a>, to mainstream television audiences. Sometimes it's because <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealityIsUnrealistic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealityIsUnrealistic'>Reality Is Unrealistic</a> &#8212; there are a few cases of real people displaying such pantomime levels of evil that if you put it in a movie script, the audience would just roll their eyes at your <em>obvious</em> exaggeration.
+";i:410;s:615:"<p></p>Compare <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LighterAndSofter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LighterAndSofter'>Lighter and Softer</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticallyCorrectHistory' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticallyCorrectHistory'>Politically Correct History</a>. Contrast <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalVillainUpgrade' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalVillainUpgrade'>Historical Villain Upgrade</a>.
+";i:411;s:14:"<p></p><hr />
+";i:412;s:18:"<h2>Examples</h2>
+";i:413;s:122:"<p></p><div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:414;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp;Comicbooks&nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:415;s:269:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Asterix' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Asterix'>Astérix</a></em> plays Caesar's campaigns for laughs and generally makes life in 52 BC Europe palatable to everyone.
+";i:416;s:17:"</li></ul></div>
+";i:417;s:180:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp;Film&nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:418;s:1346:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Conspiracy' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Conspiracy'>Conspiracy</a></em>, which revolves around the 1942 Wannsee Conference where prominent officials of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NaziGermany' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NaziGermany'>Nazi Germany</a> met to discuss the implementation of the Holocaust, <a class='urllink' href='http://en.wikipedia.org/wiki/Rudolf_Lange'>SS Major Rudolf Lange<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> is given this treatment. Given the subject matter it is not surprising that all the people portrayed in this film are unambiguously evil – these were after all Nazis. Major Lange however is depicted as almost sympathetic, possibly to better contrast with the even more brutal figures sitting at the table such as Reinhard Heydrich and Heinrich Müller. He is clearly haunted by the atrocities that he has overseen in Latvia, expresses contempt at Heydrich for insisting on euphemisms during casual discussions of organized genocide, and shows a philosophic bent. In real life the guy was an unrepentant anti-semite and mass murderer, and a ruthless careerist.
+";i:419;s:705:"<ul ><li> Part of this is because Lange is used to highlight the Nazi objection to the <em>Einsatztruppen</em>: it was deeply unsettling to execute large numbers of noncombatants with a gun. This is one of the reasons why the gas chambers were developed - to remove the killers from the consequences of their actions. Lange's objections are intended to reflect this - he doesn't give a damn about the fact that Jews have died, but doesn't like having to kill them. He is contemptuous of Heydrich, because Heydrich hasn't been there and overseen the killing himself. The fact that he is at least a source of irritation for Heydrich conspires to paint him in a better light than he actually is in the film.
+";i:420;s:841:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealLife' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealLife'>Real Life</a>, nobody at the conference offered any real objection to killing the Jews, in part because the conference itself falls under either this trope, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalVillainUpgrade' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalVillainUpgrade'>Historical Villain Upgrade</a> or <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoryMarchesOn' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoryMarchesOn'>History Marches On</a>- the extermination of the Jews was already a go-ahead. The point of this conference was not to organize the Holocaust; it was to rubber stamp it.
+";i:421;s:1068:"</li></ul></li><li> The SS camp commander Amon Goeth in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchindlersList' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchindlersList'>Schindler's List</a></em> is a prime portrayal of a sadistic monster who loved murdering people during the Holocaust. In real life however, he was <em>even worse</em>. Spielberg had to tone down the man's senseless cruelty because his crimes were so horrible and numerous (which included a frequently used torture dungeon built under his house, feeding prisoners <em>alive</em> to his starved dogs, shooting playing children with his sniper rifle, personally killing five hundred people, and more) that <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealityIsUnrealistic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealityIsUnrealistic'>to an audience it simply wouldn't have been believable on screen</a> - some had trouble even grasping that a lunatic such as the one shown in the movie could keep his job, even in the S.S.
+";i:422;s:1196:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KingdomOfHeaven' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KingdomOfHeaven'>Kingdom of Heaven</a></em> has various Historical <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalHeroUpgrade' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalHeroUpgrade'>Upgrades</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalVillainUpgrade' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalVillainUpgrade'>Downgrades</a> abound. The films portrayal of Raynald de Chatillon, however, was if anything too mild. He's portrayed as Guy's dragon, whereas in real life the two men hated each other, and the film leaves out the fact that he led a Pirate fleet that threatened to burn down Mecca and that he flayed the Patriarch Of Antioch alive. This is one of the most common criticisms by critics, since these elements <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealityIsUnrealistic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealityIsUnrealistic'>could've made it a much more interesting story.</a>
+";i:423;s:2611:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Goodfellas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Goodfellas'>Goodfellas</a></em> is told through the eyes of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnreliableNarrator' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnreliableNarrator'>Unreliable Narrator</a> Henry Hill, who implies that for all the bad things he does in the movie (theft, assault, drug dealing, drug <em>taking</em>, etc.) he had never personally murdered, with the closest he gets being to lock the door while Jimmy and Tommy beat <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AssholeVictim' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AssholeVictim'>Asshole Victim</a> Billy Bats to death and helping them cover it up (though this would still make him culpable legally). In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealLife' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealLife'>Real Life</a> he is known to have murdered two people at least. Jimmy and Tommy, though, while each portrayed accurately as extremely ruthless and violent gangsters who murder countless people throughout, were actually even <em>worse</em> in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealLife' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealLife'>Real Life</a>- Jimmy Burke (Conway in the film), in particular, would sometimes <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WouldHurtAChild' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WouldHurtAChild'>lock children in refridgerators</a>, murdered or had murdered <em>even more</em> people, and really <em>did</em> screw nearly everyone out of the Lufthansa heist- the killing spree was partly prompted by the others asking for their fair cut; Tommy De Simone (Tommy De Vito) was also more murderous, and was killed not just for the murder of Billy Bats, but because Paulie found out he had tried to rape Hill's wife Karen with Henry was in prison (Henry didn't find this out until the trial shown at the end of the movie). Paul Vario (Paulie Cicero) was also much more violent in reality; what distain he had for it was pure <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PragmaticVillainy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PragmaticVillainy'>Pragmatic Villainy</a> as violence drew attention and was bad for business; he was also having an affair with Karen, hence selling out Tommy for the Billy Bats murder.
+";i:424;s:756:"</li><li> Due to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/TheHaysCode' title='http://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/TheHaysCode'>The Hays Code</a>, films based on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/ThePictureOfDorianGray' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/ThePictureOfDorianGray'>The Picture Of Dorian Gray</a></em> heavily glossed over what the protagonist (who had clearly become a villain by the end) did, to such an extent that they couldn't even state what they were. They merely left it as "Dorian Grey did things so horrible, his name is mud in social circles." Really, any movie with classic villains such as Caligula received this.
+";i:425;s:17:"</li></ul></div>
+";i:426;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp;Literature&nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:427;s:604:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dracula' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dracula'>Dracula</a> may be pretty bad, but he is absolutely <em>nothing</em> compared to Vlad the Impaler, upon whom the character is based. (Though this is complicated by several <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalVillainUpgrade' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalVillainUpgrade'>Historical Villain Upgrades</a> Vlad received from his enemies, particularly Hungarian king Matthias Corvinus).
+";i:428;s:251:"<ul ><li> There's also the complicating factor that he's actually regarded as somewhat of a national hero in a sort of harsh-but-fair way; popular consensus in the region today seems to be that a lot of the people he impaled <em>needed</em> impaling.
+";i:429;s:517:"</li></ul></li><li> Happens sometimes in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DearAmerica' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DearAmerica'>Dear America</a></em> series, due to the fact that it's made for children. A very obvious example of a whole group being downgraded is in <em>My Heart is on the Ground</em> by Ann Rinaldi, which makes the white men who took Lakota children to be "reeducated" in the ways of white people seem only like misguided missionaries.
+";i:430;s:17:"</li></ul></div>
+";i:431;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp;Live-Action TV&nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:432;s:258:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/SabrinaTheTeenageWitch' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/SabrinaTheTeenageWitch'>Sabrina the Teenage Witch</a></em>'s aunts met Caligula in one episode.
+";i:433;s:777:"</li><li> Uday Hussein's sadistic nature is toned down quite a bit in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HouseOfSaddam' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HouseOfSaddam'>House Of Saddam</a></em> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MiniSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MiniSeries'>Mini Series</a> for much the same reason as Amon Goeth in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchindlersList' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchindlersList'>Schindler's List</a></em>: the producers thought the audience would just have trouble accepting that a human being could be as wantonly cruel as he was in real life.
+";i:434;s:184:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheBorgias' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheBorgias'>The Borgias</a></em>:
+";i:435;s:254:"<ul ><li> Juan Borgia is depicted as a stupid lech whose actions can be explained away by insecurities. And he really does love his family. The real Juan was sometimes referred to as a sort of idiotic sociopath&#8212;he was once chided for killing cats.
+";i:436;s:1371:"</li><li> His older brother, Cesare, is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDutifulSon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDutifulSon'>The Dutiful Son</a> who also loves his family, and would do anything for them. The general consensus is that the real Cesare Borgia was all but a sociopath&#8212;the only person he loved in the world was his sister, Lucrezia. (The show does get that right; but he seems to have never felt the loyalty to his parents that the series implies.) While he falls madly in love over the course of the show, he all but stated in reality that the only woman who had any worth in his eyes was Lucrezia. Though the first season is set up as his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StartOfDarkness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StartOfDarkness'>Start of Darkness</a>, he was already dark by the time these events occurred. So dark that he would stand on a balcony, shooting at prisoners for target practice&#8212;with little sis by his side, of course. The writers may have downgraded him for now due to the fact that few would believe that someone could be that bad that early in his life. Also remember that all these accounts of the Borgias were by their enemies, who of course can always be relied upon to give unbiased descriptions.
+";i:437;s:430:"<ul ><li> However, by the end of the second season, both of these become more historically accurate. Overall, this is a shtick of the show, making characters less-evil than their counterparts TEMPORARILY so they can have come <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterDevelopment' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterDevelopment'>Character Development</a> to go around.
+";i:438;s:533:"</li></ul></li></ul></li><li> Being a kids' show, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorribleHistories' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorribleHistories'>Horrible Histories</a></em> has to do this occasionally; though they do talk about death and violence frequently, some historical figures <em>still</em> have to be downgraded or at least simplified. Hitler is rarely used at all, and a lot of things are omitted from the segments about people like Caligula or Henry VIII.
+";i:439;s:17:"</li></ul></div>
+";i:440;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp;Videogames&nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:441;s:279:"<ul ><li> Two examples from the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/CommandAndConquerRedAlertSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/CommandAndConquerRedAlertSeries'>Command And Conquer Red Alert Series</a></em>:
+";i:442;s:188:"<ul ><li> The Soviets after the first game. The first game gives what many accounts would consider an accurate depiction of Stalin's regime, but in the next two games they're just a joke.
+";i:443;s:1386:"</li><li> A bigger case is the Empire of the Rising Sun in RA 3, who are clearly modeled after <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ImperialJapan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ImperialJapan'>Imperialist Japan</a>, which in real life was infamous for its war crimes, which include pointless mass murders by the hundreds of thousands, enslavement of tens of thousands of women as sex slaves, and performing medical experiments on prisoners from their colonies that killed thousands of people. Even the whole honor aspect that's presented as a joke in the game was a scary thing in real life; they considered surrender dishonorable and would execute or use enemies who surrendered as slave labor, and fed their civilians propaganda about the Allies that drove them to commit suicide by the tens of thousands when America invaded the Japanese home islands. All of these thing are of course never brought up in the game and the Empire is simply presented as an over-the-top comedic organization, though interestingly it is brought up in an in-progress mod called <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RedAlert3Paradox' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RedAlert3Paradox'>Red Alert 3 Paradox</a></em> where in the mod's version of RA 3 events, the Empire butchered a major Soviet city.
+";i:444;s:27:"</li></ul></li></ul></div>
+";i:445;s:185:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp;Webcomics&nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:446;s:603:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/HarkAVagrant' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/HarkAVagrant'>Hark! A Vagrant</a></em> often does this for laughs, such as <a class='urllink' href='http://www.harkavagrant.com/index.php?id=25'>this<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> comic about <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenghisKhan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenghisKhan'>Genghis Khan</a>.
+";i:447;s:17:"</li></ul></div>
+";i:448;s:193:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp;Western Animation&nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:449;s:430:"<ul ><li> As the page quote suggests, this is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Lampshaded' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Lampshaded'>lampshaded</a> by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PinkyAndTheBrain' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PinkyAndTheBrain'>Pinky and the Brain</a> while discussing Caligula in one episode.
+";i:450;s:537:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainPlanetAndThePlaneteers' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainPlanetAndThePlaneteers'>Captain Planet and the Planeteers</a></em>, Hitler is depicted as being hate-filled enough to poison the titular superhero with his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathGlare' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathGlare'>Death Glare</a> alone. Other facts of his regime are ignored.
+";i:451;s:531:"</li><li> One episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Histeria' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Histeria'>Histeria</a></em> indicated that the World's Oldest Woman had met Hitler. Granted, the scene showed her shouting down to him in what was clearly <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FireAndBrimstoneHell' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FireAndBrimstoneHell'>Fire and Brimstone Hell</a>.
+";i:452;s:1286:"</li><li> There's an in-universe example in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SouthPark' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SouthPark'>South Park</a></em> halloween episode in season 1, arguably a parody of this trope as well. Cartman dresses up in a Hitler costume for Halloween, so the principal shows him a classroom video about how Hitler was a bad person. Because it's made for 8-year-old American children, it only says that "Adolf Hitler was a very, very naughty man!" and merely shows him speaking to a bunch of parading soldiers, which Cartman can't understand because of the language barier. Based on that the children are supposed to learn <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnAesop' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnAesop'>An Aesop</a> that dressing up as Hitler to school is not acceptable. Things like the Holocaust and other war crimes couldn't be shown of course, because it's directed towards children. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MisaimedFandom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MisaimedFandom'>Cartman finds Hitler very cool instead, and imagines being in his place</a>.
+";i:453;s:17:"</li></ul></div>
+";i:454;s:181:"<p></p><div class="folderlabel" onclick="togglefolder('folder7');">&nbsp;&nbsp;&nbsp;&nbsp;Other&nbsp;</div><div id="folder7" class="folder" isfolder="true" style="display:block;">
+";i:455;s:260:"<ul ><li> Pretty much any depiction of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/NorthKorea' title='http://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/NorthKorea'>North Korea</a> will tone their atrocities down significantly.
+";i:456;s:990:"</li><li> Any depiction of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ImperialJapan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ImperialJapan'>Imperial Japan</a> will be toned down from their real life versions, especially if Japanese media made it. Despite being one of the most horrifying civilizations ever, with brutality that matched the Mongol hordes, they tend to seldom be depicted accurately. Sometimes they are even depicted <em>sympathetically</em> - "forced" into a war they didn't want by the hypocritical west against an overwhelming foe as they honorably lay down their lives in defense of their island. As for any purported atrocities, they either didn't happen, are exaggerated, their victims deserved it, or the other side was just as bad. Most filmmakers instead choose to focus on the crimes of the Nazis, most likely because the Japanese public is still uncomfortable about acknowledging the actions of the Empire, unlike the Germans.
+";i:457;s:410:"<ul ><li> Depictions of ALL nations in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WW2' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WW2'>WW 2</a> are whitewashed. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RuleOfCautiousEditingJudgment' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RuleOfCautiousEditingJudgment'>We'll just leave it at that.</a>
+";i:458;s:137:"</li></ul></li><li> Various historical dictators will have their atrocities glazed over by the modern apologists, for political reasons.
+";i:459;s:1050:"</li><li> <a class='urllink' href='http://www.canadianlegends.ca/Products.asp'>This<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> action figure of <a class='urllink' href='http://en.wikipedia.org/wiki/John_A._Macdonald'>Sir John A. Macdonald<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> comes with a brief biography (obviously written for children) in which it is stated that he and <a class='urllink' href='http://en.wikipedia.org/wiki/Louis_Riel'>Louis Riel<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Understatement' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Understatement'>did not get along very well.</a>" The fact of the matter is that Macdonald and Riel fought two wars against each other at the conclusion of which Riel was executed.
+";i:460;s:551:"</li><li> In media based on the New Testament of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheBible' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheBible'>The Bible</a>, Pontius Pilate is often portrayed as reluctant to sentence Jesus to execution. This is unlikely given that Pilate was recalled to Rome because the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEmpire' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEmpire'>Romans</a></em> though he was too brutal.
+";i:461;s:612:"<ul ><li> Well, there are very, very, <em>very</em> few sources pertaining to Pilate; perhaps the only two sources apart from the Gospels that deal with him at all are the Jewish scholars Philo and Josephus- the latter, in particular, not known as the most reliable source. Both men portray him as a man who was insensitive to the Jews and who went out of his way to deliberately annoy them (which inspired minor rebellions; the brutality thing concerns how they say he put those rebellions down)- its possible he did indeed want to let Jesus go, perhaps partly or even only because he wanted to annoy the Jews!
+";i:462;s:1126:"</li></ul></li><li> <a class='urllink' href='http://en.wikipedia.org/wiki/Gilles_de_rais'>Gilles de Rais<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> was one of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JoanOfArc' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JoanOfArc'>Joan of Arc</a>'s companions, an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RatedMForManly' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RatedMForManly'>all-around man's man</a>, and a successful soldier. That's the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThemeParkVersion' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThemeParkVersion'>Theme Park Version</a> anyway, the fact that he was also a serial rapist and killer of <em>children</em> tends not to be mentioned in kid's history books. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkerAndEdgier' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkerAndEdgier'>For older readers, however...</a>
+";i:463;s:1230:"<ul ><li> Gilles, while being one of the inspirations for <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Bluebeard' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Bluebeard'>Bluebeard</a> (who's himself definitely not on the level of his historical counterpart), is a somewhat contentious case for modern scholars; a non-negligible number theorise (with pretty good though not definitive evidence to back it up) that his crimes, trial and condemnation was a politically-minded frame-up (as a breton nobleman loyal to France at that time was pretty much guaranteed to have lots of nearby ennemies, especially one famed for being a companion to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JoanOfArc' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JoanOfArc'>Joan of Arc</a>). <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheOtherWiki' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheOtherWiki'>The Other Wiki</a> <a class='urllink' href='http://en.wikipedia.org/wiki/Gilles_de_Rais#Controversy'>elaborates a bit on the topic.<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>
+";i:464;s:239:"</li><li> Averted in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateZero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateZero'>Fate Zero</a></em>, which plays out this aspect of him for all its worth.
+";i:465;s:284:"</li></ul></li><li> The history books often leave out the fact that some African tribes profited from the slave trade by capturing and selling rival tribes. It has been said that Europeans didn't start the slave trade, but opened up and expanded the scope of the African slave trade.
+";i:466;s:304:"<ul ><li> Actually it was rarely Europeans who captured African people for slavery. During the Colonial-era, Europeans, particularly the French, befriended Western Africans, and paid them to go capture people from other tribes in other parts of Africa. The Western Africans sure did make a lot of money.
+";i:467;s:221:"</li><li> Likewise, the Arab slave trade is brought up way less, despite starting earlier, ending later, and even using slaves in plantations in Mesopotamia in pretty much the same way they were treated in the Caribbean.
+";i:468;s:27:"</li></ul></li></ul></div>
+";i:469;s:14:"<p></p><hr />
+";i:470;s:2723:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalHeroUpgrade">Historical Hero Upgrade</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/HollywoodHistory">Hollywood History</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalVillainUpgrade">Historical Villain Upgrade</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalHeroUpgrade">Historical Hero Upgrade</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MediaAdaptationTropes">Media Adaptation Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalVillainUpgrade">Historical Villain Upgrade</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalPersonPunchline">Historical Person Punchline</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalDomainCharacter">Historical Domain Character</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalVillainUpgrade">Historical Villain Upgrade</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalHeroUpgrade">Historical Hero Upgrade</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes">Characterization Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalVillainUpgrade">Historical Villain Upgrade</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/HijackedByGanon">Hijacked by Ganon</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Villains">Villains</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalVillainUpgrade">Historical Villain Upgrade</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:471;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:472;s:10:"<p> </p>
+";i:473;s:10:"<center>
+";i:474;s:2:"
+";i:475;s:24:"<!-- med rectangle -->
+";i:476;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:477;s:33:"<script type='text/javascript'>
+";i:478;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:479;s:11:"</script>
+";i:480;s:8:"</div>
+";i:481;s:2:"
+";i:482;s:11:"</center>
+";i:483;s:24:"</td><!-- wikibody -->
+";i:484;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:485;s:7:"</td>
+";i:486;s:7:"</tr>
+";i:487;s:10:"</table>
+";i:488;s:22:"<!--PageFooterFmt-->
+";i:489;s:77:"<div class="alt_title" style="font-size:x-small;text-align:center;" ></div>
+";i:490;s:10:"<center>
+";i:491;s:44:"<table style="width:606px;margin:0 auto;">
+";i:492;s:7:"	<tr>
+";i:493;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:494;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:495;s:275:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HistoricalVillainDowngrade?action=edit'> edit page</a></div></div></td>
+";i:496;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:497;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:498;s:8:"	</tr>
+";i:499;s:10:"</table>
+";i:500;s:11:"</center>
+";i:501;s:21:"<div id='wikifoot'>
+";i:502;s:27:"    <div class='footnav'>
+";i:503;s:2:"
+";i:504;s:14:"			 <center>
+";i:505;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:506;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:507;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:508;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:509;s:15:"				</center>
+";i:510;s:2:"
+";i:511;s:29:"    </div><!-- wikifoot -->
+";i:512;s:23:"<!--/PageFooterFmt-->
+";i:513;s:12:"32311<br/>
+";i:514;s:3:"7
+";i:515;s:8:"</div>
+";i:516;s:26:"</div><!-- container -->
+";i:517;s:2:"
+";i:518;s:9:"</body>
+";i:519;s:21:"<!--ScriptInsert-->
+";i:520;s:9:"</html>
+";}}

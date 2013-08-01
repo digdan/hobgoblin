@@ -1,0 +1,545 @@
+a:2:{i:0;i:1377888351;i:1;a:544:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:65:"<title>Airborne Mook - Television Tropes &amp; Idioms  </title>
+";i:5;s:131:"<meta name="Description" content="The Airborne Mook trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:10:"</style>
+";i:25;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:26;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:27;s:33:"<script type="text/javascript">
+";i:28;s:26:"  var _gaq = _gaq || [];
+";i:29;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:30;s:34:"  _gaq.push(['_trackPageview']);
+";i:31;s:2:"
+";i:32;s:17:"  (function() {
+";i:33;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:34;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:35;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:36;s:9:"  })();
+";i:37;s:2:"
+";i:38;s:32:"	function subpage(sel, title){
+";i:39;s:4:"		
+";i:40;s:40:"		var namespce = ""+getselection(sel);
+";i:41;s:34:"		if(namespce.trim()=="")return;
+";i:42;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:43;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:44;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:45;s:29:"		window.location.href=url;
+";i:46;s:4:"	}
+";i:47;s:32:"	function p5(groupname,title){
+";i:48;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:49;s:4:"	}
+";i:50;s:27:"	function togglenote(id){
+";i:51;s:23:"		var ele=object(id);
+";i:52;s:34:"		var state = ele.style.display;
+";i:53;s:49:"		if(state=='none') ele.style.display='inline';
+";i:54;s:48:"		if(state=='inline')ele.style.display='none';
+";i:55;s:4:"	}
+";i:56;s:35:"	var googletag = googletag || {};
+";i:57;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:58;s:16:"	(function() {
+";i:59;s:47:"	var gads = document.createElement('script');
+";i:60;s:21:"	gads.async = true;
+";i:61;s:33:"	gads.type = 'text/javascript';
+";i:62;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:63;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:64;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:65;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:66;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:67;s:8:"	})();
+";i:68;s:2:"
+";i:69;s:34:"	googletag.cmd.push(function() {
+";i:70;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:71;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:73;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:74;s:45:"		googletag.pubads().enableSingleRequest();
+";i:75;s:31:"		googletag.enableServices();
+";i:76;s:6:"	});
+";i:77;s:2:"
+";i:78;s:11:"</script>
+";i:79;s:2:"
+";i:80;s:9:"</head>
+";i:81;s:8:"<body>
+";i:82;s:40:"<div class="container" id="container">
+";i:83;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:84;s:6:"<tr>
+";i:85;s:46:"<td style="width:166px;vertical-align:top;">
+";i:86;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:87;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:88;s:38:"<g:plusone size="small"></g:plusone>
+";i:89;s:2:"
+";i:90;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:91;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:92;s:6:"<ul>
+";i:93;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:94;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:95;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:96;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:97;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:98;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:99;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:100;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:101;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:102;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:103;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:104;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:105;s:7:"</ul>
+";i:106;s:8:"</div>
+";i:107;s:2:"
+";i:108;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:109;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:110;s:2:"
+";i:111;s:183:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','AirborneMook');">send request</button><hr/></div>
+";i:112;s:2:"
+";i:113;s:324:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="AirborneMook" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:114;s:2:"
+";i:115;s:51:"<div style="font-size:small;text-align:center;" >
+";i:116;s:30:"Find recent edits by troper:
+";i:117;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:118;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:119;s:8:"</div>
+";i:120;s:7:"<hr/>
+";i:121;s:7:"<ul>	
+";i:122;s:4:"		
+";i:123;s:7:"<hr/>
+";i:124;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:125;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:126;s:61:"		<input type="hidden" name="title" value="AirborneMook" />
+";i:127;s:54:"		This article needs some moderator assistance with:
+";i:128;s:9:"		<br/>
+";i:129;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:130;s:9:"		<br/>
+";i:131;s:4:"		
+";i:132;s:34:"		<p style="text-align:center;">
+";i:133;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:134;s:8:"		</p>
+";i:135;s:34:"		<p style="text-align:center;">
+";i:136;s:48:"			<input type="submit" value="send report" />
+";i:137;s:8:"		</p>
+";i:138;s:11:"		</form>
+";i:139;s:7:"<hr/>
+";i:140;s:6:"<ul>
+";i:141;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:142;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:143;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:144;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:145;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:146;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:147;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:148;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:149;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:150;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:151;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:152;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:153;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:154;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:155;s:141:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.AirborneMook'>Referral Count for This Page</a></li>
+";i:156;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:157;s:116:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=AirborneMook'>Article Relationships</a></li> -->
+";i:158;s:102:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.AirborneMook'>Folderize</a></li>
+";i:159;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:160;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:161;s:7:"</ul>
+";i:162;s:8:"	<hr/>
+";i:163;s:6:"<ul>
+";i:164;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:165;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:166;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:167;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:168;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:169;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:170;s:7:"</ul>
+";i:171;s:7:"<hr/>
+";i:172;s:2:"
+";i:173;s:8:"</div>
+";i:174;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:175;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:176;s:8:"		<ul>
+";i:177;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:178;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:179;s:9:"		</ul>
+";i:180;s:8:"</div>
+";i:181;s:10:"<center>
+";i:182;s:34:"		<div style="margin-top:4px;">	
+";i:183;s:5:"			
+";i:184;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:185;s:33:"<script type='text/javascript'>
+";i:186;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:187;s:97:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/AirborneMook");
+";i:188;s:11:"</script>
+";i:189;s:8:"</div>
+";i:190;s:2:"
+";i:191;s:11:"		</div>	
+";i:192;s:10:"		<div>	
+";i:193;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:194;s:6:"		 	
+";i:195;s:4:"		
+";i:196;s:4:"		
+";i:197;s:10:"		</div>
+";i:198;s:191:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/AirborneMook">Laconic</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/AirborneMook">Main</a><br/>
+";i:199;s:9:"		<div>
+";i:200;s:10:"		</div>
+";i:201;s:36:"		<div style="font-size:x-small;">
+";i:202;s:11:"				<hr/>
+";i:203;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:204;s:14:"				<p> </p>
+";i:205;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:206;s:13:"				<p></p>
+";i:207;s:11:"				<ul >
+";i:208;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:209;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:210;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:211;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:212;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:213;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:214;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:215;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:216;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:217;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:219;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:220;s:11:"				</li>
+";i:221;s:11:"				</ul>
+";i:222;s:13:"				<p></p>
+";i:223;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:224;s:13:"				<p></p>
+";i:225;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:226;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:227;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:228;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:229;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:230;s:6:"				
+";i:231;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:232;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:233;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:234;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:235;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:236;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:237;s:6:"				
+";i:238;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:239;s:16:"				</li></ul>
+";i:240;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:241;s:13:"				<p></p>
+";i:242;s:11:"				<ul >
+";i:243;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:244;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:245;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:246;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:247;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:248;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:249;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:250;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:251;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:252;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:253;s:6:"				
+";i:254;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:255;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:256;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:257;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:258;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:259;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:260;s:6:"				
+";i:261;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:262;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:263;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:264;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:265;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:266;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:268;s:11:"				</li>
+";i:269;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:270;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:271;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:272;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:273;s:6:"				
+";i:274;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:275;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:276;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:278;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:279;s:16:"				</li></ul>
+";i:280;s:6:"				
+";i:281;s:13:"				<p></p>
+";i:282;s:39:"				<strong>Other Categories</strong>
+";i:283;s:13:"				<p></p>
+";i:284;s:10:"				<ul>
+";i:285;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:286;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:287;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:288;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:289;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:290;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:291;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:292;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:293;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:294;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:295;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:296;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:297;s:11:"				</ul>
+";i:298;s:11:"		</div>	
+";i:299;s:11:"</center>
+";i:300;s:2:"
+";i:301;s:30:"</div> <!-- wikileftpage -->
+";i:302;s:7:"</td>
+";i:303;s:20:"<td id='wikibody'>
+";i:304;s:2:"
+";i:305;s:21:"<!--PageTitleFmt-->
+";i:306;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:307;s:12:"    		<tr>
+";i:308;s:38:"    		<td id="wikicmds" align="top">
+";i:309;s:8:"    		
+";i:310;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:311;s:45:"    				<tr style="vertical-align:middle;">
+";i:312;s:31:"    					<td align="center" >
+";i:313;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:314;s:16:"    					</td>
+";i:315;s:15:"    				<td >
+";i:316;s:37:"    					<div style="width:400px;">
+";i:317;s:28:"                  <center>
+";i:318;s:27:"                  <table>
+";i:319;s:24:"                  <tr>
+";i:320;s:24:"                  <td>
+";i:321;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:322;s:27:"                    <div>
+";i:323;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:324;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:325;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:326;s:64:"                      <input type="text" name="q" size="31" />
+";i:327;s:28:"                    </div>
+";i:328;s:27:"                  </form>
+";i:329;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:330;s:25:"                  </td>
+";i:331;s:24:"                  <td>
+";i:332;s:46:"                  <div class="buttonframe" >
+";i:333;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:334;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:335;s:26:"                  </div>
+";i:336;s:25:"                  </div
+";i:337;s:25:"                  </td>
+";i:338;s:25:"                  </tr>
+";i:339;s:28:"                  </table>
+";i:340;s:29:"                  </center>
+";i:341;s:17:"    					</div>
+";i:342;s:15:"    				</td>
+";i:343;s:15:"    				</tr>
+";i:344;s:16:"    		</table>
+";i:345;s:8:"    		
+";i:346;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:347;s:10:"    				
+";i:348;s:27:"    				<tr valign="top">
+";i:349;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:350;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:351;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:352;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:353;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:354;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:355;s:15:"    				</tr>
+";i:356;s:10:"    				
+";i:357;s:10:"    				
+";i:358;s:8:"    		
+";i:359;s:16:"    		</table>
+";i:360;s:8:"    		
+";i:361;s:28:"    		<div id="wikilogo" >
+";i:362;s:16:"    		<center>
+";i:363;s:2:"
+";i:364;s:22:"<!-- leaderboard -->
+";i:365;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:366;s:33:"<script type='text/javascript'>
+";i:367;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:368;s:11:"</script>
+";i:369;s:8:"</div>
+";i:370;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:371;s:28:"    					<tr valign="top">
+";i:372;s:262:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'AirborneMook');" autocomplete="off"  style="width:50px;"><option> </option><option value="Laconic">Laconic</option><option value="Main">Main</option></select></td>
+";i:373;s:267:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/AirborneMook?action=source" >source</a></div></div></td>
+";i:374;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:375;s:268:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.AirborneMook">history</a></div></div></td>
+";i:376;s:270:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AirborneMook?action=edit'> edit page</a></div></div></td>
+";i:377;s:266:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/AirborneMook" >related</a></div></div></td>
+";i:378;s:38:"    							<td valign="middle"></td>
+";i:379;s:16:"    					</tr>
+";i:380;s:18:"    				</table>
+";i:381;s:10:"    				
+";i:382;s:35:"    				<div id="watchmsg"></div>
+";i:383;s:18:"    			</center>
+";i:384;s:13:"    		</td>
+";i:385;s:12:"     </tr>
+";i:386;s:6:"    
+";i:387;s:11:"    	<tr>
+";i:388;s:39:"    		<td id="wikititle" colspan="2">
+";i:389;s:40:"    				<div class="namespacebuttons">
+";i:390;s:863:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.AirborneMook" >&nbsp;Discussion </a></li> <li class="namespace_li Laconic" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/AirborneMook" class="textcolor">&nbsp;Laconic&nbsp;</a> </li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=AirborneMook" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/AirborneMook" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:391;s:16:"    				</div>
+";i:392;s:26:"    				<!--RepairBug-->
+";i:393;s:10:"    				
+";i:394;s:34:"    				<div class='pagetitle'> 
+";i:395;s:40:"    						  <span>Airborne Mook</span>
+";i:396;s:16:"    				</div>
+";i:397;s:11:"    				 
+";i:398;s:13:"    		</td>
+";i:399;s:12:"    	</tr>
+";i:400;s:10:"</table>
+";i:401;s:2:"
+";i:402;s:16:"<!--PageText-->
+";i:403;s:20:"<div id='wikitext'>
+";i:404;s:1:"
+";i:405;s:1:"
+";i:406;s:1:"
+";i:407;s:343:"<div class="quoteright" style="width:250px;" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SuperMarioBros3' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SuperMarioBros3'><img src='http://static.tvtropes.org/pmwiki/pub/images/Flying_Goombas_7225.jpg' class='embeddedimage' border='0' alt='' /></a></div>
+";i:408;s:98:"<div class="acaptionright" style="width:250px;" >And you thought mosquitos were annoying...</div>
+";i:409;s:307:"<p></p>Simply put, a Mook that flies, floats, or hovers, due to either having wings, a propulsion system, or supernatural powers. They may stay out of the player's reach, and will attack him from their advantageous position. Furthermore, due to their freedom in the air, they may tend to dodge rather well.
+";i:410;s:1233:"<p></p>Because of this, they can be considered <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoddamnedBats' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoddamnedBats'>Goddamned Bats</a> or, in worse cases, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DemonicSpiders' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DemonicSpiders'>Demonic Spiders</a>, especially in games where your character has <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DenialOfDiagonalAttack' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DenialOfDiagonalAttack'>Denial of Diagonal Attack</a> or takes <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Knockback' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Knockback'>Knockback</a> (see <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LedgeBats' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LedgeBats'>Ledge Bats</a> for this case). Can be a type of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KungFuProofMook' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KungFuProofMook'>Kung-Fu Proof Mook</a> if they're especially hard to hit normally.
+";i:411;s:59:"<p></p>These guys usually tend to do one of the following:
+";i:412;s:242:"<ul ><li> Try to knock the player back via <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CollisionDamage' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CollisionDamage'>Collision Damage</a> or by diving into them.
+";i:413;s:93:"</li><li> Stay out of the player's reach and shoot them or drop bombs (or Mooks) from above.
+";i:414;s:538:"</li></ul><p></p>Airborne Mooks in Platform Games, usually those that try to knock the player over, are considered a huge annoyance, <em>especially</em> if they're <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LedgeBats' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LedgeBats'>the kind whose sole purpose is to knock the player</a> into a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BottomlessPit' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BottomlessPit'>Bottomless Pit</a>.
+";i:415;s:180:"<p></p>Airborne Mooks in FPS games or Action games may be smart enough to strafe around the player, making them harder to hit. Other than that, they use the same strategies above.
+";i:416;s:1177:"<p></p>RPG games will tend to have these guys as <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FragileSpeedster' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FragileSpeedster'>Fragile Speedsters</a>. They'll usually have a high speed and evade rate, making them a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoddamnedBats' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoddamnedBats'>pain in the ass to hit</a>. Thankfully, they probably won't have high <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HitPoints' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HitPoints'>Hit Points</a>, and will go down quickly if you <em>do</em> hit them. In the case where they do have high <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HitPoints' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HitPoints'>Hit Points</a> <em>and</em> a high evade rate (and maybe some very damaging attacks), you're fighting a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DemonicSpider' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DemonicSpider'>Demonic Spider</a>.
+";i:417;s:754:"<p></p>If these things appear in a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TowerDefence' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TowerDefence'>Tower Defence</a> game (especially those where you have to divert the mooks' path), they'll usually have the ability to take a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheComputerIsACheatingBastard' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheComputerIsACheatingBastard'>short cut</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DungeonBypass' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DungeonBypass'>fly over your towers to their goal</a>. Certain types of towers will not work on them either.
+";i:418;s:455:"<p></p>Your best bet against an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AirborneMook' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AirborneMook'>Airborne Mook</a> is, obviously, to use an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiAir' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiAir'>Anti Air</a> attack against them, as they'll usually be weak to it or are unable to avoid it.
+";i:419;s:14:"<p></p><hr />
+";i:420;s:18:"<h2>Examples</h2>
+";i:421;s:122:"<p></p><div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:422;s:188:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp;Action Games&nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:423;s:427:"<ul ><li> The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoddamnedBats' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoddamnedBats'>goddamned birds</a> from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/NinjaGaiden' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/NinjaGaiden'>Ninja Gaiden</a></em> cause heavy damage, if not knock the player into a pit.
+";i:424;s:53:"</li><li> Quite a few examples in Run-and-Gun games:
+";i:425;s:250:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MetalSlug' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MetalSlug'>Metal Slug</a></em> has the dangerously annoying helicopters and missile aircrafts.
+";i:426;s:276:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/AlienSoldier' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/AlienSoldier'>Alien Soldier</a></em> has those irritating flies which are hard to hit (except with the homing force).
+";i:427;s:254:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/GunstarHeroes' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/GunstarHeroes'>Gunstar Heroes</a></em> has jetpack soldiers that drop bombs in Orange's stage.
+";i:428;s:269:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/AlienHominid' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/AlienHominid'>Alien Hominid</a></em> has helicopters and jetpack guys, both of which can take a lot of damage.
+";i:429;s:228:"</li></ul></li><li> Cacodemons, Lost Souls, and Pain Elementals in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Doom' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Doom'>Doom</a></em>.
+";i:430;s:419:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AceCombat' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AceCombat'>Ace Combat</a></em> and <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AirForceDelta' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AirForceDelta'>Air Force Delta</a></em> has the player swatting entire squadrons of enemy aircraft.
+";i:431;s:401:"</li><li> The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoddamnedBats' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoddamnedBats'>floating eyeballs</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DemonicSpiders' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DemonicSpiders'>Beholders</a> on the spaceship in <em>Fester's Quest</em>.
+";i:432;s:234:"</li><li> The helicopter-pack soldiers in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/BionicCommando' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/BionicCommando'>Bionic Commando</a></em>.
+";i:433;s:440:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/GardenGnomeCarnage' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/GardenGnomeCarnage'>Garden Gnome Carnage</a></em> has sleighs. They float, and some of them drop gift-clad parachuting elves on you, but on the other hand, they can be helpful as they explode like a brick when they hit the ground, likely taking out some elves in the process.
+";i:434;s:432:"</li><li> In the <em>Garden Gnome Carnage</em> spin-off <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/HyperPrincessPitch' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/HyperPrincessPitch'>Hyper Princess Pitch</a></em>, they return. They shoot projectiles at you, and some of them only fly by, leaving you only short time to kill them, while others stay around and you have to destroy them.
+";i:435;s:616:"</li><li> The Harpies from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SeriousSam' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SeriousSam'>Serious Sam</a></em>, and the Flying Kleers, Floaters, Hellchicks, and Levitators from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SeriousSam' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SeriousSam'>Serious Sam</a> 2</em>. They all possess projectile attacks, whether they be fireballs (Flying Kleers), energy projectiles (Harpies, Floaters, Levitators) or <em>bats</em> (Hellchicks).
+";i:436;s:603:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MagicalWhipWizardsOfPhantasmalForest' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MagicalWhipWizardsOfPhantasmalForest'>Magical Whip: Wizards of Phantasmal Forest</a></em> has bats, ghosts, jack-o'-lanterns, and dangling spiders. In fact, only knights and slimes are earthbound. It's a good thing some levels have infinite midair jump <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PowerUp' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PowerUp'>power-ups</a> hidden in them!
+";i:437;s:240:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Halo' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Halo'>Halo</a></em> has jump/jet pack Elites and Brutes, as well as Sentinels and Drones.
+";i:438;s:17:"</li></ul></div>
+";i:439;s:188:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp;Action RP Gs&nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:440;s:577:"<ul ><li> Vespoids in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MonsterHunter' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MonsterHunter'>Monster Hunter</a></em> series. They are essentially giant wasps that hover just out of reach of many of the game's weapons, before darting in, jabbing you with a stinger, and retreating. Couple this with the fact that the stinger can inflict paralysis on you, and will seemingly always do this when you're low on health/fighting a boss level enemy, and you will soon come to hate them.
+";i:441;s:227:"<ul ><li> Also, they nearly always shatter when you DO kill them, leaving absolutely nothing to loot, making the whole exercise of killing them completely pointless (fortunately, Poison works fine if you need a body to carve).
+";i:442;s:391:"</li><li> The fact that the developers have included quests based entirely on slaying large numbers of these things (an early quest has you slay 20. At this point in the game, it takes 3-5 hits to kill one of the things!) also accentuates the utter irritation they bring. However, at least they spawn almost infinitely in certain places, so you don't have to go looking everywhere for them.
+";i:443;s:1128:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheElderScrollsIIIMorrowind' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheElderScrollsIIIMorrowind'>The Elder Scrolls III Morrowind</a></em> introduced the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoddamnBats' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoddamnBats'>Cliff Racer</a>, a flying enemy with a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HitboxDissonance' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HitboxDissonance'>dysfunctional hitbox</a> so reviled both in-game and in the series' <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Fandom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Fandom'>fandom</a> that it was driven out of Morrowind offscreen by an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AscendedExtra' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AscendedExtra'>Ascended Extra</a> character who was granted in-game fame because the fans took such a liking to him.
+";i:444;s:756:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheElderScrollsVSkyrim' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheElderScrollsVSkyrim'>The Elder Scrolls V Skyrim</a></em> has Dragons, which can appear randomly to attack you as a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BossInMookClothing' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BossInMookClothing'>Boss in Mook Clothing</a>. They fly about 2/3 the time, so they do count as this trope. Thankfully, you learn a shout that acts like an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiAir' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiAir'>Anti Air</a>, forcing them to land.
+";i:445;s:379:"</li><li> The Giant Mosquitoes in the Blighttown swamp in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DarkSouls' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DarkSouls'>Dark Souls</a></em>. Hard to hit, annoying things. They're easily killed by the even the weakest of attacks but here is the kicker; <em>They endlessly respawn.</em>
+";i:446;s:17:"</li></ul></div>
+";i:447;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp;Platform Games&nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:448;s:734:"<ul ><li> The <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/SuperMarioBros' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/SuperMarioBros'>Super Mario Bros.</a>.</em> games have: Lakitu, who flies out of normal range and drops <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSpiny' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSpiny'>spinies</a> onto the player; Koopa Paratroopas, flying versions of the regular Mooks; and Bullet Bills, which try to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RammingAlwaysWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RammingAlwaysWorks'>ram the player</a>, as some of the notable ones.
+";i:449;s:587:"<ul ><li> Pictured above as the trope image is Paragoomba from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SuperMarioBros3' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SuperMarioBros3'>Super Mario Bros 3</a></em>. Yellow ones fly high overhead to avoid Mario's attacks, while dropping Micro-Goombas that stick onto Mario and weigh him down. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoddamnedBats' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoddamnedBats'>Definitely an annoyance whenever they appear</a>.
+";i:450;s:108:"<ul ><li> Infinite Adaptive Mario, a Java remake with self-adjusting difficulty, contains Para-Bullet Bills
+";i:451;s:1392:"</li></ul></li></ul></li><li> The <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/SonicTheHedgehog' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/SonicTheHedgehog'>Sonic the Hedgehog</a></em> series has quite a few, like the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SonicTheHedgehog' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SonicTheHedgehog'>Buzz</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SonicTheHedgehog2006' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SonicTheHedgehog2006'>Bom</a><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SonicColors' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SonicColors'>bers</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SonicTheHedgehog2' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SonicTheHedgehog2'>Buz</a><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SonicTheHedgehog4' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SonicTheHedgehog4'>zers.</a> They <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TooDumbToLive' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TooDumbToLive'>tended to fly within Sonic's attack range</a>, though, and most are rather easily dispatched.
+";i:452;s:885:"</li><li> The <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MegaMan' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MegaMan'>Mega Man</a></em> series had many <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MechaMooks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MechaMooks'>Mecha-Mooks</a> that could fly. Some of the more irritating ones were "Pipi", a robotic bird carrying an egg which it drops. If the egg hits the ground, it would break into 8 or so mini-birds, which would then fly at Mega Man. Especially annoying were those "things" that lived in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BottomlessPits' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BottomlessPits'>Bottomless Pits</a> which popped out from them as you jumped over, knocking you backwards and into the pit.
+";i:453;s:661:"</li><li> Neckies in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DonkeyKongCountry' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DonkeyKongCountry'>Donkey Kong Country</a></em>, Flitters in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DonkeyKongCountry' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DonkeyKongCountry'>Donkey Kong Country</a> 2</em>, and Knik-Knaks in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DonkeyKongCountry' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DonkeyKongCountry'>Donkey Kong Country</a> 3</em>.
+";i:454;s:249:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MetroidPrime' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MetroidPrime'>Metroid Prime</a></em> features flying space pirates. And, of course, wasps!
+";i:455;s:247:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Bug' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Bug'>Bug</a>!</em> had at least one in each level, and they were usually very annoying to defeat.
+";i:456;s:248:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Terraria' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Terraria'>Terraria</a></em> has a number of them, including demonic eyes and eaters of souls.
+";i:457;s:289:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/CommanderKeen' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/CommanderKeen'>Commander Keen</a> 4</em> has Skypests. Can't shoot them, can only crush them with your pogo stick when they land.
+";i:458;s:551:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Castlevania1986' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Castlevania1986'>Castlevania</a></em> gives us the gorgon heads. They don't usually turn you to stone, but they do fly in a sine wave when you're on platforms. If the platforms are moving, they becomes <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DemonicSpiders' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DemonicSpiders'>Demonic Spiders</a> rather quickly.
+";i:459;s:181:"<ul ><li> A lot of the flying demon enemies in the <em>Metroidvania</em> entries also do this. The sheer amount of mid-air enemies makes the Axe subweapon very good in these games.
+";i:460;s:790:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/JourneyToSilius' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/JourneyToSilius'>Journey To Silius</a></em> has various robotic <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoddamnedBats' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoddamnedBats'>Goddamned Bats</a>, hovering Xenomorph-like bots, and a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DemonicSpider' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DemonicSpider'>Demonic Spider</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FanNickname' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FanNickname'>known to some as</a> the HumpBot.
+";i:461;s:256:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Snailiad' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Snailiad'>Snailiad</a></em> has, among others, the Sky Viper, Chirpy, Batty Bat, and Ghost Dandelion.
+";i:462;s:17:"</li></ul></div>
+";i:463;s:194:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp;Role-Playing Games&nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:464;s:441:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoddamnedBats' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoddamnedBats'>Goddamned Zubats</a> from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Pokemon' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Pokemon'>Pokémon</a></em>, or any Flying-type for that matter, although they weren't as annoying as the bats...
+";i:465;s:280:"<ul ><li> Pokémon with the Levitate ability to dodge Ground-type attacks can count too, though Koffing/Weezing are probably the most annoying, having a high Defense, being able to poison you or blow up, and having only one weakness because Levitate removes its Ground weakness...
+";i:466;s:342:"<ul ><li> The Tynamo family is particularly nasty for this reason; its offensive stats are high enough that it can do more than stall, and its weakness to Ground attacks is annulled by its Levitate ability, effectively leaving it with <em>none</em>. That is, unless Gastro Acid, Entrainment, Gravity, Mummy, or Mold Breaker come out to play.
+";i:467;s:470:"</li></ul></li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyXII' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyXII'>Final Fantasy XII</a></em> had some enemies with the flying status, which meant that you couldn't use melee attacks against them unless they were guns or bows/crossbows. Alternatively, one could just use magic on them without having to open up the inventory all the time.
+";i:468;s:596:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyVII' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyVII'>Final Fantasy VII</a></em> also had enemies with the "flying" status which could not be damaged by melee attacks. There were also bat enemies which had a 1/8 (later ones had 1/4) chance of completely avoiding a physical attack, making them literal <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoddamnedBats' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoddamnedBats'>Goddamned Bats</a>.
+";i:469;s:859:"</li><li> The <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MarioAndLuigi' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MarioAndLuigi'>Mario And Luigi</a></em> series has them. Hammers and other low-hitting moves will not be able to hit these kinds of enemies, use your <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoombaStomp' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoombaStomp'>Goomba Stomp</a> instead. Bowser from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MarioAndLuigiBowsersInsideStory' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MarioAndLuigiBowsersInsideStory'>Bowser's Inside Story</a></em> has it pretty rough against the (very few) airborne enemies he fights - he is unable to attack them via any of his normal attacks.
+";i:470;s:314:"</li><li> Flying Assault Drones and Rocket Drones in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/MassEffect' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/MassEffect'>Mass Effect</a></em>. This also made them immune to most biotic attacks. They land eventually, though.
+";i:471;s:144:"<ul ><li> A better example is the Geth Hoppers, although they don't fly, they're more mobile and spend more time above ground than the turrets.
+";i:472;s:27:"</li></ul></li></ul></div>
+";i:473;s:189:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp;Shoot 'Em Ups&nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:474;s:786:"<ul ><li> Many enemies in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShootEmUps' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShootEmUps'>Shoot 'Em Ups</a> are these. Thankfully, your <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayerCharacter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayerCharacter'>Player Character</a> can fly too, so it's not really much of a threat unless they have <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadeOfIron' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadeOfIron'>lots of health</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BulletHell' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BulletHell'>spam bullets</a>.
+";i:475;s:348:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeavyWeapon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeavyWeapon'>Heavy Weapon</a></em> has your tank on the ground, and most of your enemies in the air. There are some ground-based enemies too, which can sometimes be more annoying than the aerial ones.
+";i:476;s:17:"</li></ul></div>
+";i:477;s:189:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp;Tower Defence&nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:478;s:229:"<ul ><li> The Balloon Zombie in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PlantsVsZombies' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PlantsVsZombies'>Plants vs. Zombies</a></em>.
+";i:479;s:944:"</li><li> <em><a class='urllink' href='http://www.kongregate.com/games/HeroInteractive/bubble-tanks-tower-defense'>Bubble Tanks: Tower Defense<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a></em> has an odd variation &#8212; in this game, the flying enemies are called "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IntangibleMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IntangibleMan'>Ghost</a>" enemies. They pretty much act in the same way you'd expect a flying mook to in a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TowerDefense' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TowerDefense'>Tower Defense</a> game &#8212; by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DungeonBypass' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DungeonBypass'>bypassing your towers</a>.
+";i:480;s:202:"</li><li> Flying Aliens in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TowerMadness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TowerMadness'>Tower Madness</a></em>
+";i:481;s:444:"</li><li> Two kinds of flying enemies appear in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DefenseGridTheAwakening' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DefenseGridTheAwakening'>Defense Grid The Awakening</a>, one of which just has more health than the other. In any case, both of them are very dangerous as they are immune to some towers, and cores stolen by them <em>cannot</em> be replaced.
+";i:482;s:251:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DesktopTowerDefense' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DesktopTowerDefense'>Desktop Tower Defense</a></em> has the appropriately-named "Flying" creep.
+";i:483;s:1274:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MiniRobotWars' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MiniRobotWars'>Mini Robot Wars</a></em> has the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheGoomba' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheGoomba'>Scout Helicopter</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FragileSpeedster' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FragileSpeedster'>Jetpacker</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolAirship' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolAirship'>Napalm Airship</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolPlane' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolPlane'>Hyper Jet</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InvisibleMonsters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InvisibleMonsters'>Ghost</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GrimReaper' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GrimReaper'>Reaper</a>. The good news is that they do not have much health compared to land-based mooks.
+";i:484;s:304:"<ul ><li> During the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewGamePlus' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewGamePlus'>New Game Plus</a>, many of the land-based enemy units get a helicopter attachment that allows them to travel in the air at a fast speed.
+";i:485;s:34:"</li></ul></li></ul><p></p></div>
+";i:486;s:195:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp;Turn Based Strategy&nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:487;s:256:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/X-COM' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/X-COM'>X-COM</a></em> has Floaters in the first game and an assortment of similar aliens in the sequels.
+";i:488;s:297:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/FireEmblem' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/FireEmblem'>Fire Emblem</a></em> throws Pegasus Riders, Wyvern Riders, and, occasionally, flying monsters at the players on a regular basis.
+";i:489;s:297:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SuperRobotWars' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SuperRobotWars'>Super Robot Wars</a></em> includes a broad selection of flying units, both giant robots and more conventional aircrafts.
+";i:490;s:279:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NipponIchi' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NipponIchi'>Nippon Ichi</a> strategy-RPG titles feature a variety of flying creatures, including angels, succubi, and assorted monsters.
+";i:491;s:17:"</li></ul></div>
+";i:492;s:14:"<p></p><hr />
+";i:493;s:1530:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ActuallyFourMooks">Actually Four Mooks</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGameCharacters">Video Game Characters</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/AsteroidsMonster">Asteroids Monster</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/AirborneAircraftCarrier">Airborne Aircraft Carrier</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/FlyingTropes">Flying Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/AirJousting">Air Jousting</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/AIIsACrapshoot">A.I. Is a Crapshoot</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Villains">Villains</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/AlasPoorVillain">Alas, Poor Villain</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:494;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:495;s:10:"<p> </p>
+";i:496;s:10:"<center>
+";i:497;s:2:"
+";i:498;s:24:"<!-- med rectangle -->
+";i:499;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:500;s:33:"<script type='text/javascript'>
+";i:501;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:502;s:11:"</script>
+";i:503;s:8:"</div>
+";i:504;s:2:"
+";i:505;s:11:"</center>
+";i:506;s:24:"</td><!-- wikibody -->
+";i:507;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:508;s:7:"</td>
+";i:509;s:7:"</tr>
+";i:510;s:10:"</table>
+";i:511;s:22:"<!--PageFooterFmt-->
+";i:512;s:133:"<div class="alt_title" style="font-size:x-small;text-align:center;" ><b>alternative title(s):</b> Flying Mook; Airborne Mooks</div>
+";i:513;s:10:"<center>
+";i:514;s:44:"<table style="width:606px;margin:0 auto;">
+";i:515;s:7:"	<tr>
+";i:516;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:517;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:518;s:261:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AirborneMook?action=edit'> edit page</a></div></div></td>
+";i:519;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:520;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:521;s:8:"	</tr>
+";i:522;s:10:"</table>
+";i:523;s:11:"</center>
+";i:524;s:21:"<div id='wikifoot'>
+";i:525;s:27:"    <div class='footnav'>
+";i:526;s:2:"
+";i:527;s:14:"			 <center>
+";i:528;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:529;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:530;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:531;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:532;s:15:"				</center>
+";i:533;s:2:"
+";i:534;s:29:"    </div><!-- wikifoot -->
+";i:535;s:23:"<!--/PageFooterFmt-->
+";i:536;s:12:"32260<br/>
+";i:537;s:3:"6
+";i:538;s:8:"</div>
+";i:539;s:26:"</div><!-- container -->
+";i:540;s:2:"
+";i:541;s:9:"</body>
+";i:542;s:21:"<!--ScriptInsert-->
+";i:543;s:9:"</html>
+";}}

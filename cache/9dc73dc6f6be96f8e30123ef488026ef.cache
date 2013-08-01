@@ -1,0 +1,646 @@
+a:2:{i:0;i:1377888127;i:1;a:645:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:67:"<title>Collapsing Lair - Television Tropes &amp; Idioms  </title>
+";i:5;s:133:"<meta name="Description" content="The Collapsing Lair trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:10:"</style>
+";i:25;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:26;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:27;s:33:"<script type="text/javascript">
+";i:28;s:26:"  var _gaq = _gaq || [];
+";i:29;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:30;s:34:"  _gaq.push(['_trackPageview']);
+";i:31;s:2:"
+";i:32;s:17:"  (function() {
+";i:33;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:34;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:35;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:36;s:9:"  })();
+";i:37;s:2:"
+";i:38;s:32:"	function subpage(sel, title){
+";i:39;s:4:"		
+";i:40;s:40:"		var namespce = ""+getselection(sel);
+";i:41;s:34:"		if(namespce.trim()=="")return;
+";i:42;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:43;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:44;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:45;s:29:"		window.location.href=url;
+";i:46;s:4:"	}
+";i:47;s:32:"	function p5(groupname,title){
+";i:48;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:49;s:4:"	}
+";i:50;s:27:"	function togglenote(id){
+";i:51;s:23:"		var ele=object(id);
+";i:52;s:34:"		var state = ele.style.display;
+";i:53;s:49:"		if(state=='none') ele.style.display='inline';
+";i:54;s:48:"		if(state=='inline')ele.style.display='none';
+";i:55;s:4:"	}
+";i:56;s:35:"	var googletag = googletag || {};
+";i:57;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:58;s:16:"	(function() {
+";i:59;s:47:"	var gads = document.createElement('script');
+";i:60;s:21:"	gads.async = true;
+";i:61;s:33:"	gads.type = 'text/javascript';
+";i:62;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:63;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:64;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:65;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:66;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:67;s:8:"	})();
+";i:68;s:2:"
+";i:69;s:34:"	googletag.cmd.push(function() {
+";i:70;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:71;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:73;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:74;s:45:"		googletag.pubads().enableSingleRequest();
+";i:75;s:31:"		googletag.enableServices();
+";i:76;s:6:"	});
+";i:77;s:2:"
+";i:78;s:11:"</script>
+";i:79;s:2:"
+";i:80;s:9:"</head>
+";i:81;s:8:"<body>
+";i:82;s:40:"<div class="container" id="container">
+";i:83;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:84;s:6:"<tr>
+";i:85;s:46:"<td style="width:166px;vertical-align:top;">
+";i:86;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:87;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:88;s:38:"<g:plusone size="small"></g:plusone>
+";i:89;s:2:"
+";i:90;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:91;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:92;s:6:"<ul>
+";i:93;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:94;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:95;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:96;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:97;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:98;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:99;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:100;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:101;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:102;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:103;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:104;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:105;s:7:"</ul>
+";i:106;s:8:"</div>
+";i:107;s:2:"
+";i:108;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:109;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:110;s:2:"
+";i:111;s:185:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','CollapsingLair');">send request</button><hr/></div>
+";i:112;s:2:"
+";i:113;s:326:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="CollapsingLair" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:114;s:2:"
+";i:115;s:51:"<div style="font-size:small;text-align:center;" >
+";i:116;s:30:"Find recent edits by troper:
+";i:117;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:118;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:119;s:8:"</div>
+";i:120;s:7:"<hr/>
+";i:121;s:7:"<ul>	
+";i:122;s:4:"		
+";i:123;s:7:"<hr/>
+";i:124;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:125;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:126;s:63:"		<input type="hidden" name="title" value="CollapsingLair" />
+";i:127;s:54:"		This article needs some moderator assistance with:
+";i:128;s:9:"		<br/>
+";i:129;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:130;s:9:"		<br/>
+";i:131;s:4:"		
+";i:132;s:34:"		<p style="text-align:center;">
+";i:133;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:134;s:8:"		</p>
+";i:135;s:34:"		<p style="text-align:center;">
+";i:136;s:48:"			<input type="submit" value="send report" />
+";i:137;s:8:"		</p>
+";i:138;s:11:"		</form>
+";i:139;s:7:"<hr/>
+";i:140;s:6:"<ul>
+";i:141;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:142;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:143;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:144;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:145;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:146;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:147;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:148;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:149;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:150;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:151;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:152;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:153;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:154;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:155;s:143:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.CollapsingLair'>Referral Count for This Page</a></li>
+";i:156;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:157;s:118:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=CollapsingLair'>Article Relationships</a></li> -->
+";i:158;s:104:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.CollapsingLair'>Folderize</a></li>
+";i:159;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:160;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:161;s:7:"</ul>
+";i:162;s:8:"	<hr/>
+";i:163;s:6:"<ul>
+";i:164;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:165;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:166;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:167;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:168;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:169;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:170;s:7:"</ul>
+";i:171;s:7:"<hr/>
+";i:172;s:2:"
+";i:173;s:8:"</div>
+";i:174;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:175;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:176;s:8:"		<ul>
+";i:177;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:178;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:179;s:9:"		</ul>
+";i:180;s:8:"</div>
+";i:181;s:10:"<center>
+";i:182;s:34:"		<div style="margin-top:4px;">	
+";i:183;s:5:"			
+";i:184;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:185;s:33:"<script type='text/javascript'>
+";i:186;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:187;s:99:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/CollapsingLair");
+";i:188;s:11:"</script>
+";i:189;s:8:"</div>
+";i:190;s:2:"
+";i:191;s:11:"		</div>	
+";i:192;s:10:"		<div>	
+";i:193;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:194;s:6:"		 	
+";i:195;s:4:"		
+";i:196;s:4:"		
+";i:197;s:10:"		</div>
+";i:198;s:108:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CollapsingLair">Main</a><br/>
+";i:199;s:9:"		<div>
+";i:200;s:10:"		</div>
+";i:201;s:36:"		<div style="font-size:x-small;">
+";i:202;s:11:"				<hr/>
+";i:203;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:204;s:14:"				<p> </p>
+";i:205;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:206;s:13:"				<p></p>
+";i:207;s:11:"				<ul >
+";i:208;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:209;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:210;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:211;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:212;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:213;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:214;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:215;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:216;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:217;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:219;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:220;s:11:"				</li>
+";i:221;s:11:"				</ul>
+";i:222;s:13:"				<p></p>
+";i:223;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:224;s:13:"				<p></p>
+";i:225;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:226;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:227;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:228;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:229;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:230;s:6:"				
+";i:231;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:232;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:233;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:234;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:235;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:236;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:237;s:6:"				
+";i:238;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:239;s:16:"				</li></ul>
+";i:240;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:241;s:13:"				<p></p>
+";i:242;s:11:"				<ul >
+";i:243;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:244;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:245;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:246;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:247;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:248;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:249;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:250;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:251;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:252;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:253;s:6:"				
+";i:254;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:255;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:256;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:257;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:258;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:259;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:260;s:6:"				
+";i:261;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:262;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:263;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:264;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:265;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:266;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:268;s:11:"				</li>
+";i:269;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:270;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:271;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:272;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:273;s:6:"				
+";i:274;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:275;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:276;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:278;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:279;s:16:"				</li></ul>
+";i:280;s:6:"				
+";i:281;s:13:"				<p></p>
+";i:282;s:39:"				<strong>Other Categories</strong>
+";i:283;s:13:"				<p></p>
+";i:284;s:10:"				<ul>
+";i:285;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:286;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:287;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:288;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:289;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:290;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:291;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:292;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:293;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:294;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:295;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:296;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:297;s:11:"				</ul>
+";i:298;s:11:"		</div>	
+";i:299;s:11:"</center>
+";i:300;s:2:"
+";i:301;s:30:"</div> <!-- wikileftpage -->
+";i:302;s:7:"</td>
+";i:303;s:20:"<td id='wikibody'>
+";i:304;s:2:"
+";i:305;s:21:"<!--PageTitleFmt-->
+";i:306;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:307;s:12:"    		<tr>
+";i:308;s:38:"    		<td id="wikicmds" align="top">
+";i:309;s:8:"    		
+";i:310;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:311;s:45:"    				<tr style="vertical-align:middle;">
+";i:312;s:31:"    					<td align="center" >
+";i:313;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:314;s:16:"    					</td>
+";i:315;s:15:"    				<td >
+";i:316;s:37:"    					<div style="width:400px;">
+";i:317;s:28:"                  <center>
+";i:318;s:27:"                  <table>
+";i:319;s:24:"                  <tr>
+";i:320;s:24:"                  <td>
+";i:321;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:322;s:27:"                    <div>
+";i:323;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:324;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:325;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:326;s:64:"                      <input type="text" name="q" size="31" />
+";i:327;s:28:"                    </div>
+";i:328;s:27:"                  </form>
+";i:329;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:330;s:25:"                  </td>
+";i:331;s:24:"                  <td>
+";i:332;s:46:"                  <div class="buttonframe" >
+";i:333;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:334;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:335;s:26:"                  </div>
+";i:336;s:25:"                  </div
+";i:337;s:25:"                  </td>
+";i:338;s:25:"                  </tr>
+";i:339;s:28:"                  </table>
+";i:340;s:29:"                  </center>
+";i:341;s:17:"    					</div>
+";i:342;s:15:"    				</td>
+";i:343;s:15:"    				</tr>
+";i:344;s:16:"    		</table>
+";i:345;s:8:"    		
+";i:346;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:347;s:10:"    				
+";i:348;s:27:"    				<tr valign="top">
+";i:349;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:350;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:351;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:352;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:353;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:354;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:355;s:15:"    				</tr>
+";i:356;s:10:"    				
+";i:357;s:10:"    				
+";i:358;s:8:"    		
+";i:359;s:16:"    		</table>
+";i:360;s:8:"    		
+";i:361;s:28:"    		<div id="wikilogo" >
+";i:362;s:16:"    		<center>
+";i:363;s:2:"
+";i:364;s:22:"<!-- leaderboard -->
+";i:365;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:366;s:33:"<script type='text/javascript'>
+";i:367;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:368;s:11:"</script>
+";i:369;s:8:"</div>
+";i:370;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:371;s:28:"    					<tr valign="top">
+";i:372;s:224:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'CollapsingLair');" autocomplete="off"  style="width:50px;"><option> </option><option value="Main">Main</option></select></td>
+";i:373;s:269:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CollapsingLair?action=source" >source</a></div></div></td>
+";i:374;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:375;s:270:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.CollapsingLair">history</a></div></div></td>
+";i:376;s:272:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CollapsingLair?action=edit'> edit page</a></div></div></td>
+";i:377;s:268:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/CollapsingLair" >related</a></div></div></td>
+";i:378;s:38:"    							<td valign="middle"></td>
+";i:379;s:16:"    					</tr>
+";i:380;s:18:"    				</table>
+";i:381;s:10:"    				
+";i:382;s:35:"    				<div id="watchmsg"></div>
+";i:383;s:18:"    			</center>
+";i:384;s:13:"    		</td>
+";i:385;s:12:"     </tr>
+";i:386;s:6:"    
+";i:387;s:11:"    	<tr>
+";i:388;s:39:"    		<td id="wikititle" colspan="2">
+";i:389;s:40:"    				<div class="namespacebuttons">
+";i:390;s:656:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.CollapsingLair" >&nbsp;Discussion </a></li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=CollapsingLair" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/CollapsingLair" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:391;s:16:"    				</div>
+";i:392;s:26:"    				<!--RepairBug-->
+";i:393;s:10:"    				
+";i:394;s:34:"    				<div class='pagetitle'> 
+";i:395;s:42:"    						  <span>Collapsing Lair</span>
+";i:396;s:16:"    				</div>
+";i:397;s:11:"    				 
+";i:398;s:13:"    		</td>
+";i:399;s:12:"    	</tr>
+";i:400;s:10:"</table>
+";i:401;s:2:"
+";i:402;s:16:"<!--PageText-->
+";i:403;s:20:"<div id='wikitext'>
+";i:404;s:93:"<div class='indent'><em>" Just once, I wish the villain's lair didn't have to blow up!"</em>
+";i:405;s:222:"<div class='indent'>&#8212; <strong>Kim</strong>, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KimPossible' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KimPossible'>Kim Possible</a></em>
+";i:406;s:1093:"</div></div><p></p><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItsGoingDown' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItsGoingDown'>Inevitably</a>, once the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a> (and sometimes even <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragon'>The Dragon</a>) is defeated, his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SupervillainLair' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SupervillainLair'>Supervillain Lair</a> (castle, secret headquarters, cave, etc.) will begin to destroy itself, triggering a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChaseScene' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChaseScene'>Chase Scene</a> where the heroes are chased out by the threat of falling rocks, timbers, masonry, etc. and whatever else is collapsing down upon them.
+";i:407;s:2592:"<p></p>This may be due to a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SelfDestructMechanism' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SelfDestructMechanism'>Self-Destruct Mechanism</a>, or due to the lair having <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoOntologicalInertia' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoOntologicalInertia'>No Ontological Inertia</a>. Alternately, the hero's goal may been to deliberately <em>cause</em> (read: destroy) the Collapsing Lair, like by setting off a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeBomb' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeBomb'>Time Bomb</a> or pushing the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigRedButton' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigRedButton'>Big Red Button</a> that is invariably linked to said <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SelfDestructMechanism' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SelfDestructMechanism'>Self-Destruct Mechanism</a>. Or perhaps the combination of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a>'s <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoHoldsBarredBeatdown' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoHoldsBarredBeatdown'>No-Holds-Barred Beatdown</a> and the hero's own <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicSecondWind' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicSecondWind'>Heroic Second Wind</a> resulted in extensive damage to the lair's supports/foundations/whatever, and it was going to start coming down anyway (when this happens in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGame' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoGame'>Video Game</a> form, we call it a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoadBearingBoss' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoadBearingBoss'>Load-Bearing Boss</a>). Sometimes the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a> will do this deliberately, in hopes of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TakingYouWithMe' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TakingYouWithMe'>taking the hero with them</a>.
+";i:408;s:1276:"<p></p>Why is this useful, apart from topping the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FinalBattle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FinalBattle'>Final Battle</a> with an exciting escape scene to safety (after which you can directly cut to the happy end celebrations?) Think about it. The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a> has had a massive base, with several valuable gadgets, and many remaining lesser minions. You definitely do not want to drag out the story by having the hero deal with them one by one too, and much less to put his hands on something that could <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StatusQuoIsGod' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StatusQuoIsGod'>change the status quo</a>. Better just blow it all up. And best of all, once you do actually make it out alive, you get the immensely satisfying shot of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheRuinsICaused' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheRuinsICaused'>the hero looking on as the Supervillain Lair goes bye-bye in spectacular fashion</a>.
+";i:409;s:221:"<p></p>Often occurs after defeating the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MonsterOfTheWeek' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MonsterOfTheWeek'>Monster of the Week</a>.
+";i:410;s:288:"<p></p>If it truly <em>does</em> become impossible to escape the Collapsing Lair, expect to see a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoadBearingHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoadBearingHero'>Load-Bearing Hero</a> save the day.
+";i:411;s:717:"<p></p>Rare in television except as the end of a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StoryArc' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StoryArc'>Story Arc</a>, because <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TrashTheSet' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TrashTheSet'>destroying sets is expensive</a>: you just have to build new ones next week. In animation, however, it's easy. In video games (as already mentioned), this often happens because of a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoadBearingBoss' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoadBearingBoss'>Load-Bearing Boss</a>.
+";i:412;s:14:"<p></p><hr />
+";i:413;s:19:"<h2>Examples:</h2>
+";i:414;s:122:"<p></p><div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:415;s:191:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp;Anime and Manga&nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:416;s:558:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Naruto' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Naruto'>Naruto</a></em>, during the spinoff Kakashi Gaiden in which we learn of Kakashi's childhood, Kakko causes the cave Kakashi, Obito and Rin were fighting him in to collapse in a last-ditch effort to defeat them, resulting in <span class="spoiler" title="you can set spoilers visible by default on your profile" > Obito's death by giant boulder, which led to Kakashi gaining his left Sharingan eye</span>.
+";i:417;s:491:"</li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/PocketMonsters' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/PocketMonsters'>Pocket Monsters</a></em> (<em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Pokemon' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Pokemon'>Pokémon</a></em>) manga, Red and Green set Team Rocket's headquarters on fire. After Red, Green, and Blue defeat Natsume, the building collapses.
+";i:418;s:594:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/PokemonDiamondAndPearlAdventure' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/PokemonDiamondAndPearlAdventure'>Pokémon Diamond and Pearl Adventure! </a></em>, Jupiter blows up the Galactic base to prevent their secrets from getting out. But since this happens in volume 5 of an 8 volume series, when next we return to Veilstone, <span class="spoiler" title="you can set spoilers visible by default on your profile" >Charon</span> has rebuilt it to be what it was in the Platinum version of the game.
+";i:419;s:377:"</li><li> In the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/Pokemon' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/Pokemon'>Pokémon</a> anime, Mewtwo blows up the Team Rocket base in the beginning of the first movie. The only known survivors are Giovanni and his signature pokémon (there could be more, but they're never addressed either way).
+";i:420;s:154:"<ul ><li> Actually, when Mewtwo's flight from the HQ is seen in the show, all that's wrecked is the arena area, and those get trashed on a regular basis.
+";i:421;s:491:"</li></ul></li><li> A Baoa Qu at the climax of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MobileSuitGundam' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MobileSuitGundam'>Mobile Suit Gundam</a></em> doesn't quite collapse, but there's enough <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StuffBlowingUp' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StuffBlowingUp'>Stuff Blowing Up</a> by the end that the effect is the same.
+";i:422;s:536:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/MagicalGirlLyricalNanoha' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/MagicalGirlLyricalNanoha'>Magical Girl Lyrical Nanoha</a></em> (season 1), the Time Garden collapses on itself as a result of Precia's failed <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ExplosiveOverclocking' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ExplosiveOverclocking'>Explosive Overclocking</a> attempt to open a gate to Alhazred.
+";i:423;s:669:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/YuYuHakusho' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/YuYuHakusho'>YuYu Hakusho</a></em>, Sakyo, Season Two's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a>, <span class="spoiler" title="you can set spoilers visible by default on your profile" > decides to destroy his stadium after he is defeated. For some reason, even though this is supposed to trap and kill everyone inside (Sakyo wants to die himself), none of the main characters have any trouble escaping</span>.
+";i:424;s:573:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WitchHunterRobin' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WitchHunterRobin'>Witch Hunter Robin</a></em> : <span class="spoiler" title="you can set spoilers visible by default on your profile" >When the heroes <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StormingTheCastle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StormingTheCastle'>invade The Factory</a>, it turns out it's programmed to crush itself as a last-ditch security mechanism.</span>
+";i:425;s:632:"</li><li> Parodied in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IonoTheFanatics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IonoTheFanatics'>Iono the Fanatics</a></em>. The reason why the sorta antagonist's base did the traditional collapse? The building was raised against Japan's building standard acts (it was, for example, <em>leaning</em>) and that's the reason why nobody else was using it even though it looked brand new. Naturally, the high-level battle between the assassin and Iono's bodyguards at the ground-level proved to be a wee-bit too much for its already unstable structure.
+";i:426;s:428:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MahouSenseiNegima' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MahouSenseiNegima'>Mahou Sensei Negima!</a></em>, after Negi's group is <span class="spoiler" title="you can set spoilers visible by default on your profile" > scattered across the Magic World</span>, we first see Nodoka escaping from one of these while treasure hunting.
+";i:427;s:488:"<div class='indent'><strong><a class='urllink' href='http://www.mangafox.com/manga/mahou_sensei_negima/v23/c205/16.html'>Kristian Danchecker<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>:</strong> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging'>I can't believe there's such a clichéd trap at the end!</a>
+";i:428;s:345:"</div></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RODTheTV' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RODTheTV'>ROD the TV</a></em> has the Dokusensha building and, evidently, <span class="spoiler" title="you can set spoilers visible by default on your profile" ><em>all of Hong Kong.</em></span>
+";i:429;s:423:"</li><li> At the climax of the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Outlanders' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Outlanders'>Outlanders</a></em> manga, <span class="spoiler" title="you can set spoilers visible by default on your profile" > after the rebellious princess kills her father?the ruling Emperor of the Galaxy?</span> ''the entire imperial planet blows up.
+";i:430;s:554:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/DigimonAdventure' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/DigimonAdventure'>Digimon Adventure</a></em>'s Dark Masters Arc had of course the Dark Master whom once destroyed had their chunk of the Digital World which they bastardized destroy and reconfigure itself back to it's original form. This caused the DigiDestined to constantly shift from place to place until finally falling into a dark void filled by Apocalymon after defeating the last Dark Master.
+";i:431;s:360:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/YuGiOh' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/YuGiOh'>Yu-Gi-Oh!</a></em> gives us Seto Kaiba and his Battle Tower; after the finals, he blows it up! But just a few episodes before that, we have Gozaburo Kaiba, who triggers a meltdown so our heroes can't escape.
+";i:432;s:364:"</li><li> The Halcon research facility falls apart at the end of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppleseedExMachina' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppleseedExMachina'>Appleseed Ex Machina</a></em> for no apparent reason, other than to fulfill the cliché. In fact, it has no other reason even to exist!
+";i:433;s:285:"</li><li> The dungeons in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/MagiLabyrinthOfMagic' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/MagiLabyrinthOfMagic'>Magi - Labyrinth of Magic</a></em> collapse after they have been successfully completed.
+";i:434;s:17:"</li></ul></div>
+";i:435;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp;Comic Books&nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:436;s:584:"<ul ><li> Blue Mountain in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ElfQuest' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ElfQuest'>ElfQuest</a></em> is completely destroyed at the end of the aptly-named "Siege at Blue Mountain" arc, but not before <span class="spoiler" title="you can set spoilers visible by default on your profile" >it is almost converted into a spaceship by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a> Winnowill</span>.
+";i:437;s:465:"</li><li> Subverted in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/AllFallDown' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/AllFallDown'>All Fall Down</a>: The Order of Despots' <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SupervillainLair' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SupervillainLair'>Supervillain Lair</a> on the Moon is still intact and fully operational two years later.
+";i:438;s:17:"</li></ul></div>
+";i:439;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp;Fanfiction&nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:440;s:579:"<ul ><li> Parodied in <em>Harry Potter and the Evil Summer Vacation</em>, where Harry accidentally ended up at a conference for aspiring criminal masterminds. The (mandatory) final seminar on the last day of the conference was "Secret Lairs, Part 3 - Defenses, Escapes, and Self Destructs". After an agent from SPECTRE gave a talk on why it was important to set up a new lair for every plan and how you should try to take out both the evidence and the good guys as well as your headquarters, they evacuated the conference theater and then blew up the hotel where it was located.
+";i:441;s:456:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/JewelOfDarkness' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/JewelOfDarkness'>Jewel Of Darkness</a></em>: When Midnight is defeated by the Titans at the end of the Jump City arc, <span class="spoiler" title="you can set spoilers visible by default on your profile" > Slade rescues her</span> and triggers the base's self-destruct in order to cover their escape.
+";i:442;s:645:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/TheImmortalGame' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/TheImmortalGame'>The Immortal Game</a></em>: After <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperpoweredEvilSide' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperpoweredEvilSide'>Nihilus</a> is destroyed by the Elements of Harmony, her <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OminousFloatingCastle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OminousFloatingCastle'>floating citadel</a> falls apart and disintegrates.
+";i:443;s:17:"</li></ul></div>
+";i:444;s:180:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp;Film&nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:445;s:1199:"<ul ><li> All the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/IndianaJones' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/IndianaJones'>Indiana Jones</a></em> movies have a large building getting destroyed (<em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/RaidersOfTheLostArk' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/RaidersOfTheLostArk'>Raiders of the Lost Ark</a></em> has part of the Chachapoyan temple, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TempleOfDoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TempleOfDoom'>Temple Of Doom</a></em> has the mine, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheLastCrusade' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheLastCrusade'>The Last Crusade</a></em> has the inside of the Grail Temple, and <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/IndianaJonesAndTheKingdomOfTheCrystalSkull' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/IndianaJonesAndTheKingdomOfTheCrystalSkull'>Indiana Jones and the Kingdom of the Crystal Skull</a></em>, the entire city of Akator).
+";i:446;s:605:"</li><li> In the horror film <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Suspiria' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Suspiria'>Suspiria</a></em>, after the head witch stabbed, not only are all the other witches seen rolling around on the floor clutching at invisible neck wounds, but the whole ballet school tears itself apart, with furniture flinging itself through windows, walls cracking, beams falling and unlikely objects, such as statues and door knobs, simply exploding for no good reason. When Susan walks away at the end, the whole place is on fire.
+";i:447;s:437:"</li><li> The destruction of the enemy mothership in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/IndependenceDay' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/IndependenceDay'>Independence Day</a></em> with a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeBomb' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeBomb'>tactical nuclear missile with a 30 second timer</a>.
+";i:448;s:468:"</li><li> A self-activating <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SelfDestructMechanism' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SelfDestructMechanism'>Self-Destruct Mechanism</a> destroys Sir August de Wynter's island lair at the end of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheAvengers1998' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheAvengers1998'>The Avengers (1998)</a></em>.
+";i:449;s:806:"</li><li> At the end of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ForbiddenPlanet' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ForbiddenPlanet'>Forbidden Planet</a></em>, the hero throws a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigRedButton' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigRedButton'>switch</a> that will cause a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SelfDestructMechanism' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SelfDestructMechanism'>chain reaction in the Krell furnaces</a> that will destroy the planet Altair-4 in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeBomb' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeBomb'>24 hours</a>.
+";i:450;s:249:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OurManFlint' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OurManFlint'>Our Man Flint</a></em>. Derek Flint's sabotage blows up the enemy base on Galaxy island.
+";i:451;s:300:"</li><li> The Allied saboteurs trick the Germans into blowing up their own base (and the title weapons) in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheGunsOfNavarone' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheGunsOfNavarone'>The Guns Of Navarone</a></em>.
+";i:452;s:288:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/LogansRun' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/LogansRun'>Logan's Run</a></em> (1976): Logan's destruction of the tyrannical central computer causes his city to blow up, freeing its people.
+";i:453;s:351:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Phantasm' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Phantasm'>Phantasm</a></em>: The Tall Man's mortuary has a gate to his home planet. When Reggie grabs both columns of the gate at the same time, it's destabilized and eventually destroys the whole building.
+";i:454;s:840:"</li><li> At the end of <em>Beneath the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlanetOfTheApes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlanetOfTheApes'>Planet of the Apes</a></em>, a cobalt bomb in an underground mutant lair is detonated and wipes out not only the lair, but <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EarthShatteringKaboom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EarthShatteringKaboom'>all Earth</a> (This was detonated by Col. Taylor himself&#8212; which is ironic, since he cursed mankind for doing the same in the original "Planet of the Apes" (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EarthAllAlong' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EarthAllAlong'>famous "Statue of Liberty ruins" scene</a>).
+";i:455;s:567:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheMummy1999' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheMummy1999'>The Mummy 1999</a></em> ends with a temple collapsing after Benny accidentally activates the "sink into sand" system. <em>The Mummy Returns</em> ends with an oasis and the pyramid it houses vanishing into the desert, but due to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoadBearingBoss' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoadBearingBoss'>Load-Bearing Boss</a>.
+";i:456;s:362:"</li><li> Let us not forget in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/ConanTheDestroyer' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/ConanTheDestroyer'>Conan The Destroyer</a></em>, an entire tower collapses shortly after the wizard's death with one character giving the hand-waved explanation, "It was all an illusion."
+";i:457;s:403:"</li><li> Many <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/JamesBond' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/JamesBond'>James Bond</a></em> movies end with Bond escaping from the villain's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CollapsingLair' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CollapsingLair'>Collapsing Lair</a>.
+";i:458;s:493:"<ul ><li> Turned on its head in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Skyfall' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Skyfall'>Skyfall</a></em> where <span class="spoiler" title="you can set spoilers visible by default on your profile" >the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CollapsingLair' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CollapsingLair'>Collapsing Lair</a> is BOND'S ancestral home.</span>
+";i:459;s:497:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Alien3' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Alien3'>Alien 3</a></em> was the only time Ellen Ripley didn't destroy everything as she left. Ron Perlman's character in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/AlienResurrection' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/AlienResurrection'>Alien Resurrection</a></em> says it "must be a chick thing".
+";i:460;s:401:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Disney/TheJungleBook' title='http://tvtropes.org/pmwiki/pmwiki.php/Disney/TheJungleBook'>The Jungle Book</a></em> features this occurance when Baloo &amp; Bagheera fight the band of monkeys over Mowgli. Justified because of all the damage the ruined city endures during the squabble, with several pillars being destroyed.
+";i:461;s:365:"</li><li> The end of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Congo' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Congo'>Congo</a></em> results in the convenient destruction of the "evil" gorillas' lair via volcanic eruption...despite the fact that it had been standing for hundreds of years before the protagonists got there.
+";i:462;s:471:"</li><li> In a variant, the house from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Poltergeist' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Poltergeist'>Poltergeist</a></em> collapses in on itself, and is apparently sucked into another dimension, at the end. The resident ghosts weren't actually destroyed, but were "defeated" in the sense that the whole family escaped alive, despite everything the evil presence could throw at them.
+";i:463;s:247:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MirrorMirror' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MirrorMirror'>Mirror, Mirror</a></em>, the Queen's magic mirror lair collapses after her death.
+";i:464;s:781:"</li><li> Taken to extremes in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheLordOfTheRings' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheLordOfTheRings'>The Lord of the Rings</a></em> in which not only the Dark Tower and Black gate but a huge portion of Mordor in general just caves in, taking much of Sauron's army with it. <span class="notelabel" onclick="togglenote('note0wsml');"><sup>note&nbsp;</sup></span><span id="note0wsml" class="inlinefolder" isnote="true" onclick="togglenote('note0wsml');" style="cursor:pointer;font-size:smaller;display:none;">This may be a visual metaphor for what the film can't show: with Sauron's fall and the loss of his constant telepathic domination, his armies largely lost their will to fight.</span>
+";i:465;s:787:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/ThePinkPanther' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/ThePinkPanther'>The Pink Panther</a> Strikes Again</em>, Inspector Clouseau is accidentally catapulted into Dreyfus' castle and lands on the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DisintegratorRay' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DisintegratorRay'>Disintegrator Ray</a> that is about to destroy England. Knocking it askew causes the machine to catastrophically malfunction, and everyone (<span class="spoiler" title="you can set spoilers visible by default on your profile" > except Dreyfus, who's hit by the beam and thus doomed</span>) flees as, piece by piece, the castle vanishes.
+";i:466;s:17:"</li></ul></div>
+";i:467;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp;Literature&nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:468;s:1164:"<ul ><li> Barad-dûr (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IDontLikeTheSoundOfThatPlace' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IDontLikeTheSoundOfThatPlace'>The Dark Tower</a>) in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheLordOfTheRings' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheLordOfTheRings'>The Lord of the Rings</a></em> was over two thousand feet tall (some sources suggest over 4000!) and was held up by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoadBearingBoss' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoadBearingBoss'>Sauron's disregard of structural physics</a>. Naturally, with the destruction of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SoulJar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SoulJar'>The One Ring</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Sauron</a>'s demise, the tower came toppling down, as well as the Black Gate, which had been built with the same power.
+";i:469;s:511:"</li><li> In C. S. Lewis' The Silver Chair, the witch has spells to collapse her realm once she is dead. This is in some ways a good thing, <span class="spoiler" title="you can set spoilers visible by default on your profile" >as the collapse allows her captive minions to return to Bism, which is even farther underground than the caverns.</span> The protagonists figure that she purposely wove these spells into the cavern so that nobody could kill her without likely meeting their own demise soon afterward.
+";i:470;s:293:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OlderThanRadio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OlderThanRadio'>Older Than Radio</a>: The collapse of the titular house at the climax of Poe's 1839 story <em>The Fall of the House of Usher</em>.
+";i:471;s:353:"</li><li> King Haggard's castle collapses dramatically at the end of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheLastUnicorn' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheLastUnicorn'>The Last Unicorn</a></em>. Given that the book was a loving spoof of fantasy tropes itself, this is not surprising.
+";i:472;s:284:"<ul ><li> The collapse was supposed to be triggered by <span class="spoiler" title="you can set spoilers visible by default on your profile" >the thunderous shock of thousands of unicorns recently freed from the King and running past the foundations of the castle all at once</span>.
+";i:473;s:244:"</li></ul></li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainUnderpants' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainUnderpants'>Captain Underpants</a></em>, the spaceship self-destructs.
+";i:474;s:595:"</li><li> In the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConanTheBarbarian' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConanTheBarbarian'>Conan</a> story "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheTowerOfTheElephant' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheTowerOfTheElephant'>The Tower Of The Elephant</a>," when Yag-kosha takes his revenge upon the sorcerer Yara by way of Conan, the titular tower, which Yag-kosha built for him in a single night, shatters into a million pieces after Conan escapes.
+";i:475;s:707:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/StephenKing' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/StephenKing'>Stephen King</a>'s <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/It' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/It'>It</a></em> this happens on a rather large scale. <span class="spoiler" title="you can set spoilers visible by default on your profile" >When It dies, so does the magic that's apparently held up a lot of Derry's structure. It appears as if It was part of the town's very foundation. The weather goes crazy, the river turns into a flood and much of the city collapses into the ground.</span>
+";i:476;s:359:"<ul ><li> Not exactly; <span class="spoiler" title="you can set spoilers visible by default on your profile" >the storm and flood start when the Loser's Club begins to battle with IT, and the destruction peaks at IT's death... but trails off rapidly. It seems that the act of actually <em>defying</em> IT was enough to unbalance things on a big scale.</span>
+";i:477;s:643:"</li></ul></li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/DanAbnett' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/DanAbnett'>Dan Abnett</a>'s <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/GauntsGhosts' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/GauntsGhosts'>Gaunt's Ghosts</a> novel <em>First &amp; Only</em>, when the Inquisitor Heldane's pawn is killed, the psychic shock kills Heldane as well, and his unleashed psychic energies tore apart the spaceship he was on. Good thing for the Ghosts and their allies that Heldane used the pawn at a distance.
+";i:478;s:2095:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TadWilliams' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TadWilliams'>Tad Williams</a>' <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemorySorrowAndThorn' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemorySorrowAndThorn'>Memory, Sorrow, and Thorn</a></em> series, the shock of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Storm King's</a> destruction causes Green Angel Tower to collapse with the protagonists inside, naturally prompting an escape scene. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnyoneCanDie' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnyoneCanDie'>Some make it out, some don't.</a> The story makes it somewhat ambiguous whether this is a case of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoOntologicalInertia' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoOntologicalInertia'>No Ontological Inertia</a> or the aftereffects of the spell that summoned him, but it's striking that Green Angel Tower was the sole remaining <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheFairFolk' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheFairFolk'>Sithi</a> structure in the Hayholt and the exact place where Ineluki killed himself 500 years prior, becoming the Storm King. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JustifiedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JustifiedTrope'>To be fair</a>, the series' <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FunctionalMagic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FunctionalMagic'>Functional Magic</a> is explicitly stated to work on the principle of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoOntologicalInertia' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoOntologicalInertia'>No Ontological Inertia</a>.
+";i:479;s:1040:"</li><li> This trope turns nasty in <em>Guard Against Dishonor</em>, from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SimonRGreen' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SimonRGreen'>Simon R. Green</a>'s <a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HawkAndFisher' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HawkAndFisher'>Hawk And Fisher</a> series. As per tradition, the pocket dimension in which a deadly new drug is being prepared fails when the sorcerer that created it is killed by the Watch; untraditionally, this has worse consequences than just a dramatic race for the exit, as the pocket's collapse takes a crowded city tenement down with it, causing hundreds of civilian casualties. <span class="spoiler" title="you can set spoilers visible by default on your profile" > This was deliberately planned by the drug lord who'd had the pocket dimension created, to discredit the Watch and make it easier to escape with the drugs in the midst of a disaster.</span>
+";i:480;s:549:"</li><li> Happens quite frequently to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheLonelyWinds' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheLonelyWinds'>The Lonely Winds</a>, usually as a result of Marc doing something stupid. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Lampshade' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Lampshade'>Lampshaded</a> by Nails in <em>The Absolution</em>: "...why does <em>every single fight</em> we get into end with something <em>on fire</em>?"
+";i:481;s:452:"</li><li> Parodied in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/FeetOfClay' title='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/FeetOfClay'>Feet of Clay</a></em>, when freelance exterminator Wee Mad Arthur explains why he charges so much more for disposal of wasp nests. Being a gnome only a few inches tall, he plants squibs <em>inside</em> the nests and then has to fight his way to the exit before they blow.
+";i:482;s:266:"<ul ><li> Also done straight with the Temple of Shub-Niggurath in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/TheColourOfMagic' title='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/TheColourOfMagic'>The Colour of Magic</a></em>.
+";i:483;s:243:"</li></ul></li><li> There are <em>three</em> of these in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrydainChronicles' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrydainChronicles'>Prydain Chronicles</a>.
+";i:484;s:301:"</li><li> In Christopher Stasheff's <em>Her Majesty's Wizard</em>, after the main character recited a Shakespeare passage about the banishing of illusions, the castle of the lust witch Sayeesa faded into thin air, leaving only an empty crater and a number of no-longer-enthralled young men and women.
+";i:485;s:488:"</li><li> The otherwise invincible <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SentientPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SentientPhlebotinum'>Energized Protodermis Entity</a> is defeated by collapsing its chamber into a chasm in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Bionicle' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Bionicle'>Bionicle</a> Adventures #6: Maze of Shadows</em>.
+";i:486;s:567:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheAdversaryCycle' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheAdversaryCycle'>Nightworld</a></em> this is explained as being due to the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a> using his magic to counteract the laws of physics. When he dies, nature reasserts itself and the underground cavern starts to collapse due to the weight of the ground above.
+";i:487;s:17:"</li></ul></div>
+";i:488;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp;Live Action TV&nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:489;s:282:"<ul ><li> In the final episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer'>Buffy the Vampire Slayer</a></em>, Sunnydale itself is a Collapsing Lair.
+";i:490;s:241:"</li><li> And so is the Wolfram &amp; Hart office building in the final episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Angel' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Angel'>Angel</a></em>.
+";i:491;s:268:"<ul ><li> As well as the following home bases: The school library (Buffy season 3), Angel's office (Angel S1), the magic shop (Buffy S6). And for the villains: the factory (Buffy S2), the Initiative (Buffy S4), and the original Wolfram &amp; Hart building (Angel S4).
+";i:492;s:772:"</li></ul></li><li> In the Pilot of the original <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/BattlestarGalacticaClassic' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/BattlestarGalacticaClassic'>Battlestar Galactica</a></em>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EarthShatteringKaboom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EarthShatteringKaboom'>the planet explodes</a> as the human fleet is fleeing, thus destroying the Cylon basestar which was very close to the surface. The reason? <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/YouFailPhysicsForever' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/YouFailPhysicsForever'>They set fire to a fuel deposit</a>.
+";i:493;s:17:"</li></ul></div>
+";i:494;s:181:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp;Music&nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:495;s:226:"<ul ><li> The hall of the Mountaing King and the cave trolls in Edvard Grieg's Peer Gynt. The musical piece <em>In the Hall of the Mountain King</em> describes the diabolical dance of the trolls and the collapse of the halls.
+";i:496;s:17:"</li></ul></div>
+";i:497;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder7');">&nbsp;&nbsp;&nbsp;&nbsp;Video Games&nbsp;</div><div id="folder7" class="folder" isfolder="true" style="display:block;">
+";i:498;s:386:"<ul ><li> Portal. After you <span class="spoiler" title="you can set spoilers visible by default on your profile" > throw all four of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GLaDOS' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GLaDOS'>GLaDOS</a>' core piece into the incinerator</span>, the room you're in blows up, and you end up outside the Center.
+";i:499;s:191:"<ul ><li> See <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoadBearingBoss' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoadBearingBoss'>Load-Bearing Boss</a>.
+";i:500;s:410:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/TombRaider' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/TombRaider'>Tomb Raider</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TombRaider' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TombRaider'>1</a></em>, <em>2</em>, and <em>Anniversary</em>, explicitly.
+";i:501;s:453:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TombRaiderLegend' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TombRaiderLegend'>Legend</a></em>, <span class="spoiler" title="you can set spoilers visible by default on your profile" > Amanda gets trapped under the rubble with the shadow monster</span>, and the entire tomb collapses in on itself. You then proceed to return and attempt to drain it.
+";i:502;s:270:"</li><li> In <em>Tomb Raider 4</em>, Lara <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OurHeroIsDead' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OurHeroIsDead'>apparently falls to her death</a> during the collapse of the Temple of Horus.
+";i:503;s:524:"</li></ul></li><li> One of the three endings of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DeusEx' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DeusEx'>Deus Ex</a></em> involves the player blowing up an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ElaborateUndergroundBase' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ElaborateUndergroundBase'>Elaborate Underground Base</a>. The final cutscene is unclear on whether or not he makes it out alive.
+";i:504;s:311:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Metroid' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Metroid'>Metroid</a></em> games often contain segments (especially at the end) where the player must guide Samus out of one of these before a timer runs out.
+";i:505;s:323:"</li><li> Whenever Dracula is defeated, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Castlevania' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Castlevania'>Castlevania</a> will collapse, leaving only ruins. The protagonist, especially if he is a Belmont, will usually watch this from a cliff.
+";i:506;s:316:"<ul ><li> This case is, however, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JustifiedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JustifiedTrope'>justified</a>: Castlevania is a creature of Chaos (that's why it looks different in every game), held together by Dracula's power.
+";i:507;s:202:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SlyCooper' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SlyCooper'>Sly</a> 3: Honor Among Thieves</em>
+";i:508;s:167:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Ico' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Ico'>Ico</a></em>
+";i:509;s:659:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging'>Lampshade hung</a> in <em><a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SwordcraftStory' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SwordcraftStory'>Swordcraft Story</a> 2</em>, where an NPC is trying to make the protagonist get something she lost without being obvious. So she tells her that the sword the protagonist is trying to get will cause the cave to collapse without the object. Another character on the scene remarks, "Ah, the load-bearing treasure!"
+";i:510;s:491:"</li><li> Can't forget <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheLegendOfZeldaOcarinaOfTime' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheLegendOfZeldaOcarinaOfTime'>The Legend of Zelda: Ocarina of Time</a></em>, after defeating Ganondorf the first time. Made cooler by the fact that you get to fight Ganon on the wreckage. Made slightly more annoying by the Iron Knuckles and ReDead that like to paralyze you while the timer ticks down.
+";i:511;s:253:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NeverwinterNights2' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NeverwinterNights2'>Neverwinter Nights 2</a></em> - It's even Lampshaded in the first add on pack.
+";i:512;s:248:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MightAndMagic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MightAndMagic'>Might and Magic</a> IV</em> ends with this, although the party does get out safely.
+";i:513;s:630:"</li><li> In the fifth and final epsiode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/StrongBadsCoolGameForAttractivePeople' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/StrongBadsCoolGameForAttractivePeople'>Strong Bad's Cool Game for Attractive People</a></em>, after finally defeating Trogdor, his lair starts to collapse and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WebAnimation/HomestarRunner' title='http://tvtropes.org/pmwiki/pmwiki.php/WebAnimation/HomestarRunner'>Homestar Runner</a> literally says that Trogdor "must've been a load bearing dragon".
+";i:514;s:552:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HalfLife' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HalfLife'>Half-Life</a> 2</em>: Episode 1 is sorta this. In a nutshell it involves going into the citadel to slow the timer(conveniently sped up by the combine) then getting the hell out of dodge before it does, making all of C-17 the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CollapsingLair' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CollapsingLair'>Collapsing Lair</a>.
+";i:515;s:301:"</li><li> In the Roguelike game <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NetHack' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NetHack'>NetHack</a></em>, if there's an unrecoverable bug in the game, the dungeon collapses, and you lose the game, having "panicked"
+";i:516;s:1229:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Fallout' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Fallout'>Fallout</a></em>: <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Fallout1' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Fallout1'>Fallout 1</a> had two cases of bases with nuclear self destruct devices (I guess the megalomaniacal bad guys wanted to make sure their plans would fail if they happened to die?). <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Fallout2' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Fallout2'>Fallout 2</a> had at least one, sabotaging the computer that keeps the nuclear reactor from exploding. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Fallout3' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Fallout3'>Fallout 3</a> has a base that can be convinced to blow itself up, and in a DLC a mobile base that controls a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KillSat' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KillSat'>Kill Sat</a> that can command the kill sat to target the base itself.
+";i:517;s:128:"<ul ><li> The player can also do this to Vault 101 and force its evacuation as the Evil solution to "Trouble on the Homefront".
+";i:518;s:331:"</li><li> In <em>Point Lookout</em>, the Calvert Mansion explodes at the end of "Thought Control", courtesy of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SelfDestructMechanism' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SelfDestructMechanism'>Self-Destruct Mechanism</a> activated by Desmond.
+";i:519;s:434:"</li><li> One of the mandatory objectives in the Legion and House questlines from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FalloutNewVegas' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FalloutNewVegas'>Fallout New Vegas</a></em> (and an optional one in the NCR and Yes Man branches) is to self-destruct the Brotherhood of Steel's bunker. You can also blow up the Powder Gangers' vault.
+";i:520;s:360:"</li><li> At the end of <em>Dead Money</em>, the Sierra Madre's vault starts exploding after Elijah's death. As if that weren't enough, it also triggers a countdown timer on the player's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ExplosiveLeash' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ExplosiveLeash'>Explosive Leash</a>.
+";i:521;s:310:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Descent' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Descent'>Descent</a></em>: Every level was ended with blowing everything up and having to fly back to the emergency exit for a dramatic just-in-time escape.
+";i:522;s:303:"</li><li> Every endgame location in every <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/ResidentEvil' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/ResidentEvil'>Resident Evil</a></em> ever made. Sometimes this even happens twice, as in <em>Code Veronica</em>.
+";i:523;s:505:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/KirbySuperStar' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/KirbySuperStar'>Revenge of Meta Knight</a></em> ends with the Halberd breaking down and Kirby fleeing on a Wheelie, while Meta Knight attempt to slow him down and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TakingYouWithMe' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TakingYouWithMe'>keep him from escaping</a>.
+";i:524;s:597:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VampireTheMasqueradeBloodlines' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VampireTheMasqueradeBloodlines'>Vampire: The Masquerade - Bloodlines</a></em>: Bloodlines had one near the end of the game, in the form of Vampire Hunter Grunfend Bach, who, after being beaten by the player, waits to greet you on your way out with a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SelfDestructMechanism' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SelfDestructMechanism'>detonator</a>.
+";i:525;s:240:"</li><li> The island in the original <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DevilMayCry' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DevilMayCry'>Devil May Cry</a> begins to fall apart when Mundus does.
+";i:526;s:251:"</li><li> <em>Marvel Ultimate Alliance 2</em> has a sequence very early in the game where the player's squad of four heroes must escape Castle Doom as it implodes, occasionally dropping large chunks of its innards onto the player's heroes as they go.
+";i:527;s:350:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheElderScrollsIVOblivion' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheElderScrollsIVOblivion'>The Elder Scrolls Oblivion: The Shivering Isles</a></em> expansion requires you to escape one of these, while boulders fall as if the DM is mad at you.
+";i:528;s:265:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MegaMan' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MegaMan'>Mega Man</a></em>: This happens to Skull Castle very often at the end of games in the original series.
+";i:529;s:748:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheGodfather' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheGodfather'>The Godfather</a>: The Game</em>, you have to raid enemy compounds and sometimes their businesses, leave a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeBomb' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeBomb'>Time Bomb</a> at a specific spot and leave. If you succeed in escaping the place before the bomb goes, you get to see <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DamageIsFire' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DamageIsFire'>flames on the (temporarily) out-of-commission building</a>.
+";i:530;s:446:"</li><li> Happens several times in Wolfenstein 2009. The massive underground base in the caverns beneath the farm explodes after retrieving a crystal being used for research deep within. Later, the entire Cannery explodes after defeating a certain load-bearing boss (though this was a result of destroying several critical pieces of machinery, rather than the boss's death). It also happens at the end of the game, after defeating the last boss.
+";i:531;s:109:"</li><li> Occurs in the Templar Archives after Altaïr kills Armand Bouchart in Assassin's Creed: Bloodlines.
+";i:532;s:280:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Unreal' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Unreal'>Unreal</a>: After killing the final boss, although not so much collapsing as exploding while you run for the escape rocket.
+";i:533;s:393:"</li><li> An early example could be found in the Atari 8-bit game <em><a class='urllink' href='http://en.wikipedia.org/wiki/Caverns_of_Mars'>Caverns of Mars<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a></em> from 1981. After reaching a reactor in the cavern, the player sets it off and must escape before it explodes.
+";i:534;s:361:"</li><li> <span class="spoiler" title="you can set spoilers visible by default on your profile" > <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BaseOnWheels' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BaseOnWheels'>Clive's fortress</a> collapses after you screw up the generator</span> in Professor Layton and the Unwound Future.
+";i:535;s:419:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/BionicCommando' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/BionicCommando'>Bionic Commando</a></em>: "This base will explod in 60 sec", after <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoadBearingBoss' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoadBearingBoss'>killing Master D</a>.
+";i:536;s:227:"</li><li> The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/FinalFantasy' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/FinalFantasy'>Final Fantasy</a> games are no stranger to this trope.
+";i:537;s:596:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyII' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyII'>Final Fantasy II</a></em> and <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyXII' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyXII'>Final Fantasy XII</a></em> have <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolAirship' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolAirship'>airship bases</a> that get blown to pieces.
+";i:538;s:342:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyIV' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyIV'>Final Fantasy IV</a></em> has <span class="spoiler" title="you can set spoilers visible by default on your profile" > the Tower of Zot and the Giant of Babil.</span>
+";i:539;s:390:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyV' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyV'>Final Fantasy V</a></em> has <span class="spoiler" title="you can set spoilers visible by default on your profile" >The Fire Shrine. You have ten minutes to get out before it goes kablooey, or it's Game Over.</span>
+";i:540;s:343:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyVI' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyVI'>Final Fantasy VI</a></em> has <span class="spoiler" title="you can set spoilers visible by default on your profile" > the Floating Continent and Kefka's Tower.</span>
+";i:541;s:507:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MedalOfHonor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MedalOfHonor'>Medal of Honor</a>: Allied Assault</em> has you demolish Fort Schmerzen in the final level by detonating a gas main, and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigDamnFireExit' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigDamnFireExit'>run for the exit</a> while it's being rocked by explosions.
+";i:542;s:321:"</li><li> At the end of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Halo3' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Halo3'>Halo 3</a></em>, the activation of the unfinished replacement ring causes it to shake itself apart, and you have to drive across the crumbling superstructure.
+";i:543;s:895:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlphaProtocol' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlphaProtocol'>Alpha Protocol</a></em>, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GrandFinale' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GrandFinale'>Grand Finale</a> takes place as the Alpha Protocol base is being "sanitized" in preparation for the agency closing its doors and opening up shop somewhere else under a new name. This process has less to do with paper shredders and more to do with time bombs. As you proceed through each section of the base, the bombs in the previous sections go off, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BrokenBridge' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BrokenBridge'>cutting you off from going back the way you came</a>.
+";i:544;s:733:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Bastion' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Bastion'>Bastion</a></em>, <em>every</em> level does this after you grab whatever <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MacGuffin' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MacGuffin'>MacGuffin</a> is there, with the exception of the proving grounds- which you can return to until you've earned all the rewards they offer- and <span class="spoiler" title="you can set spoilers visible by default on your profile" > Who Knows Where,</span> which you can return to however many times you like (although it's accessed through the Bastion).
+";i:545;s:554:"</li><li> In the remake of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpyHunter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpyHunter'>Spy Hunter</a></em>, the enemy base explodes after you <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EMP' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EMP'>EMP</a> the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DoomsdayDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DoomsdayDevice'>Doomsday Device</a> at the end.
+";i:546;s:449:"</li><li> In the first <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Videogame/AloneInTheDark1992' title='http://tvtropes.org/pmwiki/pmwiki.php/Videogame/AloneInTheDark1992'>Alone In The Dark 1992</a></em>, Pregzt's cavern starts collapsing after you <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KillItWithFire' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KillItWithFire'>Kill It with Fire</a>.
+";i:547;s:846:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Videogame/AloneInTheDarkTheNewNightmare' title='http://tvtropes.org/pmwiki/pmwiki.php/Videogame/AloneInTheDarkTheNewNightmare'>Alone In The Dark The New Nightmare</a></em>: The island blows up as Carnby and Aline make their escape by chopper, having <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoadBearingBoss' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoadBearingBoss'>taken out</a> the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a> and re-sealed the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SealedEvilInACan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SealedEvilInACan'>World of Darkness</a>.
+";i:548;s:213:"</li></ul></li><li> This happens to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Myst' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Myst'>Riven</a> when you re-open the Star Fissure.
+";i:549;s:543:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Videogame/PN03' title='http://tvtropes.org/pmwiki/pmwiki.php/Videogame/PN03'>P.N.03</a></em>'s ninth mission, after destroying Orchidee 2.0 and finding the Vanessa clone, a 5-minute self-destruct timer starts, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BlackoutBasement' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BlackoutBasement'>the lights start flashing on and off</a>, and new enemies have spawned along the escape route.
+";i:550;s:759:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/BrainDead13' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/BrainDead13'>Brain Dead 13</a></em>, <span class="spoiler" title="you can set spoilers visible by default on your profile" >this is the result of Lance's pressing the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigRedButton' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigRedButton'>Big Red "Flush" Button</a> that can cause the castle to self-destruct after the final confrontation with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoadBearingBoss' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoadBearingBoss'>Dr. Neurosis</a></span>.
+";i:551;s:411:"</li><li> At the end of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ModernWarfare' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ModernWarfare'>Modern Warfare</a></em>'s first mission, "Crew Expendable", the Estonian freighter gets bombed by Russian MIG's and starts taking on water, forcing the player to run through the collapsing and sinking ship to the extraction chopper.
+";i:552;s:635:"</li><li> At the end of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Flashback' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Flashback'>Flashback</a></em>, you <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EarthShatteringKaboom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EarthShatteringKaboom'>blow up the Morphs' homeworld</a> with a nuclear charge set in the planet's core, and have to escape <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimedMission' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimedMission'>on a timer</a>.
+";i:553;s:603:"</li><li> In the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MultipleEndings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MultipleEndings'>bad ending</a> to <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Contra' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Contra'>Contra</a>: Shattered Soldier</em>, a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KillSat' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KillSat'>Kill Sat</a> destroys Galuga Archipelago after you complete Mission 5, taking the heroes with it.
+";i:554;s:281:"</li><li> Neo Bowser Castle collapses when the final boss is defeated in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MarioAndLuigiDreamTeam' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MarioAndLuigiDreamTeam'>Mario & Luigi: Dream Team</a>
+";i:555;s:17:"</li></ul></div>
+";i:556;s:183:"<p></p><div class="folderlabel" onclick="togglefolder('folder8');">&nbsp;&nbsp;&nbsp;&nbsp;Theater&nbsp;</div><div id="folder8" class="folder" isfolder="true" style="display:block;">
+";i:557;s:521:"<ul ><li> At the end of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TanzderVampire' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TanzderVampire'>Tanz der Vampire</a> this happens to the castle of Count Krolock - for no goddamn reason as we aren't even shown if he died or not. Which is, given the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FridgeLogic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FridgeLogic'>fridge logic</a> of the play, not even likely.
+";i:558;s:17:"</li></ul></div>
+";i:559;s:189:"<p></p><div class="folderlabel" onclick="togglefolder('folder9');">&nbsp;&nbsp;&nbsp;&nbsp;Web Animation&nbsp;</div><div id="folder9" class="folder" isfolder="true" style="display:block;">
+";i:560;s:484:"<ul ><li> Parodied in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WebAnimation/HomestarRunner' title='http://tvtropes.org/pmwiki/pmwiki.php/WebAnimation/HomestarRunner'>Strong Bad Email</a> <a class='urllink' href='http://www.homestarrunner.com/sbemail173.html'>the paper<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>: "How is this island sinking? I didn't even kill any end bosses!"
+";i:561;s:17:"</li></ul></div>
+";i:562;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder10');">&nbsp;&nbsp;&nbsp;&nbsp;Webcomics&nbsp;</div><div id="folder10" class="folder" isfolder="true" style="display:block;">
+";i:563;s:434:"<ul ><li> At the end of the "Dangerous Days" arc in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/SluggyFreelance' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/SluggyFreelance'>Sluggy Freelance</a></em>, the building Hereti Corp set the building they had used for the Aylee project to self-destruct. This is apparently standard Hereti Corp procedure for anything they might lose, even bagels.
+";i:564;s:461:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MinionsAtWork' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MinionsAtWork'>Minions at Work</a>: <a class='urllink' href='http://www.minionsatwork.com/2006/05/minions-5-unemployment-sucs.html'>Well, I see here your last place of employment self-destructed<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>
+";i:565;s:606:"</li><li> A rare protagonist (sorta?) example comes from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Erfworld' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Erfworld'>Erfworld</a></em>. After the Coalition forces overwhelm Gobwin Knob and nearly destroy the city, Parson Gotti orders everyone into the caverns, then has their remaining casters link up to use their various magic powers to awaken the dormant volcano beneath the mountain. The resulting explosive eruption wipes out not only the city (which gets fixed soon after), but the entirety of the Coalition forces.
+";i:566;s:571:"</li><li> The Dungeon of Dorukan collapses after <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/TheOrderOfTheStick' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/TheOrderOfTheStick'>Order of the Stick</a></em> defeats Xykon and <span class="spoiler" title="you can set spoilers visible by default on your profile" > Elan activates the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SelfDestructMechanism' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SelfDestructMechanism'>self destruct rune</a></span>.
+";i:567;s:1098:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/EightBitTheater' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/EightBitTheater'>8-Bit Theater</a></em>, this occurs twice: once when the fiend of fire, Kary,<span class="spoiler" title="you can set spoilers visible by default on your profile" > is defeated, Red Mage yells that they have to get out because the main villian's base explodes. Black Mage laughs it off, then the volcano explodes. He then says he's "brave enough to chalk that up to coincidence."</span> Then, right after <span class="spoiler" title="you can set spoilers visible by default on your profile" > Muffin is defeated, Black Mage and Fighter remove the air orb, causing the floating castle to collapse.</span> A possible third time occurs in the final boss fight when <span class="spoiler" title="you can set spoilers visible by default on your profile" > Black Mage shoots his super-evil at Sarda. Technically they weren't inside for it and the main villian's defeat wasn't until later but the place still collapsed.</span>
+";i:568;s:556:"</li><li> Happens in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Panthera' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Panthera'>Panthera</a></em> when <span class="spoiler" title="you can set spoilers visible by default on your profile" > Oosterhuis</span> destroys the load-bearing columns of the underground facility when he loses his alias and his support, leaving Panthera <span class="spoiler" title="you can set spoilers visible by default on your profile" > and several FBI agents</span> in the collapsing room.
+";i:569;s:425:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DragonMango' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DragonMango'>Dragon Mango</a>, <a class='urllink' href='http://dragon-mango.com/comic/chapter02/dm02-69.htm'>they make it out only because of the hippogryff.<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>
+";i:570;s:17:"</li></ul></div>
+";i:571;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder11');">&nbsp;&nbsp;&nbsp;&nbsp;Web Games&nbsp;</div><div id="folder11" class="folder" isfolder="true" style="display:block;">
+";i:572;s:483:"<ul ><li> The Nui-Jaga scorpion nest containing the infected Comet balls in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Bionicle' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Bionicle'>Mata Nui On-Line Game</a></em>. Toa Pohatu and the player only escape thanks to the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MaskOfPower' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MaskOfPower'>Mask of Speed</a>.
+";i:573;s:17:"</li></ul></div>
+";i:574;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder12');">&nbsp;&nbsp;&nbsp;&nbsp;Web Original&nbsp;</div><div id="folder12" class="folder" isfolder="true" style="display:block;">
+";i:575;s:488:"<ul ><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SailorNothing' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SailorNothing'>Sailor Nothing</a>, <span class="spoiler" title="you can set spoilers visible by default on your profile" > the entire Yami-Gaia collapses after the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilOverlord' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilOverlord'>Dark Queen</a> dies.</span>
+";i:576;s:17:"</li></ul></div>
+";i:577;s:195:"<p></p><div class="folderlabel" onclick="togglefolder('folder13');">&nbsp;&nbsp;&nbsp;&nbsp;Western Animation&nbsp;</div><div id="folder13" class="folder" isfolder="true" style="display:block;">
+";i:578;s:410:"<ul ><li> Pretty much standard for <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PhineasAndFerb' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PhineasAndFerb'>Phineas and Ferb</a>'s <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BStory' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BStory'>B Story</a> involving Dr. Doofenshmirtz and Perry the Platypus.
+";i:579;s:231:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KimPossible' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KimPossible'>Kim Possible</a></em>, in episode "Downhill", gave us the title quote.
+";i:580;s:359:"<ul ><li> And in other episodes, such as the time that Dr. Drakken his his lair inside the world's biggest wheel of cheese. And then built a raygun capable of melting said giant cheese. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HilarityEnsues' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HilarityEnsues'>Hilarity Ensues</a>.
+";i:581;s:452:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ClerksTheAnimatedSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ClerksTheAnimatedSeries'>Clerks: The Animated Series</a></em> parodied this when Dante and Randal escape from an <em>Indiana Jones and the Temple of Doom</em>-style mine, and Randal stops to pull a lever on the wall marked "do not pull". The entire mountain then begins to collapse.
+";i:582;s:557:"</li><li> In an episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSpectacularSpiderMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSpectacularSpiderMan'>The Spectacular Spider Man</a></em> showcasing the Sinister Six, Spidey must visit Doc Ock's underwater lair to thwart his plan of world domination. After successfully doing so, Doc hits the self-destruct button, causing a tense moment as Spider-Man must free himself from a large chunk of metal, save Gwen, and get out of the lair all before it blows up.
+";i:583;s:233:"</li><li> Happens a couple of times in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TeenTitans' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TeenTitans'>Teen Titans</a></em>:
+";i:584;s:482:"<ul ><li> In "Apprentice II", <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Slade</a> triggers his lair's self-destruct so that the Titans will be too busy saving themselves to prevent his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VillainExitStageLeft' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VillainExitStageLeft'>Villain Exit Stage Left</a>. It works.
+";i:585;s:755:"</li><li> In "Aftershock II", <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragon'>Terra</a> turns on Slade and unleashes so much power she <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PowerIncontinence' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PowerIncontinence'>loses control of it</a>, triggering a volcano beneath the lair. The lair is destroyed and Slade is killed; Terra performs a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicSacrifice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicSacrifice'>Heroic Sacrifice</a> to shut the volcano down and keep the damage from spreading further.
+";i:586;s:354:"</li><li> In "Deception", Cyborg turns new <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a> Brother Blood's superweapon against him. Blood uses his telekinetic power to keep from being killed, but the unleashed energies cause the lair to begin caving in.
+";i:587;s:112:"</li><li> In "Wavelength", Brother Blood's new secret weapon is overloaded, destroying his base in the process.
+";i:588;s:302:"</li><li> In "Titans Together", <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>the Brain</a> <em>tries</em> to set off a bomb to destroy the Titans as he flees his base, but they teleport it away and capture him.
+";i:589;s:611:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WatershipDown' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WatershipDown'>Watership Down</a></em>, the TV series, inverts this as a positive version for the heroes, after Hazel manages to get the other males to do their bit digging their new burrow with the doe, Blackberry. At one point, all the gang is working on one area when the ceiling partially collapses. However, no one is hurt and the rabbits find that the accident cleared away much of the material to create a very nice great hall for their burrow.
+";i:590;s:570:"</li><li> Dark Heart's lair in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/CareBearsMovieIIANewGeneration' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/CareBearsMovieIIANewGeneration'>Care Bears Movie II: A New Generation</a></em>, after <span class="spoiler" title="you can set spoilers visible by default on your profile" >he makes a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeelFaceTurn' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeelFaceTurn'>Heel Face Turn</a></span>.
+";i:591;s:456:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SuperRobotMonkeyTeamHyperforceGo' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SuperRobotMonkeyTeamHyperforceGo'>Super Robot Monkey Team Hyperforce Go</a></em>: The Citadel of Bone, with a twist &#8212; <span class="spoiler" title="you can set spoilers visible by default on your profile" > it can pull itself back together afterwards.</span>
+";i:592;s:17:"</li></ul></div>
+";i:593;s:14:"<p></p><hr />
+";i:594;s:2007:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ClimbingClimax">Climbing Climax</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ClimacticTropes">Climactic Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ConcertClimax">Concert Climax</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ColdIron">Cold Iron</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum">Applied Phlebotinum</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CommLinks">Comm Links</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CaveBehindTheFalls">Cave Behind the Falls</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/HomeBase">Home Base</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/LoadBearingBoss">Load-Bearing Boss</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CoincidenceMagnet">Coincidence Magnet</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PagesNeedingImages">Pages Needing Images</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CollateralAngst">Collateral Angst</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:595;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:596;s:10:"<p> </p>
+";i:597;s:10:"<center>
+";i:598;s:2:"
+";i:599;s:24:"<!-- med rectangle -->
+";i:600;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:601;s:33:"<script type='text/javascript'>
+";i:602;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:603;s:11:"</script>
+";i:604;s:8:"</div>
+";i:605;s:2:"
+";i:606;s:11:"</center>
+";i:607;s:24:"</td><!-- wikibody -->
+";i:608;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:609;s:7:"</td>
+";i:610;s:7:"</tr>
+";i:611;s:10:"</table>
+";i:612;s:22:"<!--PageFooterFmt-->
+";i:613;s:77:"<div class="alt_title" style="font-size:x-small;text-align:center;" ></div>
+";i:614;s:10:"<center>
+";i:615;s:44:"<table style="width:606px;margin:0 auto;">
+";i:616;s:7:"	<tr>
+";i:617;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:618;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:619;s:263:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CollapsingLair?action=edit'> edit page</a></div></div></td>
+";i:620;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:621;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:622;s:8:"	</tr>
+";i:623;s:10:"</table>
+";i:624;s:11:"</center>
+";i:625;s:21:"<div id='wikifoot'>
+";i:626;s:27:"    <div class='footnav'>
+";i:627;s:2:"
+";i:628;s:14:"			 <center>
+";i:629;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:630;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:631;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:632;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:633;s:15:"				</center>
+";i:634;s:2:"
+";i:635;s:29:"    </div><!-- wikifoot -->
+";i:636;s:23:"<!--/PageFooterFmt-->
+";i:637;s:12:"80829<br/>
+";i:638;s:3:"0
+";i:639;s:8:"</div>
+";i:640;s:26:"</div><!-- container -->
+";i:641;s:2:"
+";i:642;s:9:"</body>
+";i:643;s:21:"<!--ScriptInsert-->
+";i:644;s:9:"</html>
+";}}

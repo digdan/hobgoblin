@@ -1,0 +1,573 @@
+a:2:{i:0;i:1377888365;i:1;a:572:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:65:"<title>Egg MacGuffin - Television Tropes &amp; Idioms  </title>
+";i:5;s:132:"<meta name="Description" content="The Egg Mac Guffin trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:2:"
+";i:25;s:10:"</style>
+";i:26;s:2:"
+";i:27;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:28;s:33:"<script type="text/javascript">
+";i:29;s:26:"  var _gaq = _gaq || [];
+";i:30;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:31;s:34:"  _gaq.push(['_trackPageview']);
+";i:32;s:2:"
+";i:33;s:17:"  (function() {
+";i:34;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:35;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:36;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:37;s:9:"  })();
+";i:38;s:2:"
+";i:39;s:32:"	function subpage(sel, title){
+";i:40;s:4:"		
+";i:41;s:40:"		var namespce = ""+getselection(sel);
+";i:42;s:34:"		if(namespce.trim()=="")return;
+";i:43;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:44;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:45;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:46;s:29:"		window.location.href=url;
+";i:47;s:4:"	}
+";i:48;s:32:"	function p5(groupname,title){
+";i:49;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:50;s:4:"	}
+";i:51;s:27:"	function togglenote(id){
+";i:52;s:23:"		var ele=object(id);
+";i:53;s:34:"		var state = ele.style.display;
+";i:54;s:49:"		if(state=='none') ele.style.display='inline';
+";i:55;s:48:"		if(state=='inline')ele.style.display='none';
+";i:56;s:4:"	}
+";i:57;s:35:"	var googletag = googletag || {};
+";i:58;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:59;s:16:"	(function() {
+";i:60;s:47:"	var gads = document.createElement('script');
+";i:61;s:21:"	gads.async = true;
+";i:62;s:33:"	gads.type = 'text/javascript';
+";i:63;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:64;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:65;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:66;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:67;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:68;s:8:"	})();
+";i:69;s:2:"
+";i:70;s:34:"	googletag.cmd.push(function() {
+";i:71;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:73;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:74;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:75;s:45:"		googletag.pubads().enableSingleRequest();
+";i:76;s:31:"		googletag.enableServices();
+";i:77;s:6:"	});
+";i:78;s:2:"
+";i:79;s:11:"</script>
+";i:80;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:81;s:2:"
+";i:82;s:9:"</head>
+";i:83;s:8:"<body>
+";i:84;s:40:"<div class="container" id="container">
+";i:85;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:86;s:6:"<tr>
+";i:87;s:46:"<td style="width:166px;vertical-align:top;">
+";i:88;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:89;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:90;s:38:"<g:plusone size="small"></g:plusone>
+";i:91;s:2:"
+";i:92;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:93;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:94;s:6:"<ul>
+";i:95;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:96;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:97;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:98;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:99;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:100;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:101;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:102;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:103;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:104;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:105;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:106;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:107;s:7:"</ul>
+";i:108;s:8:"</div>
+";i:109;s:2:"
+";i:110;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:111;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:112;s:2:"
+";i:113;s:183:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','EggMacGuffin');">send request</button><hr/></div>
+";i:114;s:2:"
+";i:115;s:324:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="EggMacGuffin" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:116;s:2:"
+";i:117;s:51:"<div style="font-size:small;text-align:center;" >
+";i:118;s:30:"Find recent edits by troper:
+";i:119;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:120;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:121;s:8:"</div>
+";i:122;s:7:"<hr/>
+";i:123;s:7:"<ul>	
+";i:124;s:4:"		
+";i:125;s:7:"<hr/>
+";i:126;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:127;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:128;s:61:"		<input type="hidden" name="title" value="EggMacGuffin" />
+";i:129;s:54:"		This article needs some moderator assistance with:
+";i:130;s:9:"		<br/>
+";i:131;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:132;s:9:"		<br/>
+";i:133;s:4:"		
+";i:134;s:34:"		<p style="text-align:center;">
+";i:135;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:136;s:8:"		</p>
+";i:137;s:34:"		<p style="text-align:center;">
+";i:138;s:48:"			<input type="submit" value="send report" />
+";i:139;s:8:"		</p>
+";i:140;s:11:"		</form>
+";i:141;s:7:"<hr/>
+";i:142;s:6:"<ul>
+";i:143;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:144;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:145;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:146;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:147;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:148;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:149;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:150;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:151;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:152;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:153;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:154;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:155;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:156;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:157;s:141:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.EggMacGuffin'>Referral Count for This Page</a></li>
+";i:158;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:159;s:116:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=EggMacGuffin'>Article Relationships</a></li> -->
+";i:160;s:102:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.EggMacGuffin'>Folderize</a></li>
+";i:161;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:162;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:163;s:7:"</ul>
+";i:164;s:8:"	<hr/>
+";i:165;s:6:"<ul>
+";i:166;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:167;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:168;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:169;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:170;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:171;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:172;s:7:"</ul>
+";i:173;s:7:"<hr/>
+";i:174;s:2:"
+";i:175;s:8:"</div>
+";i:176;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:177;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:178;s:8:"		<ul>
+";i:179;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:180;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:181;s:9:"		</ul>
+";i:182;s:8:"</div>
+";i:183;s:10:"<center>
+";i:184;s:34:"		<div style="margin-top:4px;">	
+";i:185;s:5:"			
+";i:186;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:187;s:33:"<script type='text/javascript'>
+";i:188;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:189;s:97:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/EggMacGuffin");
+";i:190;s:11:"</script>
+";i:191;s:8:"</div>
+";i:192;s:2:"
+";i:193;s:11:"		</div>	
+";i:194;s:10:"		<div>	
+";i:195;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:196;s:6:"		 	
+";i:197;s:4:"		
+";i:198;s:4:"		
+";i:199;s:10:"		</div>
+";i:200;s:284:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/EggMacGuffin">Laconic</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/EggMacGuffin">Main</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/PlayingWith/EggMacGuffin">PlayingWith</a><br/>
+";i:201;s:9:"		<div>
+";i:202;s:10:"		</div>
+";i:203;s:36:"		<div style="font-size:x-small;">
+";i:204;s:11:"				<hr/>
+";i:205;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:206;s:14:"				<p> </p>
+";i:207;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:208;s:13:"				<p></p>
+";i:209;s:11:"				<ul >
+";i:210;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:211;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:212;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:213;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:214;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:215;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:216;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:217;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:219;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:220;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:221;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:222;s:11:"				</li>
+";i:223;s:11:"				</ul>
+";i:224;s:13:"				<p></p>
+";i:225;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:226;s:13:"				<p></p>
+";i:227;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:228;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:229;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:230;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:231;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:232;s:6:"				
+";i:233;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:234;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:235;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:236;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:237;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:238;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:239;s:6:"				
+";i:240;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:241;s:16:"				</li></ul>
+";i:242;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:243;s:13:"				<p></p>
+";i:244;s:11:"				<ul >
+";i:245;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:246;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:247;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:248;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:249;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:250;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:251;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:252;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:253;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:254;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:255;s:6:"				
+";i:256;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:257;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:258;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:259;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:260;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:261;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:262;s:6:"				
+";i:263;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:264;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:265;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:266;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:268;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:269;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:270;s:11:"				</li>
+";i:271;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:272;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:273;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:274;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:275;s:6:"				
+";i:276;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:278;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:279;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:280;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:281;s:16:"				</li></ul>
+";i:282;s:6:"				
+";i:283;s:13:"				<p></p>
+";i:284;s:39:"				<strong>Other Categories</strong>
+";i:285;s:13:"				<p></p>
+";i:286;s:10:"				<ul>
+";i:287;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:288;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:289;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:290;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:291;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:292;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:293;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:294;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:295;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:296;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:297;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:298;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:299;s:11:"				</ul>
+";i:300;s:11:"		</div>	
+";i:301;s:11:"</center>
+";i:302;s:2:"
+";i:303;s:30:"</div> <!-- wikileftpage -->
+";i:304;s:7:"</td>
+";i:305;s:20:"<td id='wikibody'>
+";i:306;s:2:"
+";i:307;s:21:"<!--PageTitleFmt-->
+";i:308;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:309;s:12:"    		<tr>
+";i:310;s:38:"    		<td id="wikicmds" align="top">
+";i:311;s:8:"    		
+";i:312;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:313;s:45:"    				<tr style="vertical-align:middle;">
+";i:314;s:31:"    					<td align="center" >
+";i:315;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:316;s:16:"    					</td>
+";i:317;s:15:"    				<td >
+";i:318;s:37:"    					<div style="width:400px;">
+";i:319;s:28:"                  <center>
+";i:320;s:27:"                  <table>
+";i:321;s:24:"                  <tr>
+";i:322;s:24:"                  <td>
+";i:323;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:324;s:27:"                    <div>
+";i:325;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:326;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:327;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:328;s:64:"                      <input type="text" name="q" size="31" />
+";i:329;s:28:"                    </div>
+";i:330;s:27:"                  </form>
+";i:331;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:332;s:25:"                  </td>
+";i:333;s:24:"                  <td>
+";i:334;s:46:"                  <div class="buttonframe" >
+";i:335;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:336;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:337;s:26:"                  </div>
+";i:338;s:25:"                  </div
+";i:339;s:25:"                  </td>
+";i:340;s:25:"                  </tr>
+";i:341;s:28:"                  </table>
+";i:342;s:29:"                  </center>
+";i:343;s:17:"    					</div>
+";i:344;s:15:"    				</td>
+";i:345;s:15:"    				</tr>
+";i:346;s:16:"    		</table>
+";i:347;s:8:"    		
+";i:348;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:349;s:10:"    				
+";i:350;s:27:"    				<tr valign="top">
+";i:351;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:352;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:353;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:354;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:355;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:356;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:357;s:15:"    				</tr>
+";i:358;s:10:"    				
+";i:359;s:10:"    				
+";i:360;s:8:"    		
+";i:361;s:16:"    		</table>
+";i:362;s:8:"    		
+";i:363;s:28:"    		<div id="wikilogo" >
+";i:364;s:16:"    		<center>
+";i:365;s:2:"
+";i:366;s:22:"<!-- leaderboard -->
+";i:367;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:368;s:33:"<script type='text/javascript'>
+";i:369;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:370;s:11:"</script>
+";i:371;s:8:"</div>
+";i:372;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:373;s:28:"    					<tr valign="top">
+";i:374;s:310:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'EggMacGuffin');" autocomplete="off"  style="width:50px;"><option> </option><option value="Laconic">Laconic</option><option value="Main">Main</option><option value="PlayingWith">PlayingWith</option></select></td>
+";i:375;s:267:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/EggMacGuffin?action=source" >source</a></div></div></td>
+";i:376;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:377;s:268:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.EggMacGuffin">history</a></div></div></td>
+";i:378;s:270:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EggMacGuffin?action=edit'> edit page</a></div></div></td>
+";i:379;s:266:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/EggMacGuffin" >related</a></div></div></td>
+";i:380;s:38:"    							<td valign="middle"></td>
+";i:381;s:16:"    					</tr>
+";i:382;s:18:"    				</table>
+";i:383;s:10:"    				
+";i:384;s:35:"    				<div id="watchmsg"></div>
+";i:385;s:18:"    			</center>
+";i:386;s:13:"    		</td>
+";i:387;s:12:"     </tr>
+";i:388;s:6:"    
+";i:389;s:11:"    	<tr>
+";i:390;s:39:"    		<td id="wikititle" colspan="2">
+";i:391;s:40:"    				<div class="namespacebuttons">
+";i:392;s:1158:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments"  style="border-width:2px;border-color:silver;margin-right:2px;" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.EggMacGuffin" >&nbsp;Discussion </a></li> <li class="namespace_li PlayingWith" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/PlayingWith/EggMacGuffin" class="textcolor">&nbsp;Playing&nbsp;With&nbsp;</a> </li> <li class="namespace_li Laconic" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/EggMacGuffin" class="textcolor">&nbsp;Laconic&nbsp;</a> </li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=EggMacGuffin" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/EggMacGuffin" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:393;s:16:"    				</div>
+";i:394;s:26:"    				<!--RepairBug-->
+";i:395;s:10:"    				
+";i:396;s:34:"    				<div class='pagetitle'> 
+";i:397;s:40:"    						  <span>Egg MacGuffin</span>
+";i:398;s:16:"    				</div>
+";i:399;s:11:"    				 
+";i:400;s:13:"    		</td>
+";i:401;s:12:"    	</tr>
+";i:402;s:10:"</table>
+";i:403;s:2:"
+";i:404;s:16:"<!--PageText-->
+";i:405;s:20:"<div id='wikitext'>
+";i:406;s:326:"<div class="quoteright" style="width:291px;" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Leviathan' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Leviathan'><img src='http://static.tvtropes.org/pmwiki/pub/images/Big_egg_8072.jpg' class='embeddedimage' border='0' alt='' /></a></div>
+";i:407;s:80:"<div class="acaptionright" style="width:291px;" >The egg to end all wars.</div>
+";i:408;s:657:"<p></p>Sometimes, an episode of a series may involve a character discovering an egg of some sort which later hatches. Occasionally, the protagonists may save the egg from a terrible fate: either from being smashed or from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EatenTheMacGuffin' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EatenTheMacGuffin'>being something or someone's lunch</a>. The egg eventually hatches and the character gains a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PetBabyWildAnimal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PetBabyWildAnimal'>Pet Baby Wild Animal</a>.
+";i:409;s:722:"<p></p>Usually the baby is a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SmallAnnoyingCreature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SmallAnnoyingCreature'>Small Annoying Creature</a> (though it may actually be a gargantuan creature with the mind of a small annoying one) <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ObliviousAdoption' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ObliviousAdoption'>that thinks the first person (usually the discoverer) it sees is its "mama".</a> Usually the baby may be far too much for the character to handle and they have to somehow find its real parents. A common variant has the egg hatching into something evil.
+";i:410;s:180:"<p></p>The trope can get even more unusual when the resulting offspring ends up taking on the characteristics of the hatcher, rather than who actually contributed to the genetics.
+";i:411;s:588:"<p></p>If the plot revolves around <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DisappearedDad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DisappearedDad'>the unknown origin</a> or result of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PregnancyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PregnancyTropes'>a different kind of egg</a>, it may be <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhosYourDaddy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhosYourDaddy'>Who's Your Daddy?</a>
+";i:412;s:621:"<p></p>A frequent cartoon scenario has a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TalkingAnimal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TalkingAnimal'>Talking Animal</a>, or more often a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeechImpairedAnimal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeechImpairedAnimal'>Speech Impaired Animal</a>, is trying to keep an egg warm without being interrupted or losing the egg in a offbeat chase scene. When the egg hatches, this often results in the (usually male) babysitter being referred to as Mommy.
+";i:413;s:221:"<p></p>Compare <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EggSitting' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EggSitting'>Egg Sitting</a>, where the egg is just a stand-in for a baby.
+";i:414;s:455:"<p></p>Despite the trope name, the egg might or might not be a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MacGuffin' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MacGuffin'>MacGuffin</a>. The trope's name is a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IncrediblyLamePun' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IncrediblyLamePun'>silly pun</a> on Egg McMuffin, the breakfast sandwich.
+";i:415;s:7:"<hr />
+";i:416;s:19:"<h2>Examples:</h2>
+";i:417;s:122:"<p></p><div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:418;s:193:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp;Anime &amp; Manga&nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:419;s:282:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/ShugoChara' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/ShugoChara'>Shugo Chara!</a></em>: The Embryo, and heck, the Heart's Eggs themselves, are there within order towards creating Dreams.
+";i:420;s:244:"</li><li> The egg that Skuld's angel Noble Scarlet hatches from in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/AhMyGoddess' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/AhMyGoddess'>Ah! My Goddess</a></em>.
+";i:421;s:414:"</li><li> In the Diamond is Unbreakable story arc of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/JoJosBizarreAdventure' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/JoJosBizarreAdventure'>JoJo's Bizarre Adventure</a></em>, Koichi's stand Echoes actually takes the form of an egg when he first gains it. Later, when he needs its power, it hatches into its first effective form.
+";i:422;s:1050:"</li><li> In the opening arc of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/YuYuHakusho' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/YuYuHakusho'>YuYu Hakusho</a></em>, Yusuke is given an egg that will feed off his spirit energy and hatch when he can come back to life. It is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChekhovsGun' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChekhovsGun'>ignored completely</a> when Yusuke is brought back to life for a different reason, and seems to be forgotten for another few arcs &#8212; until the Dark Tournament, when Koenma reveals that it's <em>finally</em> ready to hatch. Instead of the huge, horrible beast the characters feared, it hatches into a little blue penguin-y thing. Keiko dubs it "Puu" and it becomes her pet. Then in the next arc, <span class="spoiler" title="you can set spoilers visible by default on your profile" >Yusuke dies and reincarnates as a demon. Cue Puu growing into a huge demonic version of itself.</span>
+";i:423;s:790:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/NatsumeYuujinchou' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/NatsumeYuujinchou'>Natsume Yuujinchou</a></em>: Natsume takes care of a small egg found in a nest &#8212; which hatches into a "dragon". At first, however, it appears to take the form of an extremely <em>tiny</em> version of whatever creature it sees first &#8212; namely Natsume. It is possibly the <a class='urllink' href='http://media.photobucket.com/image/natsume%20yuujin%20chou%20tama-chan/looniekat/Natsume%20Yuujin-cho/snapshot20090128191748.jpg'>cutest thing to ever exist in anime.<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a><small>&#9674;</small>
+";i:424;s:564:"</li><li> Played with in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/KirbyOfTheStars' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/KirbyOfTheStars'>Kirby of the Stars</a></em> anime, where the giant steel bird Dynablade lays an egg that later disappears, with fragments of its shell around. The other characters suspect that Kirby has eaten the egg, and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MamaBear' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MamaBear'>Dynablade ain't happy...</a>
+";i:425;s:2093:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Digimon' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Digimon'>Digimon</a>,</em> digi-eggs are the beginning <em>and</em> end of a Digimon's life cycle, with a Digimon reverting to egg form after "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathIsCheap' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathIsCheap'>death</a>." (There are exceptions to this, such as <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/DigimonTamers' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/DigimonTamers'>season three</a>, which began the trend of new seasons being AU and thus had different rules, and <span class="spoiler" title="you can set spoilers visible by default on your profile" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/DigimonSavers' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/DigimonSavers'>season five</a>, in which rebirth was automatic again... making it all the more horrible when the villainous Kurata creates a means of corrupting a Digimon's data so it can't ever be reborn.</span> Once, Seraphimon, a <em>god/king</em> to the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/DigimonFrontier' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/DigimonFrontier'>season four</a> version of the Digital World, had to be toted around by Bokomon, who had it strapped to his stomach and <em>acted pregnant for well over ten episodes</em> until Seraphimon hatched as Patamon. And then proceeds to refer to Bokomon as his "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Pun' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Pun'>papa-mon</a>". No reference or mention is made of the fact that Bokomon could, if he wanted to, become <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheManBehindTheMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheManBehindTheMan'>The Man Behind the Man</a> ruling 1/3 of the digital world.
+";i:426;s:171:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/Pokemon' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/Pokemon'>Pokémon</a></em>
+";i:427;s:474:"<ul ><li> In the anime, Ash and his friends found and looked after an egg for a while which eventually hatched into a Togepi (that became the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TeamPet' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TeamPet'>Team Pet</a> for a while). This Togepi saw Misty as its mother. Perhaps slightly spoofed in that Ash was the one who found the egg, and is pissed that the Togepi didn't therefore attach to him.
+";i:428;s:378:"</li><li> Most of the cast members have received a Pokémon through this fashion. Ash received an egg with hatched into a Phanpy, and another one much later that hatched into a Scraggy, May received one that hatched into an Eevee, Brock received one that hatched into a Happiny, and Dawn received one that hatched into a Cyndaquil. This happens in the games quite a lot as well.
+";i:429;s:545:"</li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/PokemonSpecial' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/PokemonSpecial'>Pokémon Special</a></em> manga, Gold receives the Togepi egg, which at one point nearly gets eaten by a wild Gligar. Thankfully, it hatched into a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KillerRabbit' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KillerRabbit'>Killer Rabbit</a> with a gambling problem and took the Gligar down itself.
+";i:430;s:585:"</li></ul></li><li> Subverted in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/MaisonIkkoku' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/MaisonIkkoku'>Maison Ikkoku</a></em>, where Yotsuya gives an egg to Godai with no explanation before leaving on a trip. The entire episode revolves around the rest of the cast dealing with the fallout resulting, some helpful, others not so much. In the end, <span class="spoiler" title="you can set spoilers visible by default on your profile" >it is revealed Yotsuya had just found the egg that morning.</span>
+";i:431;s:867:"</li><li> The entire plot of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/SeireiNoMoribito' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/SeireiNoMoribito'>Seirei No Moribito</a></em> occurs because Prince Chagum is carrying the egg of a water spirit within his body, at first leading many people to believe that he's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DemonicPossession' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DemonicPossession'>possessed by a demon</a>. The entire cast becomes very concerned both with making sure the egg hatches successfully (since there will be a horrific drought if it doesn't) and with making sure that Chagum isn't killed in the process, with much of the drama of the latter half of the series coming from the fact that the two goals may be mutually exclusive.
+";i:432;s:430:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/XxxHOLiC' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/XxxHOLiC'>Xxx HO Li C</a></em>, Watanuki is once given a magical egg as payment for a job. He is told that he just has to sleep with it and anything he wishes will come out. He uses it to hatch a little bird, Tampopo, that is immune to Himawari's bad luck curse to make her happy.
+";i:433;s:330:"<ul ><li> As it turns out, that was the same egg Sakura had to retrieve in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/TsubasaReservoirChronicle' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/TsubasaReservoirChronicle'>Tsubasa: RESERVoir CHRoNiCLE</a></em> in Acid Tokyo as payment for a wish.
+";i:434;s:1250:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/RevolutionaryGirlUtena' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/RevolutionaryGirlUtena'>Revolutionary Girl Utena</a></em> has an aptly-titled episode &#8212; "Nanami's Egg" &#8212; in which Nanami believes she's laid an egg in her sleep and no-one (except Utena) has the heart to tell her that it doesn't make sense. Nanami was already considered a character that straddled the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CerebusSyndrome' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CerebusSyndrome'>Cerebus Syndrome</a>, with both serious duel episodes and comic relief episodes based around her haughtiness and animals abusing her, but the 27th episode manages to marry both comedy of the absurd and very touching character development. Its <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InsertSong' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InsertSong'>Insert Song</a> is <a class='urllink' href='http://www.youtube.com/watch?v=KSDSFaIvJwM'>"Hello, Baby."<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>.
+";i:435;s:1347:"</li><li> The Behelits of the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Berserk' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Berserk'>Berserk</a></em> take on the shape of an egg with human facial features strewn all over it. There are two egg-grades of Behelits: the normal brown-grade Behelits that give you <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EldritchAbomination' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EldritchAbomination'>average evil nutrition</a>, and then the red-grade Behelits that give you <em>humongous</em> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DemonLordsAndArchDevils' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DemonLordsAndArchDevils'>God-like evil nutrition</a> (and hence, this grade is also known as, "The Egg of the Conqueror/King"). And don't forget, these are also <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ClingyMacGuffin' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ClingyMacGuffin'>Clingy MacGuffins</a>, as they always find their way back to their master when the time is right. So, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LamePun' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LamePun'>they ain't going rotten anytime soon.</a>
+";i:436;s:347:"</li><li> Episode 20 of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/FairyTail' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/FairyTail'>Fairy Tail</a></em> is a flashback centered around Natsu and Lisanna taking care of a mysterious egg that dropped out of the sky. It hatches into a certain flying blue kitty.
+";i:437;s:17:"</li></ul></div>
+";i:438;s:188:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp;Comic Strips&nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:439;s:272:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicStrip/USAcres' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicStrip/USAcres'>US Acres</a></em>, Orson the Pig took care of two abandoned eggs, from which hatched Booker and Sheldon.
+";i:440;s:17:"</li></ul></div>
+";i:441;s:199:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp;Films &#8212; Animation&nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:442;s:219:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/IceAge' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/IceAge'>Ice Age</a> III: Dawn of the Dinosaurs</em>.
+";i:443;s:427:"</li><li> Subverted in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Shrek' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Shrek'>Shrek</a>,</em> when Princess Fiona accidentally causes a mama bird to expire, leaving a nest of orphan eggs. Her solution? <span class="spoiler" title="you can set spoilers visible by default on your profile" >Fry them for breakfast</span>.
+";i:444;s:198:"</li><li> The whole plot of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/AngelsEgg' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/AngelsEgg'>Angel's Egg</a></em>.
+";i:445;s:17:"</li></ul></div>
+";i:446;s:201:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp;Films &#8212; Live-Action&nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:447;s:330:"<ul ><li> <span class="spoiler" title="you can set spoilers visible by default on your profile" >Twinken</span> the dream maker in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/BarneyAndFriends' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/BarneyAndFriends'>Barney's Great Adventure</a></em>.
+";i:448;s:368:"</li><li> In the Eddie Murphy film <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/DrDolittle' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/DrDolittle'>Dr Dolittle</a></em>, Dolittle's daughter Maya has an egg throughout the movie that she believes is a swan egg. At the end of the film, it hatches, and it turns out to be an alligator.
+";i:449;s:234:"</li><li> John Hurt's character is this to the crew of the <em>Nostromo</em> in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Alien' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Alien'>Alien</a></em>.
+";i:450;s:231:"</li><li> The forged (and real) Fabergé egg in the first half of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Octopussy' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Octopussy'>Octopussy</a></em>.
+";i:451;s:17:"</li></ul></div>
+";i:452;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp;Literature&nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:453;s:450:"<ul ><li> Baby Boomers will remember Oliver Butterworth's 1956 book <em>The Enormous Egg</em>, in which a chicken lays an anomalously large egg from which hatches a triceratops. (If you don't remember the book, perhaps you remember the 1968 <a class='urllink' href='http://www.imdb.com/title/tt0311075/'>TV special<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> based on it.)
+";i:454;s:271:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/InheritanceCycle' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/InheritanceCycle'>Inheritance Cycle</a></em> starts with Eragon finding a dragon egg and looking after it.
+";i:455;s:338:"</li><li> Technically speaking, the same thing happens in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Temeraire' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Temeraire'>His Majesty's Dragon</a></em>. Laurence and Temeraire have another one to deal with two books later in <em>The Black Powder War</em>.
+";i:456;s:573:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/DianaWynneJones' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/DianaWynneJones'>Diana Wynne Jones</a>'s book <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/ThePinhoeEgg' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/ThePinhoeEgg'>The Pinhoe Egg</a></em>, the main character finds a <span class="spoiler" title="you can set spoilers visible by default on your profile" >gryphon</span> egg in an attic, and cares for it until it grows up.
+";i:457;s:549:"</li><li> In the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/DrSeuss' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/DrSeuss'>Dr Seuss</a> book (and <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BobClampett' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BobClampett'>Bob Clampett</a></em> cartoon adaptation) <em>Horton Hatches the Egg</em>, an elephant takes on the task of hatching the egg of a irresponsible bird. The offspring ends up being a bird with the head of an elephant.
+";i:458;s:624:"</li><li> The Daenerys subplot in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/ASongOfIceAndFire' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/ASongOfIceAndFire'>A Game of Thrones</a></em> features three <em>fossilized</em> dragon eggs. <span class="spoiler" title="you can set spoilers visible by default on your profile" > Once Dany figures out the meaning of her family's motto and its origins in Valyrian sorcery, it turns out her eggs are not so much dead as dormant &#8212; which is why in the subsequent books she's called Daenerys the Unburnt, Mother of Dragons.</span>
+";i:459;s:560:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HarryPotterAndThePhilosophersStone' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HarryPotterAndThePhilosophersStone'>Harry Potter and the Philosopher's Stone</a></em>, Hagrid gets ahold of a dragon egg, which hatches into Norwegian Ridgeback which Hagrid dubs Norbert. Little Norbert, with his vicious, fire-breathing ways, quickly becomes a liability (especially as keeping dragons is illegal), and he is dispatched to Romania, much to Hagrid's distress.
+";i:460;s:1029:"</li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Leviathan' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Leviathan'>Leviathan</a></em> trilogy, there is a veeeeeeery mysterious <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EggMacGuffin' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EggMacGuffin'>Egg MacGuffin</a> in the first book. <span class="spoiler" title="you can set spoilers visible by default on your profile" >In Behemoth, the sequel, the egg hatches, and a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SmallAnnoyingCreature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SmallAnnoyingCreature'>Small Annoying Creature</a> is introduced in the form of Bovril. Bovril latches onto Alek and they become <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ABoyAndHisX' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ABoyAndHisX'>A Boy and His Rapidly Learning Skunk Thing.</a></span>
+";i:461;s:365:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dragaera' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dragaera'>Taltos</a></em>, young Vlad takes care of the jhereg egg that he'd obtained from its mother in <em>Jhereg</em>. When Loiosh hatches, he calls Vlad "Mama", although he switches to "Boss" once he's grown some.
+";i:462;s:545:"</li><li> Not an egg, but in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PerdidoStreetStation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PerdidoStreetStation'>Perdido Street Station</a></em>, Isaac rears a caterpillar-like larva to adulthood in a similar manner to this trope, mostly to see what it'll grow up to be. <span class="spoiler" title="you can set spoilers visible by default on your profile" > This backfires spectacularly when the larva grows into a monstrous, mind-devouring slake moth.</span>
+";i:463;s:306:"</li><li> In <em>Nomads of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Gor' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Gor'>Gor</a></em> Tarl is tasked by the Priest-Kings to retrive the last egg of the Priest-Kings, the only female, to start their cycle anew.
+";i:464;s:263:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/SeptimusHeap' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/SeptimusHeap'>Septimus Heap</a></em>: The rock that Jenna finds in <em>Magyk</em> turns out to be one.
+";i:465;s:611:"</li><li> Most of the plot of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheGoodTheBadAndTheMediochre' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheGoodTheBadAndTheMediochre'>The Good The Bad And The Mediochre</a></em> revolves around Mediochre and his various acquaintances trying to keep a dragon's egg (which he names 'Glint') out of the hands of a smuggling syndicate. It is therefore a literal Egg <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MacGuffin' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MacGuffin'>MacGuffin</a>.
+";i:466;s:17:"</li></ul></div>
+";i:467;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp;Live-Action TV&nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:468;s:354:"<ul ><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekVoyager' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekVoyager'>Star Trek: Voyager</a></em> episode "Parturition" Neelix and Paris find a nest of repto-humanoids, one of which hatches, leading them to care for it until the mother returns.
+";i:469;s:466:"</li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/BuffyTheVampireSlayer'>Buffy the Vampire Slayer</a></em> episode "Bad Eggs", the students are given an egg to take care of to show them the responsibilities of parenthood. The eggs hatch into some kind of prehistoric mind-controlling parasites. (Discovered when Xander cooks and tries to eat his.)
+";i:470;s:339:"</li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShakeItUp' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShakeItUp'>Shake It Up</a></em> episode "Heat it Up", Tinka (the comedic relief) enters an egg into a science fair that she genetically engineered. It hatches and proceeds to attack her.
+";i:471;s:235:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Merlin' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Merlin'>Merlin</a></em>, Merlin and company go looking for a dragon egg in "Aithusa".
+";i:472;s:675:"</li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAquabatsSuperShow' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAquabatsSuperShow'>The Aquabats Super Show</a></em> episode "Mysterious Egg!", Jimmy the Robot finds a giant egg and the team eagerly awaits its hatching with contrived <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ImagineSpot' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ImagineSpot'>imagine spots</a>. The egg hatches and the resulting chicken-thing wreaks havoc and runs off. Jimmy is torn between his attachment for the hatchling and protecting the rest of the band from it.
+";i:473;s:17:"</li></ul></div>
+";i:474;s:196:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp;Myths &amp; Religion&nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:475;s:482:"<ul ><li> In Hawaiian mythology, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayingWithFire' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayingWithFire'>Pele</a> carries an egg from her original home in Tahiti to the Hawaiian archipelago. The egg hatches out her fully-formed sister <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NaiveEverygirl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NaiveEverygirl'>Hi'iaka</a>.
+";i:476;s:17:"</li></ul></div>
+";i:477;s:181:"<p></p><div class="folderlabel" onclick="togglefolder('folder7');">&nbsp;&nbsp;&nbsp;&nbsp;Radio&nbsp;</div><div id="folder7" class="folder" isfolder="true" style="display:block;">
+";i:478;s:318:"<ul ><li> In one of Vivian Stanshall's <em>Sir Henry at Rawlinson End</em> radio sessions (but not the LP or film versions) one of the stone balls on a gateway turns out to be a diplodocus egg and hatches &#8212; much to the annoyance of Sir Henry, who thinks <em>he</em> should be the only dinosaur at Rawlinson End.
+";i:479;s:17:"</li></ul></div>
+";i:480;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder8');">&nbsp;&nbsp;&nbsp;&nbsp;Video Games&nbsp;</div><div id="folder8" class="folder" isfolder="true" style="display:block;">
+";i:481;s:963:"<ul ><li> The Time Egg from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ChronoTrigger' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ChronoTrigger'>Chrono Trigger</a></em>. Or, more accurately, the Time Egg <strong><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TitleDrop' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TitleDrop'>is</a></strong> the Chrono Trigger. What's it do? Well, it <em>stops</em> time. You use it in a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TrickedOutTime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TrickedOutTime'>Tricked Out Time</a> loop to <span class="spoiler" title="you can set spoilers visible by default on your profile" > save Crono from his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlotlineDeath' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlotlineDeath'>Plotline Death</a></span>.
+";i:482;s:576:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ChronoCross' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ChronoCross'>Chrono Cross</a></em>, one of the first key items Serge can obtain in Another World is a Draconian Egg. Near the endgame, he can take it to an incubator in Fort Dragonia, where it will hatch into Draggy, a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LethalJokeCharacter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LethalJokeCharacter'>rainbow-colored infant dragon</a>.
+";i:483;s:847:"</li><li> She may be the most hardboiled and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Badass' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Badass'>Badass</a> of Nintendo's protagonists, but in the closing of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Metroid' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Metroid'>Metroid</a> II</em> even Samus Aran couldn't bring herself to exterminate the last Metroid, a mere baby that mistook her for its mother. She instead turned it over to scientists, proving to be both a good thing and bad thing when the Space Pirates steal it in the beginning of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperMetroid' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperMetroid'>Super Metroid</a></em>.
+";i:484;s:979:"</li><li> In a weird example, there's the Hummingbird Egg / Egg of Light from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Mother3' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Mother3'>Mother 3</a></em>, which appears to be more of a Fabergé egg than a real one. Apparently it's so important that Wess would implement a trap that would drop thieves into a watery pit just to protect it. <span class="spoiler" title="you can set spoilers visible by default on your profile" > The egg doesn't actually do anything in the story, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryGambit' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryGambit'>but it's plot-important because it has all of the original memories of everyone who came from Earth</a>. Since life on the islands turned out to be a true utopia, it might have been made when there were doubts about how well the plan was going to work.</span>
+";i:485;s:410:"</li><li> Kinda subverted in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/AnUntitledStory' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/AnUntitledStory'>An Untitled Story</a></em>, as <em>your character</em> is an egg that runs around and does stuff (until <span class="spoiler" title="you can set spoilers visible by default on your profile" >you hatch it</span>).
+";i:486;s:625:"</li><li> The whole plot of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BillyHatcherAndTheGiantEgg' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BillyHatcherAndTheGiantEgg'>Billy Hatcher And The Giant Egg</a></em> revolves around hatching an egg by feeding it fruit. And then there's the eponymous Giant Egg, <span class="spoiler" title="you can set spoilers visible by default on your profile" >which <em>does</em> get hatched by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Dark Raven</a></span>.
+";i:487;s:318:"</li><li> The plot of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SagaFrontier2' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SagaFrontier2'>Saga Frontier 2</a></em> revolves around a magical egg that causes grief for a family of adventurers and influences the history of the world.
+";i:488;s:726:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SamAndMaxFreelancePolice' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SamAndMaxFreelancePolice'>Sam And Max Freelance Police</a> Chariots of the Dogs</em>, the chicken was the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/McGuffin' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/McGuffin'>McGuffin</a> to answer an old mariachi's philosophical obsession. A rooster to be specific, who was left at the beginning of time where he promptly laid an egg. No one was more surprised about that than the rooster. This left forever unanswerable the question of "which came first, the chicken or the egg?"
+";i:489;s:275:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SuperSmashBros' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SuperSmashBros'>Super Smash Bros</a> Melee</em> there was a mission where you had to keep an egg from breaking.
+";i:490;s:699:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SuperMarioWorld' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SuperMarioWorld'>Super Mario World</a></em> has the Yoshi eggs. Bowser has sealed Yoshi inside an egg. In several levels, Mario (or Luigi) can rescue Yoshi, who becomes the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PowerUpMount' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PowerUpMount'>Power Up Mount</a>. Meanwhile, the seven Koopalings have kidnapped seven Yoshi eggs. Mario can recover the eggs from the Koopalings' castles, but they do not hatch until the end credits, when they become baby Yoshis.
+";i:491;s:934:"<ul ><li> Yoshi returns as a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PowerUpMount' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PowerUpMount'>Power Up Mount</a> in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SuperMarioSunshine' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SuperMarioSunshine'>Super Mario Sunshine</a></em>, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/NewSuperMarioBrosWii' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/NewSuperMarioBrosWii'>New Super Mario Bros Wii</a></em>, and <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SuperMarioGalaxy2' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SuperMarioGalaxy2'>Super Mario Galaxy 2</a></em>. Mario only needs to find the egg; except in <em>Sunshine</em>, Mario must bring the correct fruit to the egg.
+";i:492;s:402:"</li><li> The Egg MacGuffin in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/YoshisIsland' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/YoshisIsland'>Yoshis Island</a> DS</em> is <span class="spoiler" title="you can set spoilers visible by default on your profile" >one of the seven star children. It is baby Yoshi, who hatches during the end credits.</span>
+";i:493;s:465:"</li></ul></li><li> The <span class="spoiler" title="you can set spoilers visible by default on your profile" >Sphere of Light</span> in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DragonQuestIII' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DragonQuestIII'>Dragon Quest III</a></em> is actually the <span class="spoiler" title="you can set spoilers visible by default on your profile" >Dragon Queen's final</span> egg.
+";i:494;s:403:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DragonFable' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DragonFable'>Dragon Fable</a></em> starts out with the hero recovering the Black Dragon Box, which contained a dragon egg. After several quests involving the egg and its fate, it eventually hatches into the dragon that you use for titan battles.
+";i:495;s:388:"</li><li> The entire point of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheLegendOfZeldaLinksAwakening' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheLegendOfZeldaLinksAwakening'>The Legend of Zelda: Link's Awakening</a></em> is to collect the eight instruments and play them <em>in front of a giant egg</em> (belonging to the Wind Fish).
+";i:496;s:1458:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/WorldOfWarcraft' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/WorldOfWarcraft'>World of Warcraft</a></em>, a Quest Chain in the Badlands results in you stealing a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlwaysChaoticEvil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlwaysChaoticEvil'>Black Dragon</a> Egg. You end up purifying it, creating the only known uncorrupted Black Dragon Egg in the entire World. Naturally, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NamesToRunAwayFromReallyFast' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NamesToRunAwayFromReallyFast'>Deathwing</a> wants it destroyed <span class="spoiler" title="you can set spoilers visible by default on your profile" >and he thinks he has succeeded when he kills Rhea. She was <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy'>Genre Savvy</a> enough to have a Fake with her instead of the real thing, ensuring her sacrifice wasn't in vain. In the final patch of the expansion, the egg hatches into <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JerkAss' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JerkAss'>Wrathion</a>, who proves that the Black Dragons are fairly nasty, corrupted or not.</span>
+";i:497;s:595:"</li><li> The plot of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SpyroYearOfTheDragon' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SpyroYearOfTheDragon'>Spyro: Year of the Dragon</a></em> revolves around the fact that the 150 dragon eggs have been stolen, and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GottaCatchEmAll' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GottaCatchEmAll'>it's up to Spyro to recover them.</a> Each of them hatches upon discovery, with many of the babies having their own unique animation.
+";i:498;s:456:"</li><li> Two of them in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Bastion' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Bastion'>Bastion</a></em>; they're minor, and don't really have much to do with the plot on their own, but they're largely unimportant aside from spawning a couple of pets at your home base (which are themselves largely cosmetic) and your companions will have remarks to make about them.
+";i:499;s:1144:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Videogame/ShiningForceIII' title='http://tvtropes.org/pmwiki/pmwiki.php/Videogame/ShiningForceIII'>Shining Force III</a></em> there is a hidden character that requires you to go through a lot of work to get, probably falls under <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GuideDamnIt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GuideDamnIt'>Guide Damn It</a> territory. You first have buy some chicken food and lure a chicken to follow you. Later in the game you have to find a couple boiling an egg, buy the egg for 1000 gold, find the chicken your lured sitting in your HQ and then place the egg under the chicken and it'll instantly hatch. The creature will run off and then right near the end of the game you'll find the character "Penn" who turns out to be a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JokeCharacter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JokeCharacter'>Joke Character</a> as he starts at level 1, unpromoted, when all your other characters are promoted at level ~15.
+";i:500;s:229:"</li><li> In the adventure game <em>AmerZone</em>, your mission is to return a giant egg to its jungle of origin, conduct a tribal rite to prepare it for hatching, and then deliver it to its warm hatchling-ground near a volcano.
+";i:501;s:285:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NetHack' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NetHack'>NetHack</a> if an egg hatches while in your inventory, the resulting monster may become your pet. Not all eggs you find hatch though.
+";i:502;s:17:"</li></ul></div>
+";i:503;s:193:"<p></p><div class="folderlabel" onclick="togglefolder('folder9');">&nbsp;&nbsp;&nbsp;&nbsp;Western Animation&nbsp;</div><div id="folder9" class="folder" isfolder="true" style="display:block;">
+";i:504;s:686:"<ul ><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/ChipNDaleRescueRangers' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/ChipNDaleRescueRangers'>Chip N Dale Rescue Rangers</a></em> episode "Three Men and a Booby", a booby bird loses an egg to an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IncrediblyLamePun' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IncrediblyLamePun'>eggcentric</a> collector. They retrieve the egg, but the booby is captured; part of the plot revolves around the guys caring for the egg (and later, the hatched booby) while Gadget builds a Trojan Easter basket...
+";i:505;s:462:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheSimpsons' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheSimpsons'>The Simpsons</a></em>: Bart Simpson has to do this, after accidentally killing the mommy bird. Except that when they hatched they turned out to be lizards. Apparently the female lizard eats the bird eggs and lays its own eggs in their place. The baby lizards then eat the bird.
+";i:506;s:365:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/RockosModernLife' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/RockosModernLife'>Rocko's Modern Life</a></em> has a relationship with a Cat and a Turtle which resulted in an egg that contained three children: One of them looking like Heifer (a Steer).
+";i:507;s:720:"</li><li> A classic cartoon example has <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaffyDuck' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaffyDuck'>Daffy Duck</a> looking after his own egg. It's a rare setting that has him married. His wife goes out and tells him rather sternly to be responsible for a change and don't let anything happen to Junior. After a while he gets bored and starts playing with the egg. He does a little stage magic and vanishes it. The third time he does that, the egg doesn't come back. Daffy gets hauled into divorce court for the egg's disappearance, and after playing the suspense for all it's worth, he manages to bring the egg back in perfect condition.
+";i:508;s:389:"</li><li> An episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWubbulousWorldOfDrSeuss' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWubbulousWorldOfDrSeuss'>The Wubbulous World Of Dr Seuss</a></em> involves a girl named Megan and her friend Horton the Elephant trying to retrieve the priceless Zubble-Wump egg which was stolen by the Grinch.
+";i:509;s:276:"</li><li> An episode of the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SuperMarioWorld' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SuperMarioWorld'>Super Mario World</a></em> episode "The Koopa Shuffle" uses this.
+";i:510;s:363:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AmericanDragonJakeLong' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AmericanDragonJakeLong'>American Dragon Jake Long</a></em>, "The Egg": Jake has to take care of a griffin egg ready to hatch &#8212; and loses it in a factory full of candied eggs.
+";i:511;s:586:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Gargoyles' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Gargoyles'>Gargoyles</a></em>, <span class="spoiler" title="you can set spoilers visible by default on your profile" >Princess Katherine and her friends</span> have to take care of <em>thirty-six</em> Gargoyle eggs because their parents are all either dead or unavailable. <span class="spoiler" title="you can set spoilers visible by default on your profile" >They do a good job in protecting them, though.</span>
+";i:512;s:677:"</li><li> A <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/FamilyGuy' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/FamilyGuy'>Family Guy</a></em> episode had Peter growing a beard, which a bird nested in. Due to the bird's endangered status, Peter has to put up with it until it leaves of its own accord (to get away from the music he was blaring to annoy it). He's elated until he discovers that it left behind three eggs, which he then has to care for until they hatch, becoming emotionally attached to them in the process. In the end, he has a hard time letting go when it's time for them to leave the nest/his beard.
+";i:513;s:672:"</li><li> One episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/EarthwormJim' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/EarthwormJim'>Earthworm Jim</a></em> has Psycrow using a magic orb which turns out, after Jim ends up sitting on it, to be an egg that promptly hatches. The entity inside the egg makes all sorts of vague promises about how it will help usher in a wonderful new age for the universe, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RunningGag' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RunningGag'>at which point a cow lands on its head for no reason</a>.
+";i:514;s:299:"</li><li> The Dofus in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Wakfu' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Wakfu'>Wakfu</a></em>. These dragon eggs are extremely valuable due to the incredible amount of Wakfu contained in them.
+";i:515;s:820:"</li><li> The Phoenix egg in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/MyLittlePonyFriendshipIsMagic' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/MyLittlePonyFriendshipIsMagic'>My Little Pony: Friendship Is Magic</a></em> episode "Dragon Quest". It plays a pivotal role in the climax of the episode <span class="spoiler" title="you can set spoilers visible by default on your profile" >when Spike decides to stand up to the teenage dragons rather than smash the helpless egg and decides that Twilight and the other ponies are his real family.</span> In the last minute of the episode <span class="spoiler" title="you can set spoilers visible by default on your profile" >it hatches. Spike adopts the phoenix chick as his pet and names it Pee Wee.</span>
+";i:516;s:589:"<ul ><li> Speaking of eggs and Spike, in "The Cutie Mark Chronicles" <span class="spoiler" title="you can set spoilers visible by default on your profile" > Twilight Sparkle's test to enter the school for gifted unicorns was to hatch a dragon egg. After her first attempt failed miserably, Rainbow Dash's Sonic Rainboom triggered her latent magic and she hatched Spike. Then her magic went out of control and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HilarityEnsued' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HilarityEnsued'>Hilarity Ensued</a>.</span>
+";i:517;s:362:"</li></ul></li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheBackyardigans' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheBackyardigans'>The Backyardigans</a></em> episode "Tale of the Mighty Knights", Tyrone and Uniqua are tasked with guarding the king's egg, which promptly rolls away.
+";i:518;s:333:"</li><li> An episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanBeyond' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanBeyond'>Batman Beyond</a></em> involves Terry keeping track of an egg-shaped simulation of a baby that he needs to take care of for a grade.
+";i:519;s:17:"</li></ul></div>
+";i:520;s:14:"<p></p><hr />
+";i:521;s:2071:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/DismantledMacGuffin">Dismantled MacGuffin</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MacGuffinSnowclones">Mac Guffin Snowclones</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/FakinMacGuffin">Fakin' MacGuffin</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/DismantledMacGuffin">Dismantled MacGuffin</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Macguffin">Mac Guffin</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/FreeSamplePlotCoupon">Free Sample Plot Coupon</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/EenieMeenieMinyMoai">Eenie Meenie Miny Moai</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/JustForPun">Just for Pun</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ElevatorActionSequence">Elevator Action Sequence</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/EatTheEvidence">Eat The Evidence</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices">Narrative Devices</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/EitherOrProphecy">Either-Or Prophecy</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:522;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:523;s:10:"<p> </p>
+";i:524;s:10:"<center>
+";i:525;s:2:"
+";i:526;s:24:"<!-- med rectangle -->
+";i:527;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:528;s:33:"<script type='text/javascript'>
+";i:529;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:530;s:11:"</script>
+";i:531;s:8:"</div>
+";i:532;s:2:"
+";i:533;s:11:"</center>
+";i:534;s:24:"</td><!-- wikibody -->
+";i:535;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:536;s:7:"</td>
+";i:537;s:7:"</tr>
+";i:538;s:10:"</table>
+";i:539;s:22:"<!--PageFooterFmt-->
+";i:540;s:119:"<div class="alt_title" style="font-size:x-small;text-align:center;" ><b>alternative title(s):</b> Egg Mc Guffin</div>
+";i:541;s:10:"<center>
+";i:542;s:44:"<table style="width:606px;margin:0 auto;">
+";i:543;s:7:"	<tr>
+";i:544;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:545;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:546;s:261:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EggMacGuffin?action=edit'> edit page</a></div></div></td>
+";i:547;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:548;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:549;s:8:"	</tr>
+";i:550;s:10:"</table>
+";i:551;s:11:"</center>
+";i:552;s:21:"<div id='wikifoot'>
+";i:553;s:27:"    <div class='footnav'>
+";i:554;s:2:"
+";i:555;s:14:"			 <center>
+";i:556;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:557;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:558;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:559;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:560;s:15:"				</center>
+";i:561;s:2:"
+";i:562;s:29:"    </div><!-- wikifoot -->
+";i:563;s:23:"<!--/PageFooterFmt-->
+";i:564;s:12:"50657<br/>
+";i:565;s:3:"3
+";i:566;s:8:"</div>
+";i:567;s:26:"</div><!-- container -->
+";i:568;s:2:"
+";i:569;s:9:"</body>
+";i:570;s:21:"<!--ScriptInsert-->
+";i:571;s:9:"</html>
+";}}

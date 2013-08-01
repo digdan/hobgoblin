@@ -1,0 +1,543 @@
+a:2:{i:0;i:1377888666;i:1;a:542:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:66:"<title>Insulted Awake - Television Tropes &amp; Idioms  </title>
+";i:5;s:132:"<meta name="Description" content="The Insulted Awake trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:10:"</style>
+";i:25;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:26;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:27;s:33:"<script type="text/javascript">
+";i:28;s:26:"  var _gaq = _gaq || [];
+";i:29;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:30;s:34:"  _gaq.push(['_trackPageview']);
+";i:31;s:2:"
+";i:32;s:17:"  (function() {
+";i:33;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:34;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:35;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:36;s:9:"  })();
+";i:37;s:2:"
+";i:38;s:32:"	function subpage(sel, title){
+";i:39;s:4:"		
+";i:40;s:40:"		var namespce = ""+getselection(sel);
+";i:41;s:34:"		if(namespce.trim()=="")return;
+";i:42;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:43;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:44;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:45;s:29:"		window.location.href=url;
+";i:46;s:4:"	}
+";i:47;s:32:"	function p5(groupname,title){
+";i:48;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:49;s:4:"	}
+";i:50;s:27:"	function togglenote(id){
+";i:51;s:23:"		var ele=object(id);
+";i:52;s:34:"		var state = ele.style.display;
+";i:53;s:49:"		if(state=='none') ele.style.display='inline';
+";i:54;s:48:"		if(state=='inline')ele.style.display='none';
+";i:55;s:4:"	}
+";i:56;s:35:"	var googletag = googletag || {};
+";i:57;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:58;s:16:"	(function() {
+";i:59;s:47:"	var gads = document.createElement('script');
+";i:60;s:21:"	gads.async = true;
+";i:61;s:33:"	gads.type = 'text/javascript';
+";i:62;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:63;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:64;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:65;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:66;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:67;s:8:"	})();
+";i:68;s:2:"
+";i:69;s:34:"	googletag.cmd.push(function() {
+";i:70;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:71;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:73;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:74;s:45:"		googletag.pubads().enableSingleRequest();
+";i:75;s:31:"		googletag.enableServices();
+";i:76;s:6:"	});
+";i:77;s:2:"
+";i:78;s:11:"</script>
+";i:79;s:2:"
+";i:80;s:9:"</head>
+";i:81;s:8:"<body>
+";i:82;s:40:"<div class="container" id="container">
+";i:83;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:84;s:6:"<tr>
+";i:85;s:46:"<td style="width:166px;vertical-align:top;">
+";i:86;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:87;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:88;s:38:"<g:plusone size="small"></g:plusone>
+";i:89;s:2:"
+";i:90;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:91;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:92;s:6:"<ul>
+";i:93;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:94;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:95;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:96;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:97;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:98;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:99;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:100;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:101;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:102;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:103;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:104;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:105;s:7:"</ul>
+";i:106;s:8:"</div>
+";i:107;s:2:"
+";i:108;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:109;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:110;s:2:"
+";i:111;s:184:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','InsultedAwake');">send request</button><hr/></div>
+";i:112;s:2:"
+";i:113;s:325:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="InsultedAwake" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:114;s:2:"
+";i:115;s:51:"<div style="font-size:small;text-align:center;" >
+";i:116;s:30:"Find recent edits by troper:
+";i:117;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:118;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:119;s:8:"</div>
+";i:120;s:7:"<hr/>
+";i:121;s:7:"<ul>	
+";i:122;s:4:"		
+";i:123;s:7:"<hr/>
+";i:124;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:125;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:126;s:62:"		<input type="hidden" name="title" value="InsultedAwake" />
+";i:127;s:54:"		This article needs some moderator assistance with:
+";i:128;s:9:"		<br/>
+";i:129;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:130;s:9:"		<br/>
+";i:131;s:4:"		
+";i:132;s:34:"		<p style="text-align:center;">
+";i:133;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:134;s:8:"		</p>
+";i:135;s:34:"		<p style="text-align:center;">
+";i:136;s:48:"			<input type="submit" value="send report" />
+";i:137;s:8:"		</p>
+";i:138;s:11:"		</form>
+";i:139;s:7:"<hr/>
+";i:140;s:6:"<ul>
+";i:141;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:142;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:143;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:144;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:145;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:146;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:147;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:148;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:149;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:150;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:151;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:152;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:153;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:154;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:155;s:142:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.InsultedAwake'>Referral Count for This Page</a></li>
+";i:156;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:157;s:117:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=InsultedAwake'>Article Relationships</a></li> -->
+";i:158;s:103:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.InsultedAwake'>Folderize</a></li>
+";i:159;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:160;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:161;s:7:"</ul>
+";i:162;s:8:"	<hr/>
+";i:163;s:6:"<ul>
+";i:164;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:165;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:166;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:167;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:168;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:169;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:170;s:7:"</ul>
+";i:171;s:7:"<hr/>
+";i:172;s:2:"
+";i:173;s:8:"</div>
+";i:174;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:175;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:176;s:8:"		<ul>
+";i:177;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:178;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:179;s:9:"		</ul>
+";i:180;s:8:"</div>
+";i:181;s:10:"<center>
+";i:182;s:34:"		<div style="margin-top:4px;">	
+";i:183;s:5:"			
+";i:184;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:185;s:33:"<script type='text/javascript'>
+";i:186;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:187;s:98:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/InsultedAwake");
+";i:188;s:11:"</script>
+";i:189;s:8:"</div>
+";i:190;s:2:"
+";i:191;s:11:"		</div>	
+";i:192;s:10:"		<div>	
+";i:193;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:194;s:6:"		 	
+";i:195;s:4:"		
+";i:196;s:4:"		
+";i:197;s:10:"		</div>
+";i:198;s:107:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/InsultedAwake">Main</a><br/>
+";i:199;s:9:"		<div>
+";i:200;s:10:"		</div>
+";i:201;s:36:"		<div style="font-size:x-small;">
+";i:202;s:11:"				<hr/>
+";i:203;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:204;s:14:"				<p> </p>
+";i:205;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:206;s:13:"				<p></p>
+";i:207;s:11:"				<ul >
+";i:208;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:209;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:210;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:211;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:212;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:213;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:214;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:215;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:216;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:217;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:219;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:220;s:11:"				</li>
+";i:221;s:11:"				</ul>
+";i:222;s:13:"				<p></p>
+";i:223;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:224;s:13:"				<p></p>
+";i:225;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:226;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:227;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:228;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:229;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:230;s:6:"				
+";i:231;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:232;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:233;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:234;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:235;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:236;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:237;s:6:"				
+";i:238;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:239;s:16:"				</li></ul>
+";i:240;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:241;s:13:"				<p></p>
+";i:242;s:11:"				<ul >
+";i:243;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:244;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:245;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:246;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:247;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:248;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:249;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:250;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:251;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:252;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:253;s:6:"				
+";i:254;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:255;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:256;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:257;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:258;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:259;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:260;s:6:"				
+";i:261;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:262;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:263;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:264;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:265;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:266;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:268;s:11:"				</li>
+";i:269;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:270;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:271;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:272;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:273;s:6:"				
+";i:274;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:275;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:276;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:278;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:279;s:16:"				</li></ul>
+";i:280;s:6:"				
+";i:281;s:13:"				<p></p>
+";i:282;s:39:"				<strong>Other Categories</strong>
+";i:283;s:13:"				<p></p>
+";i:284;s:10:"				<ul>
+";i:285;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:286;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:287;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:288;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:289;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:290;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:291;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:292;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:293;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:294;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:295;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:296;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:297;s:11:"				</ul>
+";i:298;s:11:"		</div>	
+";i:299;s:11:"</center>
+";i:300;s:2:"
+";i:301;s:30:"</div> <!-- wikileftpage -->
+";i:302;s:7:"</td>
+";i:303;s:20:"<td id='wikibody'>
+";i:304;s:2:"
+";i:305;s:21:"<!--PageTitleFmt-->
+";i:306;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:307;s:12:"    		<tr>
+";i:308;s:38:"    		<td id="wikicmds" align="top">
+";i:309;s:8:"    		
+";i:310;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:311;s:45:"    				<tr style="vertical-align:middle;">
+";i:312;s:31:"    					<td align="center" >
+";i:313;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:314;s:16:"    					</td>
+";i:315;s:15:"    				<td >
+";i:316;s:37:"    					<div style="width:400px;">
+";i:317;s:28:"                  <center>
+";i:318;s:27:"                  <table>
+";i:319;s:24:"                  <tr>
+";i:320;s:24:"                  <td>
+";i:321;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:322;s:27:"                    <div>
+";i:323;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:324;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:325;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:326;s:64:"                      <input type="text" name="q" size="31" />
+";i:327;s:28:"                    </div>
+";i:328;s:27:"                  </form>
+";i:329;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:330;s:25:"                  </td>
+";i:331;s:24:"                  <td>
+";i:332;s:46:"                  <div class="buttonframe" >
+";i:333;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:334;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:335;s:26:"                  </div>
+";i:336;s:25:"                  </div
+";i:337;s:25:"                  </td>
+";i:338;s:25:"                  </tr>
+";i:339;s:28:"                  </table>
+";i:340;s:29:"                  </center>
+";i:341;s:17:"    					</div>
+";i:342;s:15:"    				</td>
+";i:343;s:15:"    				</tr>
+";i:344;s:16:"    		</table>
+";i:345;s:8:"    		
+";i:346;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:347;s:10:"    				
+";i:348;s:27:"    				<tr valign="top">
+";i:349;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:350;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:351;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:352;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:353;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:354;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:355;s:15:"    				</tr>
+";i:356;s:10:"    				
+";i:357;s:10:"    				
+";i:358;s:8:"    		
+";i:359;s:16:"    		</table>
+";i:360;s:8:"    		
+";i:361;s:28:"    		<div id="wikilogo" >
+";i:362;s:16:"    		<center>
+";i:363;s:2:"
+";i:364;s:22:"<!-- leaderboard -->
+";i:365;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:366;s:33:"<script type='text/javascript'>
+";i:367;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:368;s:11:"</script>
+";i:369;s:8:"</div>
+";i:370;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:371;s:28:"    					<tr valign="top">
+";i:372;s:223:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'InsultedAwake');" autocomplete="off"  style="width:50px;"><option> </option><option value="Main">Main</option></select></td>
+";i:373;s:268:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/InsultedAwake?action=source" >source</a></div></div></td>
+";i:374;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:375;s:269:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.InsultedAwake">history</a></div></div></td>
+";i:376;s:271:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InsultedAwake?action=edit'> edit page</a></div></div></td>
+";i:377;s:267:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/InsultedAwake" >related</a></div></div></td>
+";i:378;s:38:"    							<td valign="middle"></td>
+";i:379;s:16:"    					</tr>
+";i:380;s:18:"    				</table>
+";i:381;s:10:"    				
+";i:382;s:35:"    				<div id="watchmsg"></div>
+";i:383;s:18:"    			</center>
+";i:384;s:13:"    		</td>
+";i:385;s:12:"     </tr>
+";i:386;s:6:"    
+";i:387;s:11:"    	<tr>
+";i:388;s:39:"    		<td id="wikititle" colspan="2">
+";i:389;s:40:"    				<div class="namespacebuttons">
+";i:390;s:717:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments"  style="border-width:2px;border-color:silver;margin-right:2px;" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.InsultedAwake" >&nbsp;Discussion </a></li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=InsultedAwake" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/InsultedAwake" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:391;s:16:"    				</div>
+";i:392;s:26:"    				<!--RepairBug-->
+";i:393;s:10:"    				
+";i:394;s:34:"    				<div class='pagetitle'> 
+";i:395;s:41:"    						  <span>Insulted Awake</span>
+";i:396;s:16:"    				</div>
+";i:397;s:11:"    				 
+";i:398;s:13:"    		</td>
+";i:399;s:12:"    	</tr>
+";i:400;s:10:"</table>
+";i:401;s:2:"
+";i:402;s:16:"<!--PageText-->
+";i:403;s:20:"<div id='wikitext'>
+";i:404;s:334:"<div class="quoteright" style="width:330px;" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/ElGoonishShive' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/ElGoonishShive'><img src='http://static.tvtropes.org/pmwiki/pub/images/egs-insult-330.gif' class='embeddedimage' border='0' alt='' /></a></div>
+";i:405;s:290:"<div class="acaptionright" style="width:330px;" >Transformed Susan is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DistractedByMyOwnSexy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DistractedByMyOwnSexy'>a little too fascinated</a> with her reflection</div>
+";i:406;s:208:"<p></p><div class='indent'><strong>Professor Dr.</strong>: <em>Breaking a hypnotic trance by sharp shock to the feminine self-esteem. Novel concept.</em> <br /><strong>Snuka</strong>: <em>But effective!</em>
+";i:407;s:436:"</div><div class='indent'><em>The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/TheBMovieComic' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/TheBMovieComic'>B-Movie Comic</a></em>, "<a class='urllink' href='http://www.bmoviecomic.com/index_0076.html'>Revenge of Rutentuten #76<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>"
+";i:408;s:450:"</div><p></p>Apparently, a strong emotional reaction is enough to break <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HypnotizeThePrincess' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HypnotizeThePrincess'>hypnotism</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Brainwashed' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Brainwashed'>brainwashing</a>, amnesia, or just plain depression.
+";i:409;s:664:"<p></p>When something (or <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Villains' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Villains'>someone</a>) has entranced one of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Heroes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Heroes'>heroes</a>, they'll often be in a hurry to get the victim moving. Fortunately, friends, teammates and co-workers often have <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VitriolicBestBuds' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VitriolicBestBuds'>a talent for making each other angry</a>.
+";i:410;s:492:"<p></p>For <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FreudWasRight' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FreudWasRight'>some reason</a>, that's especially true if they're <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OppositesAttract' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OppositesAttract'>completely different from each other</a> and have been repeatedly forced by circumstances to endure each other's company...
+";i:411;s:426:"<p></p>Warning! The victim will remember the insult, and it probably won't be erased by having saved them. Be prepared for a (potentially violent) backlash unless you explain yourself. Heck, the backlash could be immediate if this trope involves hitting a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BerserkButton' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BerserkButton'>Berserk Button</a>.
+";i:412;s:620:"<p></p>Even <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoreThanMindControl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoreThanMindControl'>More than Mind Control</a> isn't always enough to resist this. However, they can't be <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InsultedAwake' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InsultedAwake'>Insulted Awake</a> if they're really <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NotBrainwashed' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NotBrainwashed'>Not Brainwashed</a>.
+";i:413;s:7:"<hr />
+";i:414;s:10:"Examples:
+";i:415;s:122:"<p></p><div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:416;s:188:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp; Anime/Manga&nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:417;s:418:"<ul ><li> In an early arc of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RanmaOneHalf' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RanmaOneHalf'>Ranma 1/2</a></em>, Ranma manages to cure Akane of a Shampoo-induced memory loss technique that made her forget him by insulting her so much she gets mad and goes after him. In the anime, his dad even has it repeating on a large stereo.
+";i:418;s:80:"<ul ><li> Repeating? Ranma's father actually does some freestyle DJing with it.
+";i:419;s:670:"</li><li> Akane wakes Ranma up from unconsciousness after he <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TakingTheBullet' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TakingTheBullet'>takes the brunt</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMomentOfHeartwarming' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrowningMomentOfHeartwarming'>of an attack</a> that slammed him into a wall <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadeOfIron' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadeOfIron'>hard enough to shatter every bone in a normal person's body.</a>
+";i:420;s:463:"</li></ul><div class='indent'> <strong>Akane</strong>: <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DudeShesLikeInAComa' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DudeShesLikeInAComa'>Ranma?</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PleaseWakeUp' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PleaseWakeUp'>Ranma, wake up!</a> You didn't… you didn't need to save me… <em>RANMA YOU IDIOT!!</em>
+";i:421;s:34:"</div><div class='indent'> *snap*
+";i:422;s:290:"</div><div class='indent'> <strong>Ranma</strong>: <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoodThingYouCanHeal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoodThingYouCanHeal'>Who are you calling an idiot?!</a> I save you and this is the thanks I get?!
+";i:423;s:399:"</div></li><li> Kakeru from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FruitsBasket' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FruitsBasket'>Fruits Basket</a></em> wakes up the one-quarter awake Yuki by commenting that he was probably "brought up as a spoiled little rich girl." Since Yuki is also deceptively strong when he's sleeping, it backfired slightly.
+";i:424;s:457:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Medabots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Medabots'>Medabots</a></em>, Ikki uses this to kick-start Medabee near the start of the series. <span class="spoiler" title="you can set spoilers visible by default on your profile" > After Medabee is kidnapped and his medal used in a doomsday device, Ikki manages to wake him up using the same tactic.</span>
+";i:425;s:1092:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HistorysStrongestDiscipleKenichi' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HistorysStrongestDiscipleKenichi'>History's Strongest Disciple Kenichi</a></em>, Miu has been driven into a berserk rage state from thinking <span class="spoiler" title="you can set spoilers visible by default on your profile" > than Shou Kanou has killed her friends in the Shinpaku Alliance</span>. Kenichi tries to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CooldownHug' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CooldownHug'>hold her</a> and talk her down, but repeatedly gets beaten up for trying. Eventually he uses <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DirtyOldMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DirtyOldMan'>Ma Kensei's Shock Technique</a> ... which consists of grabbing her by the hooters. She <em>immediately</em> goes from silently trying to kill everyone near her to slapping Kenichi and berating him for being a pervert.
+";i:426;s:377:"</li><li> Similar: the only way to wake up <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DGrayMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DGrayMan'>Komui Lee</a> is to tell him "Lenalee (his sister) is getting married". This will either wake him in a state of profound grief that she didn't tell him, or will wake him instantly, fully alert.
+";i:427;s:750:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/LightNovel/FullMetalPanic' title='http://tvtropes.org/pmwiki/pmwiki.php/LightNovel/FullMetalPanic'>Full Metal Panic</a></em> has <span class="spoiler" title="you can set spoilers visible by default on your profile" > Sousuke</span> use this to drag <span class="spoiler" title="you can set spoilers visible by default on your profile" > Kaname</span>'s suppressed consciousness out from <span class="spoiler" title="you can set spoilers visible by default on your profile" > under the "Sophia" personality in the last light novel</span>, thereby preventing a <span class="spoiler" title="you can set spoilers visible by default on your profile" > Reality Rewrite</span>.
+";i:428;s:297:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AxisPowersHetalia' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AxisPowersHetalia'>Axis Powers Hetalia</a></em> America brings England <em>back from the dead</em> by pretending to be happy that he's dead.
+";i:429;s:716:"</li><li> The edited-for-TV dub of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/YuYuHakusho' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/YuYuHakusho'>YuYu Hakusho</a> has Yusuke claiming he got awakened in the Dark Tournament (and for reference, he'd been sleeping through the cruise to the island venue&#8212;a fight in itself&#8212;and the first three fights) by Chu's trash talking. As the unedited version reveals, it was really the booze on his breath, which was an insult in itself because it reminded him of his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LadyDrunk' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LadyDrunk'>alcoholic mother</a>.
+";i:430;s:1472:"</li><li> At one point in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnePiece' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnePiece'>One Piece</a></em>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigEater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigEater'>Luffy</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BloodKnight' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BloodKnight'>Zoro</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChivalrousPervert' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChivalrousPervert'>Sanji</a> are all put into comas when their shadows are stolen by the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a> of the arc. To wake them up all up at once, Usopp shouts that a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChivalrousPervert' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChivalrousPervert'>beautiful lady</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BloodKnight' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BloodKnight'>swordswoman</a> has boarded the ship with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigEater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigEater'>lots and lots of meat.</a>
+";i:431;s:706:"</li><li> Played with in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/FullmetalAlchemist' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/FullmetalAlchemist'>Fullmetal Alchemist</a></em>: Ed is unintentionally awakened by train hijackers referring to him as <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BerserkButton' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BerserkButton'>runt</a>. In a fit of rage, he wipes the floor with every bandit in the train car. Afterward, he has no idea what is going on, and asks who the unconscious bandit he's holding by the collar is. Turns out that he was just subconsciously reacting to the word "runt".
+";i:432;s:861:"</li><li> Subverted in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Naruto' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Naruto'>Naruto</a> when Ino, Shikamaru, and Choji are fighting <span class="spoiler" title="you can set spoilers visible by default on your profile" > a resurrected Asuma</span>. Choji is going through a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicBSOD' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicBSOD'>Heroic BSOD</a> because he doesn't want to hit <span class="spoiler" title="you can set spoilers visible by default on your profile" > Edo-Tensei!Asuma</span> until he calls him <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BerserkButton' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BerserkButton'>fat</a>. It still doesn't work.
+";i:433;s:845:"</li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Saiyuki' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Saiyuki'>Saiyuki</a> Reload</em> manga, <span class="spoiler" title="you can set spoilers visible by default on your profile" > Hazel Grosse</span> is possessed by <span class="spoiler" title="you can set spoilers visible by default on your profile" > a demon who has resided in him most of his life</span>. Hakkai, who has never gotten along with <span class="spoiler" title="you can set spoilers visible by default on your profile" >Hazel</span> very well, proceeds to repeatedly taunt him about how weak he must be to allow this to be happening, until <span class="spoiler" title="you can set spoilers visible by default on your profile" >Hazel</span> is provoked into taking back control.
+";i:434;s:17:"</li></ul></div>
+";i:435;s:188:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp; Comic Books&nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:436;s:700:"<ul ><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Tintin' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Tintin'>Tintin</a></em> story "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Recap/TintinDestinationMoon' title='http://tvtropes.org/pmwiki/pmwiki.php/Recap/TintinDestinationMoon'>Tintin Destination Moon</a>", Captain Haddock cures Professor Calculus' accidental amnesia by complaining about "acting the goat", a remark that had earlier served as a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BerserkButton' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BerserkButton'>Berserk Button</a> for Calculus.
+";i:437;s:881:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/BatmanAdventures' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/BatmanAdventures'>Batman Adventures</a></em> #3 has <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/SelfDemonstrating/TheJoker' title='http://tvtropes.org/pmwiki/pmwiki.php/SelfDemonstrating/TheJoker'>The Joker</a> given a radical form of shock treatment that renders him non-violent, good natured, and even affectionate to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Comicbook/HarleyQuinn' title='http://tvtropes.org/pmwiki/pmwiki.php/Comicbook/HarleyQuinn'>Harley Quinn</a>. She can't stand him being this way, and declares that she is leaving him for Batman. Whereupon Joker snaps back to his usual psychopathic self and declares that he'll just have to rip Batman's lungs out.
+";i:438;s:17:"</li></ul></div>
+";i:439;s:185:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp; Fan Fics&nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:440;s:423:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HarryPotterAndTheMethodsOfRationality' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HarryPotterAndTheMethodsOfRationality'>Harry Potter and the Methods of Rationality</a></em>, Hermione restores Harry to normal after a Dementor assault by kissing him. His first words upon his return to normal are (outraged): "I SAID NO KISSING!"
+";i:441;s:913:"</li><li> In the <em><a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Fanfifc/MGLNCrisis' title='http://tvtropes.org/pmwiki/pmwiki.php/Fanfifc/MGLNCrisis'>MGLN Crisis</a></em>, Signum uses this method when Fate is depressed over <span class="spoiler" title="you can set spoilers visible by default on your profile" >Arf making a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicSacrifice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicSacrifice'>Heroic Sacrifice</a> for her</span>, claiming that Fate is a pitiful <span class="spoiler" title="you can set spoilers visible by default on your profile" >master to Arf</span>. The two fight for several hours, and it ends with Signum telling Fate to "Mourn her passing, but don't betray the meaning of <span class="spoiler" title="you can set spoilers visible by default on your profile" >her sacrifice</span>."
+";i:442;s:17:"</li></ul></div>
+";i:443;s:181:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp; Film&nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:444;s:407:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MysteryMen' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MysteryMen'>Mystery Men</a></em>, Mr. Furious is depressed and doubting his powers. His teammates try to rekindle his anger by insulting him, with jibes like "Your penmanship is atrocious" and "You dress in the manner of a male prostitute." It doesn't work.
+";i:445;s:17:"</li></ul></div>
+";i:446;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp;Literature&nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:447;s:465:"<ul ><li> In one of the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetsyTheVampireQueen' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetsyTheVampireQueen'>Undead And</a></em> novels by Mary Janice Davidson, in order to get Betsy out of a near-comatose state, Eric (her fiance) shouts, "I'm terribly sorry, but I cannot go through with the wedding!" She snaps and begins to yell at him before realizing what he was trying to do.
+";i:448;s:502:"</li><li> A rather creepy scene in an <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Everworld' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Everworld'>Everworld</a></em> book involves <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheChick' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheChick'>The Chick</a> trying to do this by insulting the masculinity of a (rather macho) mind-control victim, only to be told "Don't try to provoke me."
+";i:449;s:548:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/ThePerilousGard' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/ThePerilousGard'>The Perilous Gard</a></em> <span class="spoiler" title="you can set spoilers visible by default on your profile" > the main character Kate uses this to save Christopher from becoming a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HumanSacrifice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HumanSacrifice'>Human Sacrifice</a>.</span>
+";i:450;s:17:"</li></ul></div>
+";i:451;s:191:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp; Live Action TV&nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:452;s:579:"<ul ><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekTheOriginalSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekTheOriginalSeries'>Star Trek: The Original Series</a></em> episode "This Side of Paradise", the ship's crew falls under the influence of spores from an alien plant and stop caring about their duties and responsibilities. Kirk snaps out of it and thereby discovers that strong negative emotions can counteract the spores' effect. He then insults Spock to the point where it drives Spock into a rage.
+";i:453;s:299:"</li><li> Also happened in one <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SledgeHammer' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SledgeHammer'>Sledge Hammer!</a></em> episode, when all the policemen except for the choleric boss have become totally apathetic.
+";i:454;s:256:"</li><li> On an episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JAG' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JAG'>JAG</a></em>, a Marine in a coma is awoken by an angry bedside tirade from his Drill Sergeant.
+";i:455;s:428:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NCIS' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NCIS'>NCIS</a> does this in reverse - Ziva manages to restore Gibbs' memory by grabbing his hand and inflicting his trademark <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DopeSlap' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DopeSlap'>Dope Slap</a> on herself.
+";i:456;s:463:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Firefly' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Firefly'>Firefly</a></em>, when Wash is starting to lose it under <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ColdBloodedTorture' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ColdBloodedTorture'>Cold-Blooded Torture</a>, Mal just escalates the argument they've been having all episode.
+";i:457;s:344:"</li><li> An episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FullHouse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FullHouse'>Full House</a></em> featured Joey listening to self-help tapes and being so into them that the only way to snap him out of it was to pull back his headphones and insult him.
+";i:458;s:417:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TopGear' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TopGear'>Jeremy Clarkson</a> <em>claims</em> that the first real sign of life from co-presenter Richard Hammond after his accident was when he visited him in hospital and told him that the reason he was in that state was because he was a crap driver. Apparently Hammond smiled.
+";i:459;s:17:"</li></ul></div>
+";i:460;s:188:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp; Video Games&nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:461;s:742:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SuperRobotWars' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SuperRobotWars'>Super Robot Wars</a> Original Generation 2</em>, Seolla had been brainwashed into forgetting that her close friend Arado, who recently pulled a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeelFaceTurn' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeelFaceTurn'>Heel Face Turn</a>, ever existed except as an enemy. Yet, when he made a crack about the size of her breasts (something he's been doing to her since they day they met), she immediately snapped "How many times have I told you not to make fun of my chest!" by pure reflex.
+";i:462;s:564:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GateKeepers' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GateKeepers'>Gate Keepers</a></em>: the entire crew is in a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LotusEaterMachine' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LotusEaterMachine'>Lotus Eater-type</a> situation, and Shun realizes before everyone else that he's in a dream. He snaps Ruriko out of it by calling her a "crybaby" (something he used to call her when they were kids).
+";i:463;s:462:"</li><li> In the beginning of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BaldursGate' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BaldursGate'>Baldur's Gate 2</a></em>, you can insult <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MightyGlacier' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MightyGlacier'>Minsc</a> to make him break the bars of his prison. Minsc lampshades it after it succeeds.
+";i:464;s:149:"<div class='indent'><strong>Minsc</strong>: You said what you did to get me mad! Mad enough to break free, ha ha! You are as smart as Boo sometimes!
+";i:465;s:23:"</div></li></ul></div>
+";i:466;s:189:"<p></p><div class="folderlabel" onclick="togglefolder('folder7');">&nbsp;&nbsp;&nbsp;&nbsp; Visual Novel&nbsp;</div><div id="folder7" class="folder" isfolder="true" style="display:block;">
+";i:467;s:396:"<ul ><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/FateStayNight' title='http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/FateStayNight'>Fate/stay night</a>, calling Fuji by her nickname, Tiger, will always wake her up. The students she teaches have to do this whenever she gives herself a concussion in her haste to get to her <em>own class</em> on time.
+";i:468;s:17:"</li></ul></div>
+";i:469;s:185:"<p></p><div class="folderlabel" onclick="togglefolder('folder8');">&nbsp;&nbsp;&nbsp;&nbsp;Webcomics&nbsp;</div><div id="folder8" class="folder" isfolder="true" style="display:block;">
+";i:470;s:1608:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/TheBMovieComic' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/TheBMovieComic'>The B-Movie Comic</a></em>, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ElegantGothicLolita' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ElegantGothicLolita'>Elegant Gothic Lolita</a> was hypnotized by the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Big Bad</a> using <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FunctionalMagic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FunctionalMagic'>Functional Magic</a>. When her friends rescued her, they needed to wake her up in a hurry. By <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ContrivedCoincidence' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ContrivedCoincidence'>pure coincidence</a></em>, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDitz' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDitz'>dumb jock</a> <a class='urllink' href='http://www.bmoviecomic.com/index_0076.html'>commented on her breasts<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>. It resulted in a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HyperspaceMallet' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HyperspaceMallet'>Hyperspace Mallet</a>, but at least it worked.
+";i:471;s:1175:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/AxisPowersHetalia' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/AxisPowersHetalia'>Eng</a><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoeAnthropomorphism' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoeAnthropomorphism'>land</a> is dying, with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveFreak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveFreak'>America</a> by his side tearing up and whispering his name while the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GrimReaper' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GrimReaper'>Grim Reaper</a> stands behind him. As England gives his "I never hated you" speech to America, which is cut short by his apparent death, it takes America a few seconds before patting the grim reaper on the back and saying <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoodWhiplash' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoodWhiplash'>"He's FINALLY dead!"</a> It turns out to be a way to bring him back from death's door.
+";i:472;s:1285:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiheroForHire' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiheroForHire'>Antihero for Hire</a></em>, the Action Girl was accidentally <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InsultedAwake' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InsultedAwake'>Insulted Awake</a> from a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MindProbe' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MindProbe'>Mind Probe</a> when <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheRival' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheRival'>The Rival</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiHero'>Anti-Hero</a> with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UST' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UST'>UST</a> <a class='urllink' href='http://antiheroforhire.com/d/20071019.html'>called her a nasty name<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>, resulting in <em>Simpsons</em>-esque strangling.
+";i:473;s:698:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/ElGoonishShive' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/ElGoonishShive'>El Goonish Shive</a></em>, Ellen roused <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StrawFeminist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StrawFeminist'>Susan</a> from a stupor by expressing a misogynistic sentiment, providing the image for this page. And that's after <a class='urllink' href='http://www.egscomics.com/?date=2003-07-03'>her first attempt<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> failed.
+";i:474;s:462:"</li><li> A non-verbal example, when Joe from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/ItsWalky' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/ItsWalky'>Its Walky</a></em> meets Joyce for the first time in a year she has no idea who he is thanks to a mindswipe. When she asks if she knows him he restores her memory by promptly slamming a door in her face, something he had done often in college to get her to leave.
+";i:475;s:554:"<ul ><li> Mike does this to a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BrainwashedAndCrazy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BrainwashedAndCrazy'>Brainwashed and Crazy</a> Tony. Oddly, even after saying he dug up his mother's corpse just to violate it (among other things), Tony doesn't snap out of it until <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ArsonMurderAndJaywalking' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ArsonMurderAndJaywalking'>Mike calls him a loser</a>.
+";i:476;s:568:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/Blip' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/Blip'>Blip</a></em> <a class='urllink' href='http://blipcomic.com/622/'>did it<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> with a witch and <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/HarryPotter' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/HarryPotter'>Harry Potter</a></em> reference.
+";i:477;s:1291:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/GunnerkriggCourt' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/GunnerkriggCourt'>Gunnerkrigg Court</a></em> had a moment when Zimmy stuck in her nightmares after mental contact with comatose Antimony gets a bright idea and says "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BerserkButton' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BerserkButton'>your dad's</a> a jerk!". Success! Except that Annie <em>doesn't</em> wake up fully, but turns out to be capable of <span class="spoiler" title="you can set spoilers visible by default on your profile" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MindOverMatter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MindOverMatter'>telekinetically</a> hurling poor Zimmy <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PunchedAcrossTheRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PunchedAcrossTheRoom'>across the room</a></span> even in this state. Which may be better than getting caught by creepy <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheBlank' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheBlank'>Nobodies</a> anyway.
+";i:478;s:476:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TowerOfGod' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TowerOfGod'>Tower Of God</a>, Voile saves Yihwa Yeon from a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PuppeteerParasite' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PuppeteerParasite'>Puppeteer Parasite</a> by telling her he had no interest in her body, which had previously sent her into a rage.
+";i:479;s:460:"</li><li> <a class='urllink' href='http://www.vampirecheerleaders.net/strips-vc/faqs_about_the_plaza'>Katie to Stephanie<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/ParanormalMysterySquad' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/ParanormalMysterySquad'>Paranormal Mystery Squad</a></em>.
+";i:480;s:17:"</li></ul></div>
+";i:481;s:188:"<p></p><div class="folderlabel" onclick="togglefolder('folder9');">&nbsp;&nbsp;&nbsp;&nbsp;Web Original&nbsp;</div><div id="folder9" class="folder" isfolder="true" style="display:block;">
+";i:482;s:1213:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WebVideo/AtopTheFourthWall' title='http://tvtropes.org/pmwiki/pmwiki.php/WebVideo/AtopTheFourthWall'>Atop The Fourth Wall</a></em>, Linkara found <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WebVideo/TheSpoonyExperiment' title='http://tvtropes.org/pmwiki/pmwiki.php/WebVideo/TheSpoonyExperiment'>Spoony</a> possessed by evil, so Linkara said "You're standing in my spot, Sir." from the game <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Swat4' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Swat4'>Swat 4</a></em>, a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BerserkButton' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BerserkButton'>Berserk Button</a> of Spoony's stemming from his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LetsPlay' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LetsPlay'>Let's Play</a> of it. It wasn't quite the best plan, as, while it <em>did</em> snap him out of it, Spoony then proceeded to beat the crap out of Linkara, shouting "I'm not <em>fucking in your way</em>!" before storming off.
+";i:483;s:17:"</li></ul></div>
+";i:484;s:196:"<p></p><div class="folderlabel" onclick="togglefolder('folder10');">&nbsp;&nbsp;&nbsp;&nbsp; Western Animation&nbsp;</div><div id="folder10" class="folder" isfolder="true" style="display:block;">
+";i:485;s:531:"<ul ><li> In one episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TeenTitans' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TeenTitans'>Teen Titans</a></em>, they repeatedly snapped Beast Boy out of Mad Mod's hypnotism by making him laugh. In the end, it looked like he'd finally succumbed for good &#8212; until Raven made a cleverly barbed joke about his intelligence. It was laughter that awoke him, but then he realized what she'd said and was promptly insulted.
+";i:486;s:791:"</li><li> This happens to Nigel Uno a lot in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CodenameKidsNextDoor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CodenameKidsNextDoor'>Codename: Kids Next Door</a></em>. As one example, on being stranded on Rainbow Monkey Island for a long time, he ended up <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoingNative' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoingNative'>Going Native</a>... until someone told him he had gone through all that for a keychain. He <em>immediately</em> returned to normal and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RantInducingSlight' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RantInducingSlight'>exploded</a>.
+";i:487;s:1142:"</li><li> The plot of an episode of the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAdventuresOfSuperMarioBros3' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAdventuresOfSuperMarioBros3'>The Adventures of Super Mario Bros. 3</a></em> revolved around an escalating argument between the brothers, and, to get at Mario, Luigi snapped Mario's suspenders back, pulled his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NiceHat' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NiceHat'>cap</a> down, and plucked his moustache so hard it curled upwards. Later, Mario fell under a hypnotic tech-induced Koopa Trance, leaving it up to Luigi to save him. When the inevitable <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IKnowYoureInThereSomewhereFight' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IKnowYoureInThereSomewhereFight'>"I Know You're in There Somewhere" Fight</a> between them ended up not actually breaking the trance, Luigi simply repeats what he did to Mario earlier, bringing him back by eliciting the same response as he'd gotten earlier:
+";i:488;s:81:"<div class='indent'><strong>Mario:</strong> Ooooooh! I hate it when you do that!
+";i:489;s:23:"</div></li></ul></div>
+";i:490;s:14:"<p></p><hr />
+";i:491;s:1050:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/IfYouTauntHimYouWillBeJustLikeHim">If You Taunt Him, You Will Be Just Like Him</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/InsultTropes">Insult Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/InsultBackfire">Insult Backfire</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/InstantExpert">Instant Expert</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices">Narrative Devices</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/InternalHomage">Internal Homage</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:492;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:493;s:10:"<p> </p>
+";i:494;s:10:"<center>
+";i:495;s:2:"
+";i:496;s:24:"<!-- med rectangle -->
+";i:497;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:498;s:33:"<script type='text/javascript'>
+";i:499;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:500;s:11:"</script>
+";i:501;s:8:"</div>
+";i:502;s:2:"
+";i:503;s:11:"</center>
+";i:504;s:24:"</td><!-- wikibody -->
+";i:505;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:506;s:7:"</td>
+";i:507;s:7:"</tr>
+";i:508;s:10:"</table>
+";i:509;s:22:"<!--PageFooterFmt-->
+";i:510;s:77:"<div class="alt_title" style="font-size:x-small;text-align:center;" ></div>
+";i:511;s:10:"<center>
+";i:512;s:44:"<table style="width:606px;margin:0 auto;">
+";i:513;s:7:"	<tr>
+";i:514;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:515;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:516;s:262:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InsultedAwake?action=edit'> edit page</a></div></div></td>
+";i:517;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:518;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:519;s:8:"	</tr>
+";i:520;s:10:"</table>
+";i:521;s:11:"</center>
+";i:522;s:21:"<div id='wikifoot'>
+";i:523;s:27:"    <div class='footnav'>
+";i:524;s:2:"
+";i:525;s:14:"			 <center>
+";i:526;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:527;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:528;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:529;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:530;s:15:"				</center>
+";i:531;s:2:"
+";i:532;s:29:"    </div><!-- wikifoot -->
+";i:533;s:23:"<!--/PageFooterFmt-->
+";i:534;s:12:"38528<br/>
+";i:535;s:3:"0
+";i:536;s:8:"</div>
+";i:537;s:26:"</div><!-- container -->
+";i:538;s:2:"
+";i:539;s:9:"</body>
+";i:540;s:21:"<!--ScriptInsert-->
+";i:541;s:9:"</html>
+";}}

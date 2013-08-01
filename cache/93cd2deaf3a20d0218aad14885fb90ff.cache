@@ -1,0 +1,597 @@
+a:2:{i:0;i:1377888900;i:1;a:596:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:80:"<title>Judge, Jury, and Executioner - Television Tropes &amp; Idioms  </title>
+";i:5;s:144:"<meta name="Description" content="The Judge Jury And Executioner trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:2:"
+";i:25;s:10:"</style>
+";i:26;s:2:"
+";i:27;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:28;s:33:"<script type="text/javascript">
+";i:29;s:26:"  var _gaq = _gaq || [];
+";i:30;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:31;s:34:"  _gaq.push(['_trackPageview']);
+";i:32;s:2:"
+";i:33;s:17:"  (function() {
+";i:34;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:35;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:36;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:37;s:9:"  })();
+";i:38;s:2:"
+";i:39;s:32:"	function subpage(sel, title){
+";i:40;s:4:"		
+";i:41;s:40:"		var namespce = ""+getselection(sel);
+";i:42;s:34:"		if(namespce.trim()=="")return;
+";i:43;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:44;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:45;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:46;s:29:"		window.location.href=url;
+";i:47;s:4:"	}
+";i:48;s:32:"	function p5(groupname,title){
+";i:49;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:50;s:4:"	}
+";i:51;s:27:"	function togglenote(id){
+";i:52;s:23:"		var ele=object(id);
+";i:53;s:34:"		var state = ele.style.display;
+";i:54;s:49:"		if(state=='none') ele.style.display='inline';
+";i:55;s:48:"		if(state=='inline')ele.style.display='none';
+";i:56;s:4:"	}
+";i:57;s:35:"	var googletag = googletag || {};
+";i:58;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:59;s:16:"	(function() {
+";i:60;s:47:"	var gads = document.createElement('script');
+";i:61;s:21:"	gads.async = true;
+";i:62;s:33:"	gads.type = 'text/javascript';
+";i:63;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:64;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:65;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:66;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:67;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:68;s:8:"	})();
+";i:69;s:2:"
+";i:70;s:34:"	googletag.cmd.push(function() {
+";i:71;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:73;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:74;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:75;s:45:"		googletag.pubads().enableSingleRequest();
+";i:76;s:31:"		googletag.enableServices();
+";i:77;s:6:"	});
+";i:78;s:2:"
+";i:79;s:11:"</script>
+";i:80;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:81;s:2:"
+";i:82;s:9:"</head>
+";i:83;s:8:"<body>
+";i:84;s:40:"<div class="container" id="container">
+";i:85;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:86;s:6:"<tr>
+";i:87;s:46:"<td style="width:166px;vertical-align:top;">
+";i:88;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:89;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:90;s:38:"<g:plusone size="small"></g:plusone>
+";i:91;s:2:"
+";i:92;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:93;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:94;s:6:"<ul>
+";i:95;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:96;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:97;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:98;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:99;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:100;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:101;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:102;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:103;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:104;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:105;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:106;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:107;s:7:"</ul>
+";i:108;s:8:"</div>
+";i:109;s:2:"
+";i:110;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:111;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:112;s:2:"
+";i:113;s:194:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','JudgeJuryAndExecutioner');">send request</button><hr/></div>
+";i:114;s:2:"
+";i:115;s:335:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="JudgeJuryAndExecutioner" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:116;s:2:"
+";i:117;s:51:"<div style="font-size:small;text-align:center;" >
+";i:118;s:30:"Find recent edits by troper:
+";i:119;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:120;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:121;s:8:"</div>
+";i:122;s:7:"<hr/>
+";i:123;s:7:"<ul>	
+";i:124;s:4:"		
+";i:125;s:7:"<hr/>
+";i:126;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:127;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:128;s:72:"		<input type="hidden" name="title" value="JudgeJuryAndExecutioner" />
+";i:129;s:54:"		This article needs some moderator assistance with:
+";i:130;s:9:"		<br/>
+";i:131;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:132;s:9:"		<br/>
+";i:133;s:4:"		
+";i:134;s:34:"		<p style="text-align:center;">
+";i:135;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:136;s:8:"		</p>
+";i:137;s:34:"		<p style="text-align:center;">
+";i:138;s:48:"			<input type="submit" value="send report" />
+";i:139;s:8:"		</p>
+";i:140;s:11:"		</form>
+";i:141;s:7:"<hr/>
+";i:142;s:6:"<ul>
+";i:143;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:144;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:145;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:146;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:147;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:148;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:149;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:150;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:151;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:152;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:153;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:154;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:155;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:156;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:157;s:152:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.JudgeJuryAndExecutioner'>Referral Count for This Page</a></li>
+";i:158;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:159;s:127:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=JudgeJuryAndExecutioner'>Article Relationships</a></li> -->
+";i:160;s:113:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.JudgeJuryAndExecutioner'>Folderize</a></li>
+";i:161;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:162;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:163;s:7:"</ul>
+";i:164;s:8:"	<hr/>
+";i:165;s:6:"<ul>
+";i:166;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:167;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:168;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:169;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:170;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:171;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:172;s:7:"</ul>
+";i:173;s:7:"<hr/>
+";i:174;s:2:"
+";i:175;s:8:"</div>
+";i:176;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:177;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:178;s:8:"		<ul>
+";i:179;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:180;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:181;s:9:"		</ul>
+";i:182;s:8:"</div>
+";i:183;s:10:"<center>
+";i:184;s:34:"		<div style="margin-top:4px;">	
+";i:185;s:5:"			
+";i:186;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:187;s:33:"<script type='text/javascript'>
+";i:188;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:189;s:108:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/JudgeJuryAndExecutioner");
+";i:190;s:11:"</script>
+";i:191;s:8:"</div>
+";i:192;s:2:"
+";i:193;s:11:"		</div>	
+";i:194;s:10:"		<div>	
+";i:195;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:196;s:6:"		 	
+";i:197;s:4:"		
+";i:198;s:4:"		
+";i:199;s:10:"		</div>
+";i:200;s:307:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/JudgeJuryAndExecutioner">Laconic</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/JudgeJuryAndExecutioner">Main</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Quotes/JudgeJuryAndExecutioner">Quotes</a><br/>
+";i:201;s:9:"		<div>
+";i:202;s:10:"		</div>
+";i:203;s:36:"		<div style="font-size:x-small;">
+";i:204;s:11:"				<hr/>
+";i:205;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:206;s:14:"				<p> </p>
+";i:207;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:208;s:13:"				<p></p>
+";i:209;s:11:"				<ul >
+";i:210;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:211;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:212;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:213;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:214;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:215;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:216;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:217;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:219;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:220;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:221;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:222;s:11:"				</li>
+";i:223;s:11:"				</ul>
+";i:224;s:13:"				<p></p>
+";i:225;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:226;s:13:"				<p></p>
+";i:227;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:228;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:229;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:230;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:231;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:232;s:6:"				
+";i:233;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:234;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:235;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:236;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:237;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:238;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:239;s:6:"				
+";i:240;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:241;s:16:"				</li></ul>
+";i:242;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:243;s:13:"				<p></p>
+";i:244;s:11:"				<ul >
+";i:245;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:246;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:247;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:248;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:249;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:250;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:251;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:252;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:253;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:254;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:255;s:6:"				
+";i:256;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:257;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:258;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:259;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:260;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:261;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:262;s:6:"				
+";i:263;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:264;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:265;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:266;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:268;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:269;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:270;s:11:"				</li>
+";i:271;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:272;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:273;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:274;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:275;s:6:"				
+";i:276;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:278;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:279;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:280;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:281;s:16:"				</li></ul>
+";i:282;s:6:"				
+";i:283;s:13:"				<p></p>
+";i:284;s:39:"				<strong>Other Categories</strong>
+";i:285;s:13:"				<p></p>
+";i:286;s:10:"				<ul>
+";i:287;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:288;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:289;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:290;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:291;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:292;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:293;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:294;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:295;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:296;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:297;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:298;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:299;s:11:"				</ul>
+";i:300;s:11:"		</div>	
+";i:301;s:11:"</center>
+";i:302;s:2:"
+";i:303;s:30:"</div> <!-- wikileftpage -->
+";i:304;s:7:"</td>
+";i:305;s:20:"<td id='wikibody'>
+";i:306;s:2:"
+";i:307;s:21:"<!--PageTitleFmt-->
+";i:308;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:309;s:12:"    		<tr>
+";i:310;s:38:"    		<td id="wikicmds" align="top">
+";i:311;s:8:"    		
+";i:312;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:313;s:45:"    				<tr style="vertical-align:middle;">
+";i:314;s:31:"    					<td align="center" >
+";i:315;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:316;s:16:"    					</td>
+";i:317;s:15:"    				<td >
+";i:318;s:37:"    					<div style="width:400px;">
+";i:319;s:28:"                  <center>
+";i:320;s:27:"                  <table>
+";i:321;s:24:"                  <tr>
+";i:322;s:24:"                  <td>
+";i:323;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:324;s:27:"                    <div>
+";i:325;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:326;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:327;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:328;s:64:"                      <input type="text" name="q" size="31" />
+";i:329;s:28:"                    </div>
+";i:330;s:27:"                  </form>
+";i:331;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:332;s:25:"                  </td>
+";i:333;s:24:"                  <td>
+";i:334;s:46:"                  <div class="buttonframe" >
+";i:335;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:336;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:337;s:26:"                  </div>
+";i:338;s:25:"                  </div
+";i:339;s:25:"                  </td>
+";i:340;s:25:"                  </tr>
+";i:341;s:28:"                  </table>
+";i:342;s:29:"                  </center>
+";i:343;s:17:"    					</div>
+";i:344;s:15:"    				</td>
+";i:345;s:15:"    				</tr>
+";i:346;s:16:"    		</table>
+";i:347;s:8:"    		
+";i:348;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:349;s:10:"    				
+";i:350;s:27:"    				<tr valign="top">
+";i:351;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:352;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:353;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:354;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:355;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:356;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:357;s:15:"    				</tr>
+";i:358;s:10:"    				
+";i:359;s:10:"    				
+";i:360;s:8:"    		
+";i:361;s:16:"    		</table>
+";i:362;s:8:"    		
+";i:363;s:28:"    		<div id="wikilogo" >
+";i:364;s:16:"    		<center>
+";i:365;s:2:"
+";i:366;s:22:"<!-- leaderboard -->
+";i:367;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:368;s:33:"<script type='text/javascript'>
+";i:369;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:370;s:11:"</script>
+";i:371;s:8:"</div>
+";i:372;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:373;s:28:"    					<tr valign="top">
+";i:374;s:311:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'JudgeJuryAndExecutioner');" autocomplete="off"  style="width:50px;"><option> </option><option value="Laconic">Laconic</option><option value="Main">Main</option><option value="Quotes">Quotes</option></select></td>
+";i:375;s:278:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/JudgeJuryAndExecutioner?action=source" >source</a></div></div></td>
+";i:376;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:377;s:279:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.JudgeJuryAndExecutioner">history</a></div></div></td>
+";i:378;s:281:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JudgeJuryAndExecutioner?action=edit'> edit page</a></div></div></td>
+";i:379;s:277:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/JudgeJuryAndExecutioner" >related</a></div></div></td>
+";i:380;s:38:"    							<td valign="middle"></td>
+";i:381;s:16:"    					</tr>
+";i:382;s:18:"    				</table>
+";i:383;s:10:"    				
+";i:384;s:35:"    				<div id="watchmsg"></div>
+";i:385;s:18:"    			</center>
+";i:386;s:13:"    		</td>
+";i:387;s:12:"     </tr>
+";i:388;s:6:"    
+";i:389;s:11:"    	<tr>
+";i:390;s:39:"    		<td id="wikititle" colspan="2">
+";i:391;s:40:"    				<div class="namespacebuttons">
+";i:392;s:1192:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments"  style="border-width:2px;border-color:silver;margin-right:2px;" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.JudgeJuryAndExecutioner" >&nbsp;Discussion </a></li> <li class="namespace_li Quotes" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Quotes/JudgeJuryAndExecutioner" class="textcolor">&nbsp;Quotes&nbsp;</a> </li> <li class="namespace_li Laconic" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/JudgeJuryAndExecutioner" class="textcolor">&nbsp;Laconic&nbsp;</a> </li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=JudgeJuryAndExecutioner" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/JudgeJuryAndExecutioner" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:393;s:16:"    				</div>
+";i:394;s:26:"    				<!--RepairBug-->
+";i:395;s:10:"    				
+";i:396;s:34:"    				<div class='pagetitle'> 
+";i:397;s:55:"    						  <span>Judge, Jury, and Executioner</span>
+";i:398;s:16:"    				</div>
+";i:399;s:11:"    				 
+";i:400;s:13:"    		</td>
+";i:401;s:12:"    	</tr>
+";i:402;s:10:"</table>
+";i:403;s:2:"
+";i:404;s:16:"<!--PageText-->
+";i:405;s:20:"<div id='wikitext'>
+";i:406;s:331:"<div class="quoteright" style="width:250px;" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/JudgeDredd' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/JudgeDredd'><img src='http://static.tvtropes.org/pmwiki/pub/images/judge-dredd_super.jpg' class='embeddedimage' border='0' alt='' /></a></div>
+";i:407;s:219:"<div class="acaptionright" style="width:250px;" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IAmTheTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IAmTheTrope'>I am the law.</a></div>
+";i:408;s:680:"<p></p><div class='indent'><strong>Walker:</strong> "Name's Walker, son. Know it. Fear it. <em>Obey it.</em> I am your judge, executioner, jury, executioner, jailer, and if necessary, your executioner." <br /><strong>Danny:</strong> "Uhh... <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DepartmentOfRedundancyDepartment' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DepartmentOfRedundancyDepartment'>you said executioner</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RuleOfThree' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RuleOfThree'>three times."</a> <br /><strong>Walker:</strong> "I like that part of the job."
+";i:409;s:227:"<div class='indent'>&#8212; <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DannyPhantom' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DannyPhantom'>Danny Phantom</a></em>
+";i:410;s:358:"</div></div><p></p>Proper legal procedure can be such a drag sometimes, can't it? You have to arrest the perp, go through the expense of a trial... plus it means <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AcceptableTargets' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AcceptableTargets'>you have to get lawyers involved</a>.
+";i:411;s:522:"<p></p>Perhaps this is why so many societies, particularly those with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dystopia' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dystopia'>dystopian</a> or <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEmpire' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEmpire'>evil</a> leanings, go for the alternative: empowering a group of official agents with near-limitless authority to detain, sentence and punish offenders.
+";i:412;s:619:"<p></p>Depending on the morality of their government, these organizations may be anything from noble Jedi-like protectors who pursue only serious threats to society, to the sort of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SecretPolice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SecretPolice'>Terror Squads</a> that make the Gestapo look like paragons of justice and who get called out to use <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AllCrimesAreEqual' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AllCrimesAreEqual'>deadly force on jaywalkers</a>.
+";i:413;s:442:"<p></p>When a private citizen acts as <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JudgeJuryAndExecutioner' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JudgeJuryAndExecutioner'>Judge, Jury, and Executioner</a> without official sanction, he's a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VigilanteMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VigilanteMan'>Vigilante Man</a>.
+";i:414;s:201:"<p></p>Not to be confused with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HotFuzz' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HotFuzz'>Judge Judy and Executioner</a>.
+";i:415;s:14:"<p></p><hr />
+";i:416;s:19:"<h1>Examples:</h1>
+";i:417;s:122:"<p></p><div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:418;s:191:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp;Anime and Manga&nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:419;s:462:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Zoids' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Zoids'>Zoids</a> New Century</em>, the Judge robots have complete authority over zoid battles... up to and including <em>firing a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KillSat' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KillSat'>Kill Sat</a></em> at persistent offenders. Harsh.
+";i:420;s:926:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Gundam00' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Gundam00'>Gundam 00</a> has the <span class="spoiler" title="you can set spoilers visible by default on your profile" > Trial System</span>, outfitted in the mecha used by Tieria Erde in the first and second season. It's purpose is to interfere with a supercomputer's remote assisted piloting. Basically, Tieria can <span class="spoiler" title="you can set spoilers visible by default on your profile" > turn off a Gundam's remote assistance, necessary to use it at full strength. Until the implementation of a Veda-free OS, this would shut down any Gundam that Tieria wanted... letting him kill them at his leisure. Considering that the Gundams in question belonged to his teammates, it's intentional that the pilot given that ability was an obsessively loyal artificial human.</span>
+";i:421;s:1364:"<ul ><li> On a lesser note, Gundam Exia is designed with solid-edge GN Blades, as opposed to the common Beam Saber used in most series. (Though, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpamAttack' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpamAttack'>he has</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ILikeSwords' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ILikeSwords'>those, too</a>.) GN Blades, covered in a layer of GN Particles, can cut through "GN Field" energy shields... which are supposedly only usable by Gundams. Ultimately, Exia was designed to be particularly good at destroying enemies built with stolen Celestial Being designs... or traitorous teammates. <span class="spoiler" title="you can set spoilers visible by default on your profile" > Obviously, this is very useful fighting a traitor to Celestial Being who's basically slapped enough CB tech together to make a small battleship with equivalently powerful shields and cannons. It also makes a lot more sense why Setsuna, the loose cannon of the team, would be given these weapons, when it was originally intended to use an Innovade - an obsessively loyal artificial human, like Tieria - who was too self-centered to put himself on the front lines when he could use a far more obsessively loyal stunt double.</span>
+";i:422;s:27:"</li></ul></li></ul></div>
+";i:423;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp;Comicbooks&nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:424;s:565:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JudgeDredd' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JudgeDredd'>Judge Dredd</a></em> is probably the most iconic example, exemplified by his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CatchPhrase' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CatchPhrase'>Catch Phrase</a>: <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IAmTheTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IAmTheTrope'>"I am The Law!"</a>
+";i:425;s:378:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MarshalLaw' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MarshalLaw'>Marshal Law</a></em> is similar to Dredd. In the purview of people with superpowers, he has unlimited jurisdiction and is licensed to kill in any situation he feels necessary. And he feels it's necessary <em>a lot</em>.
+";i:426;s:251:"</li><li> The Law Machines in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/BuckGodotZapGunForHire' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/BuckGodotZapGunForHire'>Buck Godot: Zap Gun for Hire</a></em>.
+";i:427;s:287:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MarvelComics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MarvelComics'>Marvel Comics</a> has The Living Tribunal, who can destroy planets or whole realities to maintain the greater Marvel multiverse.
+";i:428;s:427:"</li><li> During the course of events in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/KingdomCome' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/KingdomCome'>Kingdom Come</a></em> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Superman' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Superman'>Superman</a> is essentially trying to cure this very mentality.
+";i:429;s:83:"</li><li> <em>Brat Pack</em> features Judge Jury, who dresses like an executioner.
+";i:430;s:792:"</li><li> In the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Predator' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Predator'>Predator</a> comic books produced by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/DarkHorseComics' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/DarkHorseComics'>Dark Horse Comics</a> (specifically the comic <em>Bad Blood</em>), the Arbitrators of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProudWarriorRace' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProudWarriorRace'>Predator nation</a> are essentially the assigned Predator cops plus this. If you are a Predator and you are bad, they will come for you. And they will get to kill you. No questions.
+";i:431;s:238:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Hawkman' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Hawkman'>Hawkman</a> comics, the Wingmen often act as this. Especially the Elite Hawkman Force.
+";i:432;s:17:"</li></ul></div>
+";i:433;s:198:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp;Films &#8212; Animated&nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:434;s:461:"<ul ><li> Parodied in Disney's version of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Disney/TheHunchbackOfNotreDame' title='http://tvtropes.org/pmwiki/pmwiki.php/Disney/TheHunchbackOfNotreDame'>The Hunchback of Notre Dame</a></em>, in the character of Clopin. When Phoebus and Quasimodo find their way into the Court of Miracles, an energetic Clopin does a quick, jolly, and almost frightening song involving three changes of costume:
+";i:435;s:213:"<div class='indent'>Justice is swift in the Court of Miracles! <br />I am the lawyers and judge all in one! <br />We like to get the trial over with quickly, <br />Because it's the sentence that's really the fun!
+";i:436;s:23:"</div></li></ul></div>
+";i:437;s:201:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp;Films &#8212; Live-Action&nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:438;s:210:"<ul ><li> Tetragrammaton Clerics from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Equilibrium' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Equilibrium'>Equilibrium</a></em>.
+";i:439;s:860:"</li><li> Judge Doom in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/WhoFramedRogerRabbit' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/WhoFramedRogerRabbit'>Who Framed Roger Rabbit</a></em>: "I'll catch the rabbit, Mr. Valiant, and I'll try him, convict him, and <em>ex...ecute him</em>." Although when he does find Roger, he skips straight to the "execute" step, because he seems to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HangingJudge' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HangingJudge'>like that step</a>. Even when he delivers that speech, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KickTheDog' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KickTheDog'>he painfully murders a cute cartoon shoe</a> by lowering it into a barrel of acid-like D.I.P.
+";i:440;s:435:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheProposition' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheProposition'>The Proposition</a></em>, Cpt. Stanley appoints himself judge and jury, but not executioner, using the titular proposition as a rather creative way of fighting crime. Unfortunately, the governor thinks that <em>he</em> should be judge and jury, but not executioner.
+";i:441;s:333:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Lampshaded' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Lampshaded'>Lampshaded</a> in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/HotFuzz' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/HotFuzz'>Hot Fuzz</a></em>.
+";i:442;s:739:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/AFistfulOfDynamite' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/AFistfulOfDynamite'>A Fistful Of Dynamite</a></em>, John Mallory acts as this to <span class="spoiler" title="you can set spoilers visible by default on your profile" > Sean Nolan, his friend,</span> deciding his fate on the spot when as an informant he attempts to have him arrested by British forces. Serving him his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RewardedAsATraitorDeserves' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RewardedAsATraitorDeserves'>sentence via shotgun</a>. John later expresses guilt over having judged him so coldly.
+";i:443;s:313:"</li><li> The Operative from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Serenity' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Serenity'>Serenity</a></em>. Near as an attentive viewer can determine, Operatives are given functional carte blanche in the service of the Alliance.
+";i:444;s:17:"</li></ul></div>
+";i:445;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp;Literature&nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:446;s:216:"<ul ><li> The Gunslingers in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/TheDarkTower' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/TheDarkTower'>The Dark Tower</a></em>.
+";i:447;s:744:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VigilanteMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VigilanteMan'>Jefferson</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrusadingWidower' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrusadingWidower'>Hope</a> in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SherlockHolmes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SherlockHolmes'>A Study In Scarlet</a></em> actually describes himself using <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JudgeJuryAndExecutioner' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JudgeJuryAndExecutioner'>these words</a>.
+";i:448;s:480:"<ul ><li> "It's enough that they were responsible for the deaths of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItsPersonal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ItsPersonal'>two human beings</a>...<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BestServedCold' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BestServedCold'>I determined</a> that I should be their judge, jury, and executioner all rolled into one."
+";i:449;s:415:"</li></ul></li><li> The Lensmen (especially the Gray Lensmen) from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/EEDocSmith' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/EEDocSmith'>EE Doc Smith</a>'s <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Lensman' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Lensman'>Lensman</a></em> series.
+";i:450;s:776:"</li><li> Slyly parodied in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePhantomTollbooth' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePhantomTollbooth'>The Phantom Tollbooth</a></em>: Officer Shrift (who is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PunnyName' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PunnyName'>very short</a>) arrests Milo, then prepares to try him. When Milo protests that 'only a judge can sentence you', Shrift agrees and slips into judicial robes on the spot. As he's leading Milo away to serve his six million year sentence, Milo informs him that 'only a jailer can put you in prison'. Again, the officer agrees, pulls out a bunch of keys, and leads Milo triumphantly away.
+";i:451;s:98:"<ul ><li> Fortunately, it soon turns out he doesn't care about <em>keeping</em> people in prison.
+";i:452;s:719:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/NealStephenson' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/NealStephenson'>Neal Stephenson</a>'s postcyberpunk novel <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheDiamondAge' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheDiamondAge'>The Diamond Age</a></em> has the neo-Confucian Judge Fang, who has the powers of a judge from when China was an empire (or rather, Neal Stephenson's dubiously researched conception of such.) He himself says that he combines the roles of detective, judge, jury and executioner. The accused is not allowed to speak in his own defense.
+";i:453;s:433:"</li><li> The White Council's Wardens in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDresdenFiles' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDresdenFiles'>The Dresden Files</a></em>. If you break any of the Laws of Magic, they're basically free to kill you where you stand. Only another wizard can ask for something resembling a trial, and they put their own life on the line in doing so.
+";i:454;s:256:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Redwall' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Redwall'>Redwall</a></em>'s Warden of Marshwood Hill. "These are my marshes and I alone am the laaaaaaaaaaaaaw!"
+";i:455;s:857:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheExecutioner' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheExecutioner'>The Executioner</a></em> series of action novels by Don Pendleton. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VigilanteMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VigilanteMan'>Vigilante Man</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OneManArmy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OneManArmy'>One-Man Army</a> Mack Bolan is offered a 'license' for his Mafia-busting activities by Justice Department boss Hal Brognola. He turns it down as he "doesn't want to drag the country into hell with him". Later on however he becomes a government anti-terrorist operative under the Stony Man program.
+";i:456;s:705:"</li><li> Thomas Theisman, from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HonorHarrington' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HonorHarrington'>Honor Harrington</a></em>, took this role when showing <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StateSec' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StateSec'>State Sec</a> <span class="spoiler" title="you can set spoilers visible by default on your profile" >head Saint-Just</span> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BoomHeadshot' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BoomHeadshot'>an abbreviated legal procedure</a>.
+";i:457;s:840:"</li><li> 71-Hour Ahmed from the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Discworld' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Discworld'>Discworld</a></em> book <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/Jingo' title='http://tvtropes.org/pmwiki/pmwiki.php/Discworld/Jingo'>Jingo</a></em>. While Vimes criticizes his methods, Ahmed mentions to Vimes that their situations are different. His beat is a city that you can walk in half an hour; Ahmed's beat contains two million square miles of desert and mountain where he is alone against bandits and murderers and thus must inspire dread by striking fast once since he won't get a second chance. Vimes eventually relents that the two of them simply has different views on how justice should be served.
+";i:458;s:211:"<ul ><li> Death often refers to something in this direction ("THERE IS NO JUSTICE. THERE IS ONLY ME."), although he strictly upholds the "law" of only "taking lives" and not ending them, thus being an aversion.
+";i:459;s:557:"</li></ul></li><li> Referenced in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/AliceInWonderland' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/AliceInWonderland'>Alice in Wonderland</a></em>. Alice asks a mouse why the mouse dislikes cats, and is treated to a poem on how a bored cat acts as both prosecutor, judge and jury to a mouse it (the cat) has encountered. Presumably the cat would have been executioner too, but since Alice got distracted and stopped listening, we will never know the end of the poem.
+";i:460;s:389:"</li><li> The Alvin Fogg novels of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JTEdson' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JTEdson'>J.T. Edson</a> feature Company Z of the Texas Rangers, charged with dealing justice to those whose crimes cannot be punished by coventional law. This usually involves a summary execution by the members of Company Z.
+";i:461;s:331:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ASongOfIceAndFire' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ASongOfIceAndFire'>A Song of Ice and Fire</a>, it is the custom of Winterfell that if the Lord of Winterfell sentences a man to execution, he must do the deed with his own hands.
+";i:462;s:582:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheKingkillerChronicle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheKingkillerChronicle'>The Wise Man's Fear</a></em>, we learn about the Ciridae, a sect of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChurchMilitant' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChurchMilitant'>Church Militant</a> Amyr whose actions are "above reproach", to the point that if they walk up to someone on the street and kill them, no one would question their decision.
+";i:463;s:552:"</li><li> A dog, Fury, offers to prosecute a mouse in <a class='urllink' href='http://images3.wikia.nocookie.net/__cb20120127223849/lfn/images/2/23/AlisiaTail.png'>"The Mouse's Tale"<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a><small>&#9674;</small>, from Lewis Carroll's <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/AliceInWonderland' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/AliceInWonderland'>Alice in Wonderland</a></em>:
+";i:464;s:262:"<div class='indent'>Said the Mouse to the cur, <br />"Such a trial, dear sir, <br />With no jury or judge, would be wasting our breath." <br />"I'll be judge, I'll be jury," <br />Said cunning old Fury, <br />"I'll try the whole cause and condemn you to death."
+";i:465;s:23:"</div></li></ul></div>
+";i:466;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp;Live-Action TV&nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:467;s:556:"<ul ><li> The Judoon are mercenary versions of this in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho'>Doctor Who</a></em>. In their first appearance, they transport a hospital from London to the Moon so they can go after the alien hiding within and make no attempt to explain their actions to the humans they examine. When a terrified civilian tries hitting one of them with a vase, it has absolutely no effect, but they still vaporise him on the spot.
+";i:468;s:338:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Recap/DoctorWhoS16E3TheStonesOfBlood' title='http://tvtropes.org/pmwiki/pmwiki.php/Recap/DoctorWhoS16E3TheStonesOfBlood'>The Stones of Blood</a></em> had the Megara, Justice Machines which had found their civilization guilty of a crime and executed everyone.
+";i:469;s:257:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Recap/DoctorWhoS25E2TheHappinessPatrol' title='http://tvtropes.org/pmwiki/pmwiki.php/Recap/DoctorWhoS25E2TheHappinessPatrol'>The Happiness Patrol</a> in the serial of the same name.
+";i:470;s:363:"</li></ul></li><li> Arthur Spooner of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheKingOfQueens' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheKingOfQueens'>The King of Queens</a></em> declares in one episode he has been called upon to serve as Judge, Jury, and Executioner. Well, okay, not so much the first and last ones.
+";i:471;s:689:"</li><li> The Inquisitor in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/RedDwarf' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/RedDwarf'>Red Dwarf</a></em> is a unique version of this; a rogue android that has taken upon itself to travel through the universe judging <em>every single living thing</em> to determine whether it has led a worthwhile life. However, as it acknowledges that it wouldn't be fair if <em>it</em> judged everyone, as there would be no guarantee of a fair hearing, it assumes the personality of the person it is judging whilst they are being judged; in essence, everyone acts as their <em>own</em> judge, jury and executioner.
+";i:472;s:237:"<ul ><li> Which results in decent people with high standards for themselves such as Kryten and Lister are slated for death while completely selfish people with low standards for themselves such as The Cat and Rimmer are allowed to live.
+";i:473;s:443:"</li></ul></li><li> The Power Rangers in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/PowerRangersSPD' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/PowerRangersSPD'>Power Rangers SPD</a></em> use their Delta Morphers to judge a criminal on the spot then miniaturize them into an prison cell within an small card (implied to be filed away). Considering the sentence, Death seems like a more humane option.
+";i:474;s:605:"<ul ><li> In the original <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TokusouSentaiDekaranger' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TokusouSentaiDekaranger'>Tokusou Sentai Dekaranger</a></em>, the sentence is death, or rather "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadlyEuphemism' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadlyEuphemism'>Deletion</a>", but the trope is averted by the slimmest of technicalities. The SP License sends all available information on the case to a judge elsewhere, and returns the verdict.
+";i:475;s:697:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MiraiSentaiTimeranger' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MiraiSentaiTimeranger'>Mirai Sentai Timeranger</a></em> and <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/PowerRangersTimeForce' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/PowerRangersTimeForce'>Power Rangers Time Force</a></em> do something similar, except that instead of placing them in cards, they get "freeze-compressed" into tiny figurines. Indeed, both series were kicked off by a jailbreak from a freeze-compression prison. Thus, there's no need for judgment, as they're all escaped convicts.
+";i:476;s:411:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Lost' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Lost'>LOST</a></em>: in the episode "Stranger in a Strange Land," we meet the Others' "Sheriff," Isabel. She conducts the inquiry into Juliet's killing of Danny, and appears to be the sole authority in the matter &#8212; until Ben intervenes with a pardon.
+";i:477;s:859:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekTheNextGeneration' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekTheNextGeneration'>Star Trek: The Next Generation</a></em>: <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AGodAmI' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AGodAmI'>Q</a> in "Encounter at Farpoint", and by extension, the judges in the 21st century of the Trekverse. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SufficientlyAdvancedAlien' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SufficientlyAdvancedAlien'>He</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BookEnds' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BookEnds'>reprises</a> this role in the series finale "All Good Things...".
+";i:478;s:64:"<div class='indent'><strong>Q:</strong> The trial never ends...
+";i:479;s:590:"</div><ul ><li> In the episode "Justice", <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorsPet' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorsPet'>Wesley Crusher</a> accidentally enters a forbidden area on a peaceful planet. It turns out the punishment for all crimes is death on this world, and ignorance is no excuse. The peacekeepers are about to inject Wesley with some poison when the rest of the away team interferes. They actually chastise the away team for causing psychological harm to Wesley by letting him know he was about to be killed.
+";i:480;s:951:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheProfessionals' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheProfessionals'>The Professionals</a></em>. CI5 use just the kind of tactics condemned by numerous Royal Commissions into police conduct, but it's OK because they only use them against bad guys. They draw the line with assassination and planting evidence (except in minor cases to pressure a criminal) presumably because such tactics would make the audience a bit nervous. Their limits are probably best lampshaded in an episode where Bodie and Doyle investigate a town where the police have been using extralegal means, such as planting evidence and beating up members of a gay rights group. Bodie and Doyle eventually gain evidence of the latter, and when the main culprit decides to murder them to avoid prison, another officer steps in and stops him, as murder is going too far.
+";i:481;s:665:"</li><li> The ITV series <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheFixer' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheFixer'>The Fixer</a></em> has a ex-special forces soldier turned <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VigilanteMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VigilanteMan'>Vigilante Man</a> being released from prison on condition he serve as an assassin for an unnamed government unit tasked with killing those the law cannot reach. However the choice of target appears to be based not on any sense of morality, but on a need to keep British society stable.
+";i:482;s:844:"</li><li> Actually used as a plot point in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/XenaWarriorPrincess' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/XenaWarriorPrincess'>Xena: Warrior Princess</a>, despite feeling guilt for being responsible for <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreateYourOwnVillain' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreateYourOwnVillain'>Callisto's insanity</a> Xena allows her to die when they fall into quicksand. The follow-up episode has Ares calling her out on this with this trope specifically, Xena admits guilt allowing Ares to switch Xena and (at the time) dead Callisto's bodies. Xena is later able to wash her hands of it, accepting her fault for what she did to Callisto's village, but not for all the people Callisto harms.
+";i:483;s:17:"</li></ul></div>
+";i:484;s:181:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp;Music&nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:485;s:215:"<ul ><li> The song "Dirty Window" by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Music/Metallica' title='http://tvtropes.org/pmwiki/pmwiki.php/Music/Metallica'>Metallica</a> has the chorus line
+";i:486;s:82:"<div class='indent'> <em>I'm judge, and I'm jury, and I'm executioner too...</em>
+";i:487;s:209:"</div></li><li> "Welcome to the Family" features the line "Grandpa's the local sheriff, yeah, he's the judge and the jury too." No mention of executioner, but the next line is "Uncle Bill's the undertaker"...
+";i:488;s:288:"</li><li> "I Am the Law", by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Music/Anthrax' title='http://tvtropes.org/pmwiki/pmwiki.php/Music/Anthrax'>Anthrax</a>, is an obvious example, given that it's a tribute to Judge Dredd. The trope's name is cited in the lyrics:
+";i:489;s:180:"<div class='indent'><em>The book of law is the Bible to him <br />Any crime committed is a sin <br />He keeps the peace whith his law-giver <br />Judge, jury, and executioner</em>
+";i:490;s:23:"</div></li></ul></div>
+";i:491;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder7');">&nbsp;&nbsp;&nbsp;&nbsp;Tabletop Games&nbsp;</div><div id="folder7" class="folder" isfolder="true" style="display:block;">
+";i:492;s:233:"<ul ><li> The titular "Dogs" of the RPG <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DogsInTheVineyard' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DogsInTheVineyard'>Dogs In The Vineyard</a></em>.
+";i:493;s:479:"</li><li> Referenced on the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/MagicTheGathering' title='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/MagicTheGathering'>Magic: The Gathering</a></em> card <a class='urllink' href='http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240199'>Harvester of Souls<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>
+";i:494;s:91:"<div class='indent'><em>He is judge, jury, and executioner because he killed them all</em>
+";i:495;s:1953:"</div><p></p></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEmpire' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEmpire'>The Imperium</a> of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Warhammer40000' title='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Warhammer40000'>Warhammer 40000</a></em>, perhaps unsurprisingly, includes several <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StateSec' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StateSec'>organizations and individuals</a> with this power. The Adeptus Arbites (who <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainErsatz' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainErsatz'>rather resemble</a> the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JudgeDredd' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JudgeDredd'>Judges of Mega City</a>) who govern the populace, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommissarCap' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommissarCap'>Commissars</a> of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RedshirtArmy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RedshirtArmy'>Imperial Guard</a>, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChurchMilitant' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChurchMilitant'>Ecclesiarchy</a> (who tend to favor some of the more <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateWorseThanDeath' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateWorseThanDeath'>unusual</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolAndUnusualPunishment' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CoolAndUnusualPunishment'>punishments</a>) and, of course, the Inquisition.
+";i:496;s:591:"<ul ><li> To be more specific of the Inquisition, they have executed billions of people, be they guilty or not of whatever crime they were accused of. And they also have an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EarthShatteringKaboom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EarthShatteringKaboom'>extreme measure</a> that they will use to purge a planet of taint when it is considered "irredeemable" (and the philosophy behind it specifically states that the billions of innocent casualties that are often included is acceptable collateral damage).
+";i:497;s:27:"</li></ul></li></ul></div>
+";i:498;s:183:"<p></p><div class="folderlabel" onclick="togglefolder('folder8');">&nbsp;&nbsp;&nbsp;&nbsp;Theatre&nbsp;</div><div id="folder8" class="folder" isfolder="true" style="display:block;">
+";i:499;s:517:"<ul ><li> Ko-Ko of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMikado' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMikado'>The Mikado</a></em> is Lord High Executioner, as well as, presumably, judge and jury. Pish-Tush is... noble something-or-other. Pooh-Bah is Lord High Everything Else. Subverted, as Ko-Ko is a bit squeamish about executing people, leading him to sentence people less often (as opposed to most of the other trigger-happy juries on the rest of the page).
+";i:500;s:88:"<ul ><li> And also because Ko-Ko is himself under a sentence of death for ... flirting.
+";i:501;s:27:"</li></ul></li></ul></div>
+";i:502;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder9');">&nbsp;&nbsp;&nbsp;&nbsp;Videogames&nbsp;</div><div id="folder9" class="folder" isfolder="true" style="display:block;">
+";i:503;s:1227:"<ul ><li> The Judges in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyXII' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyXII'>Final Fantasy XII</a></em>, who are sort of like a whole squadron of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarthVaderClone' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarthVaderClone'>Darth Vaders</a>. Their official position are the vanguards of House Solidor, the Imperial family, charged with keeping order in the Archadian Empire. In practice however they're generals of the army and personal envoys of the Empire, and have the power and training to be worthy of the positions. Their status as this trope is lampshaded by Balthier, who notes "They're more like Executioners than Judges", and in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DissidiaFinalFantasy' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DissidiaFinalFantasy'>Dissidia: Final Fantasy</a></em>, Gabranth's title is "The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperMode' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperMode'>EX</a>ecutioner".
+";i:504;s:399:"<ul ><li> Also in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyTacticsAdvance' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FinalFantasyTacticsAdvance'>Final Fantasy Tactics Advance</a></em>. They're not quite as bad in this version, though. While the "laws" they enforce are ludicrously arbitrary, at least they never kill anybody. Directly.
+";i:505;s:418:"</li></ul></li><li> The Spectres of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/MassEffect' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/MassEffect'>Mass Effect</a></em>. The asari <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightErrant' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightErrant'>justicars</a> too, at least in asari space.
+";i:506;s:424:"</li><li> The Inhibitor of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BloodlineChampions' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BloodlineChampions'>Bloodline Champions</a></em>, as well as being a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChurchMilitant' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChurchMilitant'>Church Militant</a>, does this.
+";i:507;s:1292:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MegaManBattleNetwork' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MegaManBattleNetwork'>Mega Man Battle Network</a> 4</em> has Duo, a sort of super-Navi created by an ancient civilization and written onto a satellite computer to go around erasing planets as he sees fit. Too bad he happens to fly by Earth during <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSyndicate' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSyndicate'>The Syndicate</a>'s main operation: spreading <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PsychoSerum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PsychoSerum'>Psycho Serum</a> and creating a sudden influx of EVIL all over the world. Good thing we've got <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMessiah' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMessiah'>Lan and MegaMan</a> to kick his ass and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DefeatMeansFriendship' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DefeatMeansFriendship'>make him spare us</a>! Along, of course, with the <em>entire world at once</em> yelling at him to stop.
+";i:508;s:1595:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MegaManZero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MegaManZero'>Mega Man Zero</a> 3</em> gives us the Eight Gentle Judges, who rule <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEmpire' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEmpire'>Neo Arcadia</a> alongside X (both the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MegaManX' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MegaManX'>real one</a> and his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilKnockoff' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilKnockoff'>Evil Knockoff</a>). They were as much <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightTemplar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightTemplar'>Knights Templar</a> as the rest of the series' antagonists, until they were turned <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BrainwashedAndCrazy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BrainwashedAndCrazy'>Brainwashed and Crazy</a> by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Dr. Weil</a> to become his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/QuirkyMinibossSquad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/QuirkyMinibossSquad'>Quirky Miniboss Squad</a>. Glacier le Cactank, in particular, provides us with this quote:
+";i:509;s:148:"<div class='indent'> <em>Has the legendary hero stooped to thievery? How deplorable. As king of the Snow Plains, I do hereby judge your crime.</em>
+";i:510;s:205:"</div><div class='indent'>(cue <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OneWingedAngel' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OneWingedAngel'>One-Winged Angel</a>)
+";i:511;s:140:"</div><div class='indent'> <em>I, Glacier Le Cactank, of Weil's Numbers, have reached a verdict. The punishment for thievery is death!</em>
+";i:512;s:558:"</div><ul ><li> The Maverick Hunters of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MegaManX' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MegaManX'>previous series</a> were forced into this trope more often than not due to both extreme circumstances and the complete unwillingness of their targets to cooperate. Needless to say <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MartialPacifist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MartialPacifist'>X</a> was very unhappy about this fact.
+";i:513;s:253:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Pathologic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Pathologic'>Pathologic</a></em> features an Inquisitor who is the very embodiment of this trope.
+";i:514;s:274:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SamAndMax' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SamAndMax'>"When we find Santa, leave the talking to me. And the hasty trial, the harsh sentancing and the immediate execution!"</a>
+";i:515;s:511:"</li><li> The Death Squads from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LiberalCrimeSquad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LiberalCrimeSquad'>Liberal Crime Squad</a>. Only appearing when Death Penalty and Police Regulation laws are Arch-Conservative, they execute <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AllCrimesAreEqual' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AllCrimesAreEqual'>any</a> criminal they catch on the spot.
+";i:516;s:696:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/GrandTheftAutoIV' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/GrandTheftAutoIV'>Grand Theft Auto IV</a>, NOOSE officers sometime declare themselves to be "the judge and the jury, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrecisionFStrike' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrecisionFStrike'>MUTHAFUCKA</a>", although any law enforcement officer in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/GrandTheftAuto' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/GrandTheftAuto'>Grand Theft Auto</a> series qualifies.
+";i:517;s:771:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShinMegamiTenseiNocturne' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShinMegamiTenseiNocturne'>Shin Megami Tensei: Nocturne</a></em>, within the ranks of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MightMakesRight' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MightMakesRight'>Mantra Army</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KangarooCourt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KangarooCourt'>Court</a> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MomentOfAwesome' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MomentOfAwesome'>Thor</a></em> fills this role.
+";i:518;s:292:"</li><li> The Enforcers of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/AllPointsBulletin' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/AllPointsBulletin'>APB</a></em> are these in the city limits of San Paro, thanks to a law enacted by the mayor.
+";i:519;s:1404:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/DragonAge' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/DragonAge'>Dragon Age</a></em>, when it comes to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheUsualAdversaries' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheUsualAdversaries'>Darkspawn</a> and especially Blights (where Darkspawn come out in force led by an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NamesToRunAwayFromReallyFast' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NamesToRunAwayFromReallyFast'>Archdemon</a>), Gray Wardens are called to do whatever it takes to end the Darkspawn threat. Mage wardens are beyond the authority of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrystalDragonJesus' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrystalDragonJesus'>Chantry</a>, and they can even conscript kings (though warden-commanders are wise not to overstep their de-facto bounds, no matter what the law says). Darkspawn are <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MatterOfLifeAndDeath' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MatterOfLifeAndDeath'>that dire a threat</a>. Even the Dalish Elves, who normally shun the thought of bending knee to human lords, will answer the call of the Wardens.
+";i:520;s:17:"</li></ul></div>
+";i:521;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder10');">&nbsp;&nbsp;&nbsp;&nbsp;Webcomics&nbsp;</div><div id="folder10" class="folder" isfolder="true" style="display:block;">
+";i:522;s:292:"<ul ><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/SchlockMercenary' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/SchlockMercenary'>Schlock Mercenary</a></em>, the legal system of Mahuitalotu is said to involve a "Prosexecuting Attornicator".
+";i:523;s:378:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/SluggyFreelance' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/SluggyFreelance'>Sluggy Freelance</a></em> Oasis was "protector" of a small town that used to be a haven for organized crime. The locals were absolutely terrified of her as she killed every criminal she came across.
+";i:524;s:17:"</li></ul></div>
+";i:525;s:195:"<p></p><div class="folderlabel" onclick="togglefolder('folder11');">&nbsp;&nbsp;&nbsp;&nbsp;Western Animation&nbsp;</div><div id="folder11" class="folder" isfolder="true" style="display:block;">
+";i:526;s:265:"<ul ><li> Walker the ghost warden in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DannyPhantom' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DannyPhantom'>Danny Phantom</a></em> provides a quote at the top.
+";i:527;s:1011:"</li><li> <span class="spoiler" title="you can set spoilers visible by default on your profile" > Two-Face</span> becomes one of these under the guise of the Judge, in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanTheAnimatedSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanTheAnimatedSeries'>Batman The Animated Series</a></em>. He tries to execute several super-villains <span class="spoiler" title="you can set spoilers visible by default on your profile" > including himself</span>, as a result of <span class="spoiler" title="you can set spoilers visible by default on your profile" > a third personality developing because of Harvey's former sense of justice, despising that he had become Two-Face</span>. It ends with <span class="spoiler" title="you can set spoilers visible by default on your profile" > Two-Face sitting in a cell, and his third voice demanding what he pleads</span>. "Guilty. Guilty. Guilty. Guilty.. Guilty.."
+";i:528;s:501:"<ul ><li> Batman himself comes right to the edge in an early episode of the series. After chasing down a man who keeps children underground and uses them to steal things for him, he tells him that, while he'll never betray his values of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThouShaltNotKill' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThouShaltNotKill'>Thou Shalt Not Kill</a> and that he'll still turn him over to the courts for judgment, he was very tempted.
+";i:529;s:540:"</li></ul></li><li> The <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AvatarTheLastAirbender' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AvatarTheLastAirbender'>Avatar The Last Airbender</a></em> episode "Avatar Day" features a town where the justice system is called "justice" because it involves "just us," as in the same man is the prosecutor, judge, and jury. Punishment is decided by the Wheel of Punishment, however, which ranges from "boiled in oil" to "community service."
+";i:530;s:115:"<dl><dd><div class='indent'><strong>Katara:</strong> Community service! <em>Please</em> stop on community service!
+";i:531;s:484:"</div></dd></dl></li><li> In an episode of <em>Garfield and Friends</em>, Jon is stopped by a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CorruptHick' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CorruptHick'>Corrupt Hick</a> for driving faster than the posted limit of 8 mph (incidentally obscured by overgrowth.) The selfsame sheriff that arrests him proceeds to prosecute him, defend him, judge him, and act as several different members of the jury.
+";i:532;s:506:"</li><li> "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MonkeyDust' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MonkeyDust'>Monkey Dust</a>" - The Paedofinder General's entire career is spent accusing people of being pedophiles.. His evidence is always based on completely spurious coincidences or otherwise innocuous irrelevancies. He then pronounces the sentence which is always death. The fact that he is a parody of actual UK paedo witch-hunt logic is somewhat worrying.
+";i:533;s:475:"</li><li> The five-faced Quintesson Judge in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TransformersTheMovie' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TransformersTheMovie'>Transformers: The Movie</a></em>. Whether the defendant is guilty or innocent, they get thrown into the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SharkPool' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SharkPool'>Shark Pool</a>.
+";i:534;s:517:"</li><li> On <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/CaptainNTheGameMaster' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/CaptainNTheGameMaster'>Captain N The Game Master</a></em>: <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>MotherBrain</a> takes over in one episode and declares herself Judge, Jury, and Executioner of Videoland as she puts the heroes on trial.
+";i:535;s:523:"</li><li> In an episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SuperFriends' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SuperFriends'>Super Friends</a></em>, Mxyzptlk puts Superman and Batman on trial, and immediately says, "As Judge, Jury, and Executioner, I pronounce you: <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KangarooCourt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KangarooCourt'>Guilty, Guilty, GUILTY</a>!"
+";i:536;s:17:"</li></ul></div>
+";i:537;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder12');">&nbsp;&nbsp;&nbsp;&nbsp;Real Life&nbsp;</div><div id="folder12" class="folder" isfolder="true" style="display:block;">
+";i:538;s:359:"<ul ><li> Medieval knights and Feudal Samurai had pretty much absolute power over those living in their lands (technically you could complain to the person above them, but in practice even getting a word to that person could be impossible), and in case of Samurai, were legally entitled to kill anybody for pretty much any reason, such as showing disrespect.
+";i:539;s:232:"<ul ><li> The Samurai could be this <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Seppuku' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Seppuku'>to themselves</a></em> in cases of extreme dishonour.
+";i:540;s:696:"</li></ul></li><li> The <a class='urllink' href='http://en.wikipedia.org/wiki/BOPE'>Batalhão de Operações Policiais Especiais<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> (BOPE) elite police unit in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/Brazil' title='http://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/Brazil'>Rio De Janeiro</a> is known for such a reputation, according to the book (and later a film) <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheEliteSquad' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheEliteSquad'>Tropa de Elite</a></em>.
+";i:541;s:320:"</li><li> This is kind of what the Marshals did during the Old West period. Usually, they are the law enforcers of the towns, but in the lawless frontier where there is no government (and thus, no court), the marshals also assume the role of the judge. They also carried out public hangings of death-sentenced convicts.
+";i:542;s:470:"</li><li> In Qing and Republic-era China, soldiers would often be assigned to this task. "<a class='urllink' href='http://chinesemartialstudies.com/2012/11/26/693/'>Individuals who were caught stealing or causing disorder in the market place would be apprehended, bound and usually beheaded in the middle of the street after a very brief 'trial.'<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>."
+";i:543;s:17:"</li></ul></div>
+";i:544;s:14:"<p></p><hr />
+";i:545;s:524:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/JoggersFindDeath">Joggers Find Death</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice">Characters as Device</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/JumpedAtTheCall">Jumped at the Call</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:546;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:547;s:10:"<p> </p>
+";i:548;s:10:"<center>
+";i:549;s:2:"
+";i:550;s:24:"<!-- med rectangle -->
+";i:551;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:552;s:33:"<script type='text/javascript'>
+";i:553;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:554;s:11:"</script>
+";i:555;s:8:"</div>
+";i:556;s:2:"
+";i:557;s:11:"</center>
+";i:558;s:24:"</td><!-- wikibody -->
+";i:559;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:560;s:7:"</td>
+";i:561;s:7:"</tr>
+";i:562;s:10:"</table>
+";i:563;s:22:"<!--PageFooterFmt-->
+";i:564;s:77:"<div class="alt_title" style="font-size:x-small;text-align:center;" ></div>
+";i:565;s:10:"<center>
+";i:566;s:44:"<table style="width:606px;margin:0 auto;">
+";i:567;s:7:"	<tr>
+";i:568;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:569;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:570;s:272:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JudgeJuryAndExecutioner?action=edit'> edit page</a></div></div></td>
+";i:571;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:572;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:573;s:8:"	</tr>
+";i:574;s:10:"</table>
+";i:575;s:11:"</center>
+";i:576;s:21:"<div id='wikifoot'>
+";i:577;s:27:"    <div class='footnav'>
+";i:578;s:2:"
+";i:579;s:14:"			 <center>
+";i:580;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:581;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:582;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:583;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:584;s:15:"				</center>
+";i:585;s:2:"
+";i:586;s:29:"    </div><!-- wikifoot -->
+";i:587;s:23:"<!--/PageFooterFmt-->
+";i:588;s:12:"57033<br/>
+";i:589;s:3:"1
+";i:590;s:8:"</div>
+";i:591;s:26:"</div><!-- container -->
+";i:592;s:2:"
+";i:593;s:9:"</body>
+";i:594;s:21:"<!--ScriptInsert-->
+";i:595;s:9:"</html>
+";}}

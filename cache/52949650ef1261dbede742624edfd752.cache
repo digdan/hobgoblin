@@ -1,0 +1,603 @@
+a:2:{i:0;i:1377888719;i:1;a:602:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:68:"<title>Next Sunday A.D. - Television Tropes &amp; Idioms  </title>
+";i:5;s:132:"<meta name="Description" content="The Next Sunday AD trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:10:"</style>
+";i:25;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:26;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:27;s:33:"<script type="text/javascript">
+";i:28;s:26:"  var _gaq = _gaq || [];
+";i:29;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:30;s:34:"  _gaq.push(['_trackPageview']);
+";i:31;s:2:"
+";i:32;s:17:"  (function() {
+";i:33;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:34;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:35;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:36;s:9:"  })();
+";i:37;s:2:"
+";i:38;s:32:"	function subpage(sel, title){
+";i:39;s:4:"		
+";i:40;s:40:"		var namespce = ""+getselection(sel);
+";i:41;s:34:"		if(namespce.trim()=="")return;
+";i:42;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:43;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:44;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:45;s:29:"		window.location.href=url;
+";i:46;s:4:"	}
+";i:47;s:32:"	function p5(groupname,title){
+";i:48;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:49;s:4:"	}
+";i:50;s:27:"	function togglenote(id){
+";i:51;s:23:"		var ele=object(id);
+";i:52;s:34:"		var state = ele.style.display;
+";i:53;s:49:"		if(state=='none') ele.style.display='inline';
+";i:54;s:48:"		if(state=='inline')ele.style.display='none';
+";i:55;s:4:"	}
+";i:56;s:35:"	var googletag = googletag || {};
+";i:57;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:58;s:16:"	(function() {
+";i:59;s:47:"	var gads = document.createElement('script');
+";i:60;s:21:"	gads.async = true;
+";i:61;s:33:"	gads.type = 'text/javascript';
+";i:62;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:63;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:64;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:65;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:66;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:67;s:8:"	})();
+";i:68;s:2:"
+";i:69;s:34:"	googletag.cmd.push(function() {
+";i:70;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:71;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:73;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:74;s:45:"		googletag.pubads().enableSingleRequest();
+";i:75;s:31:"		googletag.enableServices();
+";i:76;s:6:"	});
+";i:77;s:2:"
+";i:78;s:11:"</script>
+";i:79;s:2:"
+";i:80;s:9:"</head>
+";i:81;s:8:"<body>
+";i:82;s:40:"<div class="container" id="container">
+";i:83;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:84;s:6:"<tr>
+";i:85;s:46:"<td style="width:166px;vertical-align:top;">
+";i:86;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:87;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:88;s:38:"<g:plusone size="small"></g:plusone>
+";i:89;s:2:"
+";i:90;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:91;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:92;s:6:"<ul>
+";i:93;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:94;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:95;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:96;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:97;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:98;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:99;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:100;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:101;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:102;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:103;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:104;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:105;s:7:"</ul>
+";i:106;s:8:"</div>
+";i:107;s:2:"
+";i:108;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:109;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:110;s:2:"
+";i:111;s:183:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','NextSundayAD');">send request</button><hr/></div>
+";i:112;s:2:"
+";i:113;s:324:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="NextSundayAD" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:114;s:2:"
+";i:115;s:51:"<div style="font-size:small;text-align:center;" >
+";i:116;s:30:"Find recent edits by troper:
+";i:117;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:118;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:119;s:8:"</div>
+";i:120;s:7:"<hr/>
+";i:121;s:7:"<ul>	
+";i:122;s:4:"		
+";i:123;s:7:"<hr/>
+";i:124;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:125;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:126;s:61:"		<input type="hidden" name="title" value="NextSundayAD" />
+";i:127;s:54:"		This article needs some moderator assistance with:
+";i:128;s:9:"		<br/>
+";i:129;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:130;s:9:"		<br/>
+";i:131;s:4:"		
+";i:132;s:34:"		<p style="text-align:center;">
+";i:133;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:134;s:8:"		</p>
+";i:135;s:34:"		<p style="text-align:center;">
+";i:136;s:48:"			<input type="submit" value="send report" />
+";i:137;s:8:"		</p>
+";i:138;s:11:"		</form>
+";i:139;s:7:"<hr/>
+";i:140;s:6:"<ul>
+";i:141;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:142;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:143;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:144;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:145;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:146;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:147;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:148;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:149;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:150;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:151;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:152;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:153;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:154;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:155;s:141:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.NextSundayAD'>Referral Count for This Page</a></li>
+";i:156;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:157;s:116:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=NextSundayAD'>Article Relationships</a></li> -->
+";i:158;s:102:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.NextSundayAD'>Folderize</a></li>
+";i:159;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:160;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:161;s:7:"</ul>
+";i:162;s:8:"	<hr/>
+";i:163;s:6:"<ul>
+";i:164;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:165;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:166;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:167;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:168;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:169;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:170;s:7:"</ul>
+";i:171;s:7:"<hr/>
+";i:172;s:2:"
+";i:173;s:8:"</div>
+";i:174;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:175;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:176;s:8:"		<ul>
+";i:177;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:178;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:179;s:9:"		</ul>
+";i:180;s:8:"</div>
+";i:181;s:10:"<center>
+";i:182;s:34:"		<div style="margin-top:4px;">	
+";i:183;s:5:"			
+";i:184;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:185;s:33:"<script type='text/javascript'>
+";i:186;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:187;s:97:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/NextSundayAD");
+";i:188;s:11:"</script>
+";i:189;s:8:"</div>
+";i:190;s:2:"
+";i:191;s:11:"		</div>	
+";i:192;s:10:"		<div>	
+";i:193;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:194;s:6:"		 	
+";i:195;s:4:"		
+";i:196;s:4:"		
+";i:197;s:10:"		</div>
+";i:198;s:191:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/NextSundayAD">Laconic</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/NextSundayAD">Main</a><br/>
+";i:199;s:9:"		<div>
+";i:200;s:10:"		</div>
+";i:201;s:36:"		<div style="font-size:x-small;">
+";i:202;s:11:"				<hr/>
+";i:203;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:204;s:14:"				<p> </p>
+";i:205;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:206;s:13:"				<p></p>
+";i:207;s:11:"				<ul >
+";i:208;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:209;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:210;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:211;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:212;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:213;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:214;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:215;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:216;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:217;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:219;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:220;s:11:"				</li>
+";i:221;s:11:"				</ul>
+";i:222;s:13:"				<p></p>
+";i:223;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:224;s:13:"				<p></p>
+";i:225;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:226;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:227;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:228;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:229;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:230;s:6:"				
+";i:231;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:232;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:233;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:234;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:235;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:236;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:237;s:6:"				
+";i:238;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:239;s:16:"				</li></ul>
+";i:240;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:241;s:13:"				<p></p>
+";i:242;s:11:"				<ul >
+";i:243;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:244;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:245;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:246;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:247;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:248;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:249;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:250;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:251;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:252;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:253;s:6:"				
+";i:254;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:255;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:256;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:257;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:258;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:259;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:260;s:6:"				
+";i:261;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:262;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:263;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:264;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:265;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:266;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:268;s:11:"				</li>
+";i:269;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:270;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:271;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:272;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:273;s:6:"				
+";i:274;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:275;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:276;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:278;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:279;s:16:"				</li></ul>
+";i:280;s:6:"				
+";i:281;s:13:"				<p></p>
+";i:282;s:39:"				<strong>Other Categories</strong>
+";i:283;s:13:"				<p></p>
+";i:284;s:10:"				<ul>
+";i:285;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:286;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:287;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:288;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:289;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:290;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:291;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:292;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:293;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:294;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:295;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:296;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:297;s:11:"				</ul>
+";i:298;s:11:"		</div>	
+";i:299;s:11:"</center>
+";i:300;s:2:"
+";i:301;s:30:"</div> <!-- wikileftpage -->
+";i:302;s:7:"</td>
+";i:303;s:20:"<td id='wikibody'>
+";i:304;s:2:"
+";i:305;s:21:"<!--PageTitleFmt-->
+";i:306;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:307;s:12:"    		<tr>
+";i:308;s:38:"    		<td id="wikicmds" align="top">
+";i:309;s:8:"    		
+";i:310;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:311;s:45:"    				<tr style="vertical-align:middle;">
+";i:312;s:31:"    					<td align="center" >
+";i:313;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:314;s:16:"    					</td>
+";i:315;s:15:"    				<td >
+";i:316;s:37:"    					<div style="width:400px;">
+";i:317;s:28:"                  <center>
+";i:318;s:27:"                  <table>
+";i:319;s:24:"                  <tr>
+";i:320;s:24:"                  <td>
+";i:321;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:322;s:27:"                    <div>
+";i:323;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:324;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:325;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:326;s:64:"                      <input type="text" name="q" size="31" />
+";i:327;s:28:"                    </div>
+";i:328;s:27:"                  </form>
+";i:329;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:330;s:25:"                  </td>
+";i:331;s:24:"                  <td>
+";i:332;s:46:"                  <div class="buttonframe" >
+";i:333;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:334;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:335;s:26:"                  </div>
+";i:336;s:25:"                  </div
+";i:337;s:25:"                  </td>
+";i:338;s:25:"                  </tr>
+";i:339;s:28:"                  </table>
+";i:340;s:29:"                  </center>
+";i:341;s:17:"    					</div>
+";i:342;s:15:"    				</td>
+";i:343;s:15:"    				</tr>
+";i:344;s:16:"    		</table>
+";i:345;s:8:"    		
+";i:346;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:347;s:10:"    				
+";i:348;s:27:"    				<tr valign="top">
+";i:349;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:350;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:351;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:352;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:353;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:354;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:355;s:15:"    				</tr>
+";i:356;s:10:"    				
+";i:357;s:10:"    				
+";i:358;s:8:"    		
+";i:359;s:16:"    		</table>
+";i:360;s:8:"    		
+";i:361;s:28:"    		<div id="wikilogo" >
+";i:362;s:16:"    		<center>
+";i:363;s:2:"
+";i:364;s:22:"<!-- leaderboard -->
+";i:365;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:366;s:33:"<script type='text/javascript'>
+";i:367;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:368;s:11:"</script>
+";i:369;s:8:"</div>
+";i:370;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:371;s:28:"    					<tr valign="top">
+";i:372;s:262:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'NextSundayAD');" autocomplete="off"  style="width:50px;"><option> </option><option value="Laconic">Laconic</option><option value="Main">Main</option></select></td>
+";i:373;s:267:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/NextSundayAD?action=source" >source</a></div></div></td>
+";i:374;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:375;s:268:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.NextSundayAD">history</a></div></div></td>
+";i:376;s:270:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NextSundayAD?action=edit'> edit page</a></div></div></td>
+";i:377;s:266:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/NextSundayAD" >related</a></div></div></td>
+";i:378;s:38:"    							<td valign="middle"></td>
+";i:379;s:16:"    					</tr>
+";i:380;s:18:"    				</table>
+";i:381;s:10:"    				
+";i:382;s:35:"    				<div id="watchmsg"></div>
+";i:383;s:18:"    			</center>
+";i:384;s:13:"    		</td>
+";i:385;s:12:"     </tr>
+";i:386;s:6:"    
+";i:387;s:11:"    	<tr>
+";i:388;s:39:"    		<td id="wikititle" colspan="2">
+";i:389;s:40:"    				<div class="namespacebuttons">
+";i:390;s:927:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments"  style="border-width:2px;border-color:silver;margin-right:2px;" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.NextSundayAD" >&nbsp;Discussion </a></li> <li class="namespace_li Laconic" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/NextSundayAD" class="textcolor">&nbsp;Laconic&nbsp;</a> </li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=NextSundayAD" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/NextSundayAD" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:391;s:16:"    				</div>
+";i:392;s:26:"    				<!--RepairBug-->
+";i:393;s:10:"    				
+";i:394;s:34:"    				<div class='pagetitle'> 
+";i:395;s:43:"    						  <span>Next Sunday A.D.</span>
+";i:396;s:16:"    				</div>
+";i:397;s:11:"    				 
+";i:398;s:13:"    		</td>
+";i:399;s:12:"    	</tr>
+";i:400;s:10:"</table>
+";i:401;s:2:"
+";i:402;s:16:"<!--PageText-->
+";i:403;s:20:"<div id='wikitext'>
+";i:404;s:361:"<div class='indent'> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/JamesCameron' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/JamesCameron'>His</a> strategy was a ballsy sleight of hand, setting the film in a 1995 that looked exactly like 1991, which is to say, the most accurate rendering of the future in cinematic history.
+";i:405;s:671:"<div class='indent'>&#8212; <strong><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Website/Cracked' title='http://tvtropes.org/pmwiki/pmwiki.php/Website/Cracked'>Cracked</a></strong>, <a class='urllink' href='http://www.cracked.com/article_18455_5-movies-that-were-one-flaw-away-from-being-classics.html'>5 Movies That Were One Flaw Away From Being Classics<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>, on <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Terminator' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Terminator'>Terminator</a> 2</em>
+";i:406;s:64:"</div></div><p></p>Welcome To The World Of Tomorrow! Literally.
+";i:407;s:747:"<p></p>Next Sunday A.D. is almost exactly the same as <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePresentDay' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePresentDay'>The Present Day</a>. Same politics, same technology, same brands, same popular culture...the only difference is that when you glance at the calendar, it shows a date about a year or two after the series was released. Writers often set a series in Next Sunday A.D. to avoid people <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlausibleDeniability' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlausibleDeniability'>wondering why they didn't hear about the deranged serial killer or alien invasion on the news.</a>
+";i:408;s:650:"<p></p>The trope name comes from the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/MysteryScienceTheater3000' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/MysteryScienceTheater3000'>Mystery Science Theater 3000</a></em> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OpeningTheme' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OpeningTheme'>Opening Theme</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThisIndexIsNotAnExample' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThisIndexIsNotAnExample'>though that series is not an example of this trope</a>.
+";i:409;s:677:"<p></p>Compare <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TwentyMinutesIntoTheFuture' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TwentyMinutesIntoTheFuture'>Twenty Minutes into the Future</a>, wherein the difference in time frame is a bit more apparent. (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging'>Yes</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NonIndicativeName' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NonIndicativeName'>that should be the other way around</a>. No, it won't be fixed.)
+";i:410;s:7:"<hr />
+";i:411;s:19:"<h2>Examples:</h2>
+";i:412;s:122:"<p></p><div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:413;s:193:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp; Anime and Manga &nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:414;s:747:"<p></p><ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/DeathNote' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/DeathNote'>Death Note</a></em>: The manga was first released in 2003 and the first few chapters were set in 2004, reaching 2010 by the end. The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>anime</a> was released in 2006, but when L is spying on Light, the timestamp says 2007. The dub started broadcasting on <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/AdultSwim' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/AdultSwim'>[adult swim]</a> that year, losing the effect.
+";i:415;s:249:"<ul ><li> The Death Note creators' new series <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Bakuman' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Bakuman'>Bakuman&#12290;</a></em> is actually set in the year 2016.
+";i:416;s:465:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/X1999' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/X1999'>X1999</a></em> is set in...<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainObvious' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainObvious'>the year shown</a>, while its serialization began in 1991. In this case, it ran until 2003 when CLAMP halted its publication.
+";i:417;s:547:"</li><li> The <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/LightNovel/HaruhiSuzumiya' title='http://tvtropes.org/pmwiki/pmwiki.php/LightNovel/HaruhiSuzumiya'>Haruhi Suzumiya</a></em> anime was released in 2006. The light novel series it was based on started in 2003. The <span class="spoiler" title="you can set spoilers visible by default on your profile" >psychic timequake</span> that everyone is investigating occurred in 2007, and the main series takes place in 2010, though this isn't revealed until some time later.
+";i:418;s:104:"<ul ><li> Now that it's past 2010 and only a year has passed in the novels, it's become Last Sunday AD.
+";i:419;s:402:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DigimonAdventure02' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DigimonAdventure02'>Digimon Adventure 02</a></em> aired in 2000, but was set in 2002. Justified in that it was a "next generation" sequel and enough years had to pass in-universe to allow the cast of the first series to grow a few years.
+";i:420;s:414:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ParadiseKiss' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ParadiseKiss'>Paradise Kiss</a></em>. It ran from 2000 to 2004, but since main character Yukari is stated as being born during the Heisei era (that is, 1989 or later) the events have to take place in 2007 or later for the dates and ages of the characters to add up.
+";i:421;s:287:"</li><li> About the only way you'd know <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PleaseTeacher' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PleaseTeacher'>Please Teacher!</a></em> takes place in the future is a couple of lines early in the series.
+";i:422;s:409:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/Noir' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/Noir'>Noir</a></em>, which was released in 2001 and apparently takes place in 2010, falls into this category. Newspaper articles reference the 2000 American presidential election, and technology (cell phones, the Internet, etc) looks exactly the same as it did then.
+";i:423;s:215:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MADLAX' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MADLAX'>MADLAX</a></em>, released in 2004 the story takes place in 2010.
+";i:424;s:240:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ElCazadorDeLaBruja' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ElCazadorDeLaBruja'>El Cazador de la Bruja</a></em> released in 2007 and set in 2009.
+";i:425;s:234:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EdenOfTheEast' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EdenOfTheEast'>Eden of the East</a></em> aired in 2009, but is set in 2010 and 2011.
+";i:426;s:211:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SummerWars' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SummerWars'>Summer Wars</a></em>, released in 2009, set in 2010.
+";i:427;s:580:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Aphorism' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Aphorism'>Aphorism</a></em> is a strange one. It's set almost thirty years into the future, not that anyone would be able to tell since everything looks the same as present day. (The fashion trends <em>are</em> a little skewed, but most people would put that down to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AuthorAppeal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AuthorAppeal'>Author Appeal</a>. )
+";i:428;s:851:"</li><li> An interesting case is <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/YuGiOh' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/YuGiOh'>Yu-Gi-Oh!</a></em>, which retroactively became this over the course of the series. The manga began in 1996, but the year the series is set in was never actually stated. However, it is eventually said that the game Duel Monsters was created seven years before the start of the series. In the next arc, Kaiba states that the game was created in the mid-1990s. Assuming the card game was created in 1997 (which was the same year as the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Defictionalization' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Defictionalization'>Defictionalized</a> version was introduced) then the series is mainly set in 2004.
+";i:429;s:87:"<ul ><li> Which is amusing, since 2004 is when the first (Duel Monsters) series ended.
+";i:430;s:272:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/AirGear' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/AirGear'>Air Gear</a>.</em> Anime aired in 2008, a time stamp on an Air Trek ad in the first episode is marked 2010.
+";i:431;s:266:"</li><li> The <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Tokko' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Tokko'>Tokko</a></em> manga was released in 2004 and the anime first aired in 2006, while the story takes place in 2011.
+";i:432;s:416:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UchuuKyoudai' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UchuuKyoudai'>Uchuu Kyoudai</a></em> (AKA <em>Space Brothers</em>) is set in 2025, but looks pretty much identical to the present. The only things that make it look at all futuristic are a few cars with designs that don't exist yet, but still look like ordinary cars.
+";i:433;s:24:"</li></ul><p></p></div>
+";i:434;s:189:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp; Comic Books &nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:435;s:79:"<p></p><ul ><li> <em>Button Man</em> takes place "30 seconds into the future".
+";i:436;s:235:"</li><li> Steve Niles' graphic novel <em>Giant Monster</em> was released in 2008 but set in 2013. The only notable difference is that space travel is <em>slightly</em> more advanced. The politics and culture are all unchanged, though.
+";i:437;s:543:"</li><li> Brian Wood's <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/DMZ' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/DMZ'>DMZ</a></em> plays this trope to the hilt. The only hint that the setting <em>isn't</em> the present day is the little fact that...America is embroiled in a Second Civil War, and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigAppleSauce' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigAppleSauce'>New York City</a> is a bombed-out battlefield.
+";i:438;s:453:"</li><li> The framing time period in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Comicbook/MadMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Comicbook/MadMan'>Mike Allred</a> comic, <em>Red Rocket 7</em>, is said to take place "The day after tomorrow" according to narration of the very first page. Everything seems to be more or less the same as present day aside from the implication it takes place slightly in the future.
+";i:439;s:24:"</li></ul><p></p></div>
+";i:440;s:185:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp; Fan Fic &nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:441;s:709:"<p></p><ul ><li> The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FairlyOddParents' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FairlyOddParents'>Fairly OddParents</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FanFic'>Fan Fic</a> <em><a class='urllink' href='http://www.fanfiction.net/s/4324278/1/Wishes'>Wishes<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a></em> is set in 2017, but technology hasn't advanced at all in it. The only signs of it being in 2017 are what the characters say, and Dallas' high crime-rate.
+";i:442;s:975:"</li><li> Inverted in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BuzzLightyearofStarCommand' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BuzzLightyearofStarCommand'>Buzz Lightyearof Star Command</a> + <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InvaderZim' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InvaderZim'>Invader Zim</a> + <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LiloAndStitch' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LiloAndStitch'>Lilo & Stitch</a> fanfic series <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Fanfic/BothSyllables' title='http://tvtropes.org/pmwiki/pmwiki.php/Fanfic/BothSyllables'>Both Syllables</a>, which started posting in 2008 and starts off set in the year 2002 for no real reason (the author doesn't remember a reason, anyway; something to do with the original series' airdates). It has yet to reach the current date.
+";i:443;s:564:"</li><li> Just about every <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/DeathNote' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/DeathNote'>Death Note</a></em> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FanFic'>Fan Fic</a> set after the epilogue. For example: <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/KiraIsJustice' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/KiraIsJustice'>Kira Is Justice</a></em>.
+";i:444;s:363:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/TheConversionBureauNotAlone' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/TheConversionBureauNotAlone'>The Conversion Bureau Not Alone</a></em> is set in 2018 but it was released in 2012. There are almost no differences between the release date and the date in the fic.
+";i:445;s:315:"</li><li> Although it is not explicitly stated, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/MyLittleDashie' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/MyLittleDashie'>My Little Dashie</a></em>, released in 2011, takes place from 2011 to 2026, without any changes mentioned.
+";i:446;s:357:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Fanfic/TheLegendOfTotalDramaIsland' title='http://tvtropes.org/pmwiki/pmwiki.php/Fanfic/TheLegendOfTotalDramaIsland'>The Legend Of Total Drama Island</a></em> was written in 2010-1?, and the frame story is set in the year 2023 with no mention of intervening progress or events.
+";i:447;s:24:"</li></ul><p></p></div>
+";i:448;s:182:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp; Film &nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:449;s:564:"<p></p><ul ><li> The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatIf' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatIf'>What If?</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Mockumentary' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Mockumentary'>Mockumentary</a> <em><a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathOfAPresident' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathOfAPresident'>Death Of A President</a></em> aired in 2006, but was set in 2007.
+";i:450;s:344:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/BackToTheFuture' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/BackToTheFuture'>Back to the Future</a></em> was released on July 3, 1985, but used October 25 &amp; 26, 1985 as the present date. So it was set a little less than four months in the future...
+";i:451;s:373:"<ul ><li> And the sequel, made four years later, begins later in the morning of October 26th. The third film (released in 1990) ends the next day, October 27. Given the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeyWimeyBall' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeyWimeyBall'>nature of the plotlines</a>, this hardly matters...
+";i:452;s:328:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Terminator' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Terminator'>Terminator</a> 2: Judgment Day</em> was released in 1991, but set in 1995. <em>Terminator 3</em> was set in 2004, just one year after the movie's release date.
+";i:453;s:114:"</li><li> The Neo-Noir gangsta rap flick <em>Belly</em> takes place in late 1999, but the movie was made in 1998.
+";i:454;s:913:"</li><li> A newspaper headline in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SupermanReturns' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SupermanReturns'>Superman Returns</a></em> explicitly sets the movie in September 2006, a few months after it hit the box office. That it's set as occuring five years after <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SupermanII' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SupermanII'>Superman II</a></em>, which undeniably was set in 1981, can be attributed to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTime'>Comic Book Time</a> or <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BroadStrokes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BroadStrokes'>Broad Strokes</a>.
+";i:455;s:645:"</li><li> In Disney's <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TowerOfTerror' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TowerOfTerror'>Tower Of Terror</a></em> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadeForTVMovie' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadeForTVMovie'>Made-for-TV Movie</a>, the characters refer to the events from the prologue (set on October 31, 1939) as having occurred sixty years ago. This would set in the film in 1999 or later despite the fact it was released in 1997. Presumably, this was done so that the film would date less quickly.
+";i:456;s:261:"</li><li> The movie <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Knowing' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Knowing'>Knowing</a></em> was released in March 2009 but the story takes place in October of the same year.
+";i:457;s:353:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/GodzillaVsKingGhidorah' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/GodzillaVsKingGhidorah'>Godzilla Vs King Ghidorah</a></em> was released in 1991 but set in 1992. The rest of the 1990s movies followed suit, with each film being set the year after it premiered.
+";i:458;s:477:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheNet' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheNet'>The Net</a></em> was made in 1995 but was set between June 11, 1996 and June 10, 1997, and most likely was set in the first three months of 1997. The date of birth for "28-year-old" Ruth Marx was shown as June 11, 1968. Most of the film is set in California, and usually in heavy rain, which occurs mostly in the winter there.
+";i:459;s:528:"</li><li> Multiple scenes in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/District9' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/District9'>District 9</a></em> (released August 2009) are shot on camcorders and CCTV surveillance cams with timestamps in early August 2010. Of course, it's also an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateHistory' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateHistory'>Alternate History</a> going back to 1982.
+";i:460;s:284:"</li><li> After the the opening prologue scenes in the first and third <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/X-Men' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/X-Men'>X-Men</a></em> movies, the text "The not too distant future" also appears.
+";i:461;s:370:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Cloverfield' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Cloverfield'>Cloverfield</a></em> was released in January 2008 but is set in May 2008. However, no one informed the viral marketing team, whose plotline revolves around the assumption that the movie takes place in January.
+";i:462;s:1185:"</li><li> Richard Matheson's novel <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/IAmLegend' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/IAmLegend'>I Am Legend</a></em> was published in 1954 and set <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TwentyMinutesIntoTheFuture' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TwentyMinutesIntoTheFuture'>Twenty Minutes into the Future</a>, in 1976-79, but all three film versions use much smaller gaps. <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheLastManOnEarth' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheLastManOnEarth'>The Last Man On Earth</a></em> was made in 1964 and set in 1968, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheOmegaMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheOmegaMan'>The Omega Man</a></em> was made in 1971 but set in 1975-77, and <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/IAmLegend' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/IAmLegend'>I Am Legend</a></em> was made in 2007 but set in 2012 with flashbacks to 2009.
+";i:463;s:201:"</li><li> The 2009 film <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TwoThousandTwelve' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TwoThousandTwelve'>2012</a></em>.
+";i:464;s:193:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Salt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Salt'>Salt</a></em> (the 2010 movie) is set in 2011.
+";i:465;s:257:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeAfterTime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeAfterTime'>Time After Time</a></em>, released in August 1979 was set in the "present" of November 1979.
+";i:466;s:205:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IronSky' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IronSky'>Iron Sky</a></em>, released in 2012 was set in 2018.
+";i:467;s:241:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BicentennialMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BicentennialMan'>Bicentennial Man</a> begins shortly in the future, and ends 200 years later.
+";i:468;s:746:"</li><li> <a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IceStationZebra' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IceStationZebra'>Ice Station Zebra</a> could possibly be an example of this given that the plot revolves around the recovery of a very advanced sattellite. Also, there is the presence of an African American officer (played by Jim Brown) in a significantly prominent position of command, an occurence that was unusual for 1968, especially when the character's race wasn't so much as even referred to in the film. Jim Brown has stated that his character was deliberately written this way, even after he was cast. Completely ignoring racial issues is a trope traditionally associated with the future.
+";i:469;s:24:"</li></ul><p></p></div>
+";i:470;s:188:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp; Literature &nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:471;s:235:"<p></p><ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/OnTheBeach' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/OnTheBeach'>On The Beach</a></em>, published in 1957, is set in 1963.
+";i:472;s:214:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Carrie' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Carrie'>Carrie</a></em> was released in 1974, but set in the late '70s.
+";i:473;s:296:"<ul ><li> Most of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/StephenKing' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/StephenKing'>Stephen King</a>'s books time set is a few months after their publication. (e.g. a March-released book is set for that July).
+";i:474;s:303:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnderTheDome' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnderTheDome'>Under the Dome</a></em> is set at some unspecified point in the future, but technology is very nearly the same and Obama is still in office.
+";i:475;s:485:"</li></ul></li><li> The short story "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TlonUqbarOrbisTertius' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TlonUqbarOrbisTertius'>Tlön, Uqbar, Orbis Tertius</a>" by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/JorgeLuisBorges' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/JorgeLuisBorges'>Jorge Luis Borges</a> was written in 1941 but has a postscript dated 1947.
+";i:476;s:240:"</li><li> William Le Queux's novels (of the now forgotten "invasion literature" genre, which dealt with the invasion of Britain by another country): <em>The Great War in England in 1897</em> (1894) and <em>The Invasion of 1910</em> (1906).
+";i:477;s:322:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheTrueMeaningOfSmekday' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheTrueMeaningOfSmekday'>The True Meaning Of Smekday</a></em> by Adam Rex starts in the year 2011, which when the book was published was 4 years away.
+";i:478;s:327:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/NightWatch' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/NightWatch'>Night Watch</a></em> - the first three books were published in 1997/8, but in the second, Anton and Edgar meet in Prague shortly before New Year's Day 2000.
+";i:479;s:442:"</li><li> French <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SciFi' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SciFi'>Sci Fi</a> novel <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Malevil' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Malevil'>Malevil</a></em> takes place after a nuclear war on Easter Sunday, 1977, just five years after the novel was published.
+";i:480;s:469:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TimeScout' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TimeScout'>Time Scout</a></em> is implied to be set <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TwentyMinutesIntoTheFuture' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TwentyMinutesIntoTheFuture'>Twenty Minutes into the Future</a>, but it's functionally no different from 2000AD.
+";i:481;s:280:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheWarOfTheWorlds' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheWarOfTheWorlds'>The War Of The Worlds</a></em> was published in 1898, but set "early in the twentieth century."
+";i:482;s:920:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ColdComfortFarm' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ColdComfortFarm'>Cold Comfort Farm</a></em> (written 1938) is set in an indeterminate future where <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/ClarkGable' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/ClarkGable'>Clark Gable</a> is dead, there are <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoPhone' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideoPhone'>Video Phones</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FlyingCar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FlyingCar'>Flying Cars</a>, and there was a war with Nicaragua back in the 1940s. This is all background stuff that has nothing to do with what the book is actually <em>about</em>, though.
+";i:483;s:198:"</li><li> <em>Rivers of Gold</em>, written in 2010 but set in New York of 2013. Played with in that one significant event is said to have happened, a race riot even bigger than the Los Angeles one.
+";i:484;s:24:"</li></ul><p></p></div>
+";i:485;s:192:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp; Live Action TV &nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:486;s:938:"<p></p><ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho'>Doctor Who</a></em>, beginning with "Aliens of London" and ending with either 2008's "Journey's End" or 2009's "Planet of the Dead", has a "present day" of about 12 months after airdate. The fourth series (2008) has has a "present day" of 2009 <span class="tiptag" onclick="toggleinline(this);" ><u>*</u><div class="inlinefolder" style="display:none;" > The time between "The Stolen Earth"/"Journey's End" and "The Waters of Mars", considering the date given in the latter appears to confirm this</div></span>. Notably, some future episodes seem to have forgotten this, leading to a somewhat <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeyWimeyBall' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeyWimeyBall'>inconsistent timeline.</a>
+";i:487;s:345:"<ul ><li> The UNIT stories of the Third/Fourth Doctor era seem to take place at some point in the future, but how far is <a class='urllink' href='http://misc.thefullwiki.org/UNIT_dating_controversy'>a matter of some debate<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>.
+";i:488;s:300:"<ul ><li> This is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging'>lampshaded</a> by the Doctor himself in one episode, as he talks of his work with UNIT back "in the '70s...or was it '80s..."
+";i:489;s:204:"</li></ul></li><li> The Ninth Doctor episode "Dalek", and the Tenth Doctor episode "Fear Her" took place in the year 2012, in the not-so-far future from Rose's perspective (she joins the TARDIS in 2005).
+";i:490;s:527:"</li><li> The episodes <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Recap/DoctorWhoS31E08TheHungryEarth' title='http://tvtropes.org/pmwiki/pmwiki.php/Recap/DoctorWhoS31E08TheHungryEarth'>"The Hungry Earth"</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Recap/DoctorWhoS31E09ColdBlood' title='http://tvtropes.org/pmwiki/pmwiki.php/Recap/DoctorWhoS31E09ColdBlood'>"Cold Blood"</a> take place in 2020, with the only obvious change being the drilling operation that triggers the plot.
+";i:491;s:267:"</li><li> Beginning in Series 6.5, once the Ponds start spending more time off the TARDIS, the timeline started pushing ahead of "ours" again, with months on in-series time passing between the Doctor's visits to the Ponds, which happen once a week to the rest of us.
+";i:492;s:301:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheMiddleman' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheMiddleman'>The Middleman</a></em> is probably set in 2009 despite its 2008 broadcast date, though it never quite comes out and says so.
+";i:493;s:236:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheTimeTunnel' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheTimeTunnel'>The Time Tunnel</a></em> premiered in 1966. Its "present" was 1968.
+";i:494;s:396:"</li><li> Most episodes of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Millennium' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Millennium'>Millennium</a></em> <em>were</em> pretty much set the week after they aired. In the first two seasons, Frank Black's computer shows him at login how many days are remaining until the New Year's Day 2000. Do the math.
+";i:495;s:1430:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/TwentyFour' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/TwentyFour'>24</a></em> is an unintentional version. Between seasons there are sometimes <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeSkip' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeSkip'>Time Skips</a> of a year or two when a single summer has passed between one finale and the next premiere in reality, so if we assume the first season takes place in the present day, the <em>last</em> season is <em>several</em> years ahead of us. This has never been used to establish the series as taking place in a not-like-your-world setting, though it <em>can</em> explain some <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AcceptableBreaksFromReality' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AcceptableBreaksFromReality'>Acceptable Breaks from Reality</a> that have been seen - maybe in ten years or so, that <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Qurac' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Qurac'>Qurac</a> will exist or medical science will make it possible to actually take <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadeOfIron' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadeOfIron'>as much punishment as Jack takes</a> and live.
+";i:496;s:471:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChourikiSentaiOhranger' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChourikiSentaiOhranger'>Chouriki Sentai Ohranger</a></em>: Made in 1995, set in 1999 with Bachsfundo and the Baranoia Machine Empire declaring a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RobotWar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RobotWar'>Robot War</a> on the world.
+";i:497;s:297:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/RedDwarf' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/RedDwarf'>Red Dwarf</a></em>, "Backwards" was made in 1989 and mostly takes place in 1993, albeit an alternate version where time goes backwards.
+";i:498;s:778:"</li><li> Done once in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/CriminalMinds' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/CriminalMinds'>Criminal Minds</a></em>, though it was unintentional. The series tends to be done in the present, so "The Big Game" is a bit jarring. The episode was aired right after Super Bowl XLI in 2007, and the events in the episode are depicted as happening right after the game. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FridgeLogic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FridgeLogic'>Fridge Logic</a> reveals that those events had to have happened in the future, since there was no way that all those events could have happened within the running time of the show.
+";i:499;s:454:"</li><li> Season 4 of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Lexx' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Lexx'>Lexx</a></em> (aired in 2001-02) is set in "the very near future." It's basically present-day America with occasional bits of high technology and an amazing amount of moral decay. Also, the Large Hadron Collider was scheduled to turn on later that year, which happened in late 2009 in real life.
+";i:500;s:24:"</li></ul><p></p></div>
+";i:501;s:183:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp; Music &nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:502;s:678:"<p></p><ul ><li> The setting of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Queensryche' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Queensryche'>Queensrÿche</a>'s concept album <em>Operation Mindcrime</em>. Fell prey to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SocietyMarchesOn' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SocietyMarchesOn'>Society Marches On</a> as the world depicted in the album is now very obviously <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEighties' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEighties'>The Eighties</a>, when the album was made.
+";i:503;s:256:"</li><li> The music video to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritneySpears' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritneySpears'>Britney Spears</a>' "Till The World Ends" takes place on 21st December 2012.
+";i:504;s:24:"</li></ul><p></p></div>
+";i:505;s:189:"<p></p><div class="folderlabel" onclick="togglefolder('folder7');">&nbsp;&nbsp;&nbsp;&nbsp; Video Games &nbsp;</div><div id="folder7" class="folder" isfolder="true" style="display:block;">
+";i:506;s:655:"<p></p><ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/MetalGear' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/MetalGear'>Metal Gear</a></em> games have always been set a few years after their release dates, at least, the ones in which Solid Snake is the main character. As of 2011, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MetalGearSolid4' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MetalGearSolid4'>Metal Gear Solid 4</a></em> remains three years in the future. The others have all fallen out of this trope's wagon due to the inexorable march of time.
+";i:507;s:235:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Persona3' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Persona3'>Persona 3</a></em> was first released in 2006, but takes place across 2009-2010.
+";i:508;s:247:"<ul ><li> Along the same lines, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Persona4' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Persona4'>Persona 4</a></em> was released in 2008, but takes place in 2011-2012.
+";i:509;s:289:"</li><li> Most likely this is done because of the fact that December 2009 would have two full moons, one of them on the last day of the year, and that 2011 was the only year until 2016 that would allow the cast of 4 to visit Port Island without running into any members of SEES at school.
+";i:510;s:287:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Persona4Arena' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Persona4Arena'>Persona 4 Arena</a></em> managed to catch up at least, having come out at almost the exact date that the game takes place.
+";i:511;s:272:"</li></ul></li><li> Every game in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplinterCell' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplinterCell'>Splinter Cell</a></em> series is set two years after its respective release date.
+";i:512;s:249:"</li><li> The first <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ResidentEvil' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ResidentEvil'>Resident Evil</a></em> game was released in 1996, but set in 1998.
+";i:513;s:653:"<ul ><li> And then averted with <em>2</em>, <em>Nemesis</em>, <em>Code Veronica</em>, and the two <em>Outbreak</em> games, which all take place in that same year. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/POVSequel' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/POVSequel'>Within the same</a> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/POVSequel' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/POVSequel'>week</a></em> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/POVSequel' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/POVSequel'>for all but CV</a>, even.
+";i:514;s:343:"</li></ul></li><li> <em>The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HouseOfTheDead' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HouseOfTheDead'>House of the Dead</a></em> was released in 1996, and set on December 16, 1998. <em>The House of the Dead 2</em> was released in 1998 and set on February 26, 2000.
+";i:515;s:142:"<ul ><li> House of the Dead 3 and 4 abandoned this with 3 being set in an apocalyptic future and 4 being set in the past three years after 2.
+";i:516;s:232:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IndigoProphecy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IndigoProphecy'>Fahrenheit</a></em>, released in 2005, was set in 2009.
+";i:517;s:975:"</li><li> The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AceAttorney' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AceAttorney'>Ace Attorney</a> Series takes place mainly from 2016-2019 in Phoenix's games and 2026 in Apollo's game. The date is never <em>explicitly</em> stated, but the climactic case of the first game is set fifteen years to the day after a specific incident which is said to have occured in 2001, the year in which the game was published. Nothing has really changed from the present day other than <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KangarooCourt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KangarooCourt'>a ridiculously unbalanced court system</a> and that <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TechnologyMarchesOn' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TechnologyMarchesOn'>cell phone technology has regressed to late 1990's level.</a>
+";i:518;s:400:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Half-Life1' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Half-Life1'>Half-Life</a></em>, released in late 1998, takes place on May 16, 200<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ExtyYearsFromNow' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ExtyYearsFromNow'>X</a>.
+";i:519;s:270:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Left4Dead' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Left4Dead'>Left 4 Dead</a></em> is set several months in the future, as shown through death notices in the church.
+";i:520;s:261:"<ul ><li> Valve used to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ExtyYearsFromNow' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ExtyYearsFromNow'>sneak in updates to the dates on those notices via patches every few months</a>.
+";i:521;s:233:"</li></ul></li><li> The 2005 game <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Battlefield' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Battlefield'>Battlefield 2</a></em> is set in 2007.
+";i:522;s:773:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CallOfDuty' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CallOfDuty'>Call of Duty</a> 4: <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ModernWarfare' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ModernWarfare'>Modern Warfare</a></em> (2007), if Captain Price is to be taken literally about his comments of his wet work mission taking place ten years after the Chernobyl accident, that would place the flashback mission in 1996, putting the date of the rest of the game in 2011. The sequels, <em>Modern Warfare 2</em> and <em>Modern Warfare 3</em> (2009 and 2011, respectively) are both set in 2016, with the last mission in the third going on to 2017.
+";i:523;s:290:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeavyRain' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeavyRain'>Heavy Rain</a></em> was released in early 2010. The first Origami murder occurred in fall of 2009. The game takes place in late 2011.
+";i:524;s:403:"<ul ><li> Borders on <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TwentyMinutesIntoTheFuture' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TwentyMinutesIntoTheFuture'>twenty minutes</a> with FBI profiler Norman Jayden's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CyberSpace' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CyberSpace'>ARI</a>.
+";i:525;s:79:"</li></ul></li><li> <em>Alcatraz</em> for Amiga, created in 1992, set in 1996.
+";i:526;s:641:"</li><li> The "present day" setting of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/AssassinsCreed' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/AssassinsCreed'>Assassin's Creed</a></em> is late 2012, a full five years after the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/AssassinsCreedI' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/AssassinsCreedI'>first game</a> was released. This one was kind of necessary from the start, mind, as they seem to be aiming for the '2012 End of the Mayan Calendar' thing for something monumental to happen at that time.
+";i:527;s:121:"<ul ><li> Assassin's Creed III will take place about the same time it's released, October 30, give maybe a month or two.
+";i:528;s:1040:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AceCombat' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AceCombat'>Ace Combat</a></em> games tend to be set a few years after their release (with the difference in time becoming larger with each release - compare one year for 1997's <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AceCombat2' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AceCombat2'>Ace Combat 2</a></em> to eight for 2007's <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AceCombat6FiresOfLiberation' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AceCombat6FiresOfLiberation'>Ace Combat 6: Fires of Liberation</a></em>, though with most of the series taking place in an alternate Earth named "Strangereal" it's probably a moot point). One goof in the case of the fifth game is that, despite taking place in late 2010, the quarters flipped on two occasions during the game are dated 2004 (AC5's year of release).
+";i:529;s:163:"<ul ><li> Not really a goof, seeing as coins tend to stay in circulation for several years, sometimes turning up in cash registers decades after they were minted.
+";i:530;s:622:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/X-COM' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/X-COM'>UFO: Enemy Unknown</a> was released in 1993, and started in 1999. Pretty much all commercially available technology and base structures are realistic. You can research weapon-grade lasers and automatic medipaks very fast, but then again, you control a UN-funded military organisation in the state of war. The only break in reality are anti-grav elevators, but those were probably used because normal elevators would have had too many issues with the engine.
+";i:531;s:648:"</li><li> All mentions to the year <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/BatmanArkhamAsylum' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/BatmanArkhamAsylum'>Batman Arkham Asylum</a></em> and <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Videogame/BatmanArkhamCity' title='http://tvtropes.org/pmwiki/pmwiki.php/Videogame/BatmanArkhamCity'>Batman Arkham City</a></em> occur are shadowed, or mentioned as "Today". Made more jarring that you can visit graveyards and other places where there should be at least the last year's number, but they're all covered in mud or broken.
+";i:532;s:117:"</li><li> <em>Hong Kong 97</em> for the Super Famicom, made in 1995, set in... well you can probably guess that one.
+";i:533;s:182:"<ul ><li> Part of the plot states that China is turning the deceased "Tong Shau Ping" (Deng Xiaoping) into the ultimate weapon, the weird part being that Deng actually died in 1997.
+";i:534;s:34:"</li></ul></li></ul><p></p></div>
+";i:535;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder8');">&nbsp;&nbsp;&nbsp;&nbsp; Web Comic &nbsp;</div><div id="folder8" class="folder" isfolder="true" style="display:block;">
+";i:536;s:802:"<p></p><ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadMachinery' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadMachinery'>Bad Machinery</a> is explicitly set "three years after the end of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ScaryGoRound' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ScaryGoRound'>Scary Go Round</a> YES THE FUTURE", but the cartoonist <a class='urllink' href='http://sgrblog.blogspot.com/2009/09/news-from-nemulon.html'>admits<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> that he "doesn't know what the future will be like, so he draws it exactly like the present day." In webcomic time, the first story is set in autumn 2012.
+";i:537;s:24:"</li></ul><p></p></div>
+";i:538;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder9');">&nbsp;&nbsp;&nbsp;&nbsp; Web Original &nbsp;</div><div id="folder9" class="folder" isfolder="true" style="display:block;">
+";i:539;s:586:"<p></p><ul ><li> They <em>tried</em> to do this in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhateleyUniverse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhateleyUniverse'>Whateley Universe</a>. The first term of school is set in fall 2006, while the first stories came out in 2003 or 2004. But they've written so many stories with so many characters that they're <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WebComicTime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WebComicTime'>still</a></em> in winter 2006!
+";i:540;s:109:"<ul ><li> Now they've just barely gotten to 2007, with some 2006 winter break stories still in the pipeline.
+";i:541;s:299:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChaosFighters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChaosFighters'>Chaos Fighters</a> II: Historical Chronicles-Beyond The Earth</em> is a National Novel Writing Month 2011 entry set in 2012.
+";i:542;s:681:"</li><li> Discounting flashbacks <span class="notelabel" onclick="togglenote('note0i5w2');"><sup>note&nbsp;</sup></span><span id="note0i5w2" class="inlinefolder" isnote="true" onclick="togglenote('note0i5w2');" style="cursor:pointer;font-size:smaller;display:none;">which still qualify for this trope&#8212;the earliest is in 2015</span> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/FunnyBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/FunnyBusiness'>Funny Business</a></em> takes place in the year 2026, however the only difference from modern technology is that quantum computers are apparently in some measure of public use.
+";i:543;s:24:"</li></ul><p></p></div>
+";i:544;s:197:"<p></p><div class="folderlabel" onclick="togglefolder('folder10');">&nbsp;&nbsp;&nbsp;&nbsp; Western Animation &nbsp;</div><div id="folder10" class="folder" isfolder="true" style="display:block;">
+";i:545;s:271:"<p></p><ul ><li> One episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RenAndStimpy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RenAndStimpy'>Ren and Stimpy</a></em> was set in a futuristic <strong>House of Next Tuesday</strong>
+";i:546;s:581:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Sealab2021' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Sealab2021'>Sealab 2021</a></em> is set <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ExactlyWhatItSaysOnTheTin' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ExactlyWhatItSaysOnTheTin'>exactly one year after</a> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Sealab2020' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/Sealab2020'>Sealab 2020</a></em>.
+";i:547;s:1136:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WordOfGod' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WordOfGod'>Word Of God</a> sets <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/YoungJustice' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/YoungJustice'>Young Justice</a></em> in "present day"; however, the show began airing in January 2011 and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TitleIn' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TitleIn'>Title In</a> sets it in July presumably of the same year. Although the date stamps are reckoned using a 2010 calendar, and delays have pushed it back so that the season finale, taking place on December 30th 2010, aired in April 2012. The second season introduced a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeSkip' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TimeSkip'>Time Skip</a>, with the remainder of the show set in 2016. Despite this, the fashion and technology doesn't really change much between the two seasons.
+";i:548;s:359:"</li><li> According to Amanda Waller, the entire Cadmus story arc of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JusticeLeagueUnlimited' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JusticeLeagueUnlimited'>Justice League Unlimited</a> took place in 2009, a couple of years after that season aired and three years ago right now.
+";i:549;s:24:"</li></ul><p></p></div>
+";i:550;s:7:"<hr />
+";i:551;s:2071:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/NeoAfrica">Neo Africa</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CyberpunkTropes">Cyberpunk Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/NGOSuperpower">N.G.O. Superpower</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePresentDay">The Present Day</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/HollywoodHistory">Hollywood History</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TwentyMinutesIntoTheFuture">Twenty Minutes into the Future</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheNapoleon">The Napoleon</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ThisIndexIsNotAnExample">This Index Is Not An Example</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/NiceJobBreakingItHero">Nice Job Breaking It, Hero</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/TheTroubles">The Troubles</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings">Settings</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TwentyMinutesIntoThePast">Twenty Minutes into the Past</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:552;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:553;s:10:"<p> </p>
+";i:554;s:10:"<center>
+";i:555;s:2:"
+";i:556;s:24:"<!-- med rectangle -->
+";i:557;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:558;s:33:"<script type='text/javascript'>
+";i:559;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:560;s:11:"</script>
+";i:561;s:8:"</div>
+";i:562;s:2:"
+";i:563;s:11:"</center>
+";i:564;s:24:"</td><!-- wikibody -->
+";i:565;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:566;s:7:"</td>
+";i:567;s:7:"</tr>
+";i:568;s:10:"</table>
+";i:569;s:22:"<!--PageFooterFmt-->
+";i:570;s:77:"<div class="alt_title" style="font-size:x-small;text-align:center;" ></div>
+";i:571;s:10:"<center>
+";i:572;s:44:"<table style="width:606px;margin:0 auto;">
+";i:573;s:7:"	<tr>
+";i:574;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:575;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:576;s:261:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NextSundayAD?action=edit'> edit page</a></div></div></td>
+";i:577;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:578;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:579;s:8:"	</tr>
+";i:580;s:10:"</table>
+";i:581;s:11:"</center>
+";i:582;s:21:"<div id='wikifoot'>
+";i:583;s:27:"    <div class='footnav'>
+";i:584;s:2:"
+";i:585;s:14:"			 <center>
+";i:586;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:587;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:588;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:589;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:590;s:15:"				</center>
+";i:591;s:2:"
+";i:592;s:29:"    </div><!-- wikifoot -->
+";i:593;s:23:"<!--/PageFooterFmt-->
+";i:594;s:12:"54108<br/>
+";i:595;s:3:"1
+";i:596;s:8:"</div>
+";i:597;s:26:"</div><!-- container -->
+";i:598;s:2:"
+";i:599;s:9:"</body>
+";i:600;s:21:"<!--ScriptInsert-->
+";i:601;s:9:"</html>
+";}}

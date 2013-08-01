@@ -1,0 +1,619 @@
+a:2:{i:0;i:1377888935;i:1;a:618:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:73:"<title>First-Person Smartass - Television Tropes &amp; Idioms  </title>
+";i:5;s:139:"<meta name="Description" content="The First Person Smartass trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:10:"</style>
+";i:25;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:26;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:27;s:33:"<script type="text/javascript">
+";i:28;s:26:"  var _gaq = _gaq || [];
+";i:29;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:30;s:34:"  _gaq.push(['_trackPageview']);
+";i:31;s:2:"
+";i:32;s:17:"  (function() {
+";i:33;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:34;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:35;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:36;s:9:"  })();
+";i:37;s:2:"
+";i:38;s:32:"	function subpage(sel, title){
+";i:39;s:4:"		
+";i:40;s:40:"		var namespce = ""+getselection(sel);
+";i:41;s:34:"		if(namespce.trim()=="")return;
+";i:42;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:43;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:44;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:45;s:29:"		window.location.href=url;
+";i:46;s:4:"	}
+";i:47;s:32:"	function p5(groupname,title){
+";i:48;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:49;s:4:"	}
+";i:50;s:27:"	function togglenote(id){
+";i:51;s:23:"		var ele=object(id);
+";i:52;s:34:"		var state = ele.style.display;
+";i:53;s:49:"		if(state=='none') ele.style.display='inline';
+";i:54;s:48:"		if(state=='inline')ele.style.display='none';
+";i:55;s:4:"	}
+";i:56;s:35:"	var googletag = googletag || {};
+";i:57;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:58;s:16:"	(function() {
+";i:59;s:47:"	var gads = document.createElement('script');
+";i:60;s:21:"	gads.async = true;
+";i:61;s:33:"	gads.type = 'text/javascript';
+";i:62;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:63;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:64;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:65;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:66;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:67;s:8:"	})();
+";i:68;s:2:"
+";i:69;s:34:"	googletag.cmd.push(function() {
+";i:70;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:71;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:73;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:74;s:45:"		googletag.pubads().enableSingleRequest();
+";i:75;s:31:"		googletag.enableServices();
+";i:76;s:6:"	});
+";i:77;s:2:"
+";i:78;s:11:"</script>
+";i:79;s:2:"
+";i:80;s:9:"</head>
+";i:81;s:8:"<body>
+";i:82;s:40:"<div class="container" id="container">
+";i:83;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:84;s:6:"<tr>
+";i:85;s:46:"<td style="width:166px;vertical-align:top;">
+";i:86;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:87;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:88;s:38:"<g:plusone size="small"></g:plusone>
+";i:89;s:2:"
+";i:90;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:91;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:92;s:6:"<ul>
+";i:93;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:94;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:95;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:96;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:97;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:98;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:99;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:100;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:101;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:102;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:103;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:104;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:105;s:7:"</ul>
+";i:106;s:8:"</div>
+";i:107;s:2:"
+";i:108;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:109;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:110;s:2:"
+";i:111;s:190:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','FirstPersonSmartass');">send request</button><hr/></div>
+";i:112;s:2:"
+";i:113;s:331:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="FirstPersonSmartass" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:114;s:2:"
+";i:115;s:51:"<div style="font-size:small;text-align:center;" >
+";i:116;s:30:"Find recent edits by troper:
+";i:117;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:118;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:119;s:8:"</div>
+";i:120;s:7:"<hr/>
+";i:121;s:7:"<ul>	
+";i:122;s:4:"		
+";i:123;s:7:"<hr/>
+";i:124;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:125;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:126;s:68:"		<input type="hidden" name="title" value="FirstPersonSmartass" />
+";i:127;s:54:"		This article needs some moderator assistance with:
+";i:128;s:9:"		<br/>
+";i:129;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:130;s:9:"		<br/>
+";i:131;s:4:"		
+";i:132;s:34:"		<p style="text-align:center;">
+";i:133;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:134;s:8:"		</p>
+";i:135;s:34:"		<p style="text-align:center;">
+";i:136;s:48:"			<input type="submit" value="send report" />
+";i:137;s:8:"		</p>
+";i:138;s:11:"		</form>
+";i:139;s:7:"<hr/>
+";i:140;s:6:"<ul>
+";i:141;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:142;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:143;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:144;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:145;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:146;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:147;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:148;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:149;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:150;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:151;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:152;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:153;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:154;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:155;s:148:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.FirstPersonSmartass'>Referral Count for This Page</a></li>
+";i:156;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:157;s:123:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=FirstPersonSmartass'>Article Relationships</a></li> -->
+";i:158;s:109:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.FirstPersonSmartass'>Folderize</a></li>
+";i:159;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:160;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:161;s:7:"</ul>
+";i:162;s:8:"	<hr/>
+";i:163;s:6:"<ul>
+";i:164;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:165;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:166;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:167;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:168;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:169;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:170;s:7:"</ul>
+";i:171;s:7:"<hr/>
+";i:172;s:2:"
+";i:173;s:8:"</div>
+";i:174;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:175;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:176;s:8:"		<ul>
+";i:177;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:178;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:179;s:9:"		</ul>
+";i:180;s:8:"</div>
+";i:181;s:10:"<center>
+";i:182;s:34:"		<div style="margin-top:4px;">	
+";i:183;s:5:"			
+";i:184;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:185;s:33:"<script type='text/javascript'>
+";i:186;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:187;s:104:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/FirstPersonSmartass");
+";i:188;s:11:"</script>
+";i:189;s:8:"</div>
+";i:190;s:2:"
+";i:191;s:11:"		</div>	
+";i:192;s:10:"		<div>	
+";i:193;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:194;s:6:"		 	
+";i:195;s:4:"		
+";i:196;s:4:"		
+";i:197;s:10:"		</div>
+";i:198;s:205:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/FirstPersonSmartass">Laconic</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/FirstPersonSmartass">Main</a><br/>
+";i:199;s:9:"		<div>
+";i:200;s:10:"		</div>
+";i:201;s:36:"		<div style="font-size:x-small;">
+";i:202;s:11:"				<hr/>
+";i:203;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:204;s:14:"				<p> </p>
+";i:205;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:206;s:13:"				<p></p>
+";i:207;s:11:"				<ul >
+";i:208;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:209;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:210;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:211;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:212;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:213;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:214;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:215;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:216;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:217;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:219;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:220;s:11:"				</li>
+";i:221;s:11:"				</ul>
+";i:222;s:13:"				<p></p>
+";i:223;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:224;s:13:"				<p></p>
+";i:225;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:226;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:227;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:228;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:229;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:230;s:6:"				
+";i:231;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:232;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:233;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:234;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:235;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:236;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:237;s:6:"				
+";i:238;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:239;s:16:"				</li></ul>
+";i:240;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:241;s:13:"				<p></p>
+";i:242;s:11:"				<ul >
+";i:243;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:244;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:245;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:246;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:247;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:248;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:249;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:250;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:251;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:252;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:253;s:6:"				
+";i:254;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:255;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:256;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:257;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:258;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:259;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:260;s:6:"				
+";i:261;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:262;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:263;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:264;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:265;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:266;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:268;s:11:"				</li>
+";i:269;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:270;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:271;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:272;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:273;s:6:"				
+";i:274;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:275;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:276;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:278;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:279;s:16:"				</li></ul>
+";i:280;s:6:"				
+";i:281;s:13:"				<p></p>
+";i:282;s:39:"				<strong>Other Categories</strong>
+";i:283;s:13:"				<p></p>
+";i:284;s:10:"				<ul>
+";i:285;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:286;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:287;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:288;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:289;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:290;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:291;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:292;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:293;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:294;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:295;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:296;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:297;s:11:"				</ul>
+";i:298;s:11:"		</div>	
+";i:299;s:11:"</center>
+";i:300;s:2:"
+";i:301;s:30:"</div> <!-- wikileftpage -->
+";i:302;s:7:"</td>
+";i:303;s:20:"<td id='wikibody'>
+";i:304;s:2:"
+";i:305;s:21:"<!--PageTitleFmt-->
+";i:306;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:307;s:12:"    		<tr>
+";i:308;s:38:"    		<td id="wikicmds" align="top">
+";i:309;s:8:"    		
+";i:310;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:311;s:45:"    				<tr style="vertical-align:middle;">
+";i:312;s:31:"    					<td align="center" >
+";i:313;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:314;s:16:"    					</td>
+";i:315;s:15:"    				<td >
+";i:316;s:37:"    					<div style="width:400px;">
+";i:317;s:28:"                  <center>
+";i:318;s:27:"                  <table>
+";i:319;s:24:"                  <tr>
+";i:320;s:24:"                  <td>
+";i:321;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:322;s:27:"                    <div>
+";i:323;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:324;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:325;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:326;s:64:"                      <input type="text" name="q" size="31" />
+";i:327;s:28:"                    </div>
+";i:328;s:27:"                  </form>
+";i:329;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:330;s:25:"                  </td>
+";i:331;s:24:"                  <td>
+";i:332;s:46:"                  <div class="buttonframe" >
+";i:333;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:334;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:335;s:26:"                  </div>
+";i:336;s:25:"                  </div
+";i:337;s:25:"                  </td>
+";i:338;s:25:"                  </tr>
+";i:339;s:28:"                  </table>
+";i:340;s:29:"                  </center>
+";i:341;s:17:"    					</div>
+";i:342;s:15:"    				</td>
+";i:343;s:15:"    				</tr>
+";i:344;s:16:"    		</table>
+";i:345;s:8:"    		
+";i:346;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:347;s:10:"    				
+";i:348;s:27:"    				<tr valign="top">
+";i:349;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:350;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:351;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:352;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:353;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:354;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:355;s:15:"    				</tr>
+";i:356;s:10:"    				
+";i:357;s:10:"    				
+";i:358;s:8:"    		
+";i:359;s:16:"    		</table>
+";i:360;s:8:"    		
+";i:361;s:28:"    		<div id="wikilogo" >
+";i:362;s:16:"    		<center>
+";i:363;s:2:"
+";i:364;s:22:"<!-- leaderboard -->
+";i:365;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:366;s:33:"<script type='text/javascript'>
+";i:367;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:368;s:11:"</script>
+";i:369;s:8:"</div>
+";i:370;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:371;s:28:"    					<tr valign="top">
+";i:372;s:269:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'FirstPersonSmartass');" autocomplete="off"  style="width:50px;"><option> </option><option value="Laconic">Laconic</option><option value="Main">Main</option></select></td>
+";i:373;s:274:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/FirstPersonSmartass?action=source" >source</a></div></div></td>
+";i:374;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:375;s:275:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.FirstPersonSmartass">history</a></div></div></td>
+";i:376;s:277:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FirstPersonSmartass?action=edit'> edit page</a></div></div></td>
+";i:377;s:273:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/FirstPersonSmartass" >related</a></div></div></td>
+";i:378;s:38:"    							<td valign="middle"></td>
+";i:379;s:16:"    					</tr>
+";i:380;s:18:"    				</table>
+";i:381;s:10:"    				
+";i:382;s:35:"    				<div id="watchmsg"></div>
+";i:383;s:18:"    			</center>
+";i:384;s:13:"    		</td>
+";i:385;s:12:"     </tr>
+";i:386;s:6:"    
+";i:387;s:11:"    	<tr>
+";i:388;s:39:"    		<td id="wikititle" colspan="2">
+";i:389;s:40:"    				<div class="namespacebuttons">
+";i:390;s:955:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments"  style="border-width:2px;border-color:silver;margin-right:2px;" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.FirstPersonSmartass" >&nbsp;Discussion </a></li> <li class="namespace_li Laconic" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/FirstPersonSmartass" class="textcolor">&nbsp;Laconic&nbsp;</a> </li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=FirstPersonSmartass" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/FirstPersonSmartass" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:391;s:16:"    				</div>
+";i:392;s:26:"    				<!--RepairBug-->
+";i:393;s:10:"    				
+";i:394;s:34:"    				<div class='pagetitle'> 
+";i:395;s:48:"    						  <span>First-Person Smartass</span>
+";i:396;s:16:"    				</div>
+";i:397;s:11:"    				 
+";i:398;s:13:"    		</td>
+";i:399;s:12:"    	</tr>
+";i:400;s:10:"</table>
+";i:401;s:2:"
+";i:402;s:16:"<!--PageText-->
+";i:403;s:20:"<div id='wikitext'>
+";i:404;s:231:"<div class='indent'><em>"<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging'>You sure are talkative... IN YOUR HEAD!</a>"</em>
+";i:405;s:586:"<div class='indent'>&#8212; <strong><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MonsterClown' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MonsterClown'>Kefka Palazzo</a></strong> to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiHero'>Squall Leonhart</a>, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DissidiaFinalFantasy' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DissidiaFinalFantasy'>Dissidia: Final Fantasy</a></em>
+";i:406;s:864:"</div></div><p></p>So it turns out we need to have an article about the First-Person Smartass, and now I have to tell you everything about the type of narrator who's a first-person narrator (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SelfDemonstratingArticle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SelfDemonstratingArticle'>because you obviously didn't get that from the name</a>) and describes events in a consistently <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker'>snarky or sardonic tone</a>. He does this since he knows that, contrary to the popular misconception, narration isn't about letting the reader in on the plot; it's about sharing with them every remotely entertaining half-of-a-train of thought you have.
+";i:407;s:769:"<p></p>This guy sometimes shows up in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrivateEyeMonologue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrivateEyeMonologue'>Private Eye Monologue</a> sort of work, but <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UrbanFantasy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UrbanFantasy'>Urban Fantasy</a> is where you really can't turn a corner without bumping into a dozen of them. Seriously, just dare to cast a fireball in some otherwise normal city and before you're halfway done, some wannabe-protagonist will jump at you from behind a corner and start throwing pithy remarks at you about how you're being cliché and violating the laws of thermodynamics.
+";i:408;s:1307:"<p></p>Well, fine, that's hyperbole, but you have to admit the guy is an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AuthorAvatar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AuthorAvatar'>awfully convenient proxy</a> to have around if you're a clever author who wants to show the world how <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy'>clever</a> you are. Not to mention he can also function as an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AudienceSurrogate' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AudienceSurrogate'>Audience Surrogate</a>, incorporating and defusing a reader's skepticism with endless <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging'>Lampshade Hanging</a> of whatever bits of the story don't make sense. You can almost feel the enormous weight of the entire story's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WillingSuspensionOfDisbelief' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WillingSuspensionOfDisbelief'>Willing Suspension of Disbelief</a> on this poor guy's shoulders.
+";i:409;s:1094:"<p></p>You can expect this guy to be intellectual and well-acquainted with pop culture (or at least <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AuthorAvatar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AuthorAvatar'>works with which the author is familiar</a>), so he can make all the right clever references at the right time. This won't prevent them from being described as <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InformedAttribute' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InformedAttribute'>uneducated, bad at school, or book dumb</a>; these traits are apparently all the rage for <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AudienceSurrogate' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AudienceSurrogate'>Audience Surrogates</a> nowadays as <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThisLoserIsYou' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThisLoserIsYou'>people can't identify with someone who might possibly be a better person than they are</a>.
+";i:410;s:736:"<p></p>The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeNamer' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeNamer'>Trope Namer</a> was a review of Steven Brust's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dragaera' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dragaera'>Dragaera</a> series by <em><a class='urllink' href='http://www.steelypips.org/library/AuthorArchive.html'>The Library of Babel<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a></em>. And of course you're going to click that, because the "click hither and educate thyself" tone of that sentence just <em>screams</em> "fun."
+";i:411;s:188:"<p></p>Compare <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LemonyNarrator' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LemonyNarrator'>Lemony Narrator</a>.
+";i:412;s:7:"<hr />
+";i:413;s:18:"<h2>Examples</h2>
+";i:414;s:122:"<p></p><div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:415;s:181:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp;Anime&nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:416;s:858:"<p></p><ul ><li> Kyon, the viewpoint character of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuzumiyaHaruhi' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuzumiyaHaruhi'>Suzumiya Haruhi</a></em>; a variation of the character type, as even though he's very <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FauxlosophicNarration' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FauxlosophicNarration'>intelligent</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LittleProfessorDialog' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LittleProfessorDialog'>literate</a>, he's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BookDumb' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BookDumb'>Book Dumb</a> and rarely gets anything more than a B+.
+";i:417;s:188:"</li><li> Lina Inverse from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Slayers' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Slayers'>Slayers</a></em>.
+";i:418;s:393:"</li><li> Ichika Orimura from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InfiniteStratos' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InfiniteStratos'>Infinite Stratos</a> when it comes to <a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpartanSiblings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpartanSiblings'>his sister.</a>
+";i:419;s:216:"</li><li> Araragi from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/LightNovel/Bakemonogatari' title='http://tvtropes.org/pmwiki/pmwiki.php/LightNovel/Bakemonogatari'>Bakemonogatari</a></em>.
+";i:420;s:295:"</li><li> Kinji Tohyama of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HidanNoAria' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HidanNoAria'>Hidan no Aria</a>, especially in the light novels. Dude always has a quip for each weird thing he encounters in his life.
+";i:421;s:476:"</li><li> Issei in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HighSchoolDXD' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HighSchoolDXD'>High School D×D</a></em> has shades of this, however it's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMentor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMentor'>Azazel</a> who's a lot more of a smart ass narrator whenever he discusses things in his point of view.
+";i:422;s:456:"</li><li> Let's face it, this is usually the trait of a <a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HaremHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HaremHero'>Harem Hero</a> or <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnluckyEverydude' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnluckyEverydude'>Unlucky Everydude</a>, especially when the story is told from their point of view.
+";i:423;s:664:"</li><li> "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoNameGiven' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoNameGiven'>Watashi</a>" from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/LightNovel/JinruiWaSuitaiShimashita' title='http://tvtropes.org/pmwiki/pmwiki.php/LightNovel/JinruiWaSuitaiShimashita'>Jinrui Wa Suitai Shimashita</a></em>. Though a fairly standard trait for a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LightNovel' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LightNovel'>Light Novel</a> protagonist, she stands out for her <em>incredible cynicism</em>.
+";i:424;s:17:"</li></ul></div>
+";i:425;s:189:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp; Comic Books &nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:426;s:255:"<p></p><ul ><li> In recent years, this has been a fairly common practice in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpiderMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpiderMan'>Spider Man</a></em> comic books.
+";i:427;s:24:"</li></ul><p></p></div>
+";i:428;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp; Fan Works &nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:429;s:561:"<p></p><ul ><li> The protagonist of the mega-multi-cross fanfic <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/SleepingWithTheGirls' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/SleepingWithTheGirls'>Sleeping with the Girls</a></em>, mainly as a device to keep the protagonist deliberately unnamed as an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AffectionateParody' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AffectionateParody'>Affectionate Parody</a> of the ISO Standard self-insert fic.
+";i:430;s:421:"</li><li> The narrator from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Fanfic/MarieDSuesseAndTheMysteryNewPirateAge' title='http://tvtropes.org/pmwiki/pmwiki.php/Fanfic/MarieDSuesseAndTheMysteryNewPirateAge'>Marie D Suesse And The Mystery New Pirate Age</a>!</em> occasionally takes breaks from narrating the story to make fun of common cliches found in fanfics and point out logical fallacies.
+";i:431;s:344:"</li><li> Daniel Lawson in the Glee fanfic series <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheHarmonverse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheHarmonverse'>The Harmonverse</a> takes this trope and has his babies- one of the best things about Daniel is how he snarks about anything in front of him.
+";i:432;s:1141:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WebAnimation/TurnaboutStorm' title='http://tvtropes.org/pmwiki/pmwiki.php/WebAnimation/TurnaboutStorm'>Turnabout Storm</a></em>: True to <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/AceAttorney' title='http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/AceAttorney'>Ace Attorney</a></em> form, both point of view characters, Phoenix Wright and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/MyLittlePonyFriendshipIsMagic' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/MyLittlePonyFriendshipIsMagic'>Twilight Sparkle</a>, partake in this. Also true to form, both play as a sort of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnlySaneMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnlySaneMan'>Only Sane Man/Mare</a> in a world of crazies, and are quite the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker'>snarkers</a> while they're at it.
+";i:433;s:677:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MyLittleInvestigations' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MyLittleInvestigations'>My Little Investigations</a></em> protagonist <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/MyLittlePonyFriendshipIsMagic' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/MyLittlePonyFriendshipIsMagic'>Twilight Sparkle</a> is this as per <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/AceAttorney' title='http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/AceAttorney'>Ace Attorney</a></em> standards.
+";i:434;s:281:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Fanfic/CalvinAndHobbesTheSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/Fanfic/CalvinAndHobbesTheSeries'>Calvin And Hobbes The Series</a></em> has Hobbes narrating like this in "The Time Pauser".
+";i:435;s:90:"<ul ><li> Calvin gets his turn for the first half of "The Transmitter Conspiracy Part 1".
+";i:436;s:1483:"</li></ul></li><li> The narrator of the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/MyLittlePonyFriendshipIsMagic' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/MyLittlePonyFriendshipIsMagic'>My Little Pony: Friendship Is Magic</a></em> fanfic <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Fanfic/Jericho' title='http://tvtropes.org/pmwiki/pmwiki.php/Fanfic/Jericho'>Jericho</a></em>, whose name happens to be Jericho, is so this. It overlaps occasionally with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HearingVoices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HearingVoices'>Hearing Voices</a> because his internal monologue sometimes argues with itself. This trope is actually justified because Jericho is a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SociopathicHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SociopathicHero'>Sociopathic Hero</a>, so it makes a creepy sort of sense that he would view the world like this. He is known for often <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThinkingOutLoud' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThinkingOutLoud'>Thinking Out Loud</a>, which makes heavy use of this trope and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoodWhiplash' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoodWhiplash'>Mood Whiplash</a>.
+";i:437;s:122:"<ul ><li> Said immediately after shoving a person out of a skyscraper window, which was a really hardcore dramatic scene:
+";i:438;s:1575:"</li></ul><div class='indent'> “<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BondOneLiner' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BondOneLiner'>Goodbye</a>,” I laughed as I watched his body shrink almost out of sight and hit the pavement. My toothy grin was still on my face as I said to nopony in particular, “Oh, damn! <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IAlwaysWantedToSayThat' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IAlwaysWantedToSayThat'>I’ve always wanted to do that</a>, spout a badass one-liner and then <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DestinationDefenestration' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DestinationDefenestration'>push somebody out of a tall window</a>. It’s, like, always been a personal dream of mine. Plus, the one-liner reaffirmed my heroic status.” I looked at the window, more just of a giant hole now. “Wow. Equestrian windows are really poorly made. I mean, do they not yet have safety glass? <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DangerousWindows' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DangerousWindows'>The window just shattered into giant spears of glassy murder</a>. If there had been a room on the other side of this glass, that guy would have just been <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ImpaledWithExtremePrejudice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ImpaledWithExtremePrejudice'>horribly impaled to death</a>.”
+";i:439;s:538:"</div></li><li> Link is very much this in <a class='urllink' href='http://www.mediaminer.org/fanfic/view_st.php/19769'>The Legend of Link: Lucky Number 13<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>. <span class="spoiler" title="you can set spoilers visible by default on your profile" >Turns out that in the first person sections he's conversing with a shadow demon that's sharing his body, so it makes sense he'd describe things less than objectively.</span>
+";i:440;s:229:"</li><li> Of all people <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShrinkingViolet' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShrinkingViolet'>Hinata</a> in <em>A Demon In The Hyuuga Clan</em>.
+";i:441;s:232:"<div class='indent'> "Naturally I thought that it would <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Catchphrase' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Catchphrase'>fly like a lead balloon.</a>"
+";i:442;s:30:"</div></li></ul><p></p></div>
+";i:443;s:180:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp;Film&nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:444;s:399:"<p></p><ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KissKissBangBang' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KissKissBangBang'>Kiss Kiss Bang Bang</a></em> is pretty much made of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FilmNoir' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FilmNoir'>Film Noir</a> and this trope.
+";i:445;s:179:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Goodfellas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Goodfellas'>Goodfellas</a></em>.
+";i:446;s:224:"</li><li> Louis in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/KindHeartsAndCoronets' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/KindHeartsAndCoronets'>Kind Hearts And Coronets</a></em>.
+";i:447;s:24:"</li></ul><p></p></div>
+";i:448;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp;Literature&nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:449;s:605:"<p></p><ul ><li> When <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/StephenKing' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/StephenKing'>Stephen King</a> characters tell their own stories, they have a tendency to be this way, but it's mostly light and situational cynicism on display, rather than the characters being chronic smartasses. Michael Noonan of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/BagOfBones' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/BagOfBones'>Bag of Bones</a></em> is probably the best example.
+";i:450;s:1011:"</li><li> The titular Percy Jackson of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PercyJacksonAndTheOlympians' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PercyJacksonAndTheOlympians'>Percy Jackson and the Olympians</a></em>. It's probably common amongst <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HalfHumanHybrid' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HalfHumanHybrid'>Half-Bloods</a>, as a coping mechanism extension of their diagnosed-as-ADHD battle instincts. After all, if you find yourself standing before Hades, God of the Dead, who's cloaked in a robe sewn together from souls of the damned, then wondering what some poor saps must've done to get themselves assigned <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ImagineTheAudienceNaked' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ImagineTheAudienceNaked'>to being his boxer shorts</a> has got to be better than having your mind lock up in fear.
+";i:451;s:517:"<ul ><li> Confirmed, as <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheHeroesOfOlympus' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheHeroesOfOlympus'>The Heroes of Olympus</a></em> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequelSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequelSeries'>Sequel Series</a> shows the point of view of multiple demigods, all of whom are various levels of smartass. (Though not of the first person variety).
+";i:452;s:230:"</li></ul></li><li> Archie Goodwin of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NeroWolfe' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NeroWolfe'>Nero Wolfe</a> books might be the ur-example.
+";i:453;s:343:"</li><li> <em>Spenser</em> is somewhat a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePoorMansSubstitute' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePoorMansSubstitute'>Poor Man's Substitute</a> of this trope and is often brought up as the direct inspiration for fantasy novels using this character-type.
+";i:454;s:333:"</li><li> The protagonist of Frank Portman's "King Dork" mentally snarks his way through the book, but is usually less than stellar at speaking aloud. To wit: "By my count, I had said no more than twenty-one words to her, and that's only if you count 'um'. And my first bit of dialogue had been nothing less retarded than 'I'm cool"
+";i:455;s:920:"</li><li> Steven Brust's Vlad Taltos in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dragaera' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dragaera'>Dragaera</a></em> series who besides being an aristocrat of a sort reflects Brust's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AuthorAppeal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AuthorAppeal'>Author Appeal</a> in being a gourmet cook. One of the first examples of this in fantasy, along with Corwin from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheChroniclesOfAmber' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheChroniclesOfAmber'>The Chronicles Of Amber</a></em>, and indirect <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeNamer' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeNamer'>Trope Namer</a>.
+";i:456;s:126:"<ul ><li> When Kiera the Thief is narrating in <em>Orca</em>, she's this way as well, albeit not quite as good at it as Vlad.
+";i:457;s:217:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/GlenCook' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/GlenCook'>Glen Cook</a> utilises this in some of his series:
+";i:458;s:231:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/GarrettPI' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/GarrettPI'>Garrett PI</a></em>, being a fantasy Noir work, features this.
+";i:459;s:257:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/BlackCompany' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/BlackCompany'>Black Company</a></em>, the various Annalists tend to snark at most everything.
+";i:460;s:169:"</li></ul></li><li> Sean Drummond, narrator of Brian Haig's novels, often speculates on things he'd like to say but shouldn't. Or things he did say, and shouldn't have.
+";i:461;s:402:"</li><li> The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoNameGiven' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoNameGiven'>No Name Given</a> spy protagonist of <em>The Ipcress File</em> and sequels by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LenDeighton' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LenDeighton'>Len Deighton</a>.
+";i:462;s:579:"</li><li> Harry Dresden of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheDresdenFiles' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheDresdenFiles'>The Dresden Files</a></em> is a private eye in an urban fantasy verse, so of course he indulges. Expect at least two bad jokes or pop culture references per page, though he isn't as much of a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker'>Deadpan Snarker</a> as most examples.
+";i:463;s:128:"<ul ><li> Also, Thomas Raith, the narrator and hero of the Dresdenverse story <em>Backup.</em> Better at snark than Harry, too.
+";i:464;s:133:"</li><li> John Marcone narrates the story "Even Hand," and he turns out to be a master of deadpan sarcasm who surpasses even Thomas.
+";i:465;s:454:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JimButcher' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JimButcher'>Jim Butcher</a> likes this trope. He also used it for his <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpiderMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpiderMan'>Spider Man</a></em> novel, "The Darkest Hours", casting Peter Parker as the narrator.
+";i:466;s:387:"</li><li> Lindsey Davis's Marcus Didius Falco - a good cook, and married to an aristocrat. Also a deconstruction of this trope; as a citizen of 1st century Rome, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreBlind' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreBlind'>he hasn't read any Chandler</a> and doesn't know that private eyes are loners...
+";i:467;s:276:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ColtRegan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ColtRegan'>Colt Regan</a> does this quite a bit in between strange tangents on such subjects as the political leanings of baked goods.
+";i:468;s:1241:"</li><li> Also true of many other <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UrbanFantasy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UrbanFantasy'>Urban Fantasy</a> narrators such as Rachel Morgan (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheHollows' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheHollows'>The Hollows</a>), <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnitaBlake' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnitaBlake'>Anita Blake</a>, Kelley Armstrong's heroines in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WomenOfTheOtherworld' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WomenOfTheOtherworld'>Women Of The Otherworld</a> books (some more smartass than others), Kitty from the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/KittyNorville' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/KittyNorville'>Kitty Norville</a></em> series, and Cal of Rob Thurman's <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CalLeandros' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CalLeandros'>Cal Leandros</a></em> series.
+";i:469;s:711:"</li><li> Corwin and Merlin from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/RogerZelazny' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/RogerZelazny'>Roger Zelazny</a>'s <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheChroniclesOfAmber' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheChroniclesOfAmber'>The Chronicles Of Amber</a></em> possibly started the trend in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Fantasy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Fantasy'>Fantasy</a>. Random gets in on the action for a chapter, too, when he's telling Corwin about one of his recent adventures.
+";i:470;s:420:"</li><li> As a dark example, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dexter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dexter'>Dexter</a></em> somewhat fits this type, being a surprisingly charming and cheerful <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SerialKiller' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SerialKiller'>Serial Killer</a>.
+";i:471;s:578:"</li><li> John Taylor from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SimonRGreen' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SimonRGreen'>Simon R. Green</a>'s <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Nightside' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Nightside'>Nightside</a></em> series is like a more pessimistic <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheDresdenFiles' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheDresdenFiles'>Harry Dresden</a>.
+";i:472;s:961:"</li><li> David Wong, of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JohnDiesAtTheEnd' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JohnDiesAtTheEnd'>John Dies at the End</a>, deadpans, lies, and occasionally half-heartedly mocks the weird shit that confronts him and his goofball friend. He occasionally veers into nihilistic <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AuthorTract' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AuthorTract'>author tracts</a>... that are actually attempts by the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EldritchAbomination' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EldritchAbomination'>Shadow</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OurGhostsAreDifferent' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OurGhostsAreDifferent'>Men</a> to get him to commit suicide and stopping his heroics.
+";i:473;s:1034:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SandyMitchell' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SandyMitchell'>Sandy Mitchell</a>'s <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CiaphasCain' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CiaphasCain'>Ciaphas Cain</a> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Warhammer40000' title='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Warhammer40000'>Warhammer 40000</a></em> novels are <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LiteraryAgentHypothesis' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LiteraryAgentHypothesis'>excerpts from his private memoirs</a>. In them, Cain reveals that he is very much a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker'>Deadpan Snarker</a> at heart, regardless of how well he hides it in public.
+";i:474;s:288:"</li><li> Bartimaeus of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheBartimaeusTrilogy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheBartimaeusTrilogy'>The Bartimaeus Trilogy</a></em> in the chapters he narrates, and even more so in the footnotes.
+";i:475;s:253:"<ul ><li> In the last book of the trilogy, he even manages to snark chapters <em>another character narrates</em> <span class="spoiler" title="you can set spoilers visible by default on your profile" > because he and Nathaniel are sharing a body.</span>
+";i:476;s:578:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarrenEllis' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarrenEllis'>Warren Ellis</a>'s <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrookedLittleVein' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrookedLittleVein'>Crooked Little Vein</a></em> features a main character who tells the story from the first person and is most <em>definitely</em> a smartass, but subverts the rest of the trope by... well, being a typical Ellis protagonist, really.
+";i:477;s:171:"<div class='indent'>"I don't have a secretary. Sometimes I flip on a phone voice-changer I got for five bucks on eBay and pretend to be my own secretary. It is very sad."
+";i:478;s:415:"</div></li><li> Dennis St. Michel from <em><a class='urllink' href='http://menacinghouse.blogspot.com'>The Luck of Dennis St. Michel, Viscount Stokington<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a></em> is one of these, usually insulting or mocking the other characters in his narration while being polite or deferential in his dialogue.
+";i:479;s:566:"</li><li> Justified in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/MattStover' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/MattStover'>Matt Stover</a>'s <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheActsOfCaine' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheActsOfCaine'>Heroes Die</a></em>, where the protagonist is having his experiences as a particularly violent sort of adventurer in a fantasy world recorded for the entertainment of the masses on a dystopian future Earth.
+";i:480;s:105:"</li><li> Thomas Lang, protagonist of Hugh Laurie's "The Gunseller" is a less well read example of this.
+";i:481;s:91:"<ul ><li> "Yes, he had one arm and he taught unarmed combat. Sometimes life is like that."
+";i:482;s:293:"</li></ul></li><li> Bob Howard in the "Laundry" novels by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharlesStross' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharlesStross'>Charles Stross</a> is Harry Palmer as a computer geek. Who has to deal with monster.
+";i:483;s:1299:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/FightClub' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/FightClub'>Pick</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Survivor' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Survivor'>a</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChuckPalahniuk' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChuckPalahniuk'>Chuck Palahniuk</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/InvisibleMonsters' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/InvisibleMonsters'>book</a>. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Choke' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Choke'>Any</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Lullaby' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Lullaby'>Chuck</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Haunted2005' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Haunted2005'>Palahniuk</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Rant' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Rant'>book.</a>
+";i:484;s:330:"</li><li> Subverted by Betsy Taylor, the heroine and narrator of the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UndeadAndUnwed' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UndeadAndUnwed'>Undead And Unwed</a></em> series. She's got the tone right, but she takes the "smart" out of "smartass".
+";i:485;s:195:"</li><li> Bella from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Twilight' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Twilight'>Twilight</a></em>
+";i:486;s:66:"<ul ><li> Jacob, when he narrates part of <em>Breaking Dawn</em>.
+";i:487;s:251:"</li></ul></li><li> James "Slippery Jim" DiGriz of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheStainlessSteelRat' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheStainlessSteelRat'>The Stainless Steel Rat</a> series.
+";i:488;s:498:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OddThomas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OddThomas'>Odd Thomas</a> definitely counts, though he's usually more humble about his smartass remarks. Being a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeanKoontz' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeanKoontz'>Dean Koontz</a> character, though, he also often goes on philosophical tangents, which is pleasant.
+";i:489;s:190:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnitaBlake' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnitaBlake'>Anita Blake</a> has shades of this.
+";i:490;s:120:"</li><li> Arkady Makarovich Dolgoruky, eponymous (and well-described) narrator of Dostoevsky's <em>The Adolescent</em>.
+";i:491;s:416:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FelixCastor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FelixCastor'>Felix Castor</a> in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MikeCarey' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MikeCarey'>Mike Carey</a>'s series is another urban fantasy example, like a much, much darker Harry Dresden.
+";i:492;s:271:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CalLeandros' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CalLeandros'>Caliban Leandros</a>, oh so very much. His brother Niko has his moments as well, though he's much more restrained.
+";i:493;s:520:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThomasLigotti' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThomasLigotti'>Thomas Ligotti</a> does this a lot, albeit <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StealthPun' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StealthPun'>rather</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StealthInsult' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StealthInsult'>subtly</a>.
+";i:494;s:628:"</li><li> Delia Marshall Turner's <em>Nameless Magery</em> is a mix of SF and fantasy, narrated by the rather self-deprecating and earthy character of Lisane, who is quite well-educated by the standards of her own planet. Some of the humor comes from Lisane's observations about the culture of the alien planet she has crash-landed on and comparisons to the culture of her homeworld. The sequel <em>Of Swords And Spells</em> is narrated by Malka, who is also a bit sarcastic and tends to give herself self-deprecating nicknames like "Malka the Mighty, victorious in defeating soup", though she is not quite as snarky as Lisane.
+";i:495;s:290:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RiversOfLondon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RiversOfLondon'>Rivers Of London</a></em>, told from the ever so slightly sarcastic and opinionated POV of Detective Constable Peter Grant.
+";i:496;s:254:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Animorphs' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Animorphs'>Animorphs</a></em> does this with all of the humans to some extent, but mostly Marco.
+";i:497;s:246:"</li><li> Pagan Kidrouk from the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePaganChronicles' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePaganChronicles'>The Pagan Chronicles</a> <em>bleeds</em> this trope.
+";i:498;s:701:"</li><li> The anonymous narrator of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/RedHarvest' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/RedHarvest'>Red Harvest</a></em>. "I first heard Personville called Poisonville by a red-haired mucker called Hickey Dewey in the Big Ship in Butte. He also called his shirt a shoit. I didn’t think anything of what he’d done to the city’s name. Later I’d heard men who could pronounce their r’s give it the same pronunciation. I still didn’t see anything in it but the meaningless sort of humor used to make richardsnary the thieves’ word for dictionary. A few years later, I went to Personville and learned better."
+";i:499;s:490:"</li><li> In some of the stories from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/StanislawLem' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/StanislawLem'>Stanislaw Lem</a>'s <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TalesOfPirxThePilot' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TalesOfPirxThePilot'>Tales of Pirx the Pilot</a></em>, Pirx himself is narrating and shows off his snarky kind of humor.
+";i:500;s:349:"</li><li> The titular character of the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MaximumRide' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MaximumRide'>Maximum Ride</a></em> series. Somewhat justified in that she tends to use sarcasm as a coping mechanism to deal with her screwed up life. And she's a teenager.
+";i:501;s:285:"<ul ><li> From the same author, the titular character of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheDangerousDaysofDanielX' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheDangerousDaysofDanielX'>Daniel X</a> series is also like this
+";i:502;s:440:"</li></ul></li><li> Alcatraz Smedry is a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FirstPersonSmartass' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FirstPersonSmartass'>First-Person Smartass</a> narrator for the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/AlcatrazSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/AlcatrazSeries'>Alcatraz Series</a></em>.
+";i:503;s:225:"</li><li> Janet Evanovich's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StephaniePlum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StephaniePlum'>Stephanie Plum</a> character is all over this.
+";i:504;s:382:"</li><li> Gemma from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AGreatAndTerribleBeauty' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AGreatAndTerribleBeauty'>A Great And Terrible Beauty</a></em> does this. It frequently gets her in trouble, as what she's thinking is pretty damn funny, so she cracks a smile, usually at the worst time possible.
+";i:505;s:238:"</li><li> Anything, and I mean <em>anything</em> written by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/TerryPratchett' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/TerryPratchett'>Terry Pratchett</a>
+";i:506;s:369:"</li><li> R from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarmBodies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarmBodies'>Warm Bodies</a></em>. Justified, as he has trouble actually making legible words with his mouth (he is a zombie, after all), so most of the snarky dialogue we get from him is simply his train of thought.
+";i:507;s:429:"</li><li> While generally the opposite of this trope, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/PGWodehouse' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/PGWodehouse'>PG Wodehouse</a>'s <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/JeevesAndWooster' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/JeevesAndWooster'>Bertie Wooster</a> has his moments.
+";i:508;s:247:"<div class='indent'> I don't know if you have ever tooled off to East Dulwich to offer a strange female a hundred smackers to release your Uncle George. In case you haven't, I may tell you that there are plenty of things that are lots better fun.
+";i:509;s:268:"</div></li><li> Gen, the narrator of the first book in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheQueensThief' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheQueensThief'>The Queen's Thief</a></em> series, dips into this often.
+";i:510;s:266:"</li><li> Georgia Nicolson in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConfessionsOfGeorgiaNicolson' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ConfessionsOfGeorgiaNicolson'>Confessions Of Georgia Nicolson</a></em> books.
+";i:511;s:205:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/PhilipMarlowe' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/PhilipMarlowe'>Philip Marlowe</a> too, so much.
+";i:512;s:229:"</li><li> Holden Caulfield from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CatcherInTheRye' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CatcherInTheRye'>Catcher In The Rye</a></em>, big time.
+";i:513;s:89:"</li><li> Cameron Smith, the protagonist and narrator of Libba Bray's novel Going Bovine
+";i:514;s:24:"</li></ul><p></p></div>
+";i:515;s:192:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp; Live Action TV &nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:516;s:193:"<p></p><ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VeronicaMars' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VeronicaMars'>Veronica Mars</a></em>.
+";i:517;s:534:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dexter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dexter'>Dexter</a></em> is just as much a smart-ass on TV as in the books, if not more so. There's even a subversion in one episode where Dex's internal monologue becomes external for a line; the only one who notices, of course, is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SecretChaser' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SecretChaser'>Doakes</a>.
+";i:518;s:703:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BurnNotice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BurnNotice'>Burn Notice</a></em> has Jeffrey Donovan's character Michael Westen consistently snarking about his situation and environment, though he walks the line between <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FirstPersonSmartass' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FirstPersonSmartass'>First-Person Smartass</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker'>Deadpan Snarker</a> with stylish aplomb.
+";i:519;s:302:"<ul ><li> Upon rigging a club with C4, Michael walks in on the club owner/drug distributor with a business proposal, drinks his alcohol and acts pretty much like he owns the place... while holding a dead man's switch. If he is injured and lets go, the place will explode. As this happens, he narrates:
+";i:520;s:160:"</li></ul><div class='indent'>"Sometimes the only way to win is to ensure that if you lose, everyone loses. It works for nuclear weapons, and it works for me."
+";i:521;s:529:"</div></li><li> George of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MundaneAfterlife' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MundaneAfterlife'>Mundane Afterlife</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dramedy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dramedy'>Dramedy</a> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadLikeMe' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadLikeMe'>Dead Like Me</a></em>.
+";i:522;s:1832:"</li><li> In the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/GameOfThrones' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/GameOfThrones'>Game of Thrones</a></em> box sets, there is in-character discussion and lectures about various bits of Weserosi history, places, and events. Most characters do so simply in an informational manner, (although there are occasional hints of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnreliableNarrator' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnreliableNarrator'>Unreliable Narrator</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HalfTruth' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HalfTruth'>Half Truths</a>, exaggerating the glories of minor victories or sly hints at things that history is too polite to talk about) but the sections done by Stannis Baratheon are <em>peppered</em> with smart ass comments. (Which, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BrutalHonesty' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BrutalHonesty'>considering</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HonorBeforeReason' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HonorBeforeReason'>the</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrinciplesZealot' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrinciplesZealot'>personality</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PerpetualFrowner' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PerpetualFrowner'>Stannis</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoSenseOfHumor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoSenseOfHumor'>has</a>, is rather ironic.) A few examples:
+";i:523;s:668:"<div class='indent'>At the time, Westeros was a filthy backwater with seven kings squabbling over borders and minor glories. *beat* So much for progress. <br />(On the subject of the island of Dragonstone) The island itself was and is nothing. It had no gold or gems to lure Valyrian nobility. All it has is rock. Mostly a shiny black stone too brittle for war and too sharp for building. The Targaryens called it "dragon glass". I call it it useless. <br />The Targaryens managed to raise a castle here. Simpletons claimed they used ancient Valyrian sorcery, forgetting that the Targaryens brought a small army with them from Essos. There's no magic in strong backs.
+";i:524;s:217:"</div><ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BloodKnight' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BloodKnight'>Sandor Clegane</a> gets one or two in his own segment.
+";i:525;s:135:"<div class='indent'>Most families claim to be descended from some great ancestor or hero so far back that nobody can prove them liars.
+";i:526;s:979:"</div></li></ul></li><li> One can't end this section without mentioning Will from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheInbetweeners' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheInbetweeners'>The Inbetweeners</a></em> who is both the main protagonist and the voice-over narrator. Already a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker'>Deadpan Snarker</a> of dimensions in the series itself, he manages to take it up a notch when he narrates. In reviews, even people who don't like the series and/or movie in general will usually admit to have gotten a few laughs out of Will's narration. The appeal (especially to grown-up viewers) probably comes from how he criticizes phenomena in everyday life that seem completely normal or even cool to most teenagers, but when you grow up, you realize how stupid or awkward they were.
+";i:527;s:17:"</li></ul></div>
+";i:528;s:189:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp; Video Games &nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:529;s:222:"<p></p><ul ><li> The main character of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Discworld' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Discworld'>Discworld Noir</a></em>.
+";i:530;s:241:"</li><li> Phoenix Wright of the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AceAttorney' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AceAttorney'>Ace Attorney</a></em> series fits the description as well.
+";i:531;s:306:"<ul ><li> Any playable character in any of the Ace Attorney games is this trope, because it's probably the best way of handling their <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnlySaneMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnlySaneMan'>Only Sane Man</a> status.
+";i:532;s:809:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMeanBrit' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMeanBrit'>Shaun Hastings</a> from the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/AssassinsCreed' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/AssassinsCreed'>Assassin's Creed</a></em> series has a strong tendency to enter his entries into the Animus database in this manner. Expect him to painfully show you how obviously inferior you are to him. What else would you expect if you have a professional <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadPanSnarker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadPanSnarker'>Dead Pan Snarker</a> maintain a digital encyclopedia?
+";i:533;s:216:"</li><li> Garret from the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Thief' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Thief'>Thief</a></em> series is at least an FPS smart ass.
+";i:534;s:511:"</li><li> Kyle Hyde from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HotelDuskRoom215' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HotelDuskRoom215'>Hotel Dusk: Room 215</a></em> is a quite a smartass - and it even seeps into his dialogue with other characters, but he's also arguably the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnlySaneMan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OnlySaneMan'>Only Sane Man</a> in the titular Hotel.
+";i:535;s:213:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TouchDetective' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TouchDetective'>Touch Detective</a></em>'s heroine, Mackenzie.
+";i:536;s:1168:"</li><li> <em>Shirou</em> of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateStayNight' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateStayNight'>Fate/stay night</a></em>. He's more famous for <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainObvious' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainObvious'>not dying when he is killed</a> in the anime adaptation, but in the game, his narration is remarkably sarcastic. This is made more obvious when you realize that despite the narrative shift from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker'>Rin</a> in the prologue to Shirou in the actual game, the actual observations don't <em>change at all</em>. The only major change is the motivations of the narrator. Rin actually likes him because she senses this side of him, which is why she spends so much time making fun of him. <span class="spoiler" title="you can set spoilers visible by default on your profile" >Archer is what Shirou would be like if he stopped being polite.</span>
+";i:537;s:635:"</li><li> Squall Leonhart of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FinalFantasyVIII' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FinalFantasyVIII'>Final Fantasy VIII</a></em> acts like this a few times. He's fairly mild about it, though. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterExaggeration' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterExaggeration'>Ramped up</a> in <em>Dissidia</em>, where he prefers to let his gunblade do the talking, but don't you go and get the impression that he doesn't think less of you. He does. Oh my, he does.
+";i:538;s:257:"<div class='indent'><strong><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FinalFantasyVI' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FinalFantasyVI'>Kefka Palazzo</a>:</strong> You sure are talkative... in your <em>head!</em>
+";i:539;s:302:"</div></li><li> Your character in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KingdomOfLoathing' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KingdomOfLoathing'>Kingdom of Loathing</a></em> often acts this way, as part of the game's general style and sense of humor.
+";i:540;s:254:"</li><li> Even Mario's bro <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LuigisMansion' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LuigisMansion'>Luigi</a> gets in on this when you examine objects with the Game Boy Horror.
+";i:541;s:234:"</li><li> Hisao Nakai of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KatawaShoujo' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KatawaShoujo'>Katawa Shoujo</a></em> is quite snarky in his narration.
+";i:542;s:358:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Descent' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Descent'>Descent</a></em>'s <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayerCharacter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayerCharacter'>Material Defender</a>.
+";i:543;s:102:"<div class='indent'><strong>Bureaucrat</strong>: "You will have multiple objectives on this mission."
+";i:544;s:368:"</div><div class='indent'><strong>Material Defender</strong>: You mean contradictory objectives, don't you? Destroy all infected mines. Keep the invading force from spreading further. But be sure to rescue any survivors. Destroy as many robots as possible. And each one of these objectives is the most important. Why did they have to design this mission by committee?
+";i:545;s:20:"</div></li></ul>...
+";i:546;s:158:"<dl><dd><div class='indent'><strong>Material Defender</strong>: Translation from bureaucratese: they're hosed, and I'm the only one that can cut their loses.
+";i:547;s:407:"</div></dd></dl><ul ><li> Tomoya from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/CLANNAD' title='http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/CLANNAD'>CLANNAD</a></em>, as you'd expect when the narrator is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheGadfly' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheGadfly'>The Gadfly</a>.
+";i:548;s:877:"</li><li> Riki of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/LittleBusters' title='http://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/LittleBusters'>Little Busters</a></em>, another <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KeyVisualArts' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KeyVisualArts'>Key Visual Arts</a> game, is also kind of snarky, though much less so than Tomoya, and he tends to keep his inner misgivings to himself unless he's talking to someone he knows can take it such as <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ButtMonkey' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ButtMonkey'>Masato</a> or <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheTease' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheTease'>Kurugaya</a>.
+";i:549;s:17:"</li></ul></div>
+";i:550;s:185:"<p></p><div class="folderlabel" onclick="togglefolder('folder7');">&nbsp;&nbsp;&nbsp;&nbsp;Webcomics&nbsp;</div><div id="folder7" class="folder" isfolder="true" style="display:block;">
+";i:551;s:641:"<p></p><ul ><li> Zombie, the narrator and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SupportingProtagonist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SupportingProtagonist'>Supporting Protagonist</a> of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HannaIsNotABoysName' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HannaIsNotABoysName'>Hanna Is Not a Boy's Name</a> <a class='urllink' href='http://hanna.aftertorque.com/?p=264'>pulls this off pretty well<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>.
+";i:552;s:1140:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Homestuck' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Homestuck'>Homestuck</a></em> straddles this and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LemonyNarrator' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LemonyNarrator'>Lemony Narrator</a> &#8212; it's told in second person and usually clearly from a certain character's point of view, but sometimes comes across more of an omniscient narrator, particularly when it <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BreakingTheFourthWall' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BreakingTheFourthWall'>Breaks The Fourth Wall</a>. And either way, it is inevitably <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker'>very</a> <a class='urllink' href='http://www.mspaintadventures.com/?s=6&amp;p=002375'>sarcastic<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>.
+";i:553;s:24:"</li></ul><p></p></div>
+";i:554;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder8');">&nbsp;&nbsp;&nbsp;&nbsp; Web Original &nbsp;</div><div id="folder8" class="folder" isfolder="true" style="display:block;">
+";i:555;s:235:"<p></p><ul ><li> Most of the narrators in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MetroCityChronicles' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MetroCityChronicles'>Metro City Chronicles</a>.
+";i:556;s:973:"</li><li> Phase, in the webfiction <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhateleyUniverse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhateleyUniverse'>Whateley Universe</a></em>. Phase is a superpowered mutant rather than a PI, but in the stories in which she is the narrator, she is a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker'>snarky</a> commentator, very intellectual, well read, even for a teenager who has been to all the 'right' private schools, far too knowledgeable about food (even if she's spent her life as the heir to billions eating the finest food anywhere), and still associates with the other rich kids at the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperHeroSchool' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperHeroSchool'>Super Hero School</a> Whateley Academy.
+";i:557;s:286:"<ul ><li> Oh, and she seemingly reads <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TVTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TVTropes'>TV Tropes</a>. "Xanatos Gambit?" "Xanatos Gambit." And has an intelligence network that the CIA would envy.
+";i:558;s:128:"</li><li> Chaka has a snarky observation for many a situation. She's a lot more easy-going than Phase, though. Most people are.
+";i:559;s:321:"</li></ul></li><li> Gaven Morren of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheTaleOfTheExile' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheTaleOfTheExile'>The Tale Of The Exile</a></em> is this, being partially based on Garret from the Thief series mentioned above.
+";i:560;s:589:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Machinima/FreemansMind' title='http://tvtropes.org/pmwiki/pmwiki.php/Machinima/FreemansMind'>Freeman's Mind</a></em> turns the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SilentProtagonist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SilentProtagonist'>Silent Protagonist</a> of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HalfLife' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HalfLife'>Half-Life</a></em> into a snarky, sarcastic sociopath.
+";i:561;s:17:"</li></ul></div>
+";i:562;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder9');">&nbsp;&nbsp;&nbsp;&nbsp; Real Life&nbsp;</div><div id="folder9" class="folder" isfolder="true" style="display:block;">
+";i:563;s:203:"<p></p><ul ><li> <em>Everyone</em> is this to some degree, from their own points of view. Admit it, every now and then, <em>you've</em> come up with some sort of snide or sarcastic comment in your head.
+";i:564;s:24:"</li></ul><p></p></div>
+";i:565;s:7:"<hr />
+";i:566;s:89:"<div class='indent'> And now you're expecting something <em>funny</em> here, aren't you?
+";i:567;s:2564:"</div><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/FirstPersonPerspective">First Person Perspective</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/NarratorTropes">Narrator Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/GenderNeutralNarrator">Gender Neutral Narrator</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/FilmNoir">Film Noir</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/UrbanFantasyTropes">Urban Fantasy Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PrivateEyeMonologue">Private Eye Monologue</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/DisabledSnarker">Disabled Snarker</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/OhGreatASnarkIndex">Oh Great, a Snark Index</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/FlatScare">Flat Scare</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/SelfDemonstrating/FinnegansWake">Finnegans Wake</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SelfDemonstratingArticle">Self-Demonstrating Article</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Literature/FlowersForAlgernon">Flowers for Algernon</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheFettered">The Fettered</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Heroes">Heroes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/FolkHero">Folk Hero</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:568;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:569;s:10:"<p> </p>
+";i:570;s:10:"<center>
+";i:571;s:2:"
+";i:572;s:24:"<!-- med rectangle -->
+";i:573;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:574;s:33:"<script type='text/javascript'>
+";i:575;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:576;s:11:"</script>
+";i:577;s:8:"</div>
+";i:578;s:2:"
+";i:579;s:11:"</center>
+";i:580;s:24:"</td><!-- wikibody -->
+";i:581;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:582;s:7:"</td>
+";i:583;s:7:"</tr>
+";i:584;s:10:"</table>
+";i:585;s:22:"<!--PageFooterFmt-->
+";i:586;s:126:"<div class="alt_title" style="font-size:x-small;text-align:center;" ><b>alternative title(s):</b> First Person Snarker</div>
+";i:587;s:10:"<center>
+";i:588;s:44:"<table style="width:606px;margin:0 auto;">
+";i:589;s:7:"	<tr>
+";i:590;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:591;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:592;s:268:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FirstPersonSmartass?action=edit'> edit page</a></div></div></td>
+";i:593;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:594;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:595;s:8:"	</tr>
+";i:596;s:10:"</table>
+";i:597;s:11:"</center>
+";i:598;s:21:"<div id='wikifoot'>
+";i:599;s:27:"    <div class='footnav'>
+";i:600;s:2:"
+";i:601;s:14:"			 <center>
+";i:602;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:603;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:604;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:605;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:606;s:15:"				</center>
+";i:607;s:2:"
+";i:608;s:29:"    </div><!-- wikifoot -->
+";i:609;s:23:"<!--/PageFooterFmt-->
+";i:610;s:12:"64629<br/>
+";i:611;s:3:"0
+";i:612;s:8:"</div>
+";i:613;s:26:"</div><!-- container -->
+";i:614;s:2:"
+";i:615;s:9:"</body>
+";i:616;s:21:"<!--ScriptInsert-->
+";i:617;s:9:"</html>
+";}}

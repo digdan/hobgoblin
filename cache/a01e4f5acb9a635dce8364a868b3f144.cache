@@ -1,0 +1,594 @@
+a:2:{i:0;i:1377888918;i:1;a:593:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:66:"<title>The Antichrist - Television Tropes &amp; Idioms  </title>
+";i:5;s:133:"<meta name="Description" content="The The Anti Christ trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:10:"</style>
+";i:25;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:26;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:27;s:33:"<script type="text/javascript">
+";i:28;s:26:"  var _gaq = _gaq || [];
+";i:29;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:30;s:34:"  _gaq.push(['_trackPageview']);
+";i:31;s:2:"
+";i:32;s:17:"  (function() {
+";i:33;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:34;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:35;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:36;s:9:"  })();
+";i:37;s:2:"
+";i:38;s:32:"	function subpage(sel, title){
+";i:39;s:4:"		
+";i:40;s:40:"		var namespce = ""+getselection(sel);
+";i:41;s:34:"		if(namespce.trim()=="")return;
+";i:42;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:43;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:44;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:45;s:29:"		window.location.href=url;
+";i:46;s:4:"	}
+";i:47;s:32:"	function p5(groupname,title){
+";i:48;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:49;s:4:"	}
+";i:50;s:27:"	function togglenote(id){
+";i:51;s:23:"		var ele=object(id);
+";i:52;s:34:"		var state = ele.style.display;
+";i:53;s:49:"		if(state=='none') ele.style.display='inline';
+";i:54;s:48:"		if(state=='inline')ele.style.display='none';
+";i:55;s:4:"	}
+";i:56;s:35:"	var googletag = googletag || {};
+";i:57;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:58;s:16:"	(function() {
+";i:59;s:47:"	var gads = document.createElement('script');
+";i:60;s:21:"	gads.async = true;
+";i:61;s:33:"	gads.type = 'text/javascript';
+";i:62;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:63;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:64;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:65;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:66;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:67;s:8:"	})();
+";i:68;s:2:"
+";i:69;s:34:"	googletag.cmd.push(function() {
+";i:70;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:71;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:73;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:74;s:45:"		googletag.pubads().enableSingleRequest();
+";i:75;s:31:"		googletag.enableServices();
+";i:76;s:6:"	});
+";i:77;s:2:"
+";i:78;s:11:"</script>
+";i:79;s:2:"
+";i:80;s:9:"</head>
+";i:81;s:8:"<body>
+";i:82;s:40:"<div class="container" id="container">
+";i:83;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:84;s:6:"<tr>
+";i:85;s:46:"<td style="width:166px;vertical-align:top;">
+";i:86;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:87;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:88;s:38:"<g:plusone size="small"></g:plusone>
+";i:89;s:2:"
+";i:90;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:91;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:92;s:6:"<ul>
+";i:93;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:94;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:95;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:96;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:97;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:98;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:99;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:100;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:101;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:102;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:103;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:104;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:105;s:7:"</ul>
+";i:106;s:8:"</div>
+";i:107;s:2:"
+";i:108;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:109;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:110;s:2:"
+";i:111;s:184:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','TheAntiChrist');">send request</button><hr/></div>
+";i:112;s:2:"
+";i:113;s:325:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="TheAntiChrist" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:114;s:2:"
+";i:115;s:51:"<div style="font-size:small;text-align:center;" >
+";i:116;s:30:"Find recent edits by troper:
+";i:117;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:118;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:119;s:8:"</div>
+";i:120;s:7:"<hr/>
+";i:121;s:7:"<ul>	
+";i:122;s:4:"		
+";i:123;s:7:"<hr/>
+";i:124;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:125;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:126;s:62:"		<input type="hidden" name="title" value="TheAntiChrist" />
+";i:127;s:54:"		This article needs some moderator assistance with:
+";i:128;s:9:"		<br/>
+";i:129;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:130;s:9:"		<br/>
+";i:131;s:4:"		
+";i:132;s:34:"		<p style="text-align:center;">
+";i:133;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:134;s:8:"		</p>
+";i:135;s:34:"		<p style="text-align:center;">
+";i:136;s:48:"			<input type="submit" value="send report" />
+";i:137;s:8:"		</p>
+";i:138;s:11:"		</form>
+";i:139;s:7:"<hr/>
+";i:140;s:6:"<ul>
+";i:141;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:142;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:143;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:144;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:145;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:146;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:147;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:148;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:149;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:150;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:151;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:152;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:153;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:154;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:155;s:142:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.TheAntiChrist'>Referral Count for This Page</a></li>
+";i:156;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:157;s:117:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=TheAntiChrist'>Article Relationships</a></li> -->
+";i:158;s:103:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.TheAntiChrist'>Folderize</a></li>
+";i:159;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:160;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:161;s:7:"</ul>
+";i:162;s:8:"	<hr/>
+";i:163;s:6:"<ul>
+";i:164;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:165;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:166;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:167;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:168;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:169;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:170;s:7:"</ul>
+";i:171;s:7:"<hr/>
+";i:172;s:2:"
+";i:173;s:8:"</div>
+";i:174;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:175;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:176;s:8:"		<ul>
+";i:177;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:178;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:179;s:9:"		</ul>
+";i:180;s:8:"</div>
+";i:181;s:10:"<center>
+";i:182;s:34:"		<div style="margin-top:4px;">	
+";i:183;s:5:"			
+";i:184;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:185;s:33:"<script type='text/javascript'>
+";i:186;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:187;s:98:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/TheAntiChrist");
+";i:188;s:11:"</script>
+";i:189;s:8:"</div>
+";i:190;s:2:"
+";i:191;s:11:"		</div>	
+";i:192;s:10:"		<div>	
+";i:193;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:194;s:6:"		 	
+";i:195;s:4:"		
+";i:196;s:4:"		
+";i:197;s:10:"		</div>
+";i:198;s:357:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Film/TheAntiChrist">Film</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/TheAntiChrist">Laconic</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAntiChrist">Main</a><br/><a href="http://tvtropes.org/pmwiki/pmwiki.php/Quotes/TheAntiChrist">Quotes</a><br/>
+";i:199;s:9:"		<div>
+";i:200;s:10:"		</div>
+";i:201;s:36:"		<div style="font-size:x-small;">
+";i:202;s:11:"				<hr/>
+";i:203;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:204;s:14:"				<p> </p>
+";i:205;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:206;s:13:"				<p></p>
+";i:207;s:11:"				<ul >
+";i:208;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:209;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:210;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:211;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:212;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:213;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:214;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:215;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:216;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:217;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:219;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:220;s:11:"				</li>
+";i:221;s:11:"				</ul>
+";i:222;s:13:"				<p></p>
+";i:223;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:224;s:13:"				<p></p>
+";i:225;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:226;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:227;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:228;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:229;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:230;s:6:"				
+";i:231;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:232;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:233;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:234;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:235;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:236;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:237;s:6:"				
+";i:238;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:239;s:16:"				</li></ul>
+";i:240;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:241;s:13:"				<p></p>
+";i:242;s:11:"				<ul >
+";i:243;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:244;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:245;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:246;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:247;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:248;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:249;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:250;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:251;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:252;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:253;s:6:"				
+";i:254;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:255;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:256;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:257;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:258;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:259;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:260;s:6:"				
+";i:261;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:262;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:263;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:264;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:265;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:266;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:268;s:11:"				</li>
+";i:269;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:270;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:271;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:272;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:273;s:6:"				
+";i:274;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:275;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:276;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:278;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:279;s:16:"				</li></ul>
+";i:280;s:6:"				
+";i:281;s:13:"				<p></p>
+";i:282;s:39:"				<strong>Other Categories</strong>
+";i:283;s:13:"				<p></p>
+";i:284;s:10:"				<ul>
+";i:285;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:286;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:287;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:288;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:289;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:290;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:291;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:292;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:293;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:294;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:295;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:296;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:297;s:11:"				</ul>
+";i:298;s:11:"		</div>	
+";i:299;s:11:"</center>
+";i:300;s:2:"
+";i:301;s:30:"</div> <!-- wikileftpage -->
+";i:302;s:7:"</td>
+";i:303;s:20:"<td id='wikibody'>
+";i:304;s:2:"
+";i:305;s:21:"<!--PageTitleFmt-->
+";i:306;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:307;s:12:"    		<tr>
+";i:308;s:38:"    		<td id="wikicmds" align="top">
+";i:309;s:8:"    		
+";i:310;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:311;s:45:"    				<tr style="vertical-align:middle;">
+";i:312;s:31:"    					<td align="center" >
+";i:313;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:314;s:16:"    					</td>
+";i:315;s:15:"    				<td >
+";i:316;s:37:"    					<div style="width:400px;">
+";i:317;s:28:"                  <center>
+";i:318;s:27:"                  <table>
+";i:319;s:24:"                  <tr>
+";i:320;s:24:"                  <td>
+";i:321;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:322;s:27:"                    <div>
+";i:323;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:324;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:325;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:326;s:64:"                      <input type="text" name="q" size="31" />
+";i:327;s:28:"                    </div>
+";i:328;s:27:"                  </form>
+";i:329;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:330;s:25:"                  </td>
+";i:331;s:24:"                  <td>
+";i:332;s:46:"                  <div class="buttonframe" >
+";i:333;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:334;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:335;s:26:"                  </div>
+";i:336;s:25:"                  </div
+";i:337;s:25:"                  </td>
+";i:338;s:25:"                  </tr>
+";i:339;s:28:"                  </table>
+";i:340;s:29:"                  </center>
+";i:341;s:17:"    					</div>
+";i:342;s:15:"    				</td>
+";i:343;s:15:"    				</tr>
+";i:344;s:16:"    		</table>
+";i:345;s:8:"    		
+";i:346;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:347;s:10:"    				
+";i:348;s:27:"    				<tr valign="top">
+";i:349;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:350;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:351;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:352;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:353;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:354;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:355;s:15:"    				</tr>
+";i:356;s:10:"    				
+";i:357;s:10:"    				
+";i:358;s:8:"    		
+";i:359;s:16:"    		</table>
+";i:360;s:8:"    		
+";i:361;s:28:"    		<div id="wikilogo" >
+";i:362;s:16:"    		<center>
+";i:363;s:2:"
+";i:364;s:22:"<!-- leaderboard -->
+";i:365;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:366;s:33:"<script type='text/javascript'>
+";i:367;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:368;s:11:"</script>
+";i:369;s:8:"</div>
+";i:370;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:371;s:28:"    					<tr valign="top">
+";i:372;s:335:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'TheAntiChrist');" autocomplete="off"  style="width:50px;"><option> </option><option value="Film">Film</option><option value="Laconic">Laconic</option><option value="Main">Main</option><option value="Quotes">Quotes</option></select></td>
+";i:373;s:268:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAntiChrist?action=source" >source</a></div></div></td>
+";i:374;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:375;s:269:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.TheAntiChrist">history</a></div></div></td>
+";i:376;s:271:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAntiChrist?action=edit'> edit page</a></div></div></td>
+";i:377;s:267:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/TheAntiChrist" >related</a></div></div></td>
+";i:378;s:38:"    							<td valign="middle"></td>
+";i:379;s:16:"    					</tr>
+";i:380;s:18:"    				</table>
+";i:381;s:10:"    				
+";i:382;s:35:"    				<div id="watchmsg"></div>
+";i:383;s:18:"    			</center>
+";i:384;s:13:"    		</td>
+";i:385;s:12:"     </tr>
+";i:386;s:6:"    
+";i:387;s:11:"    	<tr>
+";i:388;s:39:"    		<td id="wikititle" colspan="2">
+";i:389;s:40:"    				<div class="namespacebuttons">
+";i:390;s:1347:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments"  style="border-width:2px;border-color:silver;margin-right:2px;" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.TheAntiChrist" >&nbsp;Discussion </a></li> <li class="namespace_li Quotes" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Quotes/TheAntiChrist" class="textcolor">&nbsp;Quotes&nbsp;</a> </li> <li class="namespace_li Film" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Film/TheAntiChrist" class="textcolor">&nbsp;Film&nbsp;</a> </li> <li class="namespace_li Laconic" style="border-width:2px;margin-right:2px;border-color:silver;"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Laconic/TheAntiChrist" class="textcolor">&nbsp;Laconic&nbsp;</a> </li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=TheAntiChrist" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/TheAntiChrist" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:391;s:16:"    				</div>
+";i:392;s:26:"    				<!--RepairBug-->
+";i:393;s:10:"    				
+";i:394;s:34:"    				<div class='pagetitle'> 
+";i:395;s:41:"    						  <span>The Antichrist</span>
+";i:396;s:16:"    				</div>
+";i:397;s:11:"    				 
+";i:398;s:13:"    		</td>
+";i:399;s:12:"    	</tr>
+";i:400;s:10:"</table>
+";i:401;s:2:"
+";i:402;s:16:"<!--PageText-->
+";i:403;s:20:"<div id='wikitext'>
+";i:404;s:1:"
+";i:405;s:1:"
+";i:406;s:1:"
+";i:407;s:315:"<div class="quoteright" style="width:274px;" ><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheOmen' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheOmen'><img src='http://static.tvtropes.org/pmwiki/pub/images/antichrist01_6762.png' class='embeddedimage' border='0' alt='' /></a></div>
+";i:408;s:323:"<div class="acaptionright" style="width:274px;" >He'll grow up to destroy the world. Or just <a class='urllink' href='http://en.wikipedia.org/wiki/Cross_of_St._Peter#In_Christianity'>become Pope<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>.</div>
+";i:409;s:539:"<p></p><div class='indent'><strong>Anti-Christ:</strong> Condemn them, Mother, for they know exactly what they do! <br /><strong>Stan</strong>: Uh, I'm-I'm sorry, what does that mean? <br /><strong>Anti-Christ</strong>: You know, it's the opposite of, '<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AsTheGoodBookSays' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AsTheGoodBookSays'>Forgive them, Father, for they know not what they do</a>.' Hello? I'm the Anti-Christ! I'm the opposite of Jesus in every way!"
+";i:410;s:237:"<div class='indent'><em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AmericanDad' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AmericanDad'>American Dad</a></em>, "Rapture's Delight"
+";i:411;s:511:"</div><p></p></div><div class='indent'><em><strong>For the movie, see <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Antichrist' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Antichrist'>Antichrist</a>. As for the book by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/FriedrichNietzsche' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/FriedrichNietzsche'>Friedrich Nietzsche</a>...erm, give us some more time to get back to you on that.</strong></em>
+";i:412;s:604:"</div><p></p>The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkMessiah' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkMessiah'>Dark Messiah</a> may claim to be <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MessianicArchetype' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MessianicArchetype'>the Messiah/Saviour</a>, but the Antichrist is the real deal... just for the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LegionsOfHell' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LegionsOfHell'>Legions Of Hell</a>.
+";i:413;s:1575:"<p></p>He is not <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkIsNotEvil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkIsNotEvil'>dark but misunderstood</a>, with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WellIntentionedExtremist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WellIntentionedExtremist'>good intentions albeit at high costs</a>. What he wants is to bring about <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEndOfTheWorldAsWeKnowIt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEndOfTheWorldAsWeKnowIt'>The End of the World as We Know It</a> so that the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DystopiaJustifiesTheMeans' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DystopiaJustifiesTheMeans'>evil can inherit the Earth</a>. By force. Prefers <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralEventHorizon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralEventHorizon'>eating</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KickTheDog' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KickTheDog'>puppies</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BurnTheOrphanage' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BurnTheOrphanage'>setting fire</a> to orphanages <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ForTheEvulz' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ForTheEvulz'>when bored</a>.
+";i:414;s:2611:"<p></p>This is a guy so far up the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SortingAlgorithmOfEvil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SortingAlgorithmOfEvil'>Sorting Algorithm of Evil</a> that there's not likely to be a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeusExMachina' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeusExMachina'>Deus ex Machina</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoodIsImpotent' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoodIsImpotent'>capable</a> of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DevilButNoGod' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DevilButNoGod'>stopping him</a> (yeah, for some reason <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Satan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Satan'>Satan</a> has his heart set on a boy), so the heroes likely have to race to stop him from either <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SealedEvilInACan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SealedEvilInACan'>being released</a>, being born, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DangerousSixteenthBirthday' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DangerousSixteenthBirthday'>coming of age</a>, or <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DemonicPossession' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DemonicPossession'>demonically possessing someone</a>. Often, the consideration is that the vessel and the messiah are <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OurSoulsAreDifferent' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OurSoulsAreDifferent'>different entities,</a> and killing the bad <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IDidWhatIHadToDo' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IDidWhatIHadToDo'>also kills the innocent</a>...and if they do catch him before he starts putting his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StoryBoardingTheApocalypse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StoryBoardingTheApocalypse'>storyboards to film</a>, they <em>still</em> have to kill an innocent (if only because he hadn't had time to do the bad stuff yet). Expect a lot of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NumberOfTheBeast' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NumberOfTheBeast'>666</a> motifs.
+";i:415;s:467:"<p></p>If the writer likes <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Irony' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Irony'>irony</a>, the antichrist will take after their dad...And be a rebel, disliking the whole "destroy the Earth" shtick and becoming an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiAntichrist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiAntichrist'>Anti Antichrist</a>.
+";i:416;s:1153:"<p></p>This trope is an integral part of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligiousHorror' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligiousHorror'>Religious Horror</a>. If the Antichrist is unaware of or resistant to their fate as the Destroyer of All, s/he is the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ApocalypseMaiden' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ApocalypseMaiden'>Apocalypse Maiden</a>. If s/he actively tries to fight <em>against</em> the forces of evil, it's the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiAntichrist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiAntichrist'>Anti Antichrist</a>. Chances are that the antichrist will pose as <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheUbermensch' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheUbermensch'>The Übermensch</a>, and will almost certainly be a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkMessiah' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkMessiah'>Dark Messiah</a>.
+";i:417;s:728:"<p></p>Note that while the actual description of the antichrist in Christianity is not very well defined, it doesn't follow this trope very much. Mostly, the antichrist is a false prophet who is attempting to undermine the faith of Christians and slowly pervert their teaching. While he appears before the apocalypse, he is more like the chief of propaganda of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Hell' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Hell'>Hell</a>, and does not direct, or even participate, in the end of the world. In fact, Jesus Christ himself defines "antichrist" as anyone who believes that Christ is incorrect, with "anti-" being used in the same way as "anti-Semite."
+";i:418;s:321:"<p></p>The end of the road for the Antichrist is normally <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GodIsEvil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GodIsEvil'>God Is Evil</a>. They can aim for that trope, but they will normally be given a final option before deciding their fate.
+";i:419;s:14:"<p></p><hr />
+";i:420;s:19:"<h1>Examples:</h1>
+";i:421;s:122:"<p></p><div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:422;s:191:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp;Anime and Manga&nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:423;s:420:"<ul ><li> Punie from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaiMahouTouge' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DaiMahouTouge'>Dai Mahou Touge</a>.</em> This becomes increasingly obvious as the series progresses. <span class="spoiler" title="you can set spoilers visible by default on your profile" > Her mom was basically this for Magical Land, and she succeeded.</span>
+";i:424;s:707:"</li><li> Lucy from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ElfenLied' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ElfenLied'>Elfen Lied</a></em> is a near-literal example because not only is she superpowered but has <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BiblicalMotifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BiblicalMotifs'>horns and her name is the female version of Lucifer, a demon</a>, and wants to wipe out the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OmnicidalManiac' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OmnicidalManiac'>human race</a> and replace it all with her species.
+";i:425;s:758:"</li><li> Yuji Sakai from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShakuganNoShana' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShakuganNoShana'>Shakugan no Shana</a></em> after merging with the Snake of the Festival, but <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkIsNotEvil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkIsNotEvil'>subverts it</a> because his motive is to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SaveTheWorld' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SaveTheWorld'>Save The World</a> by means of creating a duplicate world where the Denizens can live without consuming humans to survive so he can live with Shana in peace.
+";i:426;s:790:"</li><li> Mistress 9 in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/SailorMoon' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/SailorMoon'>Sailor Moon</a></em>. Luckily, it's an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SlidingScaleOfIdealismVsCynicism' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SlidingScaleOfIdealismVsCynicism'>extremely idealistic show.</a> The outer Senshi also confuse her for Sailor Saturn (whose body she's using) and attempt to prevent her from awakening as a result. Saturn is actually a beneficial version of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ApocalypseMaiden' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ApocalypseMaiden'>Apocalypse Maiden</a>.
+";i:427;s:1307:"</li><li> Griffith from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Berserk' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Berserk'>Berserk</a></em> is more of a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkMessiah' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkMessiah'>Dark Messiah</a>, but still counts as he is a demon god who has come back to the physical plane so that he can become a king, and <strike>is apparently going to bring</strike> <span class="spoiler" title="you can set spoilers visible by default on your profile" >has just brought</span> about an Age of Darkness. Guts also technically counts, as he's vowed to kill Griffith, who has been acknowledged by the equivalent of the Pope as <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMessiah' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMessiah'>The Messiah</a> - but this is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkIsNotEvil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkIsNotEvil'>actually a good thing</a>, due to the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GodIsEvil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GodIsEvil'>flipped perspective</a>.
+";i:428;s:428:"</li><li> Knives from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Trigun' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Trigun'>Trigun</a></em> probably counts. He wants to wipe out the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PunyEarthlings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PunyEarthlings'>human race</a> and replace it all with his "plant" kin.
+";i:429;s:616:"</li><li> Creed from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/BlackCat' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/BlackCat'>Black Cat</a></em> uses nanomachines to <span class="spoiler" title="you can set spoilers visible by default on your profile" > become immortal and, as he says it, a "God"</span>. His goal? To wipe out all the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Muggles' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Muggles'>humans who don't have superpowers</a> and create a society where he and Train can rule the "worthy".
+";i:430;s:393:"</li><li> Johan from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/Monster' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/Monster'>Monster</a></em> is compared with the anti-christ. Repeatedly. And appears to enjoy the comparison. One character, a drunk, even once sees him as a giant multi-headed dragon monster, much like the Biblical Dragon of Revelation.
+";i:431;s:947:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Beelzebub' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Beelzebub'>Beelzebub</a></em>, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Delinquent' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Delinquent'>Delinquent</a> main character, Oga Tatsumi, is forced to raise baby Be'el, the Son of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Satan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Satan'>Satan</a>, into a powerful demon lord whose destiny is to destroy the world. A side effect of the bond they now share is that the more Oga fights, the more demonic <em>he</em> becomes. Incredibly enough, this is (mostly) <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayedForLaughs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PlayedForLaughs'>Played for Laughs</a>.
+";i:432;s:248:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RaveMaster' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RaveMaster'>Rave Master</a></em>'s Lucia, who was primed by the universe itself to destroy the world.
+";i:433;s:17:"</li></ul></div>
+";i:434;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp;Comic Books&nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:435;s:521:"<ul ><li> The "Son of Man" storyline in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/Hellblazer' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/Hellblazer'>Hellblazer</a></em> has a demon that John used in a faux-resurrection (then promptly got the fuck away from, as the corpse's father was one of the most dangerous mobsters in London) plot to bring about the birth of a messiah for Hell (because, as he reasons, Heaven is so popular on Earth because they <em>proved it</em>).
+";i:436;s:714:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/Hellboy' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/Hellboy'>Hellboy</a> in both continuities and Nuada in <em>Hellboy II.</em> Luckily, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiAntiChrist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiAntiChrist'>Hellboy is fervently opposed to bringing about the apocalypse</a>, but then again, he's just one dead love interest away from the necessary <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperPowerMeltdown' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperPowerMeltdown'>Super Power Meltdown</a>...
+";i:437;s:705:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JohnnyTheHomicidalManiac' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JohnnyTheHomicidalManiac'>Johnny the Homicidal Maniac</a></em> - <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/Squee' title='http://tvtropes.org/pmwiki/pmwiki.php/ComicBook/Squee'>Squee</a></em> has this in the form of Pepito, who announces within his class that he is the Antichrist and goes so far as to use his powers. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BystanderSyndrome' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BystanderSyndrome'>Nobody gives a flying fook.</a>
+";i:438;s:141:"<ul ><li> Plus, he consider Squee to be his friend, and saves his life at least once. This does nothing to help Squee's neuroses, of course.
+";i:439;s:807:"</li></ul></li><li> Turns out, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GreenLantern' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GreenLantern'>Green Lantern</a>'s old <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HarmlessVillain' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HarmlessVillain'>Harmless Villain</a> Black Hand is a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NotSoHarmlessVillain' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NotSoHarmlessVillain'>Not So Harmless Villain</a>. In fact, he's the destined leader of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ZombieApocalypse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ZombieApocalypse'>Zombie Apocalypse</a>.
+";i:440;s:637:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MarvelComics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MarvelComics'>Marvel Comics</a>' <em>Son of Satan</em>, Damon Hellstrom, AKA Damien Hellstorm...yeah, you can imagine. He's an extremely conflicted individual and he's got some serious daddy issues. And you wouldn't believe what a bitch his sister is, don't get this guy started. All in all, a force for good in spite of his heritage, but he's still painfully aware that if he doesn't remain constantly vigilant, he will raise the infernal horde and bring ruin to the earth. Nice guy, though.
+";i:441;s:890:"</li><li> The Antichrist, also known as the Moonchild, is the main threat in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LeagueOfExtraordinaryGentlemen' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LeagueOfExtraordinaryGentlemen'>League of Extraordinary Gentlemen</a>'s</em> Century arc. In <em>Century: 2009</em>, he finally appears in a monstrous form that's covered with eyes and spurting magical power from every orifice. <span class="spoiler" title="you can set spoilers visible by default on your profile" > He's also <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HarryPotter' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HarryPotter'>Harry Potter</a>. Turns out all the exploits were <em>arranged</em>, to hide what Hogwarts was preparing him for. He is <em>extremely</em> pissed off about this.</span>
+";i:442;s:350:"<ul ><li> And while the League puts up a good fight, the Antichrist is ultimately defeated by <span class="spoiler" title="you can set spoilers visible by default on your profile" > <em>Mary Poppins</em></span>, who is strongly implied to be God <span class="spoiler" title="you can set spoilers visible by default on your profile" > herself</span>.
+";i:443;s:27:"</li></ul></li></ul></div>
+";i:444;s:180:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp;Film&nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:445;s:652:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheOmen' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheOmen'>The Omen</a></em> with Damien. Such an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NamesToRunAwayFromReallyFast' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NamesToRunAwayFromReallyFast'>innocent name.</a> This movie <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewerThanTheyThink' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewerThanTheyThink'>invented the idea that Damien was an evil name</a> &#8212; it's a saint's name, after all.
+";i:446;s:127:"<ul ><li> Actually Damien derived form the same Greek root that Demon derives from. So the writers knew what they where doing.
+";i:447;s:2080:"</li></ul></li><li> Although it might've been made only to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DuelingMovies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DuelingMovies'>pre-empt</a> the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LeftBehind' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LeftBehind'>Left Behind</a></em> movie, the movie <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheOmegaCode' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheOmegaCode'>The Omega Code</a></em> offers a rare, somewhat sympathetic portrayal of the Antichrist. A rich philanthropist who's trying to exploit Biblical prophecy in a bid to rule the world, he actually does believe that he's doing <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WellIntentionedExtremist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WellIntentionedExtremist'>what's best for the world</a>, and intends to stop following the prophecies before things can go sour. Unfortunately, since the Biblical exegesis of <em>Left Behind</em>'s Tim LaHaye says that the Antichrist suffers a fatal head wound and is resurrected as a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSoulless' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSoulless'>soulless</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DemonicPossession' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DemonicPossession'>avatar of evil</a>, he loses all say in the matter after getting shot in the head. <br /> <br />The plot-hole filled prequel/sequel <em>Omega Code 2: Megiddo</em> shows that the Antichrist has been possessed by Satan since he was born. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnintentionallySympathetic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnintentionallySympathetic'>Any sympathy created in the first film's portrayal was probably accidental</a>; we were supposed to think he was pure evil all along.
+";i:448;s:165:"</li><li> Lead character Kirstie's son in <em>The Calling</em> turns out to be the son of the devil and the anti-christ, complete with resurrection and crucifixion.
+";i:449;s:240:"</li><li> Simon Magus in the Sci-Fi Channel film <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Soulkeeper' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Soulkeeper'>Soulkeeper</a></em> is described this way.
+";i:450;s:432:"</li><li> This is the nickname for the jeep in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheGodsMustBeCrazy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheGodsMustBeCrazy'>The Gods Must Be Crazy</a></em>. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AllegedCar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AllegedCar'>It really was that bad</a>. Ay ay ay ay ay.
+";i:451;s:207:"</li><li> Franco Maccalusso in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Apocalypse' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Apocalypse'>Apocalypse</a> film series.
+";i:452;s:1038:"</li><li> Palpatine from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StarWars' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StarWars'>Star Wars</a></em> is basically the antichrist of that setting (especially if you take the expanded universe into account). He's an <em>incredibly</em> powerful Sith Lord (even Yoda was no match for him) who, through years of plotting and manipulation, managed to exterminate the Jedi and set himself up as the ruler of the galaxy. In the expanded universe he even manages to come back to life multiple times using clone bodies, becoming more insane with each resurrection. Finally he is defeated for good when a Jedi master <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicSacrifice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeroicSacrifice'>heroically sacrifices</a> himself and, along with the spirits of other departed Jedi, drags Palpatine's spirit into the netherworld of the force (the Star Wars universe equivalent of Hell).
+";i:453;s:17:"</li></ul></div>
+";i:454;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp;Literature&nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:455;s:648:"<ul ><li> This is the job description of the Child of Dark in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Belgariad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Belgariad'>Belgariad</a></em> and <em>Malloreon</em> by David Eddings. It starts the first series in the body of Torak, God of Darkness, as it has since the beginning of the backstory. When Torak ends up on the wrong end of Iron-Grip's Sword, it changes hosts and picks up Zandramas for the second series before finally settling on <span class="spoiler" title="you can set spoilers visible by default on your profile" >Garion's son, Geran</span>.
+";i:456;s:750:"</li><li> A lighthearted take: Adam in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NeilGaiman' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NeilGaiman'>Neil Gaiman</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/TerryPratchett' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/TerryPratchett'>Terry Pratchett</a>'s <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/GoodOmens' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/GoodOmens'>Good Omens</a></em>. Who is also an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiAntichrist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiAntichrist'>Anti Antichrist</a>.
+";i:457;s:212:"</li><li> Nicolae Carpathia in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LeftBehind' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LeftBehind'>Left Behind</a></em> novels.
+";i:458;s:230:"</li><li> Christopher Goodman in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChristCloneTrilogy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChristCloneTrilogy'>Christ Clone Trilogy</a> novels.
+";i:459;s:393:"</li><li> Randall Flagg in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheStand' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheStand'>The Stand</a></em>. Not so much in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/TheDarkTower' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/TheDarkTower'>The Dark Tower</a></em>.
+";i:460;s:867:"<ul ><li> He winds up replaced by <span class="spoiler" title="you can set spoilers visible by default on your profile" >Roland's half-son, Mordred Deschain.</span> While he's built up as a super-powerful half-God that will destroy Roland and bring about the end of the multiverse for three and a half books, when he finally arrives, <span class="spoiler" title="you can set spoilers visible by default on your profile" >he is shown to a be a pitiful, hateful child who can barely survive in the wilderness and winds up being weakened enough by food poisoning for Roland (and Oy!) to bring him down</span>. Regardless, he does get points for <span class="spoiler" title="you can set spoilers visible by default on your profile" >killing and eating Flagg when the old and arrogant (key word: ARROGANT) wizard decides to try and use him to further his own ends.</span>
+";i:461;s:244:"</li></ul></li><li> Iscarius Alchemy, a resurrected Judas Iscariot in Matthew Dickens' <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Magnus' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Magnus'>Magnus</a></em>.
+";i:462;s:558:"</li><li> Averted in, of all things, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheBible' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheBible'>The Bible</a>. According to 1 John 2, "antichrist" refers to someone who either (A) claims to be a Christian but denies that Jesus is God, or (2) claims to be the Messiah (the Christ) but isn't Jesus. (Verse 18 says "even now many antichrists have come.") The charismatic world-ruler who is anointed by Satan to bring about the end of the world is nowhere to be found.
+";i:463;s:1120:"<ul ><li> The character does appear in Revelation, but is never referred to as the antichrist - only as the Beast (or the First Beast or the Beast from the Sea, in contrast to the Second Beast or the Beast from the Land, aka <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragon'>the False Prophet</a>). In fact a key feature of this beast is that it <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DefiedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DefiedTrope'>does not use any of the names found in the Bible</a></em> when it claims its divinity! Rather than being a prediction of some specific future ruler, however, many mainstream Christian scholars see the two Beasts as representing either one of the Roman emperors (probably Nero or <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EmperorCaligula' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EmperorCaligula'>Caligula</a>) and the religious-political establishment that supported him, or tyranny in general.
+";i:464;s:113:"<ul ><li> Also popular is the view that the Beast isn't a particular Roman emperor, but the Roman Empire itself.
+";i:465;s:161:"</li><li> Plus, there are more than two Beasts with important parts to play in Revelation. The First Beast and Second Beast are just a set that appear together.
+";i:466;s:558:"</li><li> There is, however, a character in 2. Thessalonians, the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NamesToRunAwayFromReallyFast' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NamesToRunAwayFromReallyFast'>Man of Lawlessness</a>, who fits the description rather well. Evangelical Christians identify him, along with the Revelation Beast and another character referred to in the Book of Daniel, with John's Antichrist. (That is, "the" Antichrist of verse 18, who the other "many [lesser] antichrists" are compared to.)
+";i:467;s:627:"</li></ul></li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Subverted' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Subverted'>Subverted</a> in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/NightWatch' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/NightWatch'>The Day Watch</a></em> - <span class="spoiler" title="you can set spoilers visible by default on your profile" >we are led to believe that Zabulon means to summon the antichrist, but it turns out that, that was just to distract everyone from his much more subtle scheme</span>.
+";i:468;s:349:"<ul ><li> <span class="spoiler" title="you can set spoilers visible by default on your profile" >It's not actually the antichrist but <em>merely</em> a dragon-mage. Besides, the main characters agree that even if Fafnir was resurrected, human technology has advanced to the point where they could, albeit with some difficulty, take him down</span>.
+";i:469;s:275:"</li></ul></li><li> The original human, Theo, in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheWarOfTheFlowers' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheWarOfTheFlowers'>The War Of The Flowers</a></em>, plays this role.
+";i:470;s:1054:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SergeyLukyanenko' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SergeyLukyanenko'>Sergey Lukyanenko</a>'s <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/SeekersOfTheSky' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/SeekersOfTheSky'>Seekers Of The Sky</a></em>, several characters wonder if <span class="spoiler" title="you can set spoilers visible by default on your profile" >Marcus</span> really is the second coming of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMessiah' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheMessiah'>Redeemer</a> or the Tempter, who is to come before the Redeemer and lead the world astray. However, one of the characters is a bishop who points out that the Church does not officially recognize the existence of the Tempter, as he is only mentioned in a non-canonical gospel. Privately, however, even the head of the Church is wondering the same thing.
+";i:471;s:1130:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheWheelOfTime' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheWheelOfTime'>The Wheel of Time</a></em>, Ishamael/Moridin plays this role, as he is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GodOfEvil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GodOfEvil'>the Dark One's</a> annointed champion and also the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilCounterpart' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilCounterpart'>Evil Counterpart</a> to the series <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MessianicArchetype' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MessianicArchetype'>Messianic Archetype</a>. It's heavily implied that his soul is reincarnated throughout history to serve as the Antichrist, similarly to aforementioned <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MessianicArchetype' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MessianicArchetype'>Messianic Archetype</a>.
+";i:472;s:603:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheAdversaryCycle' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheAdversaryCycle'>The Adversary Cycle</a></em>, Rasalom is actually much worse than this, but religious people often mistake him for it. Also, in Reborn, a group of religious people think <span class="spoiler" title="you can set spoilers visible by default on your profile" > Jim</span> is the Antichrist after learning that <span class="spoiler" title="you can set spoilers visible by default on your profile" > he's a clone.</span>
+";i:473;s:17:"</li></ul></div>
+";i:474;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp;Live-Action TV&nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:475;s:233:"<ul ><li> Christina Nickson in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PointPleasant' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PointPleasant'>Point Pleasant</a></em>, a rare female example.
+";i:476;s:592:"</li><li> From <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Supernatural' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Supernatural'>Supernatural</a></em>, <span class="spoiler" title="you can set spoilers visible by default on your profile" > Jesse. He's actually a fairly nice kid, and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiAntichrist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiAntichrist'>isn't really thrilled about the whole demon thing</a>. He goes into hiding to protect his adopted parents.</span>
+";i:477;s:314:"<ul ><li> Sam was called this by Gordon early in the series. At the time, Gordon was written off as a fanatical murderer, but the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StrawmanHasAPoint' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StrawmanHasAPoint'>Strawman Has a Point</a>.
+";i:478;s:406:"</li></ul></li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/OnlyFoolsAndHorses' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/OnlyFoolsAndHorses'>Only Fools And Horses</a></em>, Rodney suspects that Del Boy's son, Damien, is this, reading sinister undertones into everything he does. There is, of course, no indication that he's anything but an ordinary child.
+";i:479;s:645:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/AmericanHorrorStory' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/AmericanHorrorStory'>American Horror Story</a></em> has <span class="spoiler" title="you can set spoilers visible by default on your profile" > Michael, who is the product of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSociopath' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSociopath'>The Sociopath</a> ghost Tate raping the human Vivien. His birth is so brutal it kills Vivien and his twin brother. At three-years-old he murders his nanny</span>.
+";i:480;s:17:"</li></ul></div>
+";i:481;s:181:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp;Music&nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:482;s:1309:"<ul ><li> This trope is the central theme of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MarilynManson' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MarilynManson'>Marilyn Manson</a>'s <em>Antichrist Superstar</em>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SarcasmMode' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SarcasmMode'>surprisingly</a>. Interestingly, the protagonist of the album doesn't actually start out as the titular Antichrist: he evolves from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Woobie' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Woobie'>The Worm</a> to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Ubermensch' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Ubermensch'>The Little Horn</a>, and finally to the titular Antichrist, also known as <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OmnicidalManiac' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OmnicidalManiac'>The Distintegrator</a>, by becoming progressively more <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DespairEventHorizon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DespairEventHorizon'>disaffected</a> with the state of society.
+";i:483;s:353:"</li><li> "Damien" by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IcedEarth' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IcedEarth'>Iced Earth</a>, inspired by <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheOmen' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheOmen'>The Omen</a></em>.
+";i:484;s:252:"</li><li> Johnny Rotten claimed to be one in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSexPistols' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSexPistols'>The Sex Pistols</a>' song <em>"Anarchy In The U.K."</em>
+";i:485;s:17:"</li></ul></div>
+";i:486;s:198:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp;Professional Wrestling&nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:487;s:697:"<ul ><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TNA' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TNA'>TNA</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Wrestling/JeffHardy' title='http://tvtropes.org/pmwiki/pmwiki.php/Wrestling/JeffHardy'>Jeff Hardy</a> has referred to himself as this since his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FaceHeelTurn' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FaceHeelTurn'>Face Heel</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheReveal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheReveal'>Reveal</a> as part of Immortal.
+";i:488;s:327:"<ul ><li> Which lasted only about five months thanks to his most infamous screw-up to date and resulted in a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RedemptionQuest' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RedemptionQuest'>Redemption Quest</a> upon his return after another five months.
+";i:489;s:27:"</li></ul></li></ul></div>
+";i:490;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder7');">&nbsp;&nbsp;&nbsp;&nbsp;Tabletop Games&nbsp;</div><div id="folder7" class="folder" isfolder="true" style="display:block;">
+";i:491;s:524:"<ul ><li> The Vistani of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Ravenloft' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Ravenloft'>Ravenloft</a></em> have their own equivalent of the Antichrist, known as the Dukkar. A Vistani-blooded male born with the Sight, the Dukkar is foretold to destroy the Vistani people while freeing the darklords from their domains: a feat that may or may not cause the Land of Mists to collapse entirely, unleashing its trapped evils upon the multiverse.
+";i:492;s:1344:"<ul ><li> It's actually a bit more complicated than that: there have been at least two Dukkar already, each threatening the Land of Mists' status quo and the Vistani in his own way. The first wrote a series of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SelfFulfillingProphecy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SelfFulfillingProphecy'>SelfFulfillingProphecies</a> meant to sunder Ravenloft (which almost came to pass, and would have if not for the meddling of some Darklords who caused two of the prophecies to happen out of order... <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnwittingPawn' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UnwittingPawn'>Just As Planned</a>) and the second one is currently doing his damnedest to torture to death any and all Vistani he can lay his hands on, even if it means sending his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Mooks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Mooks'>mooks</a> to hunt them across the borders of other domains&#8212;which means the south-central Core is currently a political powderkeg. And since "stability" in the Core tends to be based on all the Darklords (pretty much all of them sociopaths) not paying much attention to anything outside of their own affairs...
+";i:493;s:1049:"</li></ul></li><li> Horus in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Warhammer40000' title='http://tvtropes.org/pmwiki/pmwiki.php/TabletopGame/Warhammer40000'>Warhammer 40000</a></em>, who initiated the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorusHeresy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorusHeresy'>Horus Heresy</a></em> which led to fully half of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperSoldier' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperSoldier'>Astartes Legions</a> going insane and creating the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrapsackWorld' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrapsackWorld'>current state of the galaxy</a>. He also nearly killed the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/God' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/God'>Emperor of Mankind</a>, who has not recovered in 10,000 years.
+";i:494;s:1107:"<ul ><li> The <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorusHeresy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorusHeresy'>Horus Heresy</a></em> series reveals that <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkMessiah' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DarkMessiah'>Lorgar</a> fits the trope much better. He's touched by the powers of Chaos during his creation much more than his brothers, is raised on a world ruled by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PathOfInspiration' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PathOfInspiration'>a church that worships Chaos</a>, and is the first to fall to the Ruinous Powers. His <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragon'>Dragon</a> Erebus is directly responsible for turning Horus into the monster he becomes. It's the sheer infamy of Horus's deeds that causes the Imperium to think of <em>him</em> as the Antichrist instead of Lorgar.
+";i:495;s:405:"</li><li> Horus's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragon'>Dragon</a> and possible clone son Abaddon the Despoiler has assumed Horus's mantle for most citizens of the Imperium. Really, only the Chaos Legions who knew him before he got famous think of him as anything less than the universe's Antichrist.
+";i:496;s:27:"</li></ul></li></ul></div>
+";i:497;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder8');">&nbsp;&nbsp;&nbsp;&nbsp;Video Games&nbsp;</div><div id="folder8" class="folder" isfolder="true" style="display:block;">
+";i:498;s:737:"<ul ><li> At this point, Sephiroth from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FinalFantasyVII' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FinalFantasyVII'>Final Fantasy VII</a></em> has finally morphed into the definitive video game icon of this. Being the Son of Jenova (a false alien God), being able to herald the Apocalypse (Meteor), and, finally, having armies of Devout Worshippers (the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Cult' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Cult'>Reunion</a>). Just for a kicker, he also comes back to life twice. The sequel film is even called <em>Advent Children</em> because Sephiroth does a Second Coming in it.
+";i:499;s:1464:"</li><li> The Demi-Fiend from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShinMegamiTenseiNocturne' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShinMegamiTenseiNocturne'>Shin Megami Tensei: Nocturne</a></em> was created with the potential to become the Antichrist, and not following any of the Reasons allows you to fulfill this potential to varying degrees. <span class="spoiler" title="you can set spoilers visible by default on your profile" >In the True Demon ending, you fulfill this trope to the letter by destroying all of Creation and becoming <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragon'>The Dragon</a> to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Satan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Satan'>Lucifer himself</a>, before leading the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LegionsOfHell' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LegionsOfHell'>Legions Of Hell</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RageAgainstTheHeavens' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RageAgainstTheHeavens'>to take on</a> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RageAgainstTheHeavens' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RageAgainstTheHeavens'>God</a></em>.</span>
+";i:500;s:419:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Castlevania' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Castlevania'>Castlevania</a></em> puts <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dracula' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dracula'>Dracula</a> here. You spend every game stomping him before he reaches full strength.
+";i:501;s:436:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Videogame/Halo' title='http://tvtropes.org/pmwiki/pmwiki.php/Videogame/Halo'>Halo</a></em>, this seems to be what the Covenant <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MookHorrorShow' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MookHorrorShow'>naturally see the Spartans as in general - Master Chief in particular.</a>
+";i:502;s:281:"<ul ><li> Even some human characters believe him to be some sort of monster, as dialogue in the comics and <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Halo4' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Halo4'>Halo 4</a></em> suggests.
+";i:503;s:659:"</li></ul></li><li> Gig from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SoulNomadAndTheWorldEaters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SoulNomadAndTheWorldEaters'>Soul Nomad & the World Eaters</a></em>, who was <span class="spoiler" title="you can set spoilers visible by default on your profile" >created from the dead soul of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheGrimReaper' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheGrimReaper'>Vigilance</a> by Drazil for the explicit purpose of killing everything in Haephnes, leaving Drazil as the only remaining world.</span>
+";i:504;s:725:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/InFamous' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/InFamous'>In Famous</a></em>, it turns out that <span class="spoiler" title="you can set spoilers visible by default on your profile" >the villain is actually the protagonist from a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadFuture' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadFuture'>Bad Future</a>, coming back in time to better prepare him for</span> the <span class="spoiler" title="you can set spoilers visible by default on your profile" ><em>actual</em></span> world-ending villain, who is called, of course, "the Beast."
+";i:505;s:1197:"</li><li> Omega in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MegaManZero' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MegaManZero'>Mega Man Zero</a></em>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AxCrazy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AxCrazy'>Ax Crazy</a> yet loyal <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragon'>Dragon</a> to Dr. Weil. Caused the demise of 75% of all sentient life (combined total of humans and reploids). Making things even more horrifying is that Omega is <span class="spoiler" title="you can set spoilers visible by default on your profile" >exactly what Dr. Wily intended Zero to be.</span> Sprinkle a little extra <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FridgeHorror' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FridgeHorror'>Fridge Horror</a> on there when the reveal is made that <span class="spoiler" title="you can set spoilers visible by default on your profile" >Omega is Zero's original body, meaning that Wily <em>succeeded</em>.</span>
+";i:506;s:519:"</li><li> Played with in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DevilSurvivor' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DevilSurvivor'>Devil Survivor</a></em>. <span class="spoiler" title="you can set spoilers visible by default on your profile" >The main character obtains the potential to become an antichrist and a demon king partway through the game. Depending on the ending you gun for, you may become it or choose to use that potential for other ends.</span>
+";i:507;s:1264:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/StreetFighterIII' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/StreetFighterIII'>Street Fighter III</a></em> has Gill, in a surprisingly closer form to the Biblical version than most. He says that he wants to take mankind to a promised land where they'll be protected from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEndOfTheWorldAsWeKnowIt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEndOfTheWorldAsWeKnowIt'>The End of the World as We Know It</a>, but considering how his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OddlySmallOrganization' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OddlySmallOrganization'>oddly small</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Cult' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Cult'>cult</a> engages in a lot of brainwashing, deception, genetic experimenting, forcing people's hand, and whatnot, and the fact that they're called <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheIlluminati' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheIlluminati'>The Illuminati</a> of all things, well…
+";i:508;s:847:"</li><li> <span class="spoiler" title="you can set spoilers visible by default on your profile" >Adachi</span> from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Persona4' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Persona4'>Persona 4</a></em> is a bit of an Antichrist. <span class="spoiler" title="you can set spoilers visible by default on your profile" >He is</span> a terrible person who hates the world and wants to end the age of man, masterminding the events of the game <span class="spoiler" title="you can set spoilers visible by default on your profile" >since the real mastermind didn't do anything other than give the means.</span> Even gets the shadows on <span class="spoiler" title="you can set spoilers visible by default on your profile" >his</span> side towards the end of the game.
+";i:509;s:425:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Lucius' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Lucius'>Lucius</a></em> has the antichrist as <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/VillainProtagonist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VillainProtagonist'>the protagonist</a></em>. It's essentially The Omen: The Game.
+";i:510;s:709:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheLegendOfZeldaSkywardSword' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheLegendOfZeldaSkywardSword'>The Legend of Zelda: Skyward Sword</a></em> puts longtime series antagonist Ganondorf as this. <span class="spoiler" title="you can set spoilers visible by default on your profile" >As he is the incarnation of the hatred of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GodOfEvil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GodOfEvil'>Demon King Demise</a> who has evil designs on the world and is forever destined to fight against all Links and Zeldas for eternity.</span>
+";i:511;s:17:"</li></ul></div>
+";i:512;s:193:"<p></p><div class="folderlabel" onclick="togglefolder('folder9');">&nbsp;&nbsp;&nbsp;&nbsp;Western Animation&nbsp;</div><div id="folder9" class="folder" isfolder="true" style="display:block;">
+";i:513;s:213:"<ul ><li> Damien from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SouthPark' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/SouthPark'>South Park</a></em>.
+";i:514;s:163:"<ul ><li> Cartman's "Critter Christmas" story involved a group of cute woodland animals who worship Satan attempting to give birth to the Antichrist on Christmas.
+";i:515;s:893:"</li></ul></li><li> Raven from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TeenTitans' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TeenTitans'>Teen Titans</a></em> is essentially the Antichrist, being the daughter of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Satan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Satan'>Trigon</a> and serving as <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEndOfTheWorldAsWeKnowIt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEndOfTheWorldAsWeKnowIt'>his portal to Earth</a>. However, she's an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiAntichrist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiAntichrist'>Anti Antichrist</a> in that she's completely unwilling and is opposed to her father.
+";i:516;s:269:"</li><li> A running joke through the first few seasons of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpaceGhostCoastToCoast' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpaceGhostCoastToCoast'>Space Ghost Coast to Coast</a></em>...
+";i:517;s:142:"<div class='indent'> <strong>Zorak:</strong> Space Ghost! I am the Lone Mantis of the Apocalypse. Think of me when you look to the night sky!
+";i:518;s:1006:"</div></li><li> The <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AmericanDad' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AmericanDad'>American Dad</a></em> episode "Rapture's Delight" depicts the Antichrist as a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LargeHam' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LargeHam'>Large Ham</a> akin to the Riddler from the 1960's <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Batman' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Batman'>Batman</a></em> live-action series. He claims to be the opposite of Jesus in every way (when the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTrap' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTrap'>Death Trap</a> he places Stan, Francine, and Jesus in breaks down, he claims that it's because Jesus is a master carpenter, thus making him "handy at nothing").
+";i:519;s:524:"</li><li> The titular character in "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LucyTheDaughterOfTheDevil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LucyTheDaughterOfTheDevil'>Lucy, the Daughter of the Devil</a>". Slightly subverted because she is a girl. She has an on again/off again relationship with DJ Jesus. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SarcasmMode' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SarcasmMode'>Wonder who that could be?</a>
+";i:520;s:556:"</li><li> <span class="spoiler" title="you can set spoilers visible by default on your profile" >Bart Simpson</span> in episode 20.13 of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheSimpsons' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheSimpsons'>The Simpsons</a></em>, "Gone Maggie Gone". The episode is a parody of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDaVinciCode' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDaVinciCode'>The Da Vinci Code</a>.
+";i:521;s:1000:"</li><li> The <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TransformersPrime' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TransformersPrime'>Transformers Prime</a></em> incarnation of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Megatron</a> has this going for him. He has necromancer-like abilities thanks to Dark Energon, made <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DoomedHometown' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DoomedHometown'>Cybertron</a> unsuitable for life, caused mass murder on Cybertron, plans to do the same thing on Earth, and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoOneCouldSurviveThat' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoOneCouldSurviveThat'>just when everyone thought he died when he was in a space bridge explosion</a>, he recovered.
+";i:522;s:307:"<ul ><li> He even thinks he's the Anti-<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrystalDragonJesus' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrystalDragonJesus'>Primus</a>, as he believed that a vision of coming darkness and the destruction of Earth was All About Him.
+";i:523;s:920:"</li></ul></li><li> On <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/UglyAmericans' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/UglyAmericans'>Ugly Americans</a>,</em> Callie is the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HalfHumanHybrid' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HalfHumanHybrid'>half-human</a> daughter of the current Devil. She is currently taking part in his plan to cause the Apocalypse, and it's sometimes been hinted that she could have a larger role (she once had recurring dreams of the world ending if she slept with Twayne). She's not particularly enthused by this, though, and seems unsure if she wants to be this or the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiAntiChrist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiAntiChrist'>Anti Anti Christ</a>.
+";i:524;s:17:"</li></ul></div>
+";i:525;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder10');">&nbsp;&nbsp;&nbsp;&nbsp;Webcomics&nbsp;</div><div id="folder10" class="folder" isfolder="true" style="display:block;">
+";i:526;s:379:"<ul ><li> Spatch and Spatch II from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RiceBoy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RiceBoy'>Rice Boy</a></em> are clear antichrists. The terms in their own world are false "fulfillers" &#8212; but they have the role. They manage to be pretty darn scary for simply drawn anthropomorphic frogs.
+";i:527;s:800:"<ul ><li> In part, the problem with the Spatches was that The One Electronic essentially created his own Antichrists; somewhere between <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OrderOfTales' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OrderOfTales'>Order of Tales</a></em> and <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RiceBoy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RiceBoy'>Rice Boy</a></em>, he started searching for some prophesied messiah, and each time he thought he'd found the one, he'd groom them to be this messiah he's seeking; unfortunately, Spatch started leveraging it for his own benefit and became corrupted by the cushy gig messiahdom had become. Spatch II inherited the title and his dad's attitude.
+";i:528;s:1006:"</li></ul></li><li> Played with in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SluggyFreelance' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SluggyFreelance'>Sluggy Freelance</a></em>: Apparently, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Satan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Satan'>Satan</a> is intent on fathering someone who would become the Antichrist, but offspring from human mothers just don't seem to be good enough. So, albeit on a drunken dare, he fathers a litter of 18 (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NumberOfTheBeast' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NumberOfTheBeast'>6+6+6</a>) Satanic kittens. They don't qualify as the Antichrist either, though, so they just become <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KillerRabbit' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KillerRabbit'>killer slasher kittens of doom</a>.
+";i:529;s:401:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Homestuck' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Homestuck'>Homestuck</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MakesJustAsMuchSenseInContext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MakesJustAsMuchSenseInContext'>Guy Fieri is the third and final Antichrist.</a>
+";i:530;s:17:"</li></ul></div>
+";i:531;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder11');">&nbsp;&nbsp;&nbsp;&nbsp;Web Original&nbsp;</div><div id="folder11" class="folder" isfolder="true" style="display:block;">
+";i:532;s:786:"<ul ><li> Mystic detective and monster-hunter Jonathan <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NamesToRunAwayFromReallyFast' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NamesToRunAwayFromReallyFast'>Brimstone</a> from the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GlobalGuardiansPBEMUniverse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GlobalGuardiansPBEMUniverse'>Global Guardians PBEM Universe</a></em>. His father is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Satan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Satan'>Lucifer Morningstar</a>. His mother a drug-addicted cultist. According to prophecy, he is destined to overthrow all goodness and light in his father's name.
+";i:533;s:398:"<ul ><li> Well, he would if he hadn't decided to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiAntichrist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiAntichrist'>give his father the bird</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ScrewDestiny' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ScrewDestiny'>and fight evil</a>.
+";i:534;s:608:"</li></ul></li><li> Sara Waite (aka Carmilla) of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhateleyUniverse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhateleyUniverse'>Whateley Universe</a>. The child of the demon lord Gothmog and a woman who is descended from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CthulhuMythos' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CthulhuMythos'>the Deep Ones</a>, she is prophesied to become The Kellith, which will wipe out humanity and replace it with her spawn. She's also one of the protagonists.
+";i:535;s:444:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheOnion' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheOnion'>The Onion</a>'s coverage of the <a class='urllink' href='http://www.theonion.com/section/royal-baby/'>royal baby<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> in 2013 depicts Kate Middleton's child as a full out demon.
+";i:536;s:17:"</li></ul></div>
+";i:537;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder12');">&nbsp;&nbsp;&nbsp;&nbsp;Real Life&nbsp;</div><div id="folder12" class="folder" isfolder="true" style="display:block;">
+";i:538;s:1026:"<ul ><li> While there are no <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealLife' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealLife'>Real Life</a> examples of this (please use the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RuleOfCautiousEditingJudgment' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RuleOfCautiousEditingJudgment'>Rule of Cautious Editing Judgment</a> here), you would be hard pressed to find an American President - or probably any major candidate in any predominantly christian country who wasn't accused of being this in disguise. In the fight for political votes, this is an easy way to sway some of the masses. Knowing Ceasar was accused of this means doing this is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OlderThanFeudalism' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OlderThanFeudalism'>Older Than Feudalism</a> - which means a LOT of leaders have been accused over the years who never panned out.
+";i:539;s:335:"<ul ><li> Cracked.com listed <a class='urllink' href='http://www.cracked.com/article_16970_5-world-leaders-who-were-accused-being-antichrist.html'>five world leaders many felt would be the antichrist<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>, but weren't.
+";i:540;s:27:"</li></ul></li></ul></div>
+";i:541;s:14:"<p></p><hr />
+";i:542;s:2402:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/WalkOnWater">Walk on Water</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Jesus">Jesus</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiAntiChrist">Anti Anti Christ</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Satan">Satan</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes">Religion Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiAntiChrist">Anti Anti Christ</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/AllLovingHero">All Loving Hero</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/BiblicalMotifs">Biblical Motifs</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ArchangelGabriel">Archangel Gabriel</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left">&nbsp;&nbsp;&nbsp;&nbsp;</td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/InfernalTropes">Infernal Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiAntiChrist">Anti Anti Christ</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/AntagonisticOffspring">Antagonistic Offspring</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Villains">Villains</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/AntiRoleModel">Anti Role Model</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:543;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:544;s:10:"<p> </p>
+";i:545;s:10:"<center>
+";i:546;s:2:"
+";i:547;s:24:"<!-- med rectangle -->
+";i:548;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:549;s:33:"<script type='text/javascript'>
+";i:550;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:551;s:11:"</script>
+";i:552;s:8:"</div>
+";i:553;s:2:"
+";i:554;s:11:"</center>
+";i:555;s:24:"</td><!-- wikibody -->
+";i:556;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:557;s:7:"</td>
+";i:558;s:7:"</tr>
+";i:559;s:10:"</table>
+";i:560;s:22:"<!--PageFooterFmt-->
+";i:561;s:117:"<div class="alt_title" style="font-size:x-small;text-align:center;" ><b>alternative title(s):</b> Anti Christ</div>
+";i:562;s:10:"<center>
+";i:563;s:44:"<table style="width:606px;margin:0 auto;">
+";i:564;s:7:"	<tr>
+";i:565;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:566;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:567;s:262:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAntiChrist?action=edit'> edit page</a></div></div></td>
+";i:568;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:569;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:570;s:8:"	</tr>
+";i:571;s:10:"</table>
+";i:572;s:11:"</center>
+";i:573;s:21:"<div id='wikifoot'>
+";i:574;s:27:"    <div class='footnav'>
+";i:575;s:2:"
+";i:576;s:14:"			 <center>
+";i:577;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:578;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:579;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:580;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:581;s:15:"				</center>
+";i:582;s:2:"
+";i:583;s:29:"    </div><!-- wikifoot -->
+";i:584;s:23:"<!--/PageFooterFmt-->
+";i:585;s:12:"69890<br/>
+";i:586;s:3:"1
+";i:587;s:8:"</div>
+";i:588;s:26:"</div><!-- container -->
+";i:589;s:2:"
+";i:590;s:9:"</body>
+";i:591;s:21:"<!--ScriptInsert-->
+";i:592;s:9:"</html>
+";}}

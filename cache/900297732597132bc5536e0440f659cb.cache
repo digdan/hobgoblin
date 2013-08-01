@@ -1,0 +1,617 @@
+a:2:{i:0;i:1377888496;i:1;a:616:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:66:"<title>Retro Universe - Television Tropes &amp; Idioms  </title>
+";i:5;s:132:"<meta name="Description" content="The Retro Universe trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:10:"</style>
+";i:25;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:26;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:27;s:33:"<script type="text/javascript">
+";i:28;s:26:"  var _gaq = _gaq || [];
+";i:29;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:30;s:34:"  _gaq.push(['_trackPageview']);
+";i:31;s:2:"
+";i:32;s:17:"  (function() {
+";i:33;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:34;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:35;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:36;s:9:"  })();
+";i:37;s:2:"
+";i:38;s:32:"	function subpage(sel, title){
+";i:39;s:4:"		
+";i:40;s:40:"		var namespce = ""+getselection(sel);
+";i:41;s:34:"		if(namespce.trim()=="")return;
+";i:42;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:43;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:44;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:45;s:29:"		window.location.href=url;
+";i:46;s:4:"	}
+";i:47;s:32:"	function p5(groupname,title){
+";i:48;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:49;s:4:"	}
+";i:50;s:27:"	function togglenote(id){
+";i:51;s:23:"		var ele=object(id);
+";i:52;s:34:"		var state = ele.style.display;
+";i:53;s:49:"		if(state=='none') ele.style.display='inline';
+";i:54;s:48:"		if(state=='inline')ele.style.display='none';
+";i:55;s:4:"	}
+";i:56;s:35:"	var googletag = googletag || {};
+";i:57;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:58;s:16:"	(function() {
+";i:59;s:47:"	var gads = document.createElement('script');
+";i:60;s:21:"	gads.async = true;
+";i:61;s:33:"	gads.type = 'text/javascript';
+";i:62;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:63;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:64;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:65;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:66;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:67;s:8:"	})();
+";i:68;s:2:"
+";i:69;s:34:"	googletag.cmd.push(function() {
+";i:70;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:71;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:73;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:74;s:45:"		googletag.pubads().enableSingleRequest();
+";i:75;s:31:"		googletag.enableServices();
+";i:76;s:6:"	});
+";i:77;s:2:"
+";i:78;s:11:"</script>
+";i:79;s:2:"
+";i:80;s:9:"</head>
+";i:81;s:8:"<body>
+";i:82;s:40:"<div class="container" id="container">
+";i:83;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:84;s:6:"<tr>
+";i:85;s:46:"<td style="width:166px;vertical-align:top;">
+";i:86;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:87;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:88;s:38:"<g:plusone size="small"></g:plusone>
+";i:89;s:2:"
+";i:90;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:91;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:92;s:6:"<ul>
+";i:93;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:94;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:95;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:96;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:97;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:98;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:99;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:100;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:101;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:102;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:103;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:104;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:105;s:7:"</ul>
+";i:106;s:8:"</div>
+";i:107;s:2:"
+";i:108;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:109;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:110;s:2:"
+";i:111;s:184:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','RetroUniverse');">send request</button><hr/></div>
+";i:112;s:2:"
+";i:113;s:325:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="RetroUniverse" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:114;s:2:"
+";i:115;s:51:"<div style="font-size:small;text-align:center;" >
+";i:116;s:30:"Find recent edits by troper:
+";i:117;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:118;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:119;s:8:"</div>
+";i:120;s:7:"<hr/>
+";i:121;s:7:"<ul>	
+";i:122;s:4:"		
+";i:123;s:7:"<hr/>
+";i:124;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:125;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:126;s:62:"		<input type="hidden" name="title" value="RetroUniverse" />
+";i:127;s:54:"		This article needs some moderator assistance with:
+";i:128;s:9:"		<br/>
+";i:129;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:130;s:9:"		<br/>
+";i:131;s:4:"		
+";i:132;s:34:"		<p style="text-align:center;">
+";i:133;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:134;s:8:"		</p>
+";i:135;s:34:"		<p style="text-align:center;">
+";i:136;s:48:"			<input type="submit" value="send report" />
+";i:137;s:8:"		</p>
+";i:138;s:11:"		</form>
+";i:139;s:7:"<hr/>
+";i:140;s:6:"<ul>
+";i:141;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:142;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:143;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:144;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:145;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:146;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:147;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:148;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:149;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:150;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:151;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:152;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:153;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:154;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:155;s:142:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.RetroUniverse'>Referral Count for This Page</a></li>
+";i:156;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:157;s:117:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=RetroUniverse'>Article Relationships</a></li> -->
+";i:158;s:103:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.RetroUniverse'>Folderize</a></li>
+";i:159;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:160;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:161;s:7:"</ul>
+";i:162;s:8:"	<hr/>
+";i:163;s:6:"<ul>
+";i:164;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:165;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:166;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:167;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:168;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:169;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:170;s:7:"</ul>
+";i:171;s:7:"<hr/>
+";i:172;s:2:"
+";i:173;s:8:"</div>
+";i:174;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:175;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:176;s:8:"		<ul>
+";i:177;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:178;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:179;s:9:"		</ul>
+";i:180;s:8:"</div>
+";i:181;s:10:"<center>
+";i:182;s:34:"		<div style="margin-top:4px;">	
+";i:183;s:5:"			
+";i:184;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:185;s:33:"<script type='text/javascript'>
+";i:186;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:187;s:98:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/RetroUniverse");
+";i:188;s:11:"</script>
+";i:189;s:8:"</div>
+";i:190;s:2:"
+";i:191;s:11:"		</div>	
+";i:192;s:10:"		<div>	
+";i:193;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:194;s:6:"		 	
+";i:195;s:4:"		
+";i:196;s:4:"		
+";i:197;s:10:"		</div>
+";i:198;s:107:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/RetroUniverse">Main</a><br/>
+";i:199;s:9:"		<div>
+";i:200;s:10:"		</div>
+";i:201;s:36:"		<div style="font-size:x-small;">
+";i:202;s:11:"				<hr/>
+";i:203;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:204;s:14:"				<p> </p>
+";i:205;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:206;s:13:"				<p></p>
+";i:207;s:11:"				<ul >
+";i:208;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:209;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:210;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:211;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:212;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:213;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:214;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:215;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:216;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:217;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:219;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:220;s:11:"				</li>
+";i:221;s:11:"				</ul>
+";i:222;s:13:"				<p></p>
+";i:223;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:224;s:13:"				<p></p>
+";i:225;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:226;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:227;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:228;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:229;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:230;s:6:"				
+";i:231;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:232;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:233;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:234;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:235;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:236;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:237;s:6:"				
+";i:238;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:239;s:16:"				</li></ul>
+";i:240;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:241;s:13:"				<p></p>
+";i:242;s:11:"				<ul >
+";i:243;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:244;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:245;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:246;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:247;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:248;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:249;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:250;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:251;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:252;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:253;s:6:"				
+";i:254;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:255;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:256;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:257;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:258;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:259;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:260;s:6:"				
+";i:261;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:262;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:263;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:264;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:265;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:266;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:268;s:11:"				</li>
+";i:269;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:270;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:271;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:272;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:273;s:6:"				
+";i:274;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:275;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:276;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:278;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:279;s:16:"				</li></ul>
+";i:280;s:6:"				
+";i:281;s:13:"				<p></p>
+";i:282;s:39:"				<strong>Other Categories</strong>
+";i:283;s:13:"				<p></p>
+";i:284;s:10:"				<ul>
+";i:285;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:286;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:287;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:288;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:289;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:290;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:291;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:292;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:293;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:294;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:295;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:296;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:297;s:11:"				</ul>
+";i:298;s:11:"		</div>	
+";i:299;s:11:"</center>
+";i:300;s:2:"
+";i:301;s:30:"</div> <!-- wikileftpage -->
+";i:302;s:7:"</td>
+";i:303;s:20:"<td id='wikibody'>
+";i:304;s:2:"
+";i:305;s:21:"<!--PageTitleFmt-->
+";i:306;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:307;s:12:"    		<tr>
+";i:308;s:38:"    		<td id="wikicmds" align="top">
+";i:309;s:8:"    		
+";i:310;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:311;s:45:"    				<tr style="vertical-align:middle;">
+";i:312;s:31:"    					<td align="center" >
+";i:313;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:314;s:16:"    					</td>
+";i:315;s:15:"    				<td >
+";i:316;s:37:"    					<div style="width:400px;">
+";i:317;s:28:"                  <center>
+";i:318;s:27:"                  <table>
+";i:319;s:24:"                  <tr>
+";i:320;s:24:"                  <td>
+";i:321;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:322;s:27:"                    <div>
+";i:323;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:324;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:325;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:326;s:64:"                      <input type="text" name="q" size="31" />
+";i:327;s:28:"                    </div>
+";i:328;s:27:"                  </form>
+";i:329;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:330;s:25:"                  </td>
+";i:331;s:24:"                  <td>
+";i:332;s:46:"                  <div class="buttonframe" >
+";i:333;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:334;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:335;s:26:"                  </div>
+";i:336;s:25:"                  </div
+";i:337;s:25:"                  </td>
+";i:338;s:25:"                  </tr>
+";i:339;s:28:"                  </table>
+";i:340;s:29:"                  </center>
+";i:341;s:17:"    					</div>
+";i:342;s:15:"    				</td>
+";i:343;s:15:"    				</tr>
+";i:344;s:16:"    		</table>
+";i:345;s:8:"    		
+";i:346;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:347;s:10:"    				
+";i:348;s:27:"    				<tr valign="top">
+";i:349;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:350;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:351;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:352;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:353;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:354;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:355;s:15:"    				</tr>
+";i:356;s:10:"    				
+";i:357;s:10:"    				
+";i:358;s:8:"    		
+";i:359;s:16:"    		</table>
+";i:360;s:8:"    		
+";i:361;s:28:"    		<div id="wikilogo" >
+";i:362;s:16:"    		<center>
+";i:363;s:2:"
+";i:364;s:22:"<!-- leaderboard -->
+";i:365;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:366;s:33:"<script type='text/javascript'>
+";i:367;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:368;s:11:"</script>
+";i:369;s:8:"</div>
+";i:370;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:371;s:28:"    					<tr valign="top">
+";i:372;s:223:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'RetroUniverse');" autocomplete="off"  style="width:50px;"><option> </option><option value="Main">Main</option></select></td>
+";i:373;s:268:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/RetroUniverse?action=source" >source</a></div></div></td>
+";i:374;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:375;s:269:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.RetroUniverse">history</a></div></div></td>
+";i:376;s:271:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RetroUniverse?action=edit'> edit page</a></div></div></td>
+";i:377;s:267:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/RetroUniverse" >related</a></div></div></td>
+";i:378;s:38:"    							<td valign="middle"></td>
+";i:379;s:16:"    					</tr>
+";i:380;s:18:"    				</table>
+";i:381;s:10:"    				
+";i:382;s:35:"    				<div id="watchmsg"></div>
+";i:383;s:18:"    			</center>
+";i:384;s:13:"    		</td>
+";i:385;s:12:"     </tr>
+";i:386;s:6:"    
+";i:387;s:11:"    	<tr>
+";i:388;s:39:"    		<td id="wikititle" colspan="2">
+";i:389;s:40:"    				<div class="namespacebuttons">
+";i:390;s:717:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments"  style="border-width:2px;border-color:silver;margin-right:2px;" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.RetroUniverse" >&nbsp;Discussion </a></li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=RetroUniverse" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/RetroUniverse" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:391;s:16:"    				</div>
+";i:392;s:26:"    				<!--RepairBug-->
+";i:393;s:10:"    				
+";i:394;s:34:"    				<div class='pagetitle'> 
+";i:395;s:41:"    						  <span>Retro Universe</span>
+";i:396;s:16:"    				</div>
+";i:397;s:11:"    				 
+";i:398;s:13:"    		</td>
+";i:399;s:12:"    	</tr>
+";i:400;s:10:"</table>
+";i:401;s:2:"
+";i:402;s:16:"<!--PageText-->
+";i:403;s:20:"<div id='wikitext'>
+";i:404;s:260:"<div class='indent'><em>"<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Batman' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/Batman'>Gotham City</a>: They have the internet, yet all the TVs are in black and white..."</em>
+";i:405;s:708:"</div><p></p>An <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateUniverse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateUniverse'>Alternate Universe</a> where retro styles are still used, but which otherwise resembles <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePresentDay' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePresentDay'>The Present Day</a>. Often styles from different time periods are mixed and matched, usually with styles that date no later than <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSixties' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSixties'>The Sixties</a> or so.
+";i:406;s:1007:"<p></p>Note that this is different from an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnachronismStew' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnachronismStew'>Anachronism Stew</a> in that it is not intended as a representation of any actual historical period, but rather as a complete <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateUniverse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateUniverse'>Alternate Universe</a> which may or may not have any ties to the "real world". This trope seems to exist to achieve a "classic" feel while avoiding romanticizing the past or having to deal with any of the messy problems that would have existed back then. Alternatively, it can be used to excuse what would otherwise be <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticallyCorrectHistory' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticallyCorrectHistory'>Politically Correct History</a>.
+";i:407;s:984:"<p></p>Retro Universes are popular settings for <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SteamPunk' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SteamPunk'>Steam Punk</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/UrbanFantasy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UrbanFantasy'>Urban Fantasy</a>. They may contain <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ZeppelinsFromAnotherWorld' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ZeppelinsFromAnotherWorld'>Zeppelins from Another World</a>, an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternativeCalendar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternativeCalendar'>Alternative Calendar</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchizoTech' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchizoTech'>Schizo Tech</a>, or a combination of the three.
+";i:408;s:725:"<p></p>May be <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LongRunnerTechMarchesOn' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LongRunnerTechMarchesOn'>created accidentally</a> in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LongRunner' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LongRunner'>Long Runners</a> and/or settings with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTime'>Comic Book Time</a>. Also see <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Zeerust' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Zeerust'>Zeerust</a>.
+";i:409;s:14:"<p></p><hr />
+";i:410;s:18:"<h2>Examples</h2>
+";i:411;s:115:"<div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:412;s:181:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp;Anime&nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:413;s:657:"<ul ><li> While not falling strictly into <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SteamPunk' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SteamPunk'>Steam Punk</a> territory, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OsamuTezuka' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OsamuTezuka'>Osamu Tezuka</a>'s <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/Metropolis' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/Metropolis'>Metropolis</a></em> definitely evokes the feel of a Retro Universe, with much of its style reminiscent of the Thirties and Forties.
+";i:414;s:859:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/LastExile' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/LastExile'>Last Exile</a></em> takes place in a steampunkish world where many of the airships have a streamlined 1930s-era appearance. Most of the fashions worn by the common people seem to date from the 1920s and '30s as well. Most of the military uniforms, however, seem distinctly 18th and 19th century, and the gowns worn by noble women look as though they date from the late Renaissance. In contrast to this, the costumes worn by members of the scientifically advanced Guild have more of an alien, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrystalSpiresAndTogas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrystalSpiresAndTogas'>Crystal Spires and Togas</a> look to them.
+";i:415;s:629:"<ul ><li> The sequel series, which takes place on Earth is shown to be in a similar situation, with added bits and pieces of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WorldWarII' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WorldWarII'>World War II</a> and the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ColdWar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ColdWar'>Cold War</a> as well as <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LostTechnology' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LostTechnology'>Lost Technology</a>.
+";i:416;s:431:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/TheBigO' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/TheBigO'>The Big O</a></em>, inspired by <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanTheAnimatedSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanTheAnimatedSeries'>Batman The Animated Series</a></em>.
+";i:417;s:202:"</li><li> <em>Interstella 5555: The 5tory of the 5ecret 5tar 5ystem</em> was apparently set in 2005 (judging by the date written on a card at one point in the story), but everyone wears 1970s fashions.
+";i:418;s:690:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SayonaraZetsubouSensei' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SayonaraZetsubouSensei'>Sayonara, Zetsubou-Sensei</a></em> is apparently an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateUniverse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateUniverse'>Alternate Universe</a> from ours; televisions and the setting in general are very retro, but is technically happening in modern times, even if the years are given Showa era numbering, even it is clearly referring dates after 1989&#8212; for example, 2004 (Heisei 15) is still referred as Showa 89.
+";i:419;s:264:"<ul ><li> One really odd example with Itoshki goes with Harumi (and his stalker) to a manga convention. Everyone else there is in Western casual clothing- jeans and t-shirts, and think that Itoshki and the stalker are cosplaying based upon their outdated outfits.
+";i:420;s:865:"</li><li> It's actually <span class="spoiler" title="you can set spoilers visible by default on your profile" > an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InvokedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InvokedTrope'>Invoked Trope</a>: it's a plot to get the spirit of Kafuka, who was <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadAllAlong' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadAllAlong'>Dead All Along</a>, to finally move on to the afterlife. She was an organ donor, you see, and the other girls in her class have parts of <em>her</em> in them &#8212; as well as her personality, which takes one of them over to play her role every time she appears in the series. All the retro touches to an otherwise modern universe are just an attempt to try and appease Kafuka.</span>
+";i:421;s:696:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ZoidsChaoticCentury' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ZoidsChaoticCentury'>Zoids: Chaotic Century</a>: Set on a distant planet in the far future. A world with animal like Mecha used to fight wars. One of the main powers, the Republic, has a capital city with skyscrapers and cars, and telephones that are rotary dial. The other main power, the Empire, has a capital city that looks like some cross between Berlin and ancient Byzantium. The rural areas are equally strange, featuring ancient ruins that look an awful lot like a shopping mall, and a town that looks a middle eastern Bazaar.
+";i:422;s:285:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/CowboyBebop' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/CowboyBebop'>Cowboy Bebop</a></em> is set in 2070s, but the clothing, hair-styles, music and general mood come straight from the 1970s.
+";i:423;s:61:"<ul ><li> Also, a lot of the style is pretty 1940's looking.
+";i:424;s:212:"</li><li> In fact, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Retraux' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Retraux'>even the DVDs are designed to look like vinyl LPs</a>.
+";i:425;s:631:"</li></ul></li><li> The post-apocalyptic Arc de Grand City from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Genocyber' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Genocyber'>Genocyber</a></em> looks like a combination of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SteamPunk' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SteamPunk'>Steam Punk</a> with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TwentyMinutesIntoTheFuture' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TwentyMinutesIntoTheFuture'>Twenty Minutes into the Future</a>.
+";i:426;s:792:"</li><li> Some of the UC and AU Gundam series seem to evoke this trope, most notably <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GundamF91' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GundamF91'>Gundam F91</a>,</em> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/MobileSuitGundamWing' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/MobileSuitGundamWing'>Gundam Wing</a></em> and <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/TurnAGundam' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/TurnAGundam'>&#8704; Gundam</a>.</em> Can overlap with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Zeerust' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Zeerust'>Zeerust</a>.
+";i:427;s:424:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SoraNoWoto' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SoraNoWoto'>Sora No Woto</a></em> is very evocative of the 19th and early 20th Century. If not for the whole <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AfterTheEnd' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AfterTheEnd'>After the End</a> bit.
+";i:428;s:586:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WordOfGod' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WordOfGod'>Word Of God</a> is that <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Naruto' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/Naruto'>Naruto</a></em> is set in one of these. They have most of the technology and culture we have in the 21st century, but there are no guns or cars, electronic communication is extremely difficult/expensive over long distances, and video games are still in the 8-bit era.
+";i:429;s:510:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/HunterXHunter' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/HunterXHunter'>Hunter × Hunter</a></em> seems to take place in a fantasy world blended with modern day. There are mythical creatures, powers known as Nen, peaceful villages, and people travel on wooden ships and zeppelins, but there are also cell phones, cars, guns, big cities, computers, and video game systems that transport the user to a virtual reality.
+";i:430;s:17:"</li></ul></div>
+";i:431;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp;Comic Books&nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:432;s:607:"<ul ><li> The cars and architecture of Gotham City in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Batman' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Batman'>Batman</a></em> franchise seem to be perpetually stuck in the 1940s. One of the city's mottos is actually "The Dark Deco City". This is very notable in the 1989 movie and in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanTheAnimatedSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanTheAnimatedSeries'>Batman The Animated Series</a></em>.
+";i:433;s:251:"<ul ><li> In 1999, much of Gotham City was damaged in an earthquake during the Cataclysm/No Man's Land event. This was used to justify an extensive architectural revamp that turned the city into a mix of 40s, modern and retro-futuristic architecture.
+";i:434;s:106:"</li></ul></li><li> In 2000, Metropolis was changed into a futuristic version of itself. It didn't stick.
+";i:435;s:379:"</li><li> In the 1990s Fawcett City (home of Captain Marvel) was said to be permanently in the fifties due to a spell cast by the wizard Shazam. In its appearance in the recent <em>Black Adam</em> miniseries, it still has a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MaltShop' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MaltShop'>Malt Shop</a>.
+";i:436;s:114:"<ul ><li> Which is actually not that surprising, as many small towns in the US have kept theirs out of nostalgia.
+";i:437;s:27:"</li></ul></li></ul></div>
+";i:438;s:180:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp;Film&nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:439;s:220:"<ul ><li> The 1997 movie version of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheBorrowers1997' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheBorrowers1997'>The Borrowers</a></em>.
+";i:440;s:724:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheIncredibles' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheIncredibles'>The Incredibles</a></em>. Note that the movie actually does take place in the early '70s &#8212; Edna Mode mentions several of Mr. Incredible's contemporaries dying in the late '50s &#8212; but you couldn't tell from the characters' <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PresentDayPast' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PresentDayPast'>modern slang and sensibilities</a>. Technically, the movie takes place in the streamlined future envisioned by the 50s and 60s, not our world's 70s.
+";i:441;s:362:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SinCity' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SinCity'>Sin City</a></em> is a perfect example of this, being set in the present day but with fashions, cars and the occasional lingo from the 1950s. Here, it makes sense because it is a pastiche of classic film noir.
+";i:442;s:599:"</li><li> Director <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WesAnderson' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WesAnderson'>Wes Anderson</a> likes to use this. In particular, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheRoyalTenenbaums' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheRoyalTenenbaums'>The Royal Tenenbaums</a></em> has such a distinctly 1970s style that the "2001" date on <span class="spoiler" title="you can set spoilers visible by default on your profile" >Royal's tombstone</span> was quite jarring.
+";i:443;s:377:"<ul ><li> Same with <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Rushmore' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Rushmore'>Rushmore</a></em>, which has 1997 inscribed on the Swiss Army knife Dirk gives Max, but includes manual typewriters, tape machines, and a general aesthetic (clothes, buildings) skewed towards a late 60s/70s feel.
+";i:444;s:482:"</li></ul></li><li> Terry Gilliam's <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Brazil' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Brazil'>Brazil</a></em> fits this neatly. Technology and culture are an odd mix of contemporary and early 20th century (computer monitors resemble 1950s television sets, for example), and clothing and architecture are mostly pre-1960s. The opening title even describes the film as "Somewhere in the 20th Century".
+";i:445;s:521:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/DarkCity' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/DarkCity'>Dark City</a></em>: Looks like a mixture of everything between 1920 and the present day (1998). Justified in that <span class="spoiler" title="you can set spoilers visible by default on your profile" >the human inhabitants were abducted throughout the 20th century, and that the city was constructed from the recombining of their memories of different eras..</span>.
+";i:446;s:473:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/NapoleonDynamite' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/NapoleonDynamite'>Napoleon Dynamite</a></em> took place in the present day, but the fashion trends were somewhere in the 1970s or '80s, the technology was '80s or '90s, and the music was an eclectic mixture of the '80s and '90s as well. Though this may be unintentional, as that's kind of how Preston, Idaho actually is.
+";i:447;s:321:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/StreetsOfFire' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/StreetsOfFire'>Streets of Fire</a></em> is a self-described "Rock &amp; Roll Fable" in a setting of retro-1950s and modern day, or at least what passed for modern in 1984.
+";i:448;s:138:"</li><li> In the movie version of <em>The Cat in the Hat</em>, people still use rotary dial phones, but Dakota Fanning owns a Palm Pilot.
+";i:449;s:280:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/EdwardScissorhands' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/EdwardScissorhands'>Edward Scissorhands</a></em> seems to be set in some kind of eerie cross between the 1950s and the 1980s.
+";i:450;s:197:"<ul ><li> Somewhat justified when you remember it's a story a old woman was telling about her as a teenager in the 50s to her grandchild in the 80s. How she aged so fast however is anyone's guess.
+";i:451;s:318:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/PulpFiction' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/PulpFiction'>Pulp Fiction</a></em> could easily be set in the 1970s, if you're willing to ignore the cell phones and the fact that Butch was a kid in the 1960s.
+";i:452;s:451:"<ul ><li> In a bit of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FridgeBrilliance' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FridgeBrilliance'>Fridge Brilliance</a>, the "Jack Rabbit Slim's" sequence establishes that 1950s nostalgia is popular in <em>Pulp Fiction's</em> world - a fact that was to some extent true of both the real-world '70s and the real-world '90s, thus making the setting all the more ambiguous.
+";i:453;s:284:"</li></ul></li><li> The movie <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Brick' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Brick'>Brick</a></em> is a film noir, complete with hard-boiled dialogue and '30s/'40s slang, set in a modern high school.
+";i:454;s:393:"</li><li> In the film version of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheSpirit' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/TheSpirit'>The Spirit</a></em> takes place in a world where technology marched on, but the fashion and sensibility remained '40s noir. Dames dressed to the nines snap pictures of the Spirit's adventures with digital cameras.
+";i:455;s:462:"</li><li> At first glance the Nathan Lane movie <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/MouseHunt' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/MouseHunt'>Mouse Hunt</a></em> seems to be set in the in the 30's or 40's, but then you notice a coin that says 1973, more or less modern cars, video cameras and to top that, there's a Victorian sweatshop that is kinda justified since it was founded by the protagonists' father.
+";i:456;s:224:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Gattaca' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Gattaca'>Gattaca</a></em>. Oppressive society with future tech and retro design.
+";i:457;s:356:"<ul ><li> Likewise <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InTime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InTime'>In Time</a></em> by the same director, though in this case it's justified by the fact that since money is literal lifespan in this world, the rich avoid any sort of innovation or risky investment.
+";i:458;s:382:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/BladeRunner' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/BladeRunner'>Blade Runner</a></em> has synthetic humans, skyscraper-spanning ads, intergalactic colonies, etc., in the year 2019, yet some of the characters still wear 30s-era clothing, while others have fixated on 70s punk.
+";i:459;s:508:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/Daybreakers' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/Daybreakers'>Daybreakers</a></em> technically takes place <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TwentyMinutesIntoTheFuture' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TwentyMinutesIntoTheFuture'>Twenty Years In The Future</a>. Yet if not for the near-future tech, people generally have reverted to a 1930s-40s atmosphere.
+";i:460;s:576:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/MarsAttacks' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/MarsAttacks'>Mars Attacks</a></em> (made in 1996) combined cars and clothes from the 1970's (and 1980's) with giant 1980's cell phones and 50's-60's military technology. And that was just the humans. The Martians were given deliberately anachronistic <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RaygunGothic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RaygunGothic'>Raygun Gothic</a> technology.
+";i:461;s:325:"<ul ><li> Of course, cell phones were just going mainstream when the movie was made, so the brick phones seen could have just been an example of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StillTheEighties' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StillTheEighties'>Still The Eighties</a>.
+";i:462;s:329:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Penelope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Penelope'>Penelope</a></em> has modern technology and (mostly) modern costumes, but the architecture and interior design look like early 20th century with a fairy-tale twist.
+";i:463;s:231:"</li><li> Alan Rudolph's <em>Trouble In Mind</em> (from 1985) is set in some indeterminate near-future/alternate age where Seattle is under martial law, people act and dress like a 1940s noir drama, and the newest car is ca. 1972.
+";i:464;s:456:"</li><li> "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/BlueVelvet' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/BlueVelvet'>Blue Velvet</a>" (1986) is meant to be a satire of Reagan era 1950s nostalgia, so everything from the clothes to the buildings to the cars make the film look as though it was filmed thirty years earlier or more. Only villain Frank Booth is ever shown using modern technology (a Roy Orbison cassette).
+";i:465;s:630:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RepoTheGeneticOpera' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RepoTheGeneticOpera'>Repo! The Genetic Opera</a> takes place in a world that's halfway between 19th Century <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SteamPunk' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SteamPunk'>Steam Punk</a> and 21st Century <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CyberPunk' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CyberPunk'>Cyber Punk</a>. Black and white holograms for example.
+";i:466;s:17:"</li></ul></div>
+";i:467;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp;Literature&nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:468;s:247:"<ul ><li> Lemony Snicket's <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ASeriesOfUnfortunateEvents' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ASeriesOfUnfortunateEvents'>A Series of Unfortunate Events</a></em>
+";i:469;s:1626:"</li><li> The wizarding world in the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HarryPotter' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HarryPotter'>Harry Potter</a></em> series never seems to advance beyond the 1930s in style (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticallyCorrectHistory' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticallyCorrectHistory'>although not always in attitudes</a>). The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/HarryPotter' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/HarryPotter'>third film adaptation</a> goes so far as to feature a good deal of big band music, although the fourth movie portrays the Weird Sisters as a decently contemporary rock band. This is probably in keeping with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ANaziByAnyOtherName' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ANaziByAnyOtherName'>the Death Eaters</a> and such - the whole series' story is very similar to the muggle world's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheThirties' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheThirties'>1930s</a> (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WorldWarTwo' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WorldWarTwo'>and what happened from 1939 to 1945</a>, except <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RecycledInSpace' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RecycledInSpace'>with magic</a>.)
+";i:470;s:282:"<ul ><li> Note, though, that it actually does take place in the 1990s, starting in 1991. <a class='urllink' href='http://harrypotter.wikia.com/wiki/1991'>Proof.<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>
+";i:471;s:345:"</li><li> Considering the total lack of interest for the muggle technology and culture the wizards display (except Mr Weasley, maybe); this could also be seen as a form of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MedievalStasis' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MedievalStasis'>Medieval Stasis</a>.
+";i:472;s:1589:"</li><li> Clothing is a complicated issue in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PotterVerse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PotterVerse'>Potter Verse</a>. In the books, magical characters are usually described wearing "robes" or "cloaks" with not much more description. In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HarryPotterAndTheGobletOfFire' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/HarryPotterAndTheGobletOfFire'>Goblet of Fire</a></em>, it's mentioned that the Weasley kids wear "Muggle clothes" during the summer, implying robes are worn most if not all the time at Hogwarts. However, Mrs. Weasley makes the kids "jumpers" ("sweaters" to American readers) for Christmas and these are apparently not considered Muggle clothes and they are presumably being worn with some kind of trousers. In the movies, the kids seem to wear Muggle clothes whenever they are not in their school uniforms (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlfonsoCuaron' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlfonsoCuaron'>Alfonso Cuarón</a> is often blamed for starting this, but <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChrisColumbus' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChrisColumbus'>Chris Columbus</a> did it too) while the adults' clothing is a mix between stereotypical wizardry outfits (Dumbledore, McGonagall, etc.) and outdated fashions (Rita Skeeter, for example, seems to think it's still the 1950s).
+";i:473;s:485:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RobertRankin' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RobertRankin'>Robert Rankin</a>'s version of Brentford. Frequent references are made suggesting a contemporary setting (most notably <em>The Brentford Chainsaw Massacre</em>, which involves getting a Lottery grant for Millennium celebrations), but it's decidedly 1950s-1960s in other ways, and they still use pre-decimal currency.
+";i:474;s:1247:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/DianaWynneJones' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/DianaWynneJones'>Diana Wynne Jones</a>'s <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Chrestomanci' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/Chrestomanci'>Chrestomanci</a> series, in which the main world has reached a stage roughly equivalent to the early 1900s. Women wear long dresses, men dress formally and there are servants, but there is electric lighting, telephones and cars, though the cars aren't very widespread. But it is set in our present; in <em>Charmed Life</em> (published 1977) a girl from our own world remarks how old-fashioned everything is, and remarks that she always wears trousers at home and feels like "an Edwardian child" in a frilly dress and stockings. As the latest book, <em>The Pinhoe Egg</em> is set only a year or so after <em>Charmed Life</em>, presumably the year is still somewhere in the late seventies. The prequel <em>The Lives of Christopher Chant</em> is set about twenty-five years earlier; the feel is Victorian, with governesses, gas light, women in crinolines and men with side-whiskers and top hats.
+";i:475;s:317:"<ul ><li> The visitor in <em>Charmed Life</em> suggests a justification for this in that the prevalence of magic has held back mechanical science. It might also be suggested that magic traditionally looks to ancient sources (though there are magical researchers in DWJ's world), thus encouraging social conservatism.
+";i:476;s:702:"</li></ul></li><li> In a similar vein, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheBartimaeusTrilogy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheBartimaeusTrilogy'>The Bartimaeus Trilogy</a> is set in an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateHistory' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateHistory'>Alternate History</a> version of London. The year is never stated, but historical clues place it in the early 21st century. It has cars, planes, electric lights and computers, but sailing ships still seem to be the dominant form of sea travel, with "ironclads" being the most advanced naval technology.
+";i:477;s:201:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpaceCaptainSmith' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpaceCaptainSmith'>Space Captain Smith</a></em>
+";i:478;s:726:"</li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StephenFry' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StephenFry'>Stephen Fry</a>'s novel <em>Making History</em>, 1990s America in the Hitler-never-born universe is socially very similar to the 1950s. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EverybodySmokes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EverybodySmokes'>Everybody Smokes</a>, there's racial segregation and serious <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RedScare' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RedScare'>McCarthyite paranoia</a>, and homosexuality is both illegal and highly taboo.
+";i:479;s:1672:"</li><li> <em>Fitzpatrick's War</em> and <em>The Martian General's Daughter</em> by sci-fi writer Theodore Judson combine this with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchizoTech' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchizoTech'>Schizo Tech</a> and some mild <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PunkPunk' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PunkPunk'>Punk Punk</a>, taking place on Earth a few centuries into the future, when previous high technology and modern political systems have all but collapsed. Each is a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RomanAClef' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RomanAClef'>Roman à Clef</a> from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AncientGrome' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AncientGrome'>Ancient Grome</a>; one is the life of Commodus, the Roman emperor who was featured in Gladiator, and the other is the life of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlexandertheGreat' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlexandertheGreat'>Alexanderthe Great</a>** It's also revealed in <em>Fitzpatrick's War</em> that the whole affair was the result of <span class="spoiler" title="you can set spoilers visible by default on your profile" >a shadow government enforcing <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MedievalStasis' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MedievalStasis'>Medieval Stasis</a> through the last bit of high technology on the planet</span>.
+";i:480;s:17:"</li></ul></div>
+";i:481;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp;Live Action TV&nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:482;s:637:"<ul ><li> A number of the future era, visited by <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho'>the Doctor</a> mix futuristic, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RaygunGothic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RaygunGothic'>Raygun Gothic</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Steampunk' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Steampunk'>Steampunk</a> technology. Example: Starship UK from "The Beast Below" and New Earth in "Gridlock".
+";i:483;s:328:"</li><li> The BBC production of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Gormenghast' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Gormenghast'>Gormenghast</a></em> juxtaposes of elements of different time periods to emphasise that it takes place in its own, timeless, ahistorical reality.
+";i:484;s:332:"</li><li> Justified in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Lost' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Lost'>LOST</a></em>. The Dharma Initiative built research stations all over the island in the 1970s. The modern day islanders find and use these stations which leads to this.
+";i:485;s:1035:"</li><li> The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Creator/ABC' title='http://tvtropes.org/pmwiki/pmwiki.php/Creator/ABC'>ABC</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dramedy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dramedy'>Dramedy</a> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PushingDaisies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PushingDaisies'>Pushing Daisies</a></em> seems to take place in a lavish <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheFifties' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheFifties'>1950s</a> universe where people have modern-day sensibilities and things like the Internet exist. The female characters wear fashions that have a '50s look and the show regularly includes street scenes with both '50s and present-day cars, although the '50s cars always seem to have dominance. In one episode, it is stated that the year is 2007 (the same year it aired).
+";i:486;s:388:"</li><li> Some of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateUniverse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateUniverse'>Alternate Universes</a> shown in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Sliders' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Sliders'>Sliders</a></em> fit this trope.
+";i:487;s:978:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/BattlestarGalacticaReimagined' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/BattlestarGalacticaReimagined'>Battlestar Galactica</a></em> mixes things up. The Twelve Colonies had had interstellar space travel for thousands of years, but their civilization was nonetheless similar to our own. Then the war with the Cylons forced them to abandon most computer-related technology and wireless communications except where absolutely necessary, so you end up with people living on spaceships whose <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FasterThanLightTravel' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FasterThanLightTravel'>Faster Than Light Travel</a> is controlled by computers out of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEighties' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEighties'>The Eighties</a>.
+";i:488;s:1110:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Caprica' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Caprica'>Caprica</a></em> continues the fun; although it's set sixty years before <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/BattlestarGalacticaReimagined' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/BattlestarGalacticaReimagined'>Battlestar Galactica</a></em>, the level of technology is much higher (with total-immersion virtual reality and robot butlers), but the producers remind viewers that this is "the past" by adding certain cultural touches which are reminiscent of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheFifties' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheFifties'>The Fifties</a>: smoking is prevalent and allowed everywhere, professional men wear fedoras to work, and there are shades of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FantasticRacism' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FantasticRacism'>Fantastic McCarthyism</a>.
+";i:489;s:443:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KamenRiderDouble' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KamenRiderDouble'>Kamen Rider Double</a></em> is technically set in the present day, but the world is styled after hardboiled <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FilmNoir' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FilmNoir'>Film Noir</a>.
+";i:490;s:570:"</li><li> An episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Fringe' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Fringe'>Fringe</a></em> is entirely about a story told by Walter to children. This story is set in a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoirEpisode' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoirEpisode'>noir-like</a> world with Internet and cell phones but old-fashioned clothing. Of course, given that Walter was high when he told this story, this can be expected.
+";i:491;s:706:"</li><li> Present in a more mild way in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MidsomerMurders' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MidsomerMurders'>Midsomer Murders</a></em>, a series which generally combines this trope with a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreThrowback' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreThrowback'>Genre Throwback</a> to the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenteelInterbellumSetting' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenteelInterbellumSetting'>golden age of English detective literature during the inter-war period</a>.
+";i:492;s:973:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheXFiles' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheXFiles'>The X-Files</a></em>: The episode "Post-Modern Prometheus" takes place in such a universe, a retro-nineties filled with fifties cars and diners and other hints of a retro aesthetic, and eighties/nineties technology; it was filmed in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeliberateMonochrome' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeliberateMonochrome'>Deliberate Monochrome</a>, and delved into the wealth of "Frankenstein" tropes. Justified somewhat because it's a backwater town (whose inhabitants are obsessed with <em><a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheJerrySpringerShow' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheJerrySpringerShow'>The Jerry Springer Show</a></em>), but the fifties cars took it into this territory.
+";i:493;s:373:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FatherTed' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FatherTed'>Father Ted</a> is full of this, presumably due to the island's inhabitants being so isolated from the rest of the world. The layout of the parochial house is extremely 1970s, they often play board games for entertainment
+";i:494;s:501:"</li></ul>They are shown listening to records (e.g. the Eurovision track they almost used for the tune of My Lovely Horse), and are actually able to buy new ones (The BBC Sound Effects records) in John And Mary's shop in 1996, well after most other places would stop selling one. Also, when their Brazilian priest visits them, he brings them a VHS player, which they are astonished by as they think it must have been really expensive. The joke here is that he is obviously regifting them his old one.
+";i:495;s:7:"</div>
+";i:496;s:181:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp;Music&nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:497;s:874:"<ul ><li> 2007's Get Up! By Global Deejays and Technotronic is an example of a song froms the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TurnOfTheMillennium' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TurnOfTheMillennium'>2000s</a>that draws heavily from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEighties' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEighties'>1980s</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheNineties' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheNineties'>1990s</a> electronica, both in it's sound, and in the fashion and imagery in it's <a class='urllink' href='http://www.youtube.com/watch?v=x4JNpmLPvcY'>video<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a>.
+";i:498;s:17:"</li></ul></div>
+";i:499;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp;Video Games&nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:500;s:3393:"<ul ><li> The <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Fallout' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Fallout'>Fallout</a></em> series is a classic example. Despite being set two centuries after a nuclear war that is still 60 years into our future, everything has old school art deco stylings, every computer has a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OurGraphicsWillSuckInTheFuture' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OurGraphicsWillSuckInTheFuture'>monochromatic greenscreen</a>, and the music consists of golden oldies from the early-mid 20th century. Note that all of this exists alongside <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EnergyWeapons' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EnergyWeapons'>Energy Weapons</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoweredArmor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoweredArmor'>Powered Armor</a>, and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RidiculouslyHumanRobots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RidiculouslyHumanRobots'>androids indistinguishable from humans</a>. Fallout America is an amalgam of all the decades of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ColdWar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ColdWar'>Cold War</a>, as well as the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SciFi' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SciFi'>Sci Fi</a> Produced during those decades. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheForties' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheForties'>The Forties</a> give the setting its wartime propaganda, urging you to buy Victory Bonds. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheFifties' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheFifties'>The Fifties</a> give it their Pre-War fashions and car designs; Fifties <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SciFi' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SciFi'>Sci Fi</a> gives it <em>nuclear cars</em> and the styling of its robots. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSixties' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSixties'>The Sixties</a> give it the use of the word "hippies" (in Fallout 3) and anti-war graffiti (all over Hidden Valley in New Vegas). <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSeventies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSeventies'>The Seventies</a> give it the punk fashion of the raiders and the Prewar oil crisis. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEighties' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEighties'>The Eighties</a> give it computers that look like Commodore 64s. The post-war civilizations also show elements of the Great Depression and 19th century frontier times, showing how society reverted to an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AfterTheEnd' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AfterTheEnd'>even less technologically advanced time after the war disrupted human society.</a>
+";i:501;s:1002:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/MassEffect' title='http://tvtropes.org/pmwiki/pmwiki.php/Franchise/MassEffect'>Mass Effect</a></em> is another example, although it takes its inspiration from the 1970s/80s science fiction renaissance rather than the Golden Age science fiction often popular with this trope. The art style and trappings are, according to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WordOfGod' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WordOfGod'>Word Of God</a>, deliberately evocative of films like <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/BladeRunner' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/BladeRunner'>Blade Runner</a></em>, <em>Alien</em>, or <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/StarTrekIITheWrathOfKhan' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/StarTrekIITheWrathOfKhan'>The Wrath of Khan</a></em>.
+";i:502;s:835:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GrimFandango' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GrimFandango'>Grim Fandango</a></em> is ostensibly set sometime around <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheNineties' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheNineties'>The Nineties</a> (the game was released in 1998), as there are office computers in the Land of the Dead. However, the style of architecture and clothing is firmly based in the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FilmNoir' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FilmNoir'>'30s, '40s, and '50s</a>. Justified, considering much of the population was probably alive during those decades, and would likely want to replicate them.
+";i:503;s:299:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/StubbsTheZombie' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StubbsTheZombie'>Stubbs the Zombie</a></em> takes place in the 50's,however the technology is much more advanced,similar to <em>Fallout</em> series
+";i:504;s:1199:"</li><li> The <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Thief' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Thief'>Thief</a></em> series takes place in a fantasy world very reminiscent of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheLateMiddleAges' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheLateMiddleAges'>The Late Middle Ages</a>. Yet, it also shows many Victorian influences in things like architecture, furniture, art, technology and attitudes. What's most intriguing is how both of these very different eras are <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WillingSuspensionOfDisbelief' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WillingSuspensionOfDisbelief'>combined nearly seemlessly</a> (it helps that they're united by the whole <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CityNoir' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CityNoir'>City Noir</a> atmosphere and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SteamPunk' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SteamPunk'>Steam Punk</a> aesthetic of the series).
+";i:505;s:596:"</li><li> The <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HarvestMoon' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HarvestMoon'>Harvest Moon</a></em> universe. Although ostensibly set in something resembling the present day (in one game you can buy a DVD player for your house, and in another, there's a modern periodic table hanging on the wall in the school, and the hospital in every game is generally very modern), everyone gets around on horse-drawn carriages, the designs are old-fashioned in their ruralness, and other technology is deliberately retro.
+";i:506;s:575:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/HarvestMoonAWonderfulLife' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/HarvestMoonAWonderfulLife'>Harvest Moon A Wonderful Life</a></em> could pass for taking place in the 1900s - 1920s at first glance however at times it looks decidedly modern, especially in clothing. It could pass for the 1970s at earliest however it's set at the same time as <em>Friends Of Mineral Town</em>, which is noticeably more modern looking (it just looks like it's set in a small, rural town).
+";i:507;s:292:"</li></ul></li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperMarioBros' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SuperMarioBros'>Super Mario Bros.</a> has many modern conveniences, but the world itself appears to be somewhere around medieval times.
+";i:508;s:2012:"</li><li> An odd example in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadSpace3' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadSpace3'>Dead Space 3</a>. While the other two games are pretty much straight examples of a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SciFi' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SciFi'>Sci Fi</a> setting, the third takes place on, or in orbit of, a planet filled with ruins left behind by the Sovereign Colonies Armed Forces (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BalkaniseMe' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BalkaniseMe'>a political entity that apparently no longer exists as of the time of</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadSpace3' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeadSpace3'>Dead Space 3</a>) 200 years earlier. The Sovereign Colonies technology and designs seem rather more primitive then the more "Modern" examples seen in the earlier games. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OurGraphicsWillSuckInTheFuture' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OurGraphicsWillSuckInTheFuture'>Their computer technology seems to be rather dated</a>, many of their doors need to be opened manually, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoPaperFuture' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NoPaperFuture'>They use a lot more paper then is common in later time periods</a>, they have black and white photographs on the walls (possibly due to aging, or the low light levels), the advertisements for the fictional drink called "Peng" which appear in Dead Space and Dead Space 2 are done in a cyber punk style, showing an attractive woman dressed in futuristic clothes, where as the advertisements for Peng from the Sovereign Colonies era however show women in a more 1950s pin-up style, similar to old school Coke ads.
+";i:509;s:17:"</li></ul></div>
+";i:510;s:185:"<p></p><div class="folderlabel" onclick="togglefolder('folder7');">&nbsp;&nbsp;&nbsp;&nbsp;Webcomics&nbsp;</div><div id="folder7" class="folder" isfolder="true" style="display:block;">
+";i:511;s:466:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/Annyseed' title='http://tvtropes.org/pmwiki/pmwiki.php/Webcomic/Annyseed'>Annyseed</a></em> Many character wear victorian clothing, yet some are a little more 1980's in style. Victorian machinery is often used along side modern day mobile/cell phones. Ninjas go around with katana blades, and our heroine is dropped off at school by the latest rolls royce. - It's all good fun.
+";i:512;s:17:"</li></ul></div>
+";i:513;s:188:"<p></p><div class="folderlabel" onclick="togglefolder('folder8');">&nbsp;&nbsp;&nbsp;&nbsp;Web Original&nbsp;</div><div id="folder8" class="folder" isfolder="true" style="display:block;">
+";i:514;s:1161:"<ul ><li> Justified in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/NineteenEightyThreeDoomsday' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NineteenEightyThreeDoomsday'>Nineteen Eighty Three Doomsday</a>.</em> By that timeline's present, the most developed and powerful countries are approaching <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheNineties' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheNineties'>early 1990s</a> standards, if not still stuck in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEighties' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheEighties'>The Eighties</a>. While the less fortunate parts of the world run the gamut from <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadMax' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadMax'>Mad Max</a>-style wastelands to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchizoTech' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchizoTech'>Schizo Tech</a> survivor-nations, where swords coexist with helicopters and old-school radios.
+";i:515;s:17:"</li></ul></div>
+";i:516;s:193:"<p></p><div class="folderlabel" onclick="togglefolder('folder9');">&nbsp;&nbsp;&nbsp;&nbsp;Western Animation&nbsp;</div><div id="folder9" class="folder" isfolder="true" style="display:block;">
+";i:517;s:1236:"<ul ><li> Late '80s/early '90s Disney cartoons like <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DuckTales' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DuckTales'>DuckTales</a></em>, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DarkwingDuck' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DarkwingDuck'>Darkwing Duck</a></em>, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TaleSpin' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TaleSpin'>Tale Spin</a></em>, <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/GoofTroop' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/GoofTroop'>Goof Troop</a></em>, and <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/ChipNDaleRescueRangers' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/ChipNDaleRescueRangers'>Chip N Dale Rescue Rangers</a></em> invoke this to varying extents, usually with episode-specific themes (i.e. 50's style mobs, swashbuckling pirates, and historical-period towns all appearing in early 90's Earth).
+";i:518;s:428:"<ul ><li> With <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DuckTales' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/DuckTales'>DuckTales</a></em>, at least, it was justified, since the Carl Barks comics on which the show was largely based had been produced in the mid-20th century. (And remember, Scrooge McDuck had been a gold prospector in the Klondike in the 1890s!)
+";i:519;s:731:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TaleSpin' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TaleSpin'>Tale Spin</a></em> is explicitly set in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheThirties' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheThirties'>The Thirties</a>, the era where the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PulpMagazine' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PulpMagazine'>Pulp Magazines</a> that inspired it took place. One episode featured a prototype jet engine, with the characters reacting to it as if it were straight out of a science ficiton story.
+";i:520;s:342:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheAdventuresOfJimmyNeutron' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/TheAdventuresOfJimmyNeutron'>The Adventures of Jimmy Neutron: Boy Genius</a></em> take place in the city of Retroville, which follows the trope.
+";i:521;s:1043:"</li><li> Several ''<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RankinBassProductions' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RankinBassProductions'>Rankin/Bass Productions</a>" Christmas specials invoke this. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RudolphTheRedNosedReindeer' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RudolphTheRedNosedReindeer'>Rudolph the Red-Nosed Reindeer</a> is shown to take place in the 1960s, <a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RudolphsShinyNewYear' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RudolphsShinyNewYear'>Rudolphs Shiny New Year</a> is shown to take place after 1965, but <a class='createlink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RudolphAndFrostysChristmasInJuly' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RudolphAndFrostysChristmasInJuly'>Rudolph And Frostys Christmas In July</a> seems to take place at the turn of the century judging by clothing and the dialogue.
+";i:522;s:574:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanTheAnimatedSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanTheAnimatedSeries'>Batman The Animated Series</a></em>. Architecture, clothes and cars in Gotham mostly resembles the 40's and 50's, but on the rare occasion that real dates are given the show is ostensibly set in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePresentDay' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePresentDay'>The Present Day</a>.
+";i:523;s:535:"<ul ><li> The most jarring, yet awesome, part is the rare glimpses of Dick and Babs as civilians at Gotham University. They couldn't be dressed more for <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheFifties' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheFifties'>The Fifties</a> if they tried. Case in point, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LimitedWardrobe' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LimitedWardrobe'>Dick's red sweater vest ensemble.</a>
+";i:524;s:126:"</li><li> One Episode featured the Joker robbing an electronics convention. A giant "DVD" logo can be seen in the background.
+";i:525;s:236:"</li><li> The episode with the Grey Ghost showed a young Bruce Wayne watching the series as a child on a black and white tv in what seemed to be the 60s. At the end of the episode, the episode is shown to have taken place in late 1992.
+";i:526;s:257:"</li><li> "Joker's Favor" shows someone's drivers license, where it shows he was born in the late forties or early fifties. Given the character's middle-age appearance, it shows that the show nominally takes place in the early nineties (the "present day").
+";i:527;s:568:"</li><li> This changed back and forth throughout the series. Sub Zero has computers in hospitals and color tv, while Mask Of The Phantasm has little trace of the present day. The best explanation is that BTAS Gotham is a city that lives in the past. By the time the series was revamped into <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanTheAnimatedSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanTheAnimatedSeries'>The New Batman Adventures</a></em> it was completely in the nineties, however.
+";i:528;s:798:"</li><li> When <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanTheAnimatedSeries' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanTheAnimatedSeries'>Batman The Animated Series</a></em> segued into <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanBeyond' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BatmanBeyond'>Batman Beyond</a></em> Gotham had become a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Zeerust' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Zeerust'>Zeerust</a> version of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Cyberpunk' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Cyberpunk'>Cyberpunk</a>.
+";i:529;s:794:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BatmanTheBraveAndTheBold' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BatmanTheBraveAndTheBold'>Batman: The Brave and the Bold</a></em> continues this trend by making it a bit of an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnachronismStew' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnachronismStew'>Anachronism Stew</a>. Modern innovations like cellphones, video games and the internet are around, but a lot of the buildings, cars, and characters have decidedly retro vibes. There's very little consistency in this regard, as one episode will have modern clothing and tech, while the next will have fedora-clad gangsters shooting at Batman with Tommy-guns.
+";i:530;s:976:"<ul ><li> Though despite this retro vibe, the show definitely has modern social values. Nobody ever comments on the races of minority heroes like <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Firestorm' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Firestorm'>Firestorm</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BlueBeetle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BlueBeetle'>Blue Beetle</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAtom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAtom'>The Atom</a>, nor the genders of characters like <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Comicbook/Vixen' title='http://tvtropes.org/pmwiki/pmwiki.php/Comicbook/Vixen'>Vixen</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BlackCanary' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BlackCanary'>Black Canary</a>.
+";i:531;s:3168:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/JusticeLeague' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/JusticeLeague'>Justice League</a></em>: In the episode "Legends", half the team gets blown into an alternate 50s-style universe that invokes <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSilverAgeOfComicBooks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSilverAgeOfComicBooks'>The Silver Age of Comic Books</a>, and team up (after the obligatory <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LetsYouAndHimFight' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LetsYouAndHimFight'>Let's You and Him Fight</a>, of course) with the Justice Guild of America, a team full of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainErsatz' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CaptainErsatz'>Captains Ersatz</a> for the Justice Society of America. And oddly enough, all those characters are characters from comic books from Green Lantern's youth. Hawkgirl gets pissed at the gender standards, Green Lantern is happy to meet his idols (casually letting a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreACreditToYourRace' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/YouAreACreditToYourRace'>You Are A Credit To Your Race</a> comment slide), Flash is <em>already</em> so corny that he fits right in, and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MartianManhunter' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MartianManhunter'>Martian Manhunter</a> receives intense mental images of nuclear holocaust. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BreadEggsMilkSquick' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BreadEggsMilkSquick'>Wait, what?</a> <span class="spoiler" title="you can set spoilers visible by default on your profile" >Turns out in this universe the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ColdWar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ColdWar'>Cold War</a> led to mutually assured destruction, but the Justice Guild sacrificed themselves to save as many as they could. A kid gained mental powers <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ILoveNuclearPower' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ILoveNuclearPower'>from the fallout</a>, and basically became a purple, warty <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealityWarper' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealityWarper'>Reality Warper</a>, recreating the Justice Guild and placing himself as their kid sidekick, and forcing the townspeople to live out their roles as extras (one man was trapped in an ice cream truck for <em>forty</em> years)</span>. Basically it was a weird episode, and the phrase "Nuns and Dynamite" was important in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheReveal' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheReveal'>The Reveal</a>.
+";i:532;s:312:"</li><li> The style of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CampLazlo' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CampLazlo'>Camp Lazlo</a></em> was made to evoke the 1950's and 1960's summer camps, using brochures of that time as a main source to the art department.
+";i:533;s:215:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSimpsons' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheSimpsons'>The Simpsons</a></em>, at least in the 1990s episodes:
+";i:534;s:157:"<ul ><li> Springfield is often shown as still selling contemporary music on LP and 45s, and (for the Simpsons family at least) televisions with dial tuners.
+";i:535;s:134:"</li><li> Parodied in the newer seasons where the HDTV has rabbit ears, if not a comment on the popularity of cutting cable nowadays.
+";i:536;s:71:"</li><li> They had a Betamax VCR well into the '90s at <em>least</em>.
+";i:537;s:166:"</li><li> Krusty is a major celebrity due to hosting a live afternoon kids' show on TV, a notion that was already decades out of date when the show <em>started</em>.
+";i:538;s:323:"</li><li> Much of this is because Matt Groening's based the characters on members of his own family when he was growing up in the 1960s. He even explained that Marge has a three-feet-tall blue beehive hairdo because that is what his own mother's hair looked like (from his point of view) when he was much shorter than her.
+";i:539;s:920:"</li></ul></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeyArnold' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HeyArnold'>Hey Arnold!</a></em> obviously takes place in the 1990s, but the boarding house gives off a retro feel, as does the rest of the neighborhood. Justified in the fact it's a historical area, the boarding house is over 100 years old, and he lives with his grandparents. Most of the vehicles, such as police cars and city buses seem to be from the 1950s though. The show also uses a jazz soundtrack, kind of like <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Peanuts' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Peanuts'>Peanuts</a></em> and a recurring character is a Frank Sinatra <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Expy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Expy'>Expy</a>.
+";i:540;s:317:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Archer' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Archer'>Archer</a></em> seems to take place in the modern day, but the whole atmosphere (super-spies, gadgets, even the office furniture) seems plucked right out of the '60s.
+";i:541;s:309:"<ul ><li> <em>Archer</em> has indications of taking place in every single decade from the '60s to the '00s. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging'>Lampshaded</a> in the episode 'Lo Scandalo'.
+";i:542;s:82:"</li></ul><div class='indent'> Archer: The what?! Wait, doesn't Italy use a king?
+";i:543;s:62:"</div><div class='indent'> Lana: No, they don't "use a king!"
+";i:544;s:68:"</div><div class='indent'> Malory: What year do you think this is?!
+";i:545;s:87:"</div><div class='indent'> Archer: I... yeah, exactly. <strong>Good question.</strong>
+";i:546;s:987:"</div></li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BigGuyAndRustyTheBoyRobot' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/BigGuyAndRustyTheBoyRobot'>Big Guy And Rusty The Boy Robot</a></em> takes place in a world with complex robot AI and holographic recording devices, but there's retro-futuristic styling to the computers and microphones (<a class='urllink' href='http://suburbanbanshee.net/rusty/lab018.gif'>pic<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a><small>&#9674;</small>; and <a class='urllink' href='http://suburbanbanshee.net/rusty/r_room021.gif'>another<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a><small>&#9674;</small>). The cars tend towards "classic," and the military seems to be structured as it was before the Air Force split off from the Army.
+";i:547;s:587:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/RegularShow' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/RegularShow'>Regular Show</a></em> explicitly takes place in the modern day (in one episode time travel TO the 80s is involved), but things generally have an 80s-to-early-90s atmosphere. All video games are Atari 2600-level, VHS is the only video format, casette tapes are still in use alongside CDs, and computers are boxy with CRT monitors and multiple peripherals. Even the most modern cellphones are circa 2004.
+";i:548;s:17:"</li></ul></div>
+";i:549;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder10');">&nbsp;&nbsp;&nbsp;&nbsp;Real Life&nbsp;</div><div id="folder10" class="folder" isfolder="true" style="display:block;">
+";i:550;s:464:"<ul ><li> The Amish (and other similar groups such as the mennonites) are a perfect example as different groups have different standards to what technology they'll accept. It's possible to see a Mennonite farm with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchizoTech' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchizoTech'>a modern tractor using GPS tracking for computerized crop planning, and no phone or TV in the house</a>.
+";i:551;s:205:"<ul ><li> They have no problem with technology which makes their industry easier, like modern farming equipment/techniques. Technology that leads to laziness or takes the place of work is what they avoid.
+";i:552;s:198:"</li><li> Unfortunately, they also decline modern medicine, which at times leads to outbreaks of diseases which have been eliminated elsewhere, and subsequently runs the risk of reintroducing them.
+";i:553;s:286:"<ul ><li> Even that is zigzagged a bit, there are certain emerging medical technologies that they are <em>very</em> interested in. For example, treatments for genetically linked diseases, which is a bigger problem for them than the general population thanks to a smaller breeding pool.
+";i:554;s:88:"</li></ul></li></ul></li><li> This is sometimes how foreign countries feel to visitors.
+";i:555;s:81:"<ul ><li> Even just going from the city to a small rural town can feel this way.
+";i:556;s:451:"</li><li> Large part of what you might call the Third World still uses technology from decades or even centuries ago as part of their infrastructure, because it is that hard to change, but that doesn't stop locals who can afford it to get imported tech, usually of the portable kind. There's nothing strange, really, about a shepherd boy that looks like he stepped out of Biblical times playing his Gameboy while keeping an eye on the family's sheep.
+";i:557;s:417:"<ul ><li> Sometimes the tech that is used comes in because it makes more sense to skip a tech-generation or two. Cell phones are a good example as in many countries they've gone directly from no long-distance communication straight to cells/smartphones because it's easier to set up some towers to provide coverage around a village and link it by satellite to other systems than it is to string copper for landlines.
+";i:558;s:363:"</li></ul></li><li> One somewhat amusing example is Cuba, where due to trade embargoes, the streets are full of lovingly maintained classic 1950s American automobiles. Many cars have had nearly every part replaced by exact, locally made duplicates a number of times. Cuba's auto mechanics are renowned as some of the best in the world, simply by sheer necessity.
+";i:559;s:374:"</li><li> Brazil's Tectoy company is known for continuing to produce the Sega Genesis well into the 2000s, about 10 years after it disappeared from other markets. The system remains popular amongst poorer communities because of its cheap cost, and easily pirated games. In recent years, it's not uncommon to find stores full of new Genesis games, even if they were pirated.
+";i:560;s:209:"</li><li> PJ O'Rourke noticed while visiting Somalia in the early 90s that everyone was wearing bell-bottoms - a natural consequence of first-world residents donating their out-of-style clothes to aid groups.
+";i:561;s:520:"</li><li> This can also apply to cases of foreigners speaking English. In some countries that have been cut off from most of the rest of the modern world for decades, people learn American English by practicing from American grammar books; problem is, often these textbooks are enormously outdated, containing idioms and slang from, say, the '50s. Americans in foreign lands in recent years have sometimes reported natives striking up conversations with them and mentioning that something is "peachy keen" and the like.
+";i:562;s:311:"</li></ul></li><li> <a class='urllink' href='http://www.missilebases.com/'>20th Century Castles<img src="http://static.mediatropes.info/pmwiki/pub/external_link.gif" height="12" width="12" style="border:none;" /></a> - a real estate company specialising in decomissioned Cold War-era bunkers and missile silos.
+";i:563;s:17:"</li></ul></div>
+";i:564;s:7:"<hr />
+";i:565;s:2557:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/RefugeeFromTVLand">Refugee From TV Land</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/OtherworldTropes">Otherworld Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/RichardNixonTheUsedCarSalesman">Richard Nixon The Used Car Salesman</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PurelyAestheticEra">Purely Aesthetic Era</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ThisIndexIsAnachronistic">This Index Is Anachronistic</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SchizoTech">Schizo Tech</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PunkPunk">Punk Punk</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SettingGimmicks">Setting Gimmicks</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/SettingAsACharacter">Setting As A Character</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Postmodernism">Postmodernism</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheNineties">The Nineties</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/RAndB">R&amp;B</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/RolePlayingGameVerse">Role-Playing Game Verse</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings">Settings</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/RPGMechanicsVerse">RPG Mechanics Verse</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:566;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:567;s:10:"<p> </p>
+";i:568;s:10:"<center>
+";i:569;s:2:"
+";i:570;s:24:"<!-- med rectangle -->
+";i:571;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:572;s:33:"<script type='text/javascript'>
+";i:573;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:574;s:11:"</script>
+";i:575;s:8:"</div>
+";i:576;s:2:"
+";i:577;s:11:"</center>
+";i:578;s:24:"</td><!-- wikibody -->
+";i:579;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:580;s:7:"</td>
+";i:581;s:7:"</tr>
+";i:582;s:10:"</table>
+";i:583;s:22:"<!--PageFooterFmt-->
+";i:584;s:77:"<div class="alt_title" style="font-size:x-small;text-align:center;" ></div>
+";i:585;s:10:"<center>
+";i:586;s:44:"<table style="width:606px;margin:0 auto;">
+";i:587;s:7:"	<tr>
+";i:588;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:589;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:590;s:262:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RetroUniverse?action=edit'> edit page</a></div></div></td>
+";i:591;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:592;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:593;s:8:"	</tr>
+";i:594;s:10:"</table>
+";i:595;s:11:"</center>
+";i:596;s:21:"<div id='wikifoot'>
+";i:597;s:27:"    <div class='footnav'>
+";i:598;s:2:"
+";i:599;s:14:"			 <center>
+";i:600;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:601;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:602;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:603;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:604;s:15:"				</center>
+";i:605;s:2:"
+";i:606;s:29:"    </div><!-- wikifoot -->
+";i:607;s:23:"<!--/PageFooterFmt-->
+";i:608;s:12:"78025<br/>
+";i:609;s:3:"0
+";i:610;s:8:"</div>
+";i:611;s:26:"</div><!-- container -->
+";i:612;s:2:"
+";i:613;s:9:"</body>
+";i:614;s:21:"<!--ScriptInsert-->
+";i:615;s:9:"</html>
+";}}

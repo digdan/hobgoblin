@@ -1,0 +1,544 @@
+a:2:{i:0;i:1377888717;i:1;a:543:{i:0;s:123:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+";i:1;s:46:"<html xmlns="http://www.w3.org/1999/xhtml" >
+";i:2;s:8:"<head>
+";i:3;s:93:"<link rel="alternate" type="application/rss+xml" href="../rss.xml" title="RSS Feed"></link>
+";i:4;s:71:"<title>Pride Before A Fall - Television Tropes &amp; Idioms  </title>
+";i:5;s:137:"<meta name="Description" content="The Pride Before A Fall trope as used in popular culture, with a list of examples from all media." />
+";i:6;s:82:"<meta name="verify-v1" content="pmsmgvY91pq86DQaFOjAJupoJEXrsSNdldOPo+WvgfE=" />
+";i:7;s:91:"<meta property="og:image" content="http://static.tvtropes.org/lampshade_logo_blue.png" />
+";i:8;s:54:"<base href="http://tvtropes.org/pmwiki/pmwiki.php/">
+";i:9;s:18:"<!--HeaderText-->
+";i:10;s:94:"<link rel="stylesheet" type="text/css" href="http://static.tvtropes.org/css/css_white.css" />
+";i:11;s:6:"    
+";i:12;s:2:"
+";i:13;s:2:"
+";i:14;s:2:"
+";i:15;s:9:"<style>
+";i:16;s:23:"strike{display:none;}
+";i:17;s:24:".strike{display:none;}
+";i:18;s:46:".YMMV_lit { background-position:-8px -7px; }
+";i:19;s:45:".YMMV { background-position:-8px -1190px; }
+";i:20;s:49:"span.tiptag {font-size:smaller;cursor:pointer;}
+";i:21;s:70:"span.notelabel {font-size:smaller;cursor:pointer;font-style:italic;}
+";i:22;s:158:".gratisbanner{background-color:#FFF5EE;text-align:center;-moz-border-radius:4px;-webkit-border-radius:4px;padding:4px;border:1px solid #FFF5EE;color:black;}
+";i:23;s:45:".indent {margin-top:4px;margin-bottom:4px;}
+";i:24;s:2:"
+";i:25;s:10:"</style>
+";i:26;s:2:"
+";i:27;s:106:"<script type="text/javascript" language="javascript" src="http://static.tvtropes.org/main.js" ></script>
+";i:28;s:33:"<script type="text/javascript">
+";i:29;s:26:"  var _gaq = _gaq || [];
+";i:30;s:47:"  _gaq.push(['_setAccount', 'UA-3821842-1']);
+";i:31;s:34:"  _gaq.push(['_trackPageview']);
+";i:32;s:2:"
+";i:33;s:17:"  (function() {
+";i:34;s:94:"    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+";i:35;s:119:"    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+";i:36;s:91:"    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+";i:37;s:9:"  })();
+";i:38;s:2:"
+";i:39;s:32:"	function subpage(sel, title){
+";i:40;s:4:"		
+";i:41;s:40:"		var namespce = ""+getselection(sel);
+";i:42;s:34:"		if(namespce.trim()=="")return;
+";i:43;s:72:"		var url="http://tvtropes.org/pmwiki/pmwiki.php/"+namespce+"/"+title;
+";i:44;s:100:"		if(namespce.indexOf('Related')!=-1) url="http://tvtropes.org/pmwiki/relationships.php?t="+title;
+";i:45;s:114:"		if(namespce.indexOf('Discussion')!=-1) url="http://tvtropes.org/pmwiki/remarks.php?trope="+namespce+"."+title;
+";i:46;s:29:"		window.location.href=url;
+";i:47;s:4:"	}
+";i:48;s:32:"	function p5(groupname,title){
+";i:49;s:100:"		window.location.href="http://tvtropes.org/pmwiki/p5_report_reason.php?g="+groupname+"&t="+title;
+";i:50;s:4:"	}
+";i:51;s:27:"	function togglenote(id){
+";i:52;s:23:"		var ele=object(id);
+";i:53;s:34:"		var state = ele.style.display;
+";i:54;s:49:"		if(state=='none') ele.style.display='inline';
+";i:55;s:48:"		if(state=='inline')ele.style.display='none';
+";i:56;s:4:"	}
+";i:57;s:35:"	var googletag = googletag || {};
+";i:58;s:39:"	googletag.cmd = googletag.cmd || [];
+";i:59;s:16:"	(function() {
+";i:60;s:47:"	var gads = document.createElement('script');
+";i:61;s:21:"	gads.async = true;
+";i:62;s:33:"	gads.type = 'text/javascript';
+";i:63;s:55:"	var useSSL = 'https:' == document.location.protocol;
+";i:64;s:46:"	gads.src = (useSSL ? 'https:' : 'http:') + 
+";i:65;s:47:"	'//www.googletagservices.com/tag/js/gpt.js';
+";i:66;s:57:"	var node = document.getElementsByTagName('script')[0];
+";i:67;s:44:"	node.parentNode.insertBefore(gads, node);
+";i:68;s:8:"	})();
+";i:69;s:2:"
+";i:70;s:34:"	googletag.cmd.push(function() {
+";i:71;s:121:"		googletag.defineSlot('/5376056/leaderboard', [728, 90], 'div-gpt-ad-1359659270091-0').addService(googletag.pubads());
+";i:72;s:125:"		googletag.defineSlot('/5376056/atf_skyscraper', [160, 600], 'div-gpt-ad-1359659612995-0').addService(googletag.pubads());
+";i:73;s:125:"		googletag.defineSlot('/5376056/btf_skyscraper', [160, 600], 'div-gpt-ad-1359659921013-0').addService(googletag.pubads());
+";i:74;s:128:"		googletag.defineSlot('/5376056/brt_med_rectangle', [300, 250], 'div-gpt-ad-1359660027796-0').addService(googletag.pubads());
+";i:75;s:45:"		googletag.pubads().enableSingleRequest();
+";i:76;s:31:"		googletag.enableServices();
+";i:77;s:6:"	});
+";i:78;s:2:"
+";i:79;s:11:"</script>
+";i:80;s:114:"<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/js/google_top_exp.js"> </script>
+";i:81;s:2:"
+";i:82;s:9:"</head>
+";i:83;s:8:"<body>
+";i:84;s:40:"<div class="container" id="container">
+";i:85;s:68:"<table id='wikimid' width='100%' cellspacing='0' cellpadding='0' >
+";i:86;s:6:"<tr>
+";i:87;s:46:"<td style="width:166px;vertical-align:top;">
+";i:88;s:46:"<div id='wikileftpage' style="width:162px;">
+";i:89;s:354:"<iframe src="http://www.facebook.com/plugins/like.php?href=tvtropes.org%2Fpmwiki%2Fpmwiki.php%2FMain%2FHomePage&amp;layout=button_count&amp;show_faces=true&amp;width=160&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:21px;" allowTransparency="true"></iframe>
+";i:90;s:38:"<g:plusone size="small"></g:plusone>
+";i:91;s:2:"
+";i:92;s:145:"<h1  onclick="togglepanel('Goodiescats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>troperville</div></h1>
+";i:93;s:82:"<div iscat="true" id="Goodiescats" style="display:none;background-color:white;">
+";i:94;s:6:"<ul>
+";i:95;s:89:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'> Welcome To TV Tropes </a></li>
+";i:96;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/query.php?type=att'>Ask The Tropers</a></li>
+";i:97;s:89:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/topics.php'> Forum </a></li>
+";i:98;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:99;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/changes.php?filter=Discussions'>Recent Discussions</a></li>
+";i:100;s:107:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/review_activity.php'> Latest Reviews </a></li>
+";i:101;s:127:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/yk_activity.php?interval=1'>You Know, That Thing Where...</a></li>
+";i:102;s:84:"	<li><a class='twikilink' href='Main/YouKnowThatShow'>Remember That Show?</a></li>
+";i:103;s:76:"	<li><a class='twikilink' href='Main/LostAndFound'>Lost And Found</a></li>
+";i:104;s:76:"	<li><a class='twikilink' href='Main/Administrivia'>Administrivia</a></li>
+";i:105;s:102:"	<li><a class='twikilink' href='Main/ListOfShowsThatNeedSummary'>Works That Need A Summary </a></li>
+";i:106;s:96:"	<li><a class='twikilink' href='Administrivia/WhatGoesWhereOnTheWiki'>What Goes Where</a></li>
+";i:107;s:7:"</ul>
+";i:108;s:8:"</div>
+";i:109;s:2:"
+";i:110;s:136:"<h1  onclick="togglepanel('Toolcats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>tools</div></h1>
+";i:111;s:79:"<div iscat="true" id="Toolcats" style="display:none;background-color:white;">
+";i:112;s:2:"
+";i:113;s:187:"<div id="p5_button_holder" style="text-align:center;">Request a content violation evaluation.<button onclick="javascript:p5('Main','PrideBeforeAFall');">send request</button><hr/></div>
+";i:114;s:2:"
+";i:115;s:328:"<ul><li style="text-align:center;">Page Type: trope<form class="inline" action="http://tvtropes.org/pmwiki/set_page_type.php" method="post" ><input type="hidden" name="groupname" value="Main" /><input type="hidden" name="rawtitle" value="PrideBeforeAFall" /><input type="submit" value="set page type" /></form></li></ul><hr/> 
+";i:116;s:2:"
+";i:117;s:51:"<div style="font-size:small;text-align:center;" >
+";i:118;s:30:"Find recent edits by troper:
+";i:119;s:77:"<input id="findfor" type="text" size="8" onchange="javascript:findfor();"/>
+";i:120;s:56:"<button onclick="javascript:findfor();"/>find</button>
+";i:121;s:8:"</div>
+";i:122;s:7:"<hr/>
+";i:123;s:7:"<ul>	
+";i:124;s:4:"		
+";i:125;s:7:"<hr/>
+";i:126;s:78:"		<form method="post" action="http://tvtropes.org/pmwiki/flag_interrum.php">
+";i:127;s:57:"		<input type="hidden" name="groupname" value="Main" />
+";i:128;s:65:"		<input type="hidden" name="title" value="PrideBeforeAFall" />
+";i:129;s:54:"		This article needs some moderator assistance with:
+";i:130;s:9:"		<br/>
+";i:131;s:77:"		<textarea name="reason" id="report_reason" cols="15" rows="2"></textarea>
+";i:132;s:9:"		<br/>
+";i:133;s:4:"		
+";i:134;s:34:"		<p style="text-align:center;">
+";i:135;s:107:"			Please don't bother to do this without saying what the issue is in the box above. No issue, no action.
+";i:136;s:8:"		</p>
+";i:137;s:34:"		<p style="text-align:center;">
+";i:138;s:48:"			<input type="submit" value="send report" />
+";i:139;s:8:"		</p>
+";i:140;s:11:"		</form>
+";i:141;s:7:"<hr/>
+";i:142;s:6:"<ul>
+";i:143;s:105:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/title_search_form.php'>Title Search</a></li>
+";i:144;s:111:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/custom_title_request.php'>Customize Title</a></li>
+";i:145;s:91:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/CutList.php'>Cut List</a></li>
+";i:146;s:120:"	<li><a class='twikilink' href='http://tvtropes.org/pmwiki/conversations.php?topic=renames'>Trope Repair Shop</a></li>
+";i:147;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php'>New Edits</a></li>
+";i:148;s:105:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/recent_edit_reasons.php'>Edit Reasons</a></li>
+";i:149;s:108:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/changes.php?todayonly=true'>Recently New</a></li>
+";i:150;s:90:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/launches.php'>Launches</a></li>
+";i:151;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/knowerForm.php'>Get Known</a></li>
+";i:152;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/profile.php'>Your Profile</a></li>
+";i:153;s:106:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/associate_email.php'>Add Email Address</a></li>
+";i:154;s:67:"	<li><a class='twikilink' href='Main/IndexIndex'>Indexes</a></li>
+";i:155;s:98:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/uploadform.php'>Image Uploader</a></li>
+";i:156;s:93:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/img_list.php'>Images List</a></li>
+";i:157;s:145:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/inboundcount.php?pagename=Main.PrideBeforeAFall'>Referral Count for This Page</a></li>
+";i:158;s:104:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/crown_activity.php'>Crowner Activity</a></li>
+";i:159;s:120:"	<!-- <li><a href='http://tvtropes.org/pmwiki/relationships.php?t=PrideBeforeAFall'>Article Relationships</a></li> -->
+";i:160;s:106:"	<li><a href='http://tvtropes.org/pmwiki/folderizer.php?target=Main.PrideBeforeAFall'>Folderize</a></li>
+";i:161;s:96:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/no_types.php'>Un-typed Pages</a></li>
+";i:162;s:113:"	<li><a class='urllink' href='http://tvtropes.org/pmwiki/page_type_audit.php'>Recent Page Type Changes</a></li>
+";i:163;s:7:"</ul>
+";i:164;s:8:"	<hr/>
+";i:165;s:6:"<ul>
+";i:166;s:83:"	<li><a class='twikilink' href='Main/WelcomeToTVTropes'>Editing Overview</a></li>
+";i:167;s:69:"	<li><a class='twikilink' href='Main/GoodStyle'>Good Style</a></li>
+";i:168;s:112:"	<li><a class='twikilink' href='Main/RuleOfCautiousEditingJudgment'>Rule Of Cautious Editing Judgment</a></li>
+";i:169;s:84:"	<li><a class='twikilink' href='Main/TextFormattingRules'>Text Formatting</a></li>
+";i:170;s:77:"	<li><a class='twikilink' href='Main/PageTemplates'>Page Templates</a></li>
+";i:171;s:73:"	<li><a class='twikilink' href='Main/WikiSandbox'>Wiki Sandbox</a></li>
+";i:172;s:7:"</ul>
+";i:173;s:7:"<hr/>
+";i:174;s:2:"
+";i:175;s:8:"</div>
+";i:176;s:134:"<h1 onclick="togglepanel('Toyscats');"><div class="buttoninterior"><div style="float:right;width:10px;">&#8711;</div>toys</div></h1>
+";i:177;s:79:"<div iscat="true" id="Toyscats" style="display:none;background-color:white;">
+";i:178;s:8:"		<ul>
+";i:179;s:108:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/pitchgenerator.php'>Pitch Generator</a></li>
+";i:180;s:102:"		    <li><a class='urllink' href='http://tvtropes.org/pmwiki/storygen.php'>Story Generator</a></li>
+";i:181;s:9:"		</ul>
+";i:182;s:8:"</div>
+";i:183;s:10:"<center>
+";i:184;s:34:"		<div style="margin-top:4px;">	
+";i:185;s:5:"			
+";i:186;s:74:"<div id='div-gpt-ad-1359659612995-0' style='width:160px; height:600px;'>
+";i:187;s:33:"<script type='text/javascript'>
+";i:188;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659612995-0'); });
+";i:189;s:101:"googletag.pubads().set("page_url", "http://tvtropes.org//pmwiki/pmwiki.php/Main/PrideBeforeAFall");
+";i:190;s:11:"</script>
+";i:191;s:8:"</div>
+";i:192;s:2:"
+";i:193;s:11:"		</div>	
+";i:194;s:10:"		<div>	
+";i:195;s:107:"<a href="http://tvtropes.org/ott7.html"><img src="http://static.tvtropes.org/ott_sai_final-167.png"/></a>
+";i:196;s:6:"		 	
+";i:197;s:4:"		
+";i:198;s:4:"		
+";i:199;s:10:"		</div>
+";i:200;s:110:"<strong>Subpages</strong><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PrideBeforeAFall">Main</a><br/>
+";i:201;s:9:"		<div>
+";i:202;s:10:"		</div>
+";i:203;s:36:"		<div style="font-size:x-small;">
+";i:204;s:11:"				<hr/>
+";i:205;s:78:"				<strong><a class='twikilink' href='Main/Tropes' >main index</a></strong>
+";i:206;s:14:"				<p> </p>
+";i:207;s:152:"				<strong><a class='twikilink' href='Main/NarrativeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes'>Narrative</a></strong>
+";i:208;s:13:"				<p></p>
+";i:209;s:11:"				<ul >
+";i:210;s:158:"				<li class='plus'> <a class='twikilink' href='Main/UniversalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/UniversalTropes'>Universal</a></li>
+";i:211;s:169:"				<li class='plus'> <a class='twikilink' href='Main/AppliedPhlebotinum' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AppliedPhlebotinum'>Applied Phlebotinum</a>
+";i:212;s:179:"				</li><li class='plus'> <a class='twikilink' href='Main/CharacterizationTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes'>Characterization</a>
+";i:213;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Characters' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters'>Characters</a>
+";i:214;s:175:"				</li><li class='plus'> <a class='twikilink' href='Main/CharactersAsDevice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice'>Characters As Device</a>
+";i:215;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Dialogue' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Dialogue'>Dialogue</a>
+";i:216;s:137:"				</li><li class='plus'> <a class='twikilink' href='Main/Motifs' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Motifs'>Motifs</a>
+";i:217;s:168:"				</li><li class='plus'> <a class='twikilink' href='Main/NarrativeDevices' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeDevices'>Narrative Devices</a>
+";i:218;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Paratext' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Paratext'>Paratext</a>
+";i:219;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Plots' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots'>Plots</a>
+";i:220;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/Settings' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Settings'>Settings</a>
+";i:221;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Spectacle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Spectacle'>Spectacle</a>
+";i:222;s:11:"				</li>
+";i:223;s:11:"				</ul>
+";i:224;s:13:"				<p></p>
+";i:225;s:140:"				<strong><a class='twikilink' href='Main/GenreTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GenreTropes'>Genre</a></strong>
+";i:226;s:13:"				<p></p>
+";i:227;s:177:"				<ul ><li class='plus'> <a class='twikilink' href='Main/ActionAdventureTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes'>Action Adventure</a>
+";i:228;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/ComedyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComedyTropes'>Comedy</a>
+";i:229;s:164:"				</li><li class='plus'> <a class='twikilink' href='Main/CommercialsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CommercialsTropes'>Commercials</a>
+";i:230;s:187:"				</li><li class='plus'> <a class='twikilink' href='Main/CrimeAndPunishmentTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrimeAndPunishmentTropes'>Crime And Punishment</a>
+";i:231;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DramaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DramaTropes'>Drama</a>
+";i:232;s:6:"				
+";i:233;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/HorrorTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HorrorTropes'>Horror</a>
+";i:234;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/LoveTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes'>Love</a>
+";i:235;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/NewsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewsTropes'>News</a>
+";i:236;s:183:"				</li><li class='plus'> <a class='twikilink' href='Main/ProfessionalWrestling' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ProfessionalWrestling'>Professional Wrestling</a>
+";i:237;s:186:"				</li><li class='plus'> <a class='twikilink' href='Main/SpeculativeFictionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SpeculativeFictionTropes'>Speculative Fiction</a>
+";i:238;s:165:"				</li><li class='plus'> <a class='twikilink' href='Main/SportsStoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SportsStoryTropes'>Sports Story</a>
+";i:239;s:6:"				
+";i:240;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/WarTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WarTropes'>War</a>
+";i:241;s:16:"				</li></ul>
+";i:242;s:135:"				<p></p><strong><a class='twikilink' href='Main/Media' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Media'>Media</a></strong>
+";i:243;s:13:"				<p></p>
+";i:244;s:11:"				<ul >
+";i:245;s:164:"				<li class='plus'> <a class='twikilink' href='Main/AnimatedTrope' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnimatedTrope'>Animation (Western)</a></li>
+";i:246;s:134:"				<li class='plus'> <a class='twikilink' href='Main/Anime' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Anime'>Anime</a></li>
+";i:247;s:159:"				<li class='plus'> <a class='twikilink' href='Main/ComicBookTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ComicBookTropes'>Comic Book</a></li>
+";i:248;s:142:"				<li class='plus'> <a class='twikilink' href='Main/FanFic' title='http://tvtropes.org/pmwiki/pmwiki.php/FanFic/FanFics'>Fan Fics</a></li>
+";i:249;s:126:"				<li class='plus'> <a class='twikilink' href='Main/Film' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Film'>Film</a>
+";i:250;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/GameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GameTropes'>Game</a>
+";i:251;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Literature' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Literature'>Literature</a>
+";i:252;s:182:"				</li><li class='plus'> <a class='twikilink' href='Main/MusicAndSoundEffects' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MusicAndSoundEffects'>Music And Sound Effects</a>
+";i:253;s:156:"				</li><li class='plus'> <a class='twikilink' href='Main/NewMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/NewMediaTropes'>New Media</a>
+";i:254;s:162:"				</li><li class='plus'> <a class='twikilink' href='Main/PrintMediaTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrintMediaTropes'>Print Media</a>
+";i:255;s:6:"				
+";i:256;s:134:"				</li><li class='plus'> <a class='twikilink' href='Main/Radio' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Radio'>Radio</a>
+";i:257;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/SequentialArt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SequentialArt'>Sequential Art</a>
+";i:258;s:159:"				</li><li class='plus'> <a class='twikilink' href='Main/TabletopGames' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TabletopGames'>Tabletop Games</a>
+";i:259;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/Television' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Television'>Television</a>
+";i:260;s:140:"				</li><li class='plus'> <a class='twikilink' href='Main/Theater' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Theater'>Theater</a>
+";i:261;s:158:"				</li><li class='plus'> <a class='twikilink' href='Main/VideogameTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes'>Videogame</a>
+";i:262;s:6:"				
+";i:263;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/Webcomics' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Webcomics'>Webcomics</a>
+";i:264;s:54:"				</li></ul><p></p><strong>Topical Tropes</strong>
+";i:265;s:162:"				<p></p><ul ><li class='plus'> <a class='twikilink' href='Main/BetrayalTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BetrayalTropes'>Betrayal</a>
+";i:266;s:161:"				</li><li class='plus'> <a class='twikilink' href='Main/CensorshipTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CensorshipTropes'>Censorship</a>
+";i:267;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/CombatTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CombatTropes'>Combat</a>
+";i:268;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/DeathTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DeathTropes'>Death</a>
+";i:269;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/FamilyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FamilyTropes'>Family</a>
+";i:270;s:11:"				</li>
+";i:271;s:173:"				<li class='plus'> <a class='twikilink' href='Main/FateAndProphecyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes'>Fate And Prophecy</a>
+";i:272;s:143:"				</li><li class='plus'> <a class='twikilink' href='Main/FoodTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FoodTropes'>Food</a>
+";i:273;s:152:"				</li><li class='plus'> <a class='twikilink' href='Main/HolidayTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HolidayTropes'>Holiday</a>
+";i:274;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/MemoryTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MemoryTropes'>Memory</a>
+";i:275;s:6:"				
+";i:276;s:146:"				</li><li class='plus'> <a class='twikilink' href='Main/MoneyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoneyTropes'>Money</a>
+";i:277;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/MoralityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralityTropes'>Morality</a>
+";i:278;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/PoliticsTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticsTropes'>Politics</a>
+";i:279;s:155:"				</li><li class='plus'> <a class='twikilink' href='Main/ReligionTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ReligionTropes'>Religion</a>
+";i:280;s:149:"				</li><li class='plus'> <a class='twikilink' href='Main/SchoolTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SchoolTropes'>School</a>
+";i:281;s:16:"				</li></ul>
+";i:282;s:6:"				
+";i:283;s:13:"				<p></p>
+";i:284;s:39:"				<strong>Other Categories</strong>
+";i:285;s:13:"				<p></p>
+";i:286;s:10:"				<ul>
+";i:287;s:168:"				<li class='plus'> <a class='twikilink' href='Main/BritishTellyTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BritishTellyTropes'>British Telly</a></li>
+";i:288;s:165:"				<li class='plus'> <a class='twikilink' href='Main/TheContributors' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheContributors'>The Contributors</a></li>
+";i:289;s:156:"				<li class='plus'> <a class='twikilink' href='Main/CreatorSpeak' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CreatorSpeak'>Creator Speak</a></li>
+";i:290;s:302:"				<li class='plus'> <a class='twikilink' href='Main/Creators' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Creators'>Creators</a></li><li class='plus'> <a class='twikilink' href='Main/DerivativeWorks' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DerivativeWorks'>Derivative Works</a></li>
+";i:291;s:155:"				<li class='plus'> <a class='twikilink' href='Main/LanguageTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LanguageTropes'>Language</a></li>
+";i:292;s:166:"				<li class='plus'> <a class='twikilink' href='Main/LawsAndFormulas' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LawsAndFormulas'>Laws And Formulas</a></li>
+";i:293;s:156:"				<li class='plus'> <a class='twikilink' href='Main/ShowBusiness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ShowBusiness'>Show Business</a></li>
+";i:294;s:180:"				<li class='plus'> <a class='twikilink' href='Main/SplitPersonalityTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SplitPersonalityTropes'>Split Personality</a></li>
+";i:295;s:147:"				<li class='plus'> <a class='twikilink' href='Main/StockRoom' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/StockRoom'>Stock Room</a></li>
+";i:296;s:146:"				<li class='plus'> <a class='twikilink' href='Main/TropeTropes' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TropeTropes'>Trope</a></li>
+";i:297;s:157:"				<li class='plus'> <a class='twikilink' href='Main/TruthAndLies' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthAndLies'>Truth And Lies</a></li>
+";i:298;s:172:"				<li class='plus'> <a class='twikilink' href='Main/TruthInTelevision' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TruthInTelevision'>Truth In Television</a></li>
+";i:299;s:11:"				</ul>
+";i:300;s:11:"		</div>	
+";i:301;s:11:"</center>
+";i:302;s:2:"
+";i:303;s:30:"</div> <!-- wikileftpage -->
+";i:304;s:7:"</td>
+";i:305;s:20:"<td id='wikibody'>
+";i:306;s:2:"
+";i:307;s:21:"<!--PageTitleFmt-->
+";i:308;s:65:"<table width='100%' cellspacing='0' cellpadding='0' border='0'>
+";i:309;s:12:"    		<tr>
+";i:310;s:38:"    		<td id="wikicmds" align="top">
+";i:311;s:8:"    		
+";i:312;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:313;s:45:"    				<tr style="vertical-align:middle;">
+";i:314;s:31:"    					<td align="center" >
+";i:315;s:153:"    						<a href="Main/HomePage" ><img style="border:none;" src="http://static.tvtropes.org/lampshade_logo_blue.png"  alt="TV Tropes Org"  /></a><br/>
+";i:316;s:16:"    					</td>
+";i:317;s:15:"    				<td >
+";i:318;s:37:"    					<div style="width:400px;">
+";i:319;s:28:"                  <center>
+";i:320;s:27:"                  <table>
+";i:321;s:24:"                  <tr>
+";i:322;s:24:"                  <td>
+";i:323;s:100:"                  <form action="http://tvtropes.org/pmwiki/search_result.php" id="cse-search-box">
+";i:324;s:27:"                    <div>
+";i:325;s:106:"                      <input type="hidden" name="cx" value="partner-pub-6610802604051523:amzitfn8e7v" />
+";i:326;s:75:"                      <input type="hidden" name="cof" value="FORID:10" />
+";i:327;s:76:"                      <input type="hidden" name="ie" value="ISO-8859-1" />
+";i:328;s:64:"                      <input type="text" name="q" size="31" />
+";i:329;s:28:"                    </div>
+";i:330;s:27:"                  </form>
+";i:331;s:130:"                  <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+";i:332;s:25:"                  </td>
+";i:333;s:24:"                  <td>
+";i:334;s:46:"                  <div class="buttonframe" >
+";i:335;s:93:"                  <div class="buttoninterior" onclick="object('cse-search-box').submit();">
+";i:336;s:88:"                   <a href="javascript:object('cse-search-box').submit();" >search</a>
+";i:337;s:26:"                  </div>
+";i:338;s:25:"                  </div
+";i:339;s:25:"                  </td>
+";i:340;s:25:"                  </tr>
+";i:341;s:28:"                  </table>
+";i:342;s:29:"                  </center>
+";i:343;s:17:"    					</div>
+";i:344;s:15:"    				</td>
+";i:345;s:15:"    				</tr>
+";i:346;s:16:"    		</table>
+";i:347;s:8:"    		
+";i:348;s:50:"    		<table style="width:606px;margin:0 auto;">
+";i:349;s:10:"    				
+";i:350;s:27:"    				<tr valign="top">
+";i:351;s:276:"    							<td valign="middle" title="check out the latest changes" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:352;s:270:"    							<td valign="middle" title="visit the workshops" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/workshops.php" >workshops</a></div></div></td>
+";i:353;s:285:"    							<td valign="middle" title="make and read reviews of works"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a  href="http://tvtropes.org/pmwiki/review_activity.php" >reviews</a></div></div></td>
+";i:354;s:282:"    							<td valign="middle" title="participate in consensus building" ><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/yk_activity.php" >YKTTW</a></div></div></td>
+";i:355;s:275:"    							<td valign="middle" title="visit the tvtropesnews twitter account"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://twitter.com/tvtropesnews">tweets</a></div></div></td>
+";i:356;s:230:"    							<td valign="middle" title="see a randomly selected article" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:357;s:15:"    				</tr>
+";i:358;s:10:"    				
+";i:359;s:10:"    				
+";i:360;s:8:"    		
+";i:361;s:16:"    		</table>
+";i:362;s:8:"    		
+";i:363;s:28:"    		<div id="wikilogo" >
+";i:364;s:16:"    		<center>
+";i:365;s:2:"
+";i:366;s:22:"<!-- leaderboard -->
+";i:367;s:73:"<div id='div-gpt-ad-1359659270091-0' style='width:728px; height:90px;'>
+";i:368;s:33:"<script type='text/javascript'>
+";i:369;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359659270091-0'); });
+";i:370;s:11:"</script>
+";i:371;s:8:"</div>
+";i:372;s:52:"   				<table style="width:606px%;margin:0 auto;">
+";i:373;s:28:"    					<tr valign="top">
+";i:374;s:226:"    							<td style="color:#778899;" valign="middle">Subpages: <select onchange="subpage(this, 'PrideBeforeAFall');" autocomplete="off"  style="width:50px;"><option> </option><option value="Main">Main</option></select></td>
+";i:375;s:271:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PrideBeforeAFall?action=source" >source</a></div></div></td>
+";i:376;s:186:"    						 	<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/knowerForm.php'">log in</div></div></td>
+";i:377;s:272:"									<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/article_history.php?article=Main.PrideBeforeAFall">history</a></div></div></td>
+";i:378;s:274:"    							<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrideBeforeAFall?action=edit'> edit page</a></div></div></td>
+";i:379;s:270:"    							<td valign="middle"><div class="buttonframe" ><div class="buttoninterior"  onclick="window.location.href=this.getElementsByTagName('a')[0].href;"><a href="http://tvtropes.org/pmwiki/relatedsearch.php?term=Main/PrideBeforeAFall" >related</a></div></div></td>
+";i:380;s:38:"    							<td valign="middle"></td>
+";i:381;s:16:"    					</tr>
+";i:382;s:18:"    				</table>
+";i:383;s:10:"    				
+";i:384;s:35:"    				<div id="watchmsg"></div>
+";i:385;s:18:"    			</center>
+";i:386;s:13:"    		</td>
+";i:387;s:12:"     </tr>
+";i:388;s:6:"    
+";i:389;s:11:"    	<tr>
+";i:390;s:39:"    		<td id="wikititle" colspan="2">
+";i:391;s:40:"    				<div class="namespacebuttons">
+";i:392;s:662:"    					<ul class="namespaces" style="text-align:right;"><li class="namespace_li comments" ><a href="http://tvtropes.org/pmwiki/remarks.php?trope=Main.PrideBeforeAFall" >&nbsp;Discussion </a></li> <li class="namespace_li" style="padding-left:4px;"><a href="http://tvtropes.org/pmwiki/relationships.php?t=PrideBeforeAFall" title="see/set relationships with other tropes" ><img src="http://static.tvtropes.org/pmwiki/pub/images/family_5772.png" height="16" width="16" style="border:none;"></a></li> <li class="namespace_li Analysis"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Analysis/PrideBeforeAFall" class="textcolor">&nbsp;Analysis&nbsp;</a> </li> </ul>
+";i:393;s:16:"    				</div>
+";i:394;s:26:"    				<!--RepairBug-->
+";i:395;s:10:"    				
+";i:396;s:34:"    				<div class='pagetitle'> 
+";i:397;s:46:"    						  <span>Pride Before A Fall</span>
+";i:398;s:16:"    				</div>
+";i:399;s:11:"    				 
+";i:400;s:13:"    		</td>
+";i:401;s:12:"    	</tr>
+";i:402;s:10:"</table>
+";i:403;s:2:"
+";i:404;s:16:"<!--PageText-->
+";i:405;s:20:"<div id='wikitext'>
+";i:406;s:233:"<div class='indent'><em>"<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Pride' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Pride'>Pride</a> goeth before destruction, a haughty spirit before a fall."</em>
+";i:407;s:236:"<div class='indent'>&#8212; <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheBible' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheBible'>The Bible</a></em>, <strong>Proverbs 16:18</strong>
+";i:408;s:539:"</div></div><p></p>A character is introduced as an insufferable jerk; <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Pride' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Pride'>arrogant</a> because of some <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InsufferableGenius' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InsufferableGenius'>amazing talent</a> or high station in life. Everyone hopes, as soon as he's introduced, that he's going to eventually get what's coming to him...
+";i:409;s:448:"<p></p>...and then he does. Immediately. Right at the start of the story. The character is overthrown and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HowTheMightyHaveFallen' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HowTheMightyHaveFallen'>knocked out of that high station</a>; or has his marvelous talents somehow taken from him, and spends the rest of the story learning to cope, with varying levels of success.
+";i:410;s:970:"<p></p>That's right, this trope <em>begins</em> with his fall from a position of power or influence to learn <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnAesop' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnAesop'>An Aesop</a>, rather than giving him his due late in the story. Alternatively, we may meet the character just after his fall from power, and learn about his stuck-up, careless past and subsequent karmic punishment via <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FlashBack' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FlashBack'>Flash Back</a>. The story spends just enough time showing the audience (or, if the writers are in a hurry, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/InformedAbility' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/InformedAbility'>telling us</a>) that he's an arrogant bastard to convince us, before knocking him off his high horse.
+";i:411;s:325:"<p></p>The major conflict of the story usually involves the character learning to be humble. Or at the very least, learning not to indignantly ask everyone he runs into "Do you KNOW who I AM?!" as he is often, despite being hit over the head with the humility stick, still very interested in continuing his thoughtless ways.
+";i:412;s:443:"<p></p>The story arc completes with character accepting the Aesop. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnAesop' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnAesop'>The Aesop</a> can vary, but a typical lesson would be how dependent on other people he is, and how other people need to depend on him. With this change of character, the arc may continue to his return to a power as a juster, kinder soul.
+";i:413;s:993:"<p></p>Compare: <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAtoner' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheAtoner'>The Atoner</a> (who is necessarily repentant by definition), <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ATasteOfPower' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ATasteOfPower'>A Taste of Power</a> (for when this happens in video games), or <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BreakTheHaughty' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BreakTheHaughty'>Break the Haughty</a> for a slower descent. It also may overlap with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FallenPrincess' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FallenPrincess'>Fallen Princess</a> and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TragicHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TragicHero'>Tragic Hero</a>.
+";i:414;s:891:"<p></p>If you're looking for pride before a <em>literal</em> fall, see <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DisneyVillainDeath' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DisneyVillainDeath'>Disney Villain Death</a>. On a cultural or setting level see <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LookOnMyWorksYeMightyAndDespair' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LookOnMyWorksYeMightyAndDespair'>Look on My Works, Ye Mighty, and Despair</a>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SoiledCityOnAHill' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SoiledCityOnAHill'>Soiled City On A Hill</a>, and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AndManGrewProud' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AndManGrewProud'>And Man Grew Proud</a>.
+";i:415;s:14:"<p></p><hr />
+";i:416;s:19:"<h2>Examples:</h2>
+";i:417;s:122:"<p></p><div class="folderlabel" onclick="toggleAllFolders();">&nbsp;&nbsp;&nbsp;&nbsp;open/close all folders&nbsp; </div>
+";i:418;s:193:"<p></p><div class="folderlabel" onclick="togglefolder('folder0');">&nbsp;&nbsp;&nbsp;&nbsp;Anime &amp; Manga&nbsp;</div><div id="folder0" class="folder" isfolder="true" style="display:block;">
+";i:419;s:1019:"<ul ><li> Aisha Clan Clan from <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OutlawStar' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OutlawStar'>Outlaw Star</a></em> gets demoted in her introductory episode for letting the heroes get away, and is promptly dropped into the position of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ButtMonkey' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ButtMonkey'>Butt Monkey</a> for the next ten episodes as she has to hitchhike her way across the galaxy to track them down. She does, however, manage to upgrade herself to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheBigGuy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheBigGuy'>The Big Guy</a> of the show's <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FiveManBand' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FiveManBand'>Five-Man Band</a> when she sneaks on their ship and proves herself in battle.
+";i:420;s:1178:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePrinceOfTennis' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePrinceOfTennis'>The Prince of Tennis</a></em>, Hyoutei's Shishido is introduced as a cocky, conceited, over-confident jerk who makes snide comments about a player underestimating his opponent... only to get his ass handed to him in his next match against Fudoumine's captain, Tachibana Kippei. Since at the time Hyoutei regulars were not allowed to lose, he is immediately off the team. However, Shishido <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterDevelopment' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterDevelopment'>learns from the experience</a> and after <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TrainingFromHell' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TrainingFromHell'>Training from Hell</a> <em>and</em> an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ImportantHaircut' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ImportantHaircut'>Important Haircut</a> he earns back his spot on the team.
+";i:421;s:1884:"<ul ><li> Also, Ryoma in the anime goes through another of these. <span class="spoiler" title="you can set spoilers visible by default on your profile" > He behaves uninterested and apathetic towards <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Tykebomb' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Tykebomb'>Kevin Smith</a> until he sees him play, then pretty much <em>demands</em> to be included in the line-up of the Senbatsu team. Tezuka <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatTheHellHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatTheHellHero'>does</a> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatTheHellHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatTheHellHero'>NOT</a></em> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatTheHellHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatTheHellHero'>take this kindly</a> and promptly <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ArmorPiercingSlap' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ArmorPiercingSlap'>b*tchslaps</a> Ryoma in front of others, since his selfishness sounded extremely out of place for someone supposed to become a future leader in Seigaku. Ryoma has to go into a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoseOfSupplication' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PoseOfSupplication'>Pose of Supplication</a> to regain Tezuka's favor and be even <em>considered</em> as a reserve player.</span> Due to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ValuesDissonance' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ValuesDissonance'>Values Dissonance</a> (teamwork v/s stardom, Japanese mentality v/s Western views), the episode is often derided by fans.
+";i:422;s:1166:"</li></ul></li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Manga/FullmetalAlchemist' title='http://tvtropes.org/pmwiki/pmwiki.php/Manga/FullmetalAlchemist'>Fullmetal Alchemist</a></em>, the homunculus <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SmugSnake' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SmugSnake'>Pride</a> <span class="spoiler" title="you can set spoilers visible by default on your profile" >is reduced to a lilliputian-size infant, right after a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CurbStompBattle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CurbStompBattle'>Curb-Stomp Battle</a> and a panicked attempt at <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GrandTheftMe' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GrandTheftMe'>Grand Theft Me</a> of the main character. <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadBomber' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadBomber'>Kimblee</a> even lampshades that Pride has essentially cast aside his own pride as a homunculus</span>.
+";i:423;s:920:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Naruto' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Naruto'>Naruto</a></em>, <span class="spoiler" title="you can set spoilers visible by default on your profile" > Pain has Naruto pinned down and impaled with six chakra draining rods to prevent movement. Instead of simply capturing him right then and there, he stabs Hinata in a way that would make her bleed out quickly without immediate medical attention. Turns out those chakra draining rods are no match for six tails of the Kyuubi's power, and his trump card is no match for eight tails. Pain snatches defeat, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RedemptionEqualsDeath' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RedemptionEqualsDeath'>but also some redemption</a>, from the jaws of victory because of nothing but his ego.</span>
+";i:424;s:1140:"</li><li> Reoccuring theme used in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Anime/Pokemon' title='http://tvtropes.org/pmwiki/pmwiki.php/Anime/Pokemon'>Pokémon</a></em>. If a main character is being excessively prideful or vain, 9 times out of 10 they're going to suffer a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWorfEffect' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheWorfEffect'>Worf Effect</a> to the trainer of the day. Now, if only Paul would actuallly <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IgnoredEpiphany' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IgnoredEpiphany'>heed this lesson</a>, he might stall or reverse the growth of his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheScrappy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheScrappy'>hatedom</a>. Especially given he got <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CurbStompBattle' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CurbStompBattle'>wasted by the Frontier Brain Ash actually defeated</a>...
+";i:425;s:386:"<ul ><li> A very noticable example is during a Pokemon Contest which included Dawn, May and Misty. Dawn was sure the three would go on through the next round to the point of near arrogance (not the snooty variety mind you, just the oblivious type) which didn't go unnoticed by Misty and May. Come the next portion, Dawn finds out <em>she didn't make it past the first round</em>. Ouch.
+";i:426;s:749:"</li></ul></li><li> In <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MaiOtome' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MaiOtome'>Mai Otome</a>, newly crowned Queen Mashiro is more concerned about her birthday celebration and rebuilding her castle than about the lives of the commoners. This changes when Nagi's plan results in him controlling Windbloom and forcing her into exile with the poor people of her country, where she hears of their suffering and watches as <span class="spoiler" title="you can set spoilers visible by default on your profile" >they corner her maid Aoi and cause her to fall off a cliff when she refuses to tell them where Mashiro is, mainly because of her having served the Queen</span>.
+";i:427;s:607:"</li><li> Frieza's entire <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/HoistByHisOwnPetard' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/HoistByHisOwnPetard'>downfall</a> in <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DragonBall' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DragonBall'>Dragon Ball</a> is a result of this. Frieza spent the entire fight screwing around with his opponents, and by the time he finally decides to go to his final form when overpowered, it turns out it was ineffective anyway because he drew the fight out too long.
+";i:428;s:97:"<ul ><li> Vegeta in general. He's very big on pride, and always gets stomped on for his trouble.
+";i:429;s:27:"</li></ul></li></ul></div>
+";i:430;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder1');">&nbsp;&nbsp;&nbsp;&nbsp;Comic Books&nbsp;</div><div id="folder1" class="folder" isfolder="true" style="display:block;">
+";i:431;s:192:"<ul ><li> Marvel's <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Thor' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Thor'>Thor</a></em>, at least a few times.
+";i:432;s:744:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Comicbook/DoctorStrange' title='http://tvtropes.org/pmwiki/pmwiki.php/Comicbook/DoctorStrange'>Doctor Strange</a> was an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DrJerk' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DrJerk'>insufferable</a> but talented young neurosurgeon with everything he could ever want, until he suffered nerve damage in his hands in a car accident. Cue the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BreakTheHaughty' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BreakTheHaughty'>plummet to rock bottom</a>, which ended only when he started to care about people other than himself.
+";i:433;s:17:"</li></ul></div>
+";i:434;s:181:"<p></p><div class="folderlabel" onclick="togglefolder('folder2');">&nbsp;&nbsp;&nbsp;&nbsp;Films&nbsp;</div><div id="folder2" class="folder" isfolder="true" style="display:block;">
+";i:435;s:502:"<ul ><li> At the beginning of the movie <em>Bella</em>, we see the main character as a famous up-and-coming soccer player driving with his manager a few years ago. He is then shown in the present day working as a chef at his brother's restaurant. Through flashbacks throughout the movie, we find out that <span class="spoiler" title="you can set spoilers visible by default on your profile" > when he was driving, he accidentally hit and killed a small girl, causing him to stop playing soccer.</span>
+";i:436;s:383:"</li><li> Stephen Chow's character in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GodOfCookery' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GodOfCookery'>God of Cookery</a></em>. When he starts to regain his former glory halfway through the film, he begins to revert to his haughty attitude, until tragedy forces him to reevaluate his priorities.
+";i:437;s:370:"</li><li> Vizzini, in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/ThePrincessBride' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/ThePrincessBride'>The Princess Bride</a></em>. When he meets Westley, he says, "Have you ever heard of Plato? Aristotle? Socrates? Morons." Within five minutes, he has been outwitted to the point of death.
+";i:438;s:332:"</li><li> You know despite the fact Count Dooku was a Sith, Anakin really should have headed his warning about "Twice the pride, double the fall" in "<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/RevengeOfTheSith' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/RevengeOfTheSith'>Revenge of the Sith</a>".
+";i:439;s:17:"</li></ul></div>
+";i:440;s:186:"<p></p><div class="folderlabel" onclick="togglefolder('folder3');">&nbsp;&nbsp;&nbsp;&nbsp;Literature&nbsp;</div><div id="folder3" class="folder" isfolder="true" style="display:block;">
+";i:441;s:192:"<ul ><li> Kennedy in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/BubbaHoTep' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/BubbaHoTep'>Bubba Ho Tep</a></em>.
+";i:442;s:268:"</li><li> The appropriately nicknamed Prince Brat in the children's book <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheWhippingBoy' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheWhippingBoy'>The Whipping Boy</a></em>.
+";i:443;s:808:"</li><li> The classic children's historical novel <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JohnnyTremain' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JohnnyTremain'>Johnny Tremain</a></em>. The main character is more skilled and harder-working than his fellow apprentices Dove and Dusty, and doesn't hesitate to remind them of that, and their master, Mr. Lapham, has Johnny read the part about <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ForeShadowing' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ForeShadowing'>pride coming before a fall</a>. While rushing to finish an order, Johnny gets a cracked crucible from Dove, resulting in molten silver spilling onto his hand, which fuses his thumb to his hand and ends his career as a smith.
+";i:444;s:951:"</li><li> A subtler version&#8212;or at least, one that would have been, had it not been for the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ContemplateOurNavels' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ContemplateOurNavels'>journal entry</a> that hammered the reader of the head with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnAesop' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AnAesop'>An Aesop</a>&#8212;was when <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheLegendOfDrizzt' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TheLegendOfDrizzt'>Drizzt</a> left his friends to go dissuade the drow from invading Mithral Hall. Why? Because he didn't want to put them in danger, and only trusted in his own abilities to...scare off an entire city of his kinsmen, many of whom were more powerful than him? He is promptly captured (and not even by drow!).
+";i:445;s:300:"</li><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/PrinceRoger' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/PrinceRoger'>Prince Roger</a> in <em>March Upcountry</em> doesn't get knocked down quite in the first few pages, but pretty quickly nonetheless.
+";i:446;s:17:"</li></ul></div>
+";i:447;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder4');">&nbsp;&nbsp;&nbsp;&nbsp;Live Action TV&nbsp;</div><div id="folder4" class="folder" isfolder="true" style="display:block;">
+";i:448;s:433:"<ul ><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MyNameIsEarl' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MyNameIsEarl'>My Name Is Earl</a></em>. A petty criminal with no respect for authority has a $100,000 lottery ticket. He loses his ticket and undertakes to reform himself. When he starts, the ticket returns to him and he sees at a sign that he's meant to use the money to keep trying.
+";i:449;s:781:"</li><li> Dominar Rygel XVI of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/Farscape' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/Farscape'>Farscape</a></em> definitely qualifies as a slow learner - despite having been deposed and imprisoned some 130 "cycles" before the events of the series, he's still an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JerkAss' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JerkAss'>arrogant bastard</a> when Crichton arrives. It takes most of the show's run for him to work his way to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/JerkWithAHeartOfGold' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/JerkWithAHeartOfGold'>something more tolerable</a>.
+";i:450;s:967:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/DoctorWho'>The Daleks' Master Plan</a></em>, a council of galactic leaders delude themselves into thinking the Daleks will give them power. This is most pronounced with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PresidentEvil' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/PresidentEvil'>Guardian</a> Mavic Chen of the Solar System, who actually orders the Daleks around. <span class="spoiler" title="you can set spoilers visible by default on your profile" >Those others on the council who survive are able to warn their galaxies when the Daleks turn on them, but Chen is exterminated, his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LastWords' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LastWords'>Last Words</a> being "You cannot kill me!".</span>
+";i:451;s:791:"<ul ><li> In <em>The Invasion</em>, <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CorruptCorporateExecutive' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CorruptCorporateExecutive'>Corrupt Corporate Executive</a> Tobias Vaughn thinks he can play the Cybermen for patsies. <span class="spoiler" title="you can set spoilers visible by default on your profile" >He soon realizes he is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OutGambitted' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OutGambitted'>Out Gambitted</a>, and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RedemptionEqualsDeath' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RedemptionEqualsDeath'>is deleted trying to stop them</a>.</span>
+";i:452;s:348:"</li></ul></li><li> UK soap <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Eastenders' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Eastenders'>Eastenders</a> does this <strong>all the time</strong>. Every single time anybody is the least bit proud of anything, the fall is just around the corner. Sure as eggs is eggs.
+";i:453;s:184:"</li><li> <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/BabylonFive' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/BabylonFive'>Babylon 5</a></em>:
+";i:454;s:1619:"<ul ><li> This is part of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BackStory' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BackStory'>Back Story</a> for the humans, who after winning a war with the Dilgar refuse to listen to cautionary advice given to them by the Centauri, and proceed to boldly stumble into a war with the Minbari because they were too proud to just leave the Minbari alone. This is complicated by the Minbari warrior caste's blind assumption that a race they had never met would be familiar with a Warrior Caste greeting tradition<span class="notelabel" onclick="togglenote('note0n7rw');"><sup>note&nbsp;</sup></span><span id="note0n7rw" class="inlinefolder" isnote="true" onclick="togglenote('note0n7rw');" style="cursor:pointer;font-size:smaller;display:none;">That is, approaching the unknown ship with their gunports open</span>, that even their own religious leader had to have explained to him. This is <em>further</em> complicated by said Minbari religious leader making the unilateral decision to take his ship, with the Minbari's governing body, on an ill-advised expedition to Z'Ha'Dum, the homeworld of the long-dormant <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad'>Shadows</a>, on a whim, just to see if they were back yet. If any of these parties had swallowed their pride enough to actually listen to anyone else before acting, the disastrous Earth-Minbari War would have been avoided. Of course, then the Babylon Project would have never happened either...
+";i:455;s:825:"</li><li> The fate of the Centauri Republic later in the show (actually an empire) all happens due to Ambassador Londo's pride... and given how most of the other emperors had behaved (save for the sweet dying Emperor Turhan Bey <span class="spoiler" title="you can set spoilers visible by default on your profile" >and future Emperor Vir</span> ), it's a given that most of the Centauri upper class have the same failing. Similarly, their arch-nemeses, the Narn Regime, is too proud to back down from trying to pick a fight with the Centauri in retaliation for their past occupation and slavery at the Centauris' hands, and this leads <em>them</em> into a similarly disastrous and one-sided war with the Centauri <span class="spoiler" title="you can set spoilers visible by default on your profile" > and the Shadows.</span>
+";i:456;s:170:"</li></ul></li><li> The short-lived drama <em>Citizen Baines</em> qualifies as this, as Baines is a senator-soon-turned-former senator suddenly having to raise his kids.
+";i:457;s:649:"</li><li> On an episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheWestWing' title='http://tvtropes.org/pmwiki/pmwiki.php/Series/TheWestWing'>The West Wing</a></em>, Josh attempts to run a press conference while CJ is out. Danny Kincannon warns him not to go up, and in response Josh rubs his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/IvyLeagueForEveryone' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/IvyLeagueForEveryone'>Harvard and Yale background</a> in his face. Josh then proceeds to get blindsided on two different fronts and become the White House's goat for the day.
+";i:458;s:17:"</li></ul></div>
+";i:459;s:184:"<p></p><div class="folderlabel" onclick="togglefolder('folder5');">&nbsp;&nbsp;&nbsp;&nbsp;Religion&nbsp;</div><div id="folder5" class="folder" isfolder="true" style="display:block;">
+";i:460;s:658:"<ul ><li> Of course, the archetypal example is <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Satan' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Satan'>Satan</a>, dating back <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OlderThanSteam' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OlderThanSteam'>at least</a> to <em>Paradise Lost</em>. He has respectively been portrayed as too proud to take second place to man, or too proud to take second place to <em>God</em>, both of which result in him leading a rebellion against God, leading to him and his fellow rebel angels getting booted out of heaven.
+";i:461;s:738:"<ul ><li> It may go back to <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheBible' title='http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheBible'>The Bible</a></em> with Isaiah 14, but interpretations differ.<span class="tiptag" onclick="toggleinline(this);" ><u>Details</u><div class="inlinefolder" style="display:none;" >  The "Lucifer" of Isaiah may refer instead to the king of Babylon, the oppressor of Israel. Before this, all references in the Hebrew <em>Bible</em> to "Satan" are used either to describe obstacles or opponents, or to refer to an "Accuser," an un-fallen member of the heavenly host whose duty it is to bring humanity's sins before God (the <em>Book of Job</em>).</div></span>
+";i:462;s:334:"</li><li> The titular character of DC Comics' <em>Lucifer</em> was a portrayal of the second type. He actually ends up <span class="spoiler" title="you can set spoilers visible by default on your profile" > making his <em>own</em> Creation outside of the first one, just to show the old man up. It gets complicated from there.</span>
+";i:463;s:507:"</li><li> Horus, son of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrystalDragonJesus' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/CrystalDragonJesus'>Emperor of Mankind</a> in the Warhammer 40K universe, parallels Lucifer's Fall so closely <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatDoYouMeanItsNotSymbolic' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhatDoYouMeanItsNotSymbolic'>that it cannot possibly have been an accident</a>.
+";i:464;s:27:"</li></ul></li></ul></div>
+";i:465;s:190:"<p></p><div class="folderlabel" onclick="togglefolder('folder6');">&nbsp;&nbsp;&nbsp;&nbsp;Tabletop Games&nbsp;</div><div id="folder6" class="folder" isfolder="true" style="display:block;">
+";i:466;s:1185:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/DungeonsAndDragons' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/DungeonsAndDragons'>Dungeons & Dragons</a> 4th edition core setting, Asmodeus is a Satan analogue who served a god known only as He Who Was, who was implied to be the creator of humanity and the strongest of the gods, and their leader during the war with the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/EldritchAbomination' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/EldritchAbomination'>primordials</a>. Asmodeus used increasingly violent tactics in the war, often slaughtering innocent mortals in the crossfire. He Who Was ordered Asmodeus to stop, and in his pride, Asmodeus refused, and He Who Was cast Asmodeus and his army down as punishment. Pretty standard so far. Until Asmodeus rose up and slew He Who Was at the most oppertune moment. While the other gods publicly cursed Asmodeus, privately they thanked him; he had slain a weak willed general who in his pride had cast down their strongest warrior and greatest army, hoping to teach them a lesson in humility, even at the cost of the war.
+";i:467;s:17:"</li></ul></div>
+";i:468;s:187:"<p></p><div class="folderlabel" onclick="togglefolder('folder7');">&nbsp;&nbsp;&nbsp;&nbsp;Video Games&nbsp;</div><div id="folder7" class="folder" isfolder="true" style="display:block;">
+";i:469;s:418:"<ul ><li> The first quarter of the <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TalesOfTheAbyss' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TalesOfTheAbyss'>Tales Of The Abyss</a></em>. The main character finds out the hard way that being rich does not make you right all the time &#8212; it's only when he stops relying on his family's reputation that he becomes useful.
+";i:470;s:291:"<ul ><li> <span class="spoiler" title="you can set spoilers visible by default on your profile" >Of course, it doesn't help that he's mentally a <strike>five</strike>seven year old and the story is really weird for expecting him to not be childish just because he's physically older.</span>
+";i:471;s:617:"</li></ul></li><li> Subverted in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/GodOfWar' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/GodOfWar'>God Of War</a> 2</em>. In the first level, Kratos is in his full God of War glory, but it ends with him drained of his godly power and killed by Zeus, almost immediately after screaming at the gods, <em>daring</em> them to fight him. This turn of events does absolutely <em>nothing</em> to change Kratos' mindset, and only gives him the motivation to go about the deicidal rebellion Zeus killed him to prevent in the first place.
+";i:472;s:557:"</li><li> King Trode in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DragonQuestVIII' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DragonQuestVIII'>Dragon Quest VIII</a></em>. He's an annoying, overproud king who's awfully fond of the line, "Do you know who I AM?" Just before the beginning of the game, he is transformed into a toad-like creature, and his kingdom is laid in ruins, leaving him to wander a world where most humans fear or despise him as a monster. Depressingly, he never seems to learn humility.
+";i:473;s:307:"<ul ><li> Then again, he was transformed and his kingdom was devastated because of an <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/OmnicidalManiac' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/OmnicidalManiac'>Omnicidal Maniac</a>, not because of him. So why would he need to?
+";i:474;s:714:"<ul ><li> Considering said maniac was really <span class="spoiler" title="you can set spoilers visible by default on your profile" >using</span> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MonsterClown' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MonsterClown'>Trode's court jester</a> <span class="spoiler" title="you can set spoilers visible by default on your profile" >as a temporary vessel</span> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhosLaughingNow' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhosLaughingNow'>on a mission of revenge against those who had belittled him</a>, there probably should have been a lesson in there somewhere.
+";i:475;s:271:"</li><li> He <em>does</em> eventually come to understand that simply being a king doesn't entitle him to order everyone around. Sure, he does it <em>anyway</em>, but later in the game, there's a distinct shift from "Do it because I tell you" to "Please help me do this".
+";i:476;s:2003:"</li></ul></li></ul></li><li> Marietta in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightsInTheNightmare' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KnightsInTheNightmare'>Knights in the Nightmare</a></em>, at least in Maria's route; happily enough, Maria is <em>mortified</em> at what Marietta's pride led to, and <span class="spoiler" title="you can set spoilers visible by default on your profile" >the other half of Marietta's soul</span>, Melissa, is more worried about finding Ancardia than her dignity. We're introduced to Marietta's usual <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoodIsNotNice' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GoodIsNotNice'>nasty attitude</a> in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/YggdraUnion' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/YggdraUnion'>Yggdra Union</a></em> <span class="spoiler" title="you can set spoilers visible by default on your profile" >and <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RivieraThePromisedLand' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RivieraThePromisedLand'>Riviera: The Promised Land</a></em></span>, along with <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BreakTheHaughty' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BreakTheHaughty'>Meria's route</a>. (And for <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/AxCrazy' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/AxCrazy'>all</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SociopathicHero' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SociopathicHero'>her</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChaoticNeutral' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ChaoticNeutral'>flaws</a>, Meria's own pride doesn't stop her from being a loyal and caring individual. Marietta's still does.)
+";i:477;s:704:"</li><li> Clearly "inspired" by <em>The Emperor's New Groove</em>, Dragon Prince Ao-Jun of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Tradewinds' title='http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Tradewinds'>Tradewinds</a> Caravans</em> is turned into a lowly talking camel as punishment for a life of debauchery and caravan-eating, and must do one truly selfless deed to regain his true form. It goes about as well as you might think, and he briefly becomes an invisible lowly talking camel after denouncing his faith (of which he is a deity) to tithe a ridiculous sum of someone else's money to heathens because it was just the easiest thing he could think of.
+";i:478;s:17:"</li></ul></div>
+";i:479;s:188:"<p></p><div class="folderlabel" onclick="togglefolder('folder8');">&nbsp;&nbsp;&nbsp;&nbsp;Web Original&nbsp;</div><div id="folder8" class="folder" isfolder="true" style="display:block;">
+";i:480;s:881:"<ul ><li> Trevor James Goodkind of the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhateleyUniverse' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WhateleyUniverse'>Whateley Universe</a>, brilliant son of the richest man on Earth, second in line to take over his father's company, and heir to the Goodkind tradition of 'recognizing the mutant threat', i.e. hating those evil mutants. In the first chapter of his first story, he manifests as a mutant freak. He is immediately disinherited, experimented on and tortured by a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadScientist' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MadScientist'>Mad Scientist</a>, humiliated, abandoned by his family, not to mention becoming intersexed due to his mutation ... Within a week he's living in a basement with nowhere else to go.
+";i:481;s:17:"</li></ul></div>
+";i:482;s:193:"<p></p><div class="folderlabel" onclick="togglefolder('folder9');">&nbsp;&nbsp;&nbsp;&nbsp;Western Animation&nbsp;</div><div id="folder9" class="folder" isfolder="true" style="display:block;">
+";i:483;s:534:"<ul ><li> Emperor Kuzco of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Disney/TheEmperorsNewGroove' title='http://tvtropes.org/pmwiki/pmwiki.php/Disney/TheEmperorsNewGroove'>The Emperor's New Groove</a></em>. We're made aware that he's a careless, self-absorbed emperor, and then the story begins as he's overthrown by Yzma and <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BalefulPolymorph' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BalefulPolymorph'>turned into a llama</a>.
+";i:484;s:974:"</li><li> The <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Disneyfication' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Disneyfication'>Disney version</a> of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Film/BeautyAndTheBeast' title='http://tvtropes.org/pmwiki/pmwiki.php/Film/BeautyAndTheBeast'>Beauty and the Beast</a></em>. A prince refuses to provide shelter for an old woman. She turns out to be a powerful enchantress who curses him (<a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralDissonance' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/MoralDissonance'>and everybody in his castle, including a kid</a>) for his judging her by her appearance. To be restored, the beast must learn to <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePowerOfLove' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePowerOfLove'>love another and receive love in return</a>.
+";i:485;s:497:"</li><li> Stitch in <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/LiloAndStitch' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/LiloAndStitch'>Lilo & Stitch</a></em>. He goes from being a <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadAss' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadAss'>Bad Ass</a> mutant escapee to a little girl's "dog". He learns an Aesop about the value of family and his gleeful feral edge is ... softened.
+";i:486;s:636:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AvatarTheLastAirbender' title='http://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AvatarTheLastAirbender'>Avatar The Last Airbender</a></em>, Azula is very prideful and arrogant, though it does take awhile as any failures she does suffer she just brushes off, and to be fair she does win some pretty impressive victories along the way. However it isn't until she realizes that her technique of ruling through fear isn't as foolproof as she expected, and that her father considers her as expendable as Zuko, that she begins her fall.
+";i:487;s:1430:"<ul ><li> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SmugSnake' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SmugSnake'>Admiral Zhao</a> is also an example of this, as his determination to make a name for himself by <span class="spoiler" title="you can set spoilers visible by default on your profile" > killing the moon spirit</span> not only incites the wrath of <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassGrandpa' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassGrandpa'>Iroh</a>, who tries to explain that such an action would cause inconceivable damage to the entire world, Fire Nation included, but also enrages the spirits of the ocean and the avatar enough to <span class="spoiler" title="you can set spoilers visible by default on your profile" > obliterate his entire war fleet</span>. In an earlier episode, he accidentally burned his own ships after Aang's insults provoked him into being sloppy with his <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/KillItWithFire' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/KillItWithFire'>firebending</a>, and <span class="spoiler" title="you can set spoilers visible by default on your profile" > his eventual death comes from his refusal to accept help from Zuko (the scene is a bit ambiguous, but preferring death to humiliation is one interpretation of his actions</span>.
+";i:488;s:1220:"</li></ul></li><li> One episode of <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SushiPack' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SushiPack'>Sushi Pack</a></em> featured four <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/SmugSuper' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/SmugSuper'>superhero</a> <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealityTV' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/RealityTV'>Reality TV</a> contestants who spent all their scenes bragging about their deeds of derring-do, and even their <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/WeaksauceWeakness' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/WeaksauceWeakness'>weaknesses</a>. Unfortunately for them, this information is used by the show's host, an alien <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FullBodyDisguise' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FullBodyDisguise'>in disguise</a>, to incapacitate them while he sends for the rest of his invading fleet. The Sushi Pack, snubbed by the Supers, save the day by using the alien's own bragging against him.
+";i:489;s:1133:"</li><li> In <em><a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/TransformersAnimated' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/TransformersAnimated'>Transformers Animated</a></em>, Sentinel Prime is introduced as an arrogant <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/Jerkass' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/Jerkass'>Jerkass</a> who constantly belittles Optimus and his team and makes aside insults about the <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/FantasticRacism' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/FantasticRacism'>"Organics"</a> during a public appearance. Then came <a class='twikilink' href='http://tvtropes.org/pmwiki/pmwiki.php/Main/GrandTheftMe' title='http://tvtropes.org/pmwiki/pmwiki.php/Main/GrandTheftMe'>The Headmaster</a>... It isn't until season 3 though that he starts to get along with Optimus again, but sadly he's become an even bigger ass than ever. <span class="spoiler" title="you can set spoilers visible by default on your profile" > Especially after being promoted to Magnus.</span>
+";i:490;s:17:"</li></ul></div>
+";i:491;s:7:"<hr />
+";i:492;s:2434:"<table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Pride">Pride</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/EgoTropes">Ego Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/TheProudElite">The Proud Elite</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Pride">Pride</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PridefulTropes">Prideful Tropes</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PrideParade">Pride Parade</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Premiere">Premiere</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/Plots">Plots</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PrinceAndPauper">Prince and Pauper</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/PrettyBoy">Pretty Boy</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/CharactersAsDevice">Characters as Device</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePrimaDonna">The Prima Donna</a></td><td  style="text-align:right;" ></td></tr></table><table class="pathholder" path="true"><tr><td style="text-align:left;" ></td><td class="trail_left"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/NiceJobBreakingItHerod">Nice Job Breaking It, Herod</a></td><td class="trail_center" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/VillainBall">Villain Ball</a></td><td class="trail_right" path="true"><a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/RevealingCoverup">Revealing Coverup</a></td><td  style="text-align:right;" ></td></tr></table><br/>
+";i:493;s:66:"<script type="text/javascript">setAllFolders('');</script></div>
+";i:494;s:10:"<p> </p>
+";i:495;s:10:"<center>
+";i:496;s:2:"
+";i:497;s:24:"<!-- med rectangle -->
+";i:498;s:74:"<div id='div-gpt-ad-1359660027796-0' style='width:300px; height:250px;'>
+";i:499;s:33:"<script type='text/javascript'>
+";i:500;s:86:"googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359660027796-0'); });
+";i:501;s:11:"</script>
+";i:502;s:8:"</div>
+";i:503;s:2:"
+";i:504;s:11:"</center>
+";i:505;s:24:"</td><!-- wikibody -->
+";i:506;s:52:"<td class="rightcol" valign="top" align="center" >
+";i:507;s:7:"</td>
+";i:508;s:7:"</tr>
+";i:509;s:10:"</table>
+";i:510;s:22:"<!--PageFooterFmt-->
+";i:511;s:77:"<div class="alt_title" style="font-size:x-small;text-align:center;" ></div>
+";i:512;s:10:"<center>
+";i:513;s:44:"<table style="width:606px;margin:0 auto;">
+";i:514;s:7:"	<tr>
+";i:515;s:142:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/changes.php" >new edits</a></div></div></td>
+";i:516;s:145:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="http://tvtropes.org/pmwiki/workshops.php"  >workshops</a></div></div></td>
+";i:517;s:265:"		<td  valign="middle" ><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href=this.getElementsByTagName('a')[0].href;" ><a href='http://tvtropes.org/pmwiki/pmwiki.php/Main/PrideBeforeAFall?action=edit'> edit page</a></div></div></td>
+";i:518;s:119:"		<td><div class="buttonframe" ><div class="buttoninterior"><a href="?action=source">view source</a></div></div></td>
+";i:519;s:180:"		<td valign="middle"><div class="buttonframe" ><div class="buttoninterior" onclick="window.location.href='http://tvtropes.org/pmwiki/randomitem.php?p=1'">random</div></div></td>
+";i:520;s:8:"	</tr>
+";i:521;s:10:"</table>
+";i:522;s:11:"</center>
+";i:523;s:21:"<div id='wikifoot'>
+";i:524;s:27:"    <div class='footnav'>
+";i:525;s:2:"
+";i:526;s:14:"			 <center>
+";i:527;s:142:"<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">TV Tropes</span> by 
+";i:528;s:331:"<a xmlns:cc="http://creativecommons.org/ns#" href="http://tvtropes.org" property="cc:attributionName" rel="cc:attributionURL">TV Tropes Foundation, LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+";i:529;s:214:"<br />Permissions beyond the scope of this license may be available from <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:thestaff@tvtropes.org" rel="cc:morePermissions"> thestaff@tvtropes.org</a>.						
+";i:530;s:80:"<br/><a href="http://tvtropes.org/pmwiki/privacypolicy.php">Privacy Policy</a>
+";i:531;s:15:"				</center>
+";i:532;s:2:"
+";i:533;s:29:"    </div><!-- wikifoot -->
+";i:534;s:23:"<!--/PageFooterFmt-->
+";i:535;s:12:"44876<br/>
+";i:536;s:3:"0
+";i:537;s:8:"</div>
+";i:538;s:26:"</div><!-- container -->
+";i:539;s:2:"
+";i:540;s:9:"</body>
+";i:541;s:21:"<!--ScriptInsert-->
+";i:542;s:9:"</html>
+";}}
