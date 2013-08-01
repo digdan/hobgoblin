@@ -8,9 +8,7 @@
 	<link rel="stylesheet" href="/assets/css/custom.css">
 	<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/3.0.2/css/font-awesome.css">
 	<link rel="stylesheet" href="/assets/css/bootstrap-responsive.css">
-	<link rel="stylesheet" href="/assets/css/bootstrap-fileupload.min.css">
 	<?= $css; ?>
-
 
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
 	<script src="/assets/js/bootstrap.min.js" type="text/javascript"></script>
@@ -51,7 +49,7 @@
 ?>
 				      </div>
 
-				<a class="brand" href="/">EBI</a>
+				<a class="brand" href="/">Logo</a>
                 <div class="nav-collapse collapse">
                     <ul class="nav">
 <?php
@@ -59,25 +57,14 @@
 ?>
                         <li class="<?=@$active["home"];?>"><a href="/">Home</a></li>
                         <li class="divider-vertical"></li>
-                        <li class="<?=@$active["about"];?>"><a href="/about">About</a></li>
-						<li class="divider-vertical"></li>
-						<li class="<?=@$active["tropes"];?>"><a href="/tropes">Story Ideas</a></li>
-						<li class="divider-vertical"></li>
-                        <li class="<?=@$active["books"];?>"><a href="/books">My Books</a></li>
-
 <?php
 	} else {
 ?>
                         <li class="<?=@$active["home"];?>"><a href="/">Home</a></li>
                         <li class="divider-vertical"></li>
-                        <li class="<?=@$active["about"];?>"><a href="/about">About</a></li>
-
 <?php
 	}
 ?>
-						<li><form class="navbar-search pull-left">
-				        <input class="search-query input-large form-inline" style="height:28px" placeholder="Search" type="text">
-   					</form></li>
                     </ul>
 	                </div>
 	            </div>

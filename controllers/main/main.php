@@ -10,19 +10,13 @@
 		}
 
 		function main() {
-			global $config;
-			HG::chain()->
-			active('home')->
-			v("meta.title","Ebook Interactive &mdash; An Open World")->
+			HG::active('home')->
 			display("main.php",true);
 		}
 
 		function about() {
-			global $config;
-			HG::chain()->
-				active('about')->
-				v("meta.title","About Ebook Interact")->
-				display("about.php",true);
+			HG::active('about')->
+			display("about.php",true);
 		}
 
 	}
