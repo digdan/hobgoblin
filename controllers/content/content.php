@@ -24,6 +24,8 @@
 			self::check(); // Check Content Authentication & Define Meta
 
 			HG::face('content', function($id) { return control_content::content($id); } ); //Build face for content
+			
+			HG::hook('active', function($target) {control_content::metaTarget($target); }, HG::HOOK_BEFORE );
 
 			//Define
 			HG::css("/controllers/content/assets/wysiwyg.css");
