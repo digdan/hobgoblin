@@ -121,7 +121,7 @@ class HG {
 		extract(self::$scope);
 		if ($headerfooter === true) {
 			include_once($config["templates"]["directory"]."/".$config["templates"]["default_header"]);
-			include_once($config["templates"]."/".$template);
+			include_once($config["templates"]["directory"]."/".$template);
 			include_once($config["templates"]["directory"]."/".$config["templates"]["default_footer"]);			
 		} else {
 			include_once($config["templates"]["directory"]."/".$template);
