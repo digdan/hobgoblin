@@ -158,7 +158,7 @@ class HG {
 	}
 
 	static function force($code=NULL,$message = NULL) { //Force a specific HTTP response
-		if ($code == "404")	header('HTTP/1.0 404 Not Found');
+		if ($code == "404") header('HTTP/1.0 404 Not Found');
 		if ($code == "401") header('HTTP/1.0 401 Authentication Required');
 		if (is_null($message)) {
 			echo "<H1>{$code}</H1><quote>Page not found</quote>";
@@ -179,10 +179,6 @@ class HG {
 			"current"=>$target,
 			$target=>"active"
 		));
-		//TODO make hook system
-		if (class_exists('control_content')) {
-			control_content::metaTarget($target);
-		}
 		HG::callHook(__FUNCTION__,HG::HOOK_AFTER,func_get_args());
 		return new static;
 	}
@@ -233,7 +229,7 @@ class HG {
 	static function __callStatic($func,$params) { //Singleton Facade Overload
 		$payload = false;
 		foreach(self::$faces as $faceName=>$face) { //Check Faces
-			if (is_callable(array($face,$func))) { //DB Facade
+			if (is_callable(array($face,$func))) { 
 				HG::callHook($func,HG::HOOK_BEFORE,$params);
 				$payload = call_user_func_array(array($face,$func),$params);
 				HG::callHook($func,HG::HOOK_AFTER,$params);
