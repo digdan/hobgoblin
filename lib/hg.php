@@ -1,7 +1,7 @@
 <?php
 /**
-*	Hobgoblin Framework - used with ReadBeans and AltoRouter
-*/
+ *	Hobgoblin Framework - used with ReadBeans and AltoRouter
+ */
 
 class HG {
 	public static $db; //PDO DB
@@ -34,7 +34,7 @@ class HG {
 
 		//Build the faces
 		self::face("router", new router() );
-		self::face("cache", Cache::getInstance() );		
+		self::face("cache", Cache::getInstance() );
 
 		self::initContainers(
 			array('javascript','css','script','footer')
@@ -49,11 +49,11 @@ class HG {
 		if (is_object($face)) {
 			if ($face instanceof Closure) {
 				if ( ! isset(self::$faces["poly"]) ) self::$faces["poly"] = array();
-				self::$faces["poly"][$functionName] = $function;				
+				self::$faces["poly"][$name] = $face;
 			} else {
-				self::$faces[$name] = $face;				
-			}			
-		}		
+				self::$faces[$name] = $face;
+			}
+		}
 	}
 
 	//*****************************[ Scope/Template System
@@ -122,7 +122,7 @@ class HG {
 		if ($headerfooter === true) {
 			include_once($config["templates"]["directory"]."/".$config["templates"]["default_header"]);
 			include_once($config["templates"]["directory"]."/".$template);
-			include_once($config["templates"]["directory"]."/".$config["templates"]["default_footer"]);			
+			include_once($config["templates"]["directory"]."/".$config["templates"]["default_footer"]);
 		} else {
 			include_once($config["templates"]["directory"]."/".$template);
 		}
@@ -234,7 +234,7 @@ class HG {
 	static function __callStatic($func,$params) { //Singleton Facade Overload
 		$payload = false;
 		foreach(self::$faces as $faceName=>$face) { //Check Faces
-			if (is_callable(array($face,$func))) { 
+			if (is_callable(array($face,$func))) {
 				HG::callHook($func,HG::HOOK_BEFORE,$params);
 				$payload = call_user_func_array(array($face,$func),$params);
 				HG::callHook($func,HG::HOOK_AFTER,$params);
