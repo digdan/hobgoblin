@@ -94,7 +94,7 @@ class Validate {
 		}
 
 		if ($errorMsg) {
-			Request::ok(false,$errorMsg,array($name=>$errorMsg));
+			Request::json( false, array("error"=>$errorMsg,"errors"=>array($name=>$errorMsg)));
 		}
 	}
 
@@ -113,7 +113,7 @@ class Validate {
 		);
 		$passed = in_array(strtoupper($input),$state_list);
 		if ( ! $passed ) {
-			Request::ok(false,"invalid state",array($field_name=>"invalid state"));
+			Request::json( false , array("error"=>_("Invalid State"),"errors"=>array($field_name=>_("Invalid State"))));
 		} else {
 			return true;
 		}
@@ -124,7 +124,7 @@ class Validate {
 	static function email_free($email,$field_name='email') {
 			$email = R::findOne('users',' email = ? ',array($email));
 			if ($email) {
-				Request::ok(false,_("Email address already taken"));
+				Request::json( false , array("error"=>_("Email address is taken")));
 				return false;
 			}
 			return true;
