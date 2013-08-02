@@ -1,8 +1,14 @@
 <?
-	class Request {
+/**
+ * Class Request
+ * 		Request handles the wrangling and to help sanitize input data
+ * 		Also used to format ajax messages
+ */
+class Request {
 		static $log;
 		static $error;
 		static $json='';
+		static $method='';
 		static $ajax=false;
 
 		function __construct( ) {
@@ -11,6 +17,12 @@
 			} else {
 				self::$ajax = false;
 			}
+			self::$method = $_SERVER["HTTP_REQUEST_METHOD"];
+		}
+
+		static function method($test=NULL) {
+			if (is_null($test)) return self::$method;
+			return (strtolower(trim(self::$method)) == trim(strtolower($test)));
 		}
 
 		static function r($name=NULL) {
@@ -81,18 +93,20 @@
 			return $data;
 		}
 
-		static function md5($name=NULL) {
-			return md5(self::r($name));
+		static function md5($name=NULL,$cat=NULL) {
+			if ( is_null($cat)) $cat = "";
+			return md5($cat.self::r($name));
 		}
 
-		static function ok ($ok = false,$error = NULL,$errors = NULL) {
-			self::$error = $error;
-			$tn = time();
-			self::$log[] = array("ok"=>$ok,"error"=>$error,"errors"=>$errors,"time"=>$tn);
-			self::$json = json_encode(array(
-				"ok"=>false,
-				"error"=>$error
-			));
+		static function json($ok = false, $values = NULL) {
+			$barray = $values;
+			$barray["ok"] = $ok;
+			$barray["time"] = time();
+			if (isset($values["error"])) {
+				self::$error = $values["error"];
+			}
+			self::$json = json_encode($barray);
+			return self::$json;
 		}
 	}
 ?>
