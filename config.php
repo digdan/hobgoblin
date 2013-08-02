@@ -21,8 +21,10 @@
 			'forgot_token_life'=>360, //How often a requested token can change
 			'forgot_token_size'=>10, //Up to 32
 		),
-		'register_redirect'=>'/books',
-
+		'auth'=>array(
+			'register_redirect'=>'/manage',
+			'user_table'=>'users'
+		),		
 		'content'=>array(
 			'db'=>'../content.sqlite',
 			'users'=>array(
