@@ -3,7 +3,7 @@
 
 		static function HGinit() {
 			HG::map("POST","/auth/login", "control_auth#authenticate");
-			HG::map("POST","/auth/register", "control_auth#register");
+			HG::map("POST","/auth/heir", "control_auth#heir");
 			HG::map("GET","/auth/logout", "control_auth#logout");
 		}
 
@@ -15,13 +15,8 @@
 			}
 		}
 
-		public function loginForm() {
-			global $config;
-			$meta["title"] = "Login";
-			include_once($config["templates"]."/login.php");
-		}
-
 		public function authenticate() {
+			global $config;
 			if ( Validate::run(
 				array(
 					"email"=>array(
@@ -35,13 +30,13 @@
 					),
 				)
 			)) {
-				$users_raw = R::getAll("SELECT * FROM users WHERE email=? AND password=?", array(Request::r("email"),Request::md5("password")));
+				$users_raw = R::getAll("SELECT * FROM ".$config["auth"]["user_table"]." WHERE email=? AND password=?", array(Request::r("email"),Request::md5("password")));
 				if (count($users_raw) > 0) {
 					$user = array_shift($users_raw);
 					Session::user($user["id"]); //Logged in
-					echo json_encode(array("ok"=>true,"user"=>$user["id"]));
+					echo Request::json(true,array("user"=>$user["id"]));
 				} else {
-					echo json_encode(array("ok"=>false,"error"=>_("Invalid username or password")));
+					echo Request::json(false,array("error"=>_("Invalid username or password")));
 				}
 			} else {
 				echo Request::$json;
@@ -81,9 +76,9 @@
 				$new_user->state = 0;
 				$id = R::store($new_user);
 				if ($id > 0) {
-					echo json_encode(array("ok"=>true,"user_id"=>$id));
+					echo Request::json( true, array("user_id"=>$id));
 				} else {
-					echo json_encode(array("ok"=>false,_("Unable to create account")));
+					echo Request::json( false, array("error"=>_("Unable to create account")));
 				}
 			} else {
 				echo Request::$json;
@@ -117,10 +112,9 @@
 				$forgot_token = substr(md5(floor(time() / $config["users"]["forgot_token_life"])),0,$config["users"]["forgot_token_size"]);
 				$u->forgot_token = $forgot_token;
 				$u->update();
-				Response::data("forgot_token",$forgot_token);
+				Request::json( true, array("forgot_token"=>$forgot_token));
 			}
 		}
-
 
 		public function reset() {
 			if ( Validate::run (
@@ -160,10 +154,15 @@
 					$u->auth_hash = Util::hash($u->email,Request::r("new_password"));
 					$u->update();
 				} else {
-					Response::ok(false,"Invalid token",array("forgot_token"=>"Invalid token"));
+					Request::json( false , array("error"=>_("Invalid token"),"errors"=>array("forgot_token"=>_("Invalid token"))));
 				}
 			}
-
 		}
+
+
+		public function check() {
+			Request::json( true , array("user"=>Session::user()));
+		}
+
 	}
 ?>
