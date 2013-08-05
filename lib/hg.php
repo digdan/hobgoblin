@@ -1,7 +1,7 @@
 <?php
 /**
-*	Hobgoblin Framework - used with ReadBeans and AltoRouter
-*/
+ *	Hobgoblin Framework - used with ReadBeans and AltoRouter
+ */
 
 class HG {
 	public static $db; //PDO DB
@@ -125,14 +125,14 @@ class HG {
 		self::buildScope();
 		extract(self::$scope);
 		if ($headerfooter === true) {
-			include_once($config["templates"]."/header.php");
-			include_once($config["templates"]."/".$template);
-			include_once($config["templates"]."/footer.php");
+			include_once($config["templates"]["directory"]."/header.php");
+			include_once($config["templates"]["directory"]."/".$template);
+			include_once($config["templates"]["directory"]."/footer.php");
 		} else {
 			if ($omit === TRUE) {
 				include_once($template);
 			} else {
-				include_once($config["templates"]."/".$template);
+				include_once($config["templates"]["directory"]."/".$template);
 			}
 		}
 		HG::callHook(__FUNCTION__,HG::HOOK_AFTER,func_get_args());
