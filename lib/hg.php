@@ -1,7 +1,7 @@
 <?php
 /**
- *	Hobgoblin Framework - used with ReadBeans and AltoRouter
- */
+*	Hobgoblin Framework - used with ReadBeans and AltoRouter
+*/
 
 class HG {
 	public static $db; //PDO DB
@@ -29,12 +29,14 @@ class HG {
 		include_once("request.php");
 		include_once("cache.php"); //Cache Subsystem
 		include_once("session.php"); //Session Handler
+		$router = new router();
 
 		R::setup($config["db"]["dsn"], $config["db"]["user"],$config["db"]["password"]);
 
 		//Build the faces
-		self::face("router", new router() );
-		self::face("cache", Cache::getInstance() );
+		self::$faces["router"] = $router;
+		self::$faces["cache"] = Cache::getInstance();
+		self::$faces["poly"] = []; //Wildcard face to add methods via face()
 
 		self::initContainers(
 			array('javascript','css','script','footer')
@@ -45,15 +47,10 @@ class HG {
 		self::controllers_load(); //Bootstrap controllers
 	}
 
-	static function face($name,$face=NULL) { //Push a function to the HG Poly Face
-		if (is_object($face)) {
-			if ($face instanceof Closure) {
-				if ( ! isset(self::$faces["poly"]) ) self::$faces["poly"] = array();
-				self::$faces["poly"][$name] = $face;
-			} else {
-				self::$faces[$name] = $face;
-			}
-		}
+	//*****************************[ Facade System
+
+	static function face($functionName,$function) { //Push a function to the HG Poly Face
+		self::$faces["poly"][$functionName] = $function;
 	}
 
 	//*****************************[ Scope/Template System
@@ -75,6 +72,12 @@ class HG {
 		self::$scope[$name] = $val;
 		HG::callHook(__FUNCTION__,HG::HOOK_AFTER,func_get_args());
 		return new static;
+	}
+
+	static function initContainers( $containerList ) {
+		foreach($containerList as $containerName) {
+			self::$containers[$containerName] = array();
+		}
 	}
 
 	static function initScope() {
@@ -103,28 +106,34 @@ class HG {
 		}
 	}
 
-	static function initContainers( $containerList ) {
-		foreach($containerList as $containerName) {
-			self::$containers[$containerName] = array();
-		}
-	}
-
 	static function url($path,$params) { //Reverse Route Lookup
 		self::callHook(__FUNCTION__,HG::HOOK_BEFORE,func_get_args());
-		return self::$router->url($path,$params);
+		$payload = self::$faces["router"]->url($path,$params);
 		self::callHook(__FUNCTION__,HG::HOOK_AFTER,func_get_args());
+		return $payload;
 	}
 
-	static function display($template,$headerfooter=false) { //Display a template file, extract scope vars into template
+	static function template($template,$omit=false) {
+		ob_start();
+		self::display($template,FALSE, $omit);
+		return ob_get_clean();
+	}
+
+	static function display($template,$headerfooter=false, $omit=false) { //Display a template file, extract scope vars into template
+		global $config;
 		HG::callHook(__FUNCTION__,HG::HOOK_BEFORE,func_get_args());
 		self::buildScope();
 		extract(self::$scope);
 		if ($headerfooter === true) {
-			include_once($config["templates"]["directory"]."/".$config["templates"]["default_header"]);
-			include_once($config["templates"]["directory"]."/".$template);
-			include_once($config["templates"]["directory"]."/".$config["templates"]["default_footer"]);
+			include_once($config["templates"]."/header.php");
+			include_once($config["templates"]."/".$template);
+			include_once($config["templates"]."/footer.php");
 		} else {
-			include_once($config["templates"]["directory"]."/".$template);
+			if ($omit === TRUE) {
+				include_once($template);
+			} else {
+				include_once($config["templates"]."/".$template);
+			}
 		}
 		HG::callHook(__FUNCTION__,HG::HOOK_AFTER,func_get_args());
 	}
@@ -163,13 +172,18 @@ class HG {
 	}
 
 	static function force($code=NULL,$message = NULL) { //Force a specific HTTP response
-		if ($code == "404") header('HTTP/1.0 404 Not Found');
+		if ($code == "404")	header('HTTP/1.0 404 Not Found');
 		if ($code == "401") header('HTTP/1.0 401 Authentication Required');
+
 		if (is_null($message)) {
-			echo "<H1>{$code}</H1><quote>Page not found</quote>";
-		} else {
-			echo "<H1>{$code}</H1><quote>{$message}</quote>";
+			switch($code) {
+				case 401 : $message = "Unauthorized Request"; break;
+				case 404 : $message = "Page not found"; break;
+				default: $message = "Unable to access page";break;
+			}
 		}
+
+		echo "<H1>{$code}</H1><quote>{$message}</quote>";
 
 		die();
 	}
@@ -190,11 +204,15 @@ class HG {
 
 
 	static function controllers_load() { //Load and init controllers
+		global $config;
 		$prefix = "controllers/";
 		$controllers = glob($prefix."*");
 		foreach($controllers as $controller) {
 			$pi = pathinfo($controller);
 			$controller_base = $pi["filename"];
+			if (file_exists($prefix.$controller_base."/config.php")) { //Load config if exists
+				$config[$controller_base] = include_once($prefix.$controller_base."/config.php");
+			}
 			if (file_exists($prefix.$controller_base."/".$controller_base.".php")) {
 				include_once($prefix.$controller_base."/".$controller_base.".php");
 				$controller_name = "control_".$controller_base;
@@ -234,7 +252,7 @@ class HG {
 	static function __callStatic($func,$params) { //Singleton Facade Overload
 		$payload = false;
 		foreach(self::$faces as $faceName=>$face) { //Check Faces
-			if (is_callable(array($face,$func))) {
+			if (is_callable(array($face,$func))) { //DB Facade
 				HG::callHook($func,HG::HOOK_BEFORE,$params);
 				$payload = call_user_func_array(array($face,$func),$params);
 				HG::callHook($func,HG::HOOK_AFTER,$params);
@@ -252,14 +270,12 @@ class HG {
 			}
 		}
 
-		if (isset(self::$faces["poly"])) {
-			if (isset(self::$faces["poly"][$func])) {
-				$g = self::$faces["poly"][$func];
-				HG::callHook($func,HG::HOOK_BEFORE,$params);
-				$payload = call_user_func_array($g,$params);
-				HG::callHook($func,HG::HOOK_AFTER,$params);
-				return $payload;
-			}
+		if (isset(self::$faces["poly"][$func])) {
+			$g = self::$faces["poly"][$func];
+			HG::callHook($func,HG::HOOK_BEFORE,$params);
+			$payload = call_user_func_array($g,$params);
+			HG::callHook($func,HG::HOOK_AFTER,$params);
+			return $payload;
 		}
 
 		echo "Undefined method : {$func}\n";
