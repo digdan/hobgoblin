@@ -172,6 +172,7 @@ class HG {
 	}
 
 	static function force($code=NULL,$message = NULL) { //Force a specific HTTP response
+		HG::callHook(__FUNCTION__,HG::HOOK_BEFORE,func_get_args());
 		if ($code == "404")	header('HTTP/1.0 404 Not Found');
 		if ($code == "401") header('HTTP/1.0 401 Authentication Required');
 
@@ -184,7 +185,7 @@ class HG {
 		}
 
 		echo "<H1>{$code}</H1><quote>{$message}</quote>";
-
+		HG::callHook(__FUNCTION__,HG::HOOK_AFTER,func_get_args());
 		die();
 	}
 
@@ -236,8 +237,6 @@ class HG {
 		if (is_string($match["target"])) {
 			if (strstr($match["target"],"#")) {
 				$match["target"] = explode("#",$match["target"]);
-			} elseif (is_callable($match["target"])) {
-				call_user_func($match["target"],$match["params"]);
 			}
 		}
 		if (is_array($match["target"])) {
@@ -245,6 +244,8 @@ class HG {
 				self::$stem = new $match["target"][0]();
 				call_user_func(array(self::$stem,$match["target"][1]),$match["params"]);
 			}
+		} else {
+			HG::force(404);
 		}
 		HG::callHook(__FUNCTION__,HG::HOOK_AFTER,func_get_args());
 	}
