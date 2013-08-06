@@ -5,10 +5,10 @@
 
 interface CacheBase
 {
-	public function getVar($VarName);
-	public function setVar($VarName,$VarValue,$TimeLimt = Cache::CACHE_FIVE_MINUTES);
+	public function getCache($VarName);
+	public function setCache($VarName,$VarValue,$TimeLimt = Cache::CACHE_FIVE_MINUTES);
 	public function deleteVar($VarName);
-	public function clear();
+	public function clearCache();
 }
 
 /**
@@ -21,7 +21,7 @@ class No_Cache implements CacheBase {
 	 * @param $VarName string
 	 * @return false
 	 */
-	public function getVar($VarName)
+	public function getCache($VarName)
 	{
 		return FALSE;
 	}
@@ -33,7 +33,7 @@ class No_Cache implements CacheBase {
 	 * @param $TimeLimit int the amount of time before it expires (defaults to Cache::CACHE_FIVE_MINUTES)
 	 * @return false
 	 */
-	public function setVar($VarName, $VarValue, $TimeLimit = Cache::CACHE_FIVE_MINUTES)
+	public function setCache($VarName, $VarValue, $TimeLimit = Cache::CACHE_FIVE_MINUTES)
 	{
 		return FALSE;
 	}
@@ -52,7 +52,7 @@ class No_Cache implements CacheBase {
 	 * Dummy method: Returns false for all requests.
 	 * @return false
 	 */
-	public function clear()
+	public function clearCache()
 	{
 		return FALSE;
 	}
@@ -70,7 +70,7 @@ class APC_Cache implements CacheBase {
 	 * @param $VarName string
 	 * @return mixed
 	 */
-	public function getVar($VarName)
+	public function getCache($VarName)
 	{
 		return apc_fetch($VarName);
 	}
@@ -84,7 +84,7 @@ class APC_Cache implements CacheBase {
 	 * @param $TimeLimit int the amount of time before it expires
 	 * @return bool
 	 */
-	public function setVar($VarName,$VarValue,$TimeLimit = Cache::CACHE_FIVE_MINUTES)
+	public function setCache($VarName,$VarValue,$TimeLimit = Cache::CACHE_FIVE_MINUTES)
 	{
 		return apc_store($VarName,$VarValue,$TimeLimit);
 	}
@@ -107,7 +107,7 @@ class APC_Cache implements CacheBase {
 	 * successful and false if it fails.
 	 * @return bool
 	 */
-	public function clear()
+	public function clearCache()
 	{
 		return apc_clear_cache();
 	}
@@ -125,7 +125,7 @@ class eAccelerator_Cache implements CacheBase {
 	 * @param $VarName string
 	 * @return mixed
 	 */
-	public function getVar($VarName)
+	public function getCache($VarName)
 	{
 		$VarValue = eaccelerator_get($VarName);
 		return ($VarValue == NULL) ? false : $VarValue;
@@ -140,7 +140,7 @@ class eAccelerator_Cache implements CacheBase {
 	 * @param $TimeLimit int the amount of time before it expires
 	 * @return bool
 	 */
-	public function setVar($VarName,$VarValue,$TimeLimit = Cache::CACHE_FIVE_MINUTES)
+	public function setCache($VarName,$VarValue,$TimeLimit = Cache::CACHE_FIVE_MINUTES)
 	{
 		return eaccelerator_put($VarName,$VarValue,$TimeLimit);
 	}
@@ -163,7 +163,7 @@ class eAccelerator_Cache implements CacheBase {
 	 * successful and false if it fails.
 	 * @return bool
 	 */
-	public function clear()
+	public function clearCache()
 	{
 		return eaccelerator_clear();
 	}
@@ -181,7 +181,7 @@ class XCache_Cache implements CacheBase {
 	 * @param $VarName string
 	 * @return mixed
 	 */
-	public function getVar($VarName)
+	public function getCache($VarName)
 	{
 		return ( $VarValue = xcache_get($VarName) ) ? $VarValue : false;
 	}
@@ -195,7 +195,7 @@ class XCache_Cache implements CacheBase {
 	 * @param $TimeLimit int the amount of time before it expires
 	 * @return bool
 	 */
-	public function setVar($VarName,$VarValue,$TimeLimit = Cache::CACHE_FIVE_MINUTES)
+	public function setCache($VarName,$VarValue,$TimeLimit = Cache::CACHE_FIVE_MINUTES)
 	{
 		return ( xcache_set($VarName,$VarValue,$TimeLimit) ) ? true : false;
 	}
@@ -218,7 +218,7 @@ class XCache_Cache implements CacheBase {
 	 * successful and false if it fails.
 	 * @return bool
 	 */
-	public function clear()
+	public function clearCache()
 	{
 		for ($i = 0, $c = xcache_count(XC_TYPE_VAR); $i < $c; $i ++) {
 			xcache_clear_cache(XC_TYPE_VAR, $i);
@@ -251,7 +251,7 @@ class File_Cache implements CacheBase {
 	 * @param $VarName string
 	 * @return mixed
 	 */
-	public function getVar($VarName)
+	public function getCache($VarName)
 	{
 		$filename = $this->getFileName($VarName);
 		if (!file_exists($filename)) return false;
@@ -296,7 +296,7 @@ class File_Cache implements CacheBase {
 	 * @param $TimeLimit int the amount of time before it expires
 	 * @return bool
 	 */
-	public function setVar($VarName, $VarValue, $TimeLimt = Cache::CACHE_FIVE_MINUTES)
+	public function setCache($VarName, $VarValue, $TimeLimt = Cache::CACHE_FIVE_MINUTES)
 	{
 		// Opening the file in read/write mode
 		$h = fopen($this->getFileName($VarName),'a+');
@@ -344,7 +344,7 @@ class File_Cache implements CacheBase {
 	 * successful and false if it fails.
 	 * @return bool
 	 */
-	public function clear()
+	public function clearCache()
 	{
 		$handle = opendir($this->cache_folder);
 		while( false !== ($file = readdir($handle)) )
@@ -431,9 +431,9 @@ class Cache
 		throw new Exception('Clone is not allowed.');
 	}
 
-	public function getVar($VarName) { return self::$cache->getVar($VarName); }
-	public function setVar($VarName, $VarValue, $TimeLimt = Cache::CACHE_FIVE_MINUTES) { return self::$cache->setVar($VarName, $VarValue, $TimeLimt); }
-	public function deleteVar($VarName) { return self::$cache->deleteVar($VarName); }
-	public function clear() { return self::$cache->clear(); }
+	public function getCache($VarName) { return self::$cache->getCache($VarName); }
+	public function setCache($VarName, $VarValue, $TimeLimt = Cache::CACHE_FIVE_MINUTES) { return self::$cache->setCache($VarName, $VarValue, $TimeLimt); }
+	public function deleteCache($VarName) { return self::$cache->deleteCache($VarName); }
+	public function clearCache() { return self::$cache->clear(); }
 
 }
