@@ -7,7 +7,7 @@ interface CacheBase
 {
 	public function getCache($VarName);
 	public function setCache($VarName,$VarValue,$TimeLimt = Cache::CACHE_FIVE_MINUTES);
-	public function deleteVar($VarName);
+	public function deleteCache($VarName);
 	public function clearCache();
 }
 
@@ -43,7 +43,7 @@ class No_Cache implements CacheBase {
 	 * @param $VarName string
 	 * @return false
 	 */
-	public function deleteVar($VarName)
+	public function deleteCache($VarName)
 	{
 		return FALSE;
 	}
@@ -96,7 +96,7 @@ class APC_Cache implements CacheBase {
 	 * @param $VarName string
 	 * @return bool
 	 */
-	public function deleteVar($VarName)
+	public function deleteCache($VarName)
 	{
 		return apc_delete($VarName);
 	}
@@ -152,7 +152,7 @@ class eAccelerator_Cache implements CacheBase {
 	 * @param $VarName string
 	 * @return bool
 	 */
-	public function deleteVar($VarName)
+	public function deleteCache($VarName)
 	{
 		return eaccelerator_rm($VarName);
 	}
@@ -207,7 +207,7 @@ class XCache_Cache implements CacheBase {
 	 * @param $VarName string
 	 * @return bool
 	 */
-	public function deleteVar($VarName)
+	public function deleteCache($VarName)
 	{
 		return ( xcache_unset($VarName) ) ? true : false;
 	}
@@ -327,7 +327,7 @@ class File_Cache implements CacheBase {
 	 * @param $VarName string
 	 * @return bool
 	 */
-	public function deleteVar($VarName)
+	public function deleteCache($VarName)
 	{
 		$filename = $this->getFileName($VarName);
 		if (file_exists($filename))
