@@ -244,6 +244,8 @@ class HG {
 				self::$stem = new $match["target"][0]();
 				call_user_func(array(self::$stem,$match["target"][1]),$match["params"]);
 			}
+		} elseif (is_object($match["target"]) and $match["target"] instanceof Closure) {
+			call_user_func($match["target"],$match["params"]);
 		} else {
 			HG::force(404);
 		}
