@@ -26,6 +26,7 @@ class HG {
 		include_once("util.php"); //Collection of utility functions
 		include_once("validate.php"); //Request validation library
 		include_once("rb.php"); //Readbean ORM
+		include_once("hash.php"); //Hash/PW Lib
 		include_once("request.php");
 		include_once("cache.php"); //Cache Subsystem
 		include_once("session.php"); //Session Handler
