@@ -26,7 +26,7 @@ class HG {
 		include_once("util.php"); //Collection of utility functions
 		include_once("validate.php"); //Request validation library
 		include_once("rb.php"); //Readbean ORM
-		include_once("hash.php"); //Hash/PW Lib
+		include_once("hash.php"); //Password/encryption Lib
 		include_once("request.php");
 		include_once("cache.php"); //Cache Subsystem
 		include_once("session.php"); //Session Handler
@@ -191,6 +191,7 @@ class HG {
 	}
 
 	static function chain() { //Starts a chain ( todo : omit )
+		echo "CHAIN CALLED";
 		return new static;
 	}
 
@@ -254,7 +255,7 @@ class HG {
 	}
 
 	static function __callStatic($func,$params) { //Singleton Facade Overload
-		$payload = false;
+		$declare = NULL;
 		foreach(self::$faces as $faceName=>$face) { //Check Faces
 			if (is_callable(array($face,$func))) { //DB Facade
 				HG::callHook($func,HG::HOOK_BEFORE,$params);
@@ -265,7 +266,7 @@ class HG {
 		}
 
 		foreach(self::$containers as $containerName=>$container) {
-			$declare = $params[0];
+			if (isset($params[0])) $declare = $params[0];
 			if ($func == $containerName) {
 				HG::callHook($containerName,HG::HOOK_BEFORE,func_get_args());
 				if ( ! is_null( $declare ) ) self::$containers[$containerName][] = $declare;
