@@ -30,28 +30,33 @@ class Request {
 		return (strtolower(trim(self::$method)) == trim(strtolower($test)));
 	}
 
-	static function r($name=NULL) {
+	static function r($name=NULL,$filter=NULL) {
 		if (! is_null($name) ) {
 			if (isset($_REQUEST[$name])) {
-				return $_REQUEST[$name];
+				$data =  $_REQUEST[$name];
 			} else {
 				return false;
 			}
 		} else {
 			return false;
 		}
+
+		if ( ! is_null($filter)) {
+			if (strstr($filter,'html')) {
+				$data = self::filterHTML( $data );
+			}
+			if (strstr($filter,'xss')) {
+				$data = self::filterXSS( $data );
+			}		
+		}
+
+		return $data;
 	}
 
-	static function populate( $obj, array $params, $filter='none') { // Filter will filter the results accordingly. Can be formmated as list : "html,xss"
+	static function populate( $obj, array $params, $filter=NULL) { // Filter will filter the results accordingly. Can be formmated as list : "html,xss"
 		foreach($params as $k=>$v) {
 			if (is_numeric($k)) { //Non-associative, use matching request variable
-				$data = self::r($v);
-				if (strstr($filter,'html')) {
-					$data = self::filterHTML(self::r($v));
-				}
-				if (strstr($filter,'xss')) {
-					$data = self::filterXSS(self::r($v));
-				}
+				$data = self::r($v,$filter);				
 				$obj->$v = $data;
 			} else {
 				if (property_exists($obj,$k)) {
@@ -96,11 +101,6 @@ class Request {
 		}
 		while ($old_data !== $data);
 		return $data;
-	}
-
-	static function md5($name=NULL,$cat=NULL) {
-		if ( is_null($cat)) $cat = "";
-		return md5($cat.self::r($name));
 	}
 
 	static function json($ok = false, $values = NULL) {
