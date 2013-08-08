@@ -1,5 +1,4 @@
 <?php
-//TODO - Let validation interact with controllers/dbos directly, as to let the controller handle error responses
 class Validate {
 	static $errors;
 	var $rules;
