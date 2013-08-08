@@ -46,6 +46,8 @@ class HG {
 
 		self::initScope(); //Start new scope
 		self::controllers_load(); //Bootstrap controllers
+		
+		return new static;
 	}
 
 	//*****************************[ Facade System
