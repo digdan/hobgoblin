@@ -30,8 +30,10 @@ Flavors included
 
 Example of Use in controller : 
 
-> HG::map( 'GET /my-account/[i:id]', function($params) {
->   HG::active('my-account')->
->   v('account',R::load('accounts',$params['id']))->
->   display('my-account.php');
-> }
+```
+HG::map( 'GET /my-account/[i:id]', function($params) {
+ HG::active('my-account')->
+ v('account',R::load('accounts',$params['id']))->
+ display('my-account.php');
+}
+```
