@@ -263,6 +263,7 @@ class HG {
 				HG::callHook($func,HG::HOOK_BEFORE,$params);
 				$payload = call_user_func_array(array($face,$func),$params);
 				HG::callHook($func,HG::HOOK_AFTER,$params);
+				if (is_null($payload)) return new static
 				return $payload;
 			}
 		}
