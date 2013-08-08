@@ -1,4 +1,5 @@
 <?php
+//TODO - Let validation interact with controllers/dbos directly, as to let the controller handle error responses
 class Validate {
 	static $errors;
 	var $rules;
@@ -12,18 +13,24 @@ class Validate {
     }
 
     static function is_valid($name,$rules) {
-    	if ( ($name == "auth") and ($rules === TRUE) ) { //Check for authentication
+		if ( ($name == "auth") and ($rules === TRUE) ) { //Check for authentication
     		if ( ! Session::user() ) {
     			self::error("auth","auth");
 			}
 		}
         // Check if compulsory field has not been filled
         if (isset($rules['required']) && ($rules['required'] === true) && (trim(Request::r($name)) == '')) {
-            self::$errors[$name] = self::error($name, 'required');
+			if (isset($rules['required_error'])) {
+				self::$errors[$name] = Request::json( false, array("error"=>$rules['required_error'],"errors"=>array($name=>$rules['required_error'])));
+			} else {
+            	self::$errors[$name] = self::error($name, 'required');
+			}
         }
+
         if (Request::r($name)) {
             // Field not set, and it's not compulsory
         }
+
         $value = Request::r($name);
         // If a regular expression is specified, check using that
         if (isset($rules['regex']) && !preg_match($rules['regex'], $value)) {
@@ -36,9 +43,12 @@ class Validate {
         	self::$errors[$name] = self::error($name,'min');
 		}
         // If there is a mustmatch rule, check using that
-        if (isset($rules['mustmatch']) && $value != Request::r($rules['mustmatch'])) {
-            self::$errors[$name] = self::error($name, 'mustmatch');
+        if (isset($rules['mustMatch']) && $value != Request::r($rules['mustMatch'])) {
+            self::$errors[$name] = self::error($name, 'mustMatch');
         }
+		if (isset($rules['emailFree'])) {
+			if ( ! self::email_free($value)) self::$errors[$name] = self::error($name, 'emailFree');
+		}
         // If there is a calback rule, run that function
         if (isset($rules['callback'])) {
             $callback = $rules['callback'];
@@ -70,7 +80,7 @@ class Validate {
     			$errorMsg = sprintf( _("%s is invalid") ,$name);
     		break;
 
-    		case "mustmatch" :
+    		case "mustMatch" :
     			$errorMsg = sprintf( _("%s does not match") ,$name);
     		break;
 
@@ -86,6 +96,10 @@ class Validate {
     		case "auth" :
     			$errorMsg = _("Authentication required");
     		break;
+
+			case "emailFree" :
+				$errorMsg = _("Email already used");
+			break;
 
     		case "callback" :
     			//$errorMsg = "{$name} is invalid";
@@ -121,12 +135,13 @@ class Validate {
 
 	//Use as a validator when registering
 	static function email_free($email,$field_name='email') {
-			$email = R::findOne('users',' email = ? ',array($email));
-			if ($email) {
-				Request::json( false , array("error"=>_("Email address is taken")));
-				return false;
-			}
-			return true;
+		global $config;
+		$email = R::findOne($config["auth"]["user_table"],' email = ? ',array($email));
+		if ($email) {
+			Request::json( false , array("error"=>_("Email address is taken")));
+			return false;
+		}
+		return true;
 	}
 
 }
