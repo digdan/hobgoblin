@@ -38,7 +38,7 @@ map( 'GET /my-account/[i:id]', function($params) {
   HG::active('my-account')->
   v('account',R::load('accounts',$params['id']))->
   display('my-account.php');
-}
-HG::execute( HG::match() );
+})->
+execute( HG::match() );
 ?>
 ```
