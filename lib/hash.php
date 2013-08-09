@@ -1,6 +1,5 @@
 <?php
-class Hash {
-
+class H {
 	public static function base62 ($number, $from_base = 10, $to_base=62) {
 		if($to_base > 62 || $to_base < 2) {
 			trigger_error("Invalid base (".$to_base."). Max base can be 62. Min base can be 2.", E_USER_ERROR);
@@ -99,7 +98,8 @@ class Hash {
 	}
 
 	public static function verifyPassword ($pw, $hash) {
-		$salt = substr($hash, strlen($hash) - 22, strlen($hash));
+		$salt = substr($hash, strlen($hash) - 22, 22);
+		$g = self::hashPassword($pw,$salt);
 		return $hash == self::hashPassword($pw,$salt);
 	}
 
