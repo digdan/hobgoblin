@@ -2,7 +2,7 @@
 return array(
 'db'=>'../content.sqlite',
 'users'=>array(
-'dan'=>'r0tation',
+'username'=>'password',
 ),
 'post'=>'/content/post',
 'realm'=>'Content Editor',
